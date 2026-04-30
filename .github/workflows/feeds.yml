@@ -1,0 +1,58 @@
+# .github/workflows/feeds.yml
+#
+# Runs fetch_feeds.py on a cron schedule and commits the resulting
+# feed files back to the repository.
+#
+
+name: Download RSS Feeds
+
+on:
+  # Manual trigger from the GitHub Actions UI
+  workflow_dispatch:
+
+  # Scheduled run – every 6 hours (UTC)
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  fetch-feeds:
+    runs-on: ubuntu-latest
+
+    # Grant write permissions so the workflow can push changes
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Check out the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # 2. Set up Python (use a recent version)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. Run the feed-fetching script
+      - name: Fetch feeds
+        run: python fetch_feeds.py
+
+      # 5. Commit and push any new/changed feed files
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update RSS feeds [skip ci]"
+            git push
+          fi

@@ -1,131 +1,103 @@
 #!/usr/bin/env python3
 """
-fetch_feeds.py – Download RSS/Atom feeds and save each one as a file
-inside a 'feeds' directory.
+fetch_feeds.py
+
+Reads `feed_urls.json`, skips URLs listed in `invalid_urls.json`,
+downloads each feed and saves it in the `feeds/` directory.
+On failure, records the error in `invalid_urls.json` so the URL is
+never fetched again.
 """
 
+import json
 import os
 import re
 import sys
 import time
-import requests
 from urllib.parse import urlparse
 
-# ---------------------------------------------------------------------------
-# List of feed URLs (the same as in the question)
-# ---------------------------------------------------------------------------
-FEED_URLS = [
-    "https://ir.thomsonreuters.com/rss/news-releases.xml",
-    "https://www.reutersagency.com/feed/?best-topics=topNews",
-    "https://apnews.com/hub/ap-top-news/rss",
-    "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "http://feeds.bbci.co.uk/news/rss.xml",
-    "http://news.bbc.co.uk/rss/feeds.opml",
-    "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "www.nytimes.com/rss",
-    "https://feeds.npr.org/1001/rss.xml",
-    "https://feeds.npr.org/1128/rss.xml",
-    "https://feeds.npr.org/1017/rss.xml",
-    "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
-    "www.wsj.com",
-    "www.washingtonpost.com",
-    "http://rss.cnn.com/rss/edition_world.rss",
-    "http://rss.cnn.com/rss/cnn_us.rss",
-    "edition.cnn.com/services/rss/",
-    "https://www.pbs.org/newshour/feeds/rss/headlines",
-    "https://www.pbs.org/newshour/feeds/rss/politics",
-    "www.foxnews.com",
-    "http://feeds.nbcnews.com/feeds/topstories",
-    "https://www.cbsnews.com/latest/rss/main",
-    "www.msnbc.com",
-    "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
-    "www.aljazeera.com",
-    "https://www.coindesk.com/arc/outboundfeeds/rss/",
-    "https://feeds.feedburner.com/CoinDesk",
-    "https://cointelegraph.com/rss-feeds",
-    "https://cointelegraph.com/rss",
-    "https://decrypt.co/feed",
-    "https://news.bitcoin.com/feed/",
-    "https://www.reuters.com/finance/cryptocurrencies",
-    "https://www.forbes.com/rss/",
-]
+import requests
 
-# ---------------------------------------------------------------------------
-# Helper: build a safe filename from a URL
-# ---------------------------------------------------------------------------
+FEEDS_DIR = "feeds"
+FEED_URLS_FILE = "feed_urls.json"
+INVALID_URLS_FILE = "invalid_urls.json"
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; RSS-Downloader/1.0)"}
+
+
 def url_to_filename(url: str) -> str:
-    """
-    Convert a URL into a filesystem-safe filename.
-    - Strip the scheme (http://, https://)
-    - Remove any fragment or query string
-    - Replace characters that are illegal on most filesystems
-    - Ensure the name ends with .xml (or .html if no extension detected)
-    """
-    # Ensure the URL has a scheme; if not, default to https
+    """Convert a URL into a safe filesystem filename."""
     if not url.startswith(("http://", "https://")):
         url = "https://" + url
-
     parsed = urlparse(url)
-
-    # Build a base name from the host + path (skip empty parts)
     parts = [parsed.netloc] + [p for p in parsed.path.split("/") if p]
-    if parts:
-        base = "_".join(parts)
-    else:
-        base = "index"
-
-    # Remove characters that are not alphanumeric, underscore, hyphen, or dot
+    if not parts:
+        parts = ["index"]
+    base = "_".join(parts)
     base = re.sub(r"[^\w\-.]", "_", base)
-
-    # If the filename doesn't have a recognised extension, supply one
     if not base.endswith((".xml", ".rss", ".html", ".opml")):
         base += ".xml"
-
-    # Prevent extremely long filenames (filesystem limits)
-    if len(base) > 200:
-        base = base[:200]
-
-    return base
+    return base[:200]
 
 
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
+def load_json(path):
+    """Return parsed JSON data, or an empty dict/list if the file doesn't exist."""
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {} if path == INVALID_URLS_FILE else []
+
+
+def save_json(path, data):
+    """Write JSON data to a file."""
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+
+
 def main():
-    # Create the feeds directory (does nothing if it already exists)
-    feeds_dir = "feeds"
-    os.makedirs(feeds_dir, exist_ok=True)
+    feed_urls = load_json(FEED_URLS_FILE)
+    if not feed_urls:
+        print(f"No URLs found in {FEED_URLS_FILE}. Exiting.", file=sys.stderr)
+        sys.exit(1)
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; RSS-Feed-Downloader/1.0)"
-    }
+    invalid = load_json(INVALID_URLS_FILE)
+    print(f"Loaded {len(invalid)} previously invalid URL(s).")
 
-    for i, url in enumerate(FEED_URLS, start=1):
+    
+    to_fetch = [url for url in feed_urls if url not in invalid]
+    print(f"Fetching {len(to_fetch)} of {len(feed_urls)} URLs ({len(invalid)} skipped).")
+
+    os.makedirs(FEEDS_DIR, exist_ok=True)
+
+    failed_this_run = {}
+    success_count = 0
+
+    for idx, url in enumerate(to_fetch, start=1):
         filename = url_to_filename(url)
-        filepath = os.path.join(feeds_dir, filename)
+        filepath = os.path.join(FEEDS_DIR, filename)
 
-        print(f"[{i:02d}/{len(FEED_URLS)}] {url}  ->  {filepath}")
+        print(f"[{idx:02d}/{len(to_fetch)}] {url}  →  {filepath}")
 
         try:
-            # Some servers require a short delay between requests
-            if i > 1:
-                time.sleep(1)
-
-            resp = requests.get(url, headers=headers, timeout=30)
+            if idx > 1:
+                time.sleep(1)  
+            resp = requests.get(url, headers=HEADERS, timeout=30)
             resp.raise_for_status()
-
-            # Write the raw content as-is (the feed itself)
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(resp.text)
+            success_count += 1
+        except Exception as exc:
+            error_msg = str(exc)
+            print(f"    ERROR: {error_msg}", file=sys.stderr)
+            failed_this_run[url] = error_msg
 
-        except requests.exceptions.RequestException as exc:
-            print(f"    ERROR: {exc}", file=sys.stderr)
-            # Write a minimal error file so the workflow still sees output
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(f"<!-- Error fetching {url}: {exc} -->\n")
-        except OSError as exc:
-            print(f"    FILE ERROR: {exc}", file=sys.stderr)
+
+    if failed_this_run:
+        invalid.update(failed_this_run)
+        save_json(INVALID_URLS_FILE, invalid)
+        print(f"Recorded {len(failed_this_run)} new invalid URL(s) in {INVALID_URLS_FILE}")
+
+    print(f"\nDone. Success: {success_count}, failures this run: {len(failed_this_run)}")
 
 
 if __name__ == "__main__":

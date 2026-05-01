@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 01 May 2026 20:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 21:01:39 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot]]></title>
+      <link>https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/555258f99747bbaa4a55c12b1558ddd510986331-1000x667.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">91180f77-e8bb-478a-a417-35b4086fffc6</guid>
+      <pubDate>Fri, 01 May 2026 20:59:09 +0000</pubDate>
+      <description><![CDATA[AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy]]></title>
       <link>https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy</link>
@@ -377,23 +392,6 @@
       <category domain="tag"><![CDATA[Media Network Interview]]></category>
       <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[CoinDesk 20 performance update: Aptos (APT) gains 4.4% as nearly all assets rise ]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/04/30/coindesk-20-performance-update-aptos-apt-gains-4-4-as-nearly-all-assets-rise</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f750fcd9acbfdffec3718476a1ed2904391f6c57-640x480.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">23eaa776-e94b-43d5-a511-ee6268fe1c9d</guid>
-      <pubDate>Thu, 30 Apr 2026 13:24:57 +0000</pubDate>
-      <description><![CDATA[Internet Computer (ICP), up 2.4% from Wednesday, joined Aptos (APT) as a top performer.]]></description>
-      <dc:creator>CoinDesk Indices</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk 20]]></category>
-      <category domain="tag"><![CDATA[charts]]></category>
-      <category domain="tag"><![CDATA[Prices]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

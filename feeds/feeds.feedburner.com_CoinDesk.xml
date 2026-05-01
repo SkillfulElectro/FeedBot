@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 01 May 2026 12:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 13:33:58 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,38 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Institutional demand to drive bitcoin market cap to $16 trillion by 2030: Ark Invest]]></title>
+      <link>https://www.coindesk.com/markets/2026/05/01/institutional-demand-to-drive-bitcoin-market-cap-to-usd16-trillion-by-2030-ark-invest</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ad160b63-86bf-4bfc-9d0c-be01db21cce2</guid>
+      <pubDate>Fri, 01 May 2026 13:31:53 +0000</pubDate>
+      <description><![CDATA[The figure implies a sharp increase in the bitcoin price.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[CoinDesk 20 performance update: Bittensor (TAO) gains 5.5%, leading index higher]]></title>
+      <link>https://www.coindesk.com/coindesk-indices/2026/05/01/coindesk-20-performance-update-bittensor-tao-gains-5-5-leading-index-higher</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/628e1dddfca65dba520cc55ccd2a2f8f7d0a5659-640x480.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6cd8785e-32f1-4cb9-8e69-45a3c1e44bb6</guid>
+      <pubDate>Fri, 01 May 2026 13:21:26 +0000</pubDate>
+      <description><![CDATA[Bitcoin (BTC), up 1.9% from Thursday, was also a top performer.]]></description>
+      <dc:creator>CoinDesk Indices</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
+      <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
+      <category domain="tag"><![CDATA[CoinDesk 20]]></category>
+      <category domain="tag"><![CDATA[charts]]></category>
+      <category domain="tag"><![CDATA[Prices]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin bounces as big tech earnings fuel optimism; short-term pressures remain]]></title>
       <link>https://www.coindesk.com/daybook-us/2026/05/01/bitcoin-bounces-as-big-tech-earnings-fuel-optimism-short-term-pressures-remain</link>
@@ -360,39 +392,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Wasabi Protocol drained of $4.5 million in apparent admin key compromise]]></title>
-      <link>https://www.coindesk.com/tech/2026/04/30/wasabi-protocol-drained-for-usd4-5-million-in-apparent-admin-key-compromise</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">352e1873-297c-4da3-aa08-23365abda7a7</guid>
-      <pubDate>Thu, 30 Apr 2026 10:37:47 +0000</pubDate>
-      <description><![CDATA[The exploit used a playbook similar to Drift's $285 million breach earlier this month: a compromised deployer key with no timelock or multisig that drained funds.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Hack]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[XO Market bets on user-generated prediction markets to rival Polymarket and Kalshi]]></title>
-      <link>https://www.coindesk.com/business/2026/04/30/xo-market-bets-on-user-generated-prediction-markets-to-rival-polymarket-and-kalshi</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e829cd7e064360275a0c66d994ee64c31e0c370a-6528x4896.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">76dfb2cb-e01b-4f2f-aa38-0931d98730a7</guid>
-      <pubDate>Thu, 30 Apr 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Backed by 20VC, Picus Capital and Coinbase Ventures; XO lets users create and profit from their own prediction markets, and plans to rollout a new vault product to democratize market making.]]></description>
-      <dc:creator>Will Canny</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Prediction Markets]]></category>
-      <category domain="tag"><![CDATA[Fundraising]]></category>
-      <category domain="tag"><![CDATA[Kalshi]]></category>
-      <category domain="tag"><![CDATA[Polymarket]]></category>
-      <category domain="tag"><![CDATA[Exclusive ]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 01 May 2026 17:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 18:17:51 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy]]></title>
+      <link>https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/bc173559f15091e27a52c22dedbaade8c86f0509-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">299c60f0-6a3e-4e4c-acba-e20a92705c06</guid>
+      <pubDate>Fri, 01 May 2026 18:16:40 +0000</pubDate>
+      <description><![CDATA[The latest transaction follows a similar March deal in which the foundation sold 5,000 ETH to BitMine, raising roughly $10.2 million.]]></description>
+      <dc:creator>Margaux Nijkerk</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Ethereum News]]></category>
+      <category domain="tag"><![CDATA[DeFi]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain]]></title>
       <link>https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain</link>
@@ -379,20 +394,6 @@
       <category domain="tag"><![CDATA[CoinDesk 20]]></category>
       <category domain="tag"><![CDATA[charts]]></category>
       <category domain="tag"><![CDATA[Prices]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[The long con: How North Korean spies spent months in-person to drain $285 million from Drift]]></title>
-      <link>https://www.coindesk.com/business/2026/04/30/north-korean-hackers-are-moving-faster-they-account-for-76-of-crypto-exploits-this-year-trmlabs</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c4eeafda1824df25340c082474d4ede7e5f31979-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">2b25dec0-a43d-4f61-9d00-9022f4978c90</guid>
-      <pubDate>Thu, 30 Apr 2026 12:58:16 +0000</pubDate>
-      <description><![CDATA[The security intelligence research firm said North Korean-state-backed hackers account for 76% of all crypto scam and hack losses in 2026 and have stolen $6 billion since 2017.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

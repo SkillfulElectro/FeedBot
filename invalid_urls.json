@@ -1,5 +1,6 @@
 {
   "https://www.reutersagency.com/feed/?best-topics=top-news": "404 Client Error: Not Found for url: https://reutersagency.com/feed/?best-topics=top-news",
   "https://rss.cnn.com/rss/edition.rss": "HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/edition.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
-  "https://www.forbes.com/forbes/feed/": "404 Client Error: Not Found for url: https://www.forbes.com/forbes/feed/"
+  "https://www.forbes.com/forbes/feed/": "404 Client Error: Not Found for url: https://www.forbes.com/forbes/feed/",
+  "https://www.isna.ir/rss": "HTTPSConnectionPool(host='www.isna.ir', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.isna.ir', port=443): Failed to resolve 'www.isna.ir' ([Errno -3] Temporary failure in name resolution)\"))"
 }

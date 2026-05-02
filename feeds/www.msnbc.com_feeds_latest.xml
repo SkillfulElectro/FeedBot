@@ -550,27 +550,6 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 <div class="wp-block-template-part">
 <div id="msnow-announcement" class="wp-block-msnbc-announcement" style="background-color: #e91717;">
 </div>
-<div id="mps-getad-topbanner-1" class="mps-wrapper msnow-ad-topbanner" data-mps-fill-slot="topbanner"></div>
-<script>
-(function() {
-	function tryCloneAd() {
-		if ( typeof mps !== 'undefined' &&
-			typeof mps.cloneAd === 'function' &&
-			mps._ext &&
-			mps._ext.loaded ) {
-			mps.cloneAd( '#mps-getad-topbanner-1', 'topbanner' );
-		} else {
-			setTimeout( tryCloneAd, 100 );
-		}
-	}
-
-	if ( document.readyState === 'loading' ) {
-		document.addEventListener( 'DOMContentLoaded', tryCloneAd );
-	} else {
-		tryCloneAd();
-	}
-})();
-</script>
 
 
 
@@ -1005,7 +984,28 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 
 
 			<div style="padding-right:0;padding-left:0;" class="entry-content alignfull ends-with-logo wp-block-post-content has-fs-1125-font-size has-global-padding is-layout-constrained wp-container-core-post-content-is-layout-4feab9db wp-block-post-content-is-layout-constrained"><p>For much of the year, <a href="https://www.ms.now/donald-trump" target="_blank">Donald Trump</a> had reason to be pleased with national and battleground state polling. Four years ago, surveys showed the Republican struggling badly ahead of his eventual defeat. <a href="https://www.ms.now/2024-presidential-election" target="_blank">In 2024</a>, however, the data showed the former president consistently ahead.</p>
-<p>That is, until it didn’t.</p>
+<p>That is, until it didn’t.</p><div id="mps-getad-boxinline-1" class="mps-wrapper msnow-ad-boxinline" data-mps-fill-slot="boxinline"></div>
+<script>
+(function() {
+	function tryCloneAd() {
+		if ( typeof mps !== 'undefined' &&
+			typeof mps.cloneAd === 'function' &&
+			mps._ext &&
+			mps._ext.loaded ) {
+			mps.cloneAd( '#mps-getad-boxinline-1', 'boxinline' );
+		} else {
+			setTimeout( tryCloneAd, 100 );
+		}
+	}
+
+	if ( document.readyState === 'loading' ) {
+		document.addEventListener( 'DOMContentLoaded', tryCloneAd );
+	} else {
+		tryCloneAd();
+	}
+})();
+</script>
+
 <p>After incumbent President Joe Biden ended his re-election campaign and Vice President Kamala Harris’ candidacy gave Democrats a much-needed boost, public opinion research showed Trump’s advantage start to evaporate — both in head-to-head <a href="https://www.nytimes.com/interactive/2024/us/elections/polls-president.html" target="_blank">matchups</a> and on <a href="https://www.washingtonpost.com/politics/2024/08/14/harris-trump-biden-polling-economy-immigration/" target="_blank">key issues</a>.</p>
 <p>The GOP candidate and his political operation haven’t exactly handled the shift in a healthy way. Two weeks ago, for example, Team Trump embraced a “<a href="https://x.com/AndrewFeinberg/status/1820153881071886689" target="_blank">skewed polls</a>” message reminiscent of 2012. On his social media platform, the former president also tweaked his messaging, abandoning missives about polls, and instead touting what he described as <a href="https://x.com/TrumpDailyPosts/status/1822782435702308938" target="_blank">“real” polls</a> that told him what he wanted to hear.</p>
 <p>But it was his running mate, Republican Sen. JD Vance of Ohio, who took matters in a deeply weird direction. HuffPost <a href="https://www.huffpost.com/entry/jd-vance-fake-polls-trump-harris-election_n_66c22747e4b00547468b7864" target="_blank">reported</a>:</p>
@@ -1058,7 +1058,28 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 		
 </section>
 
-<p>Vance added, “If you talk to insiders in the Kamala Harris campaign, they are very worried about where they are.”</p>
+<p>Vance added, “If you talk to insiders in the Kamala Harris campaign, they are very worried about where they are.”</p><div id="mps-getad-boxinline-2" class="mps-wrapper msnow-ad-boxinline" data-mps-fill-slot="boxinline"></div>
+<script>
+(function() {
+	function tryCloneAd() {
+		if ( typeof mps !== 'undefined' &&
+			typeof mps.cloneAd === 'function' &&
+			mps._ext &&
+			mps._ext.loaded ) {
+			mps.cloneAd( '#mps-getad-boxinline-2', 'boxinline' );
+		} else {
+			setTimeout( tryCloneAd, 100 );
+		}
+	}
+
+	if ( document.readyState === 'loading' ) {
+		document.addEventListener( 'DOMContentLoaded', tryCloneAd );
+	} else {
+		tryCloneAd();
+	}
+})();
+</script>
+
 
 <figure class="wp-block-embed is-type-rich is-provider-oembed"><blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">JD Vance: &quot;The media uses fake polls to drive down Republican turnout and to create dissension and conflict with Republican voters.&quot; <a href="https://t.co/2ELn6LBQ1z">pic.twitter.com/2ELn6LBQ1z</a></p>&mdash; Aaron Rupar (@atrupar) <a href="https://twitter.com/atrupar/status/1825169452884688938?ref_src=twsrc%5Etfw">August 18, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></figure>
 
@@ -1188,39 +1209,7 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 
 		
 		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis: 310px">
-			<div id="taboola-right-rail-thumbnails---bento"></div>
-<script type="text/javascript">
-	window._taboola = window._taboola || []; _taboola.push(
-		{
-			mode: 'thumbnails-rr',
-			container: 'taboola-right-rail-thumbnails---bento',
-			placement: 'Right Rail Thumbnails - Bento',
-			target_type: 'mix'
-		}
-	);
-</script>
-<div id="mps-getad-boxflex-1" class="mps-wrapper msnow-ad-boxflex" data-mps-fill-slot="boxflex"></div>
-<script>
-(function() {
-	function tryCloneAd() {
-		if ( typeof mps !== 'undefined' &&
-			typeof mps.cloneAd === 'function' &&
-			mps._ext &&
-			mps._ext.loaded ) {
-			mps.cloneAd( '#mps-getad-boxflex-1', 'boxflex' );
-		} else {
-			setTimeout( tryCloneAd, 100 );
-		}
-	}
-
-	if ( document.readyState === 'loading' ) {
-		document.addEventListener( 'DOMContentLoaded', tryCloneAd );
-	} else {
-		tryCloneAd();
-	}
-})();
-</script>
-
+			
 		</div>
 		
 	</div>
@@ -1230,20 +1219,20 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-fff56076 wp-block-group-is-layout-constrained">
-	<div id="taboola-below-article---taboola-feed"></div>
+	
+
+	<div id="taboola-mobile-below-article---taboola-feed"></div>
 <script type="text/javascript">
 	window._taboola = window._taboola || []; _taboola.push(
 		{
 			mode: 'thumbnails-feed-2x1',
-			container: 'taboola-below-article---taboola-feed',
-			placement: 'Below Article - Taboola Feed',
+			container: 'taboola-mobile-below-article---taboola-feed',
+			placement: 'Mobile Below Article - Taboola Feed',
 			target_type: 'mix'
 		}
 	);
 </script>
 
-
-	
 </div>
 
 
@@ -1399,7 +1388,7 @@ wp.jpI18nLoader.state = {"baseUrl":"https://www.ms.now/wp-content/languages/","l
 <script src="https://www.ms.now/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
 <script src="https://www.ms.now/wp-includes/js/dist/url.min.js?ver=9e178c9516d1222dc834" id="wp-url-js"></script>
 <script id="jetpack-instant-search-js-before">
-var JetpackInstantSearchOptions={"overlayOptions":{"colorTheme":"light","enableInfScroll":true,"enableFilteringOpensOverlay":true,"enablePostDate":true,"enableProductPrice":true,"enableSort":true,"highlightColor":"#FFC","overlayTrigger":"submit","resultFormat":"expanded","showPoweredBy":true,"defaultSort":"relevance","excludedPostTypes":[]},"homeUrl":"https://www.ms.now","locale":"en-US","postsPerPage":10,"siteId":245221967,"postTypes":{"post":{"singular_name":"Article","name":"Articles"},"page":{"singular_name":"Page","name":"Pages"},"attachment":{"singular_name":"Media","name":"Media"},"liveblog":{"singular_name":"Liveblog","name":"Liveblogs"},"video":{"singular_name":"Video","name":"Videos"},"rkv-people":{"singular_name":"Person","name":"People"}},"webpackPublicPath":"https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/jetpack_vendor/automattic/jetpack-search/build/instant-search/","isPhotonEnabled":false,"isFreePlan":false,"apiRoot":"https://www.ms.now/wp-json/","apiNonce":"b0c191b4d1","isPrivateSite":false,"isWpcom":false,"hasOverlayWidgets":true,"widgets":[{"filters":[{"name":"Post Types","type":"post_type","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"post_type_0"},{"name":"Election Cycles","type":"taxonomy","taxonomy":"election_cycle","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_1"},{"name":"Election States","type":"taxonomy","taxonomy":"election_state","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_2"},{"name":"Election Offices","type":"taxonomy","taxonomy":"election_office","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_3"},{"name":"Topics","type":"taxonomy","taxonomy":"category","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_4"},{"name":"Tags","type":"taxonomy","taxonomy":"post_tag","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_5"},{"name":"Year","type":"date_histogram","count":5,"field":"post_date","interval":"year","widget_id":"jetpack-search-filters-1","filter_id":"date_histogram_6"}],"widget_id":"jetpack-search-filters-1"}],"widgetsOutsideOverlay":[],"hasNonSearchWidgets":false,"preventTrackingCookiesReset":false,"disableTracking":false};
+var JetpackInstantSearchOptions={"overlayOptions":{"colorTheme":"light","enableInfScroll":true,"enableFilteringOpensOverlay":true,"enablePostDate":true,"enableProductPrice":true,"enableSort":true,"highlightColor":"#FFC","overlayTrigger":"submit","resultFormat":"expanded","showPoweredBy":true,"defaultSort":"relevance","excludedPostTypes":[]},"homeUrl":"https://www.ms.now","locale":"en-US","postsPerPage":10,"siteId":245221967,"postTypes":{"post":{"singular_name":"Article","name":"Articles"},"page":{"singular_name":"Page","name":"Pages"},"attachment":{"singular_name":"Media","name":"Media"},"liveblog":{"singular_name":"Liveblog","name":"Liveblogs"},"video":{"singular_name":"Video","name":"Videos"},"rkv-people":{"singular_name":"Person","name":"People"}},"webpackPublicPath":"https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/jetpack_vendor/automattic/jetpack-search/build/instant-search/","isPhotonEnabled":false,"isFreePlan":false,"apiRoot":"https://www.ms.now/wp-json/","apiNonce":"5f505c4f50","isPrivateSite":false,"isWpcom":false,"hasOverlayWidgets":true,"widgets":[{"filters":[{"name":"Post Types","type":"post_type","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"post_type_0"},{"name":"Election Cycles","type":"taxonomy","taxonomy":"election_cycle","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_1"},{"name":"Election States","type":"taxonomy","taxonomy":"election_state","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_2"},{"name":"Election Offices","type":"taxonomy","taxonomy":"election_office","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_3"},{"name":"Topics","type":"taxonomy","taxonomy":"category","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_4"},{"name":"Tags","type":"taxonomy","taxonomy":"post_tag","count":5,"widget_id":"jetpack-search-filters-1","filter_id":"taxonomy_5"},{"name":"Year","type":"date_histogram","count":5,"field":"post_date","interval":"year","widget_id":"jetpack-search-filters-1","filter_id":"date_histogram_6"}],"widget_id":"jetpack-search-filters-1"}],"widgetsOutsideOverlay":[],"hasNonSearchWidgets":false,"preventTrackingCookiesReset":false,"disableTracking":false};
 //# sourceURL=jetpack-instant-search-js-before
 </script>
 <script src="https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.js?minify=false&amp;ver=904682e550fefbe1827b" id="jetpack-instant-search-js"></script>

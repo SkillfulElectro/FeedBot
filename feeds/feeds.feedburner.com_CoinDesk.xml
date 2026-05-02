@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 02 May 2026 06:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:51:29 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record]]></title>
+      <link>https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">411ef8ad-b373-4642-b3e0-00540caf6ea2</guid>
+      <pubDate>Sat, 02 May 2026 06:49:39 +0000</pubDate>
+      <description><![CDATA[Bitcoin recovered from a midweek dip to $75,500 to climb back above $78,000 by Saturday morning in Asia, with the Senate's stablecoin yield compromise removing a key roadblock to crypto market structure legislation.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC]]></title>
       <link>https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc</link>
@@ -375,20 +388,6 @@
       <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
       <category domain="tag"><![CDATA[Financial Advisors]]></category>
       <category domain="tag"><![CDATA[Sui]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Anchorage Digital and M0 team up to power next wave of regulated stablecoins]]></title>
-      <link>https://www.coindesk.com/business/2026/04/30/regulated-crypto-custody-firm-anchorage-partners-with-stablecoin-tech-provider-m0</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9e9cf34de2a5695fc90a61253c81cffd9e4be65e-800x450.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">f17fc2cf-8153-41b9-a0e3-f9e97e6bd7f0</guid>
-      <pubDate>Thu, 30 Apr 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Anchorage seeks to expand its issuance platform through M0, and opens the door to a broad range of firms looking to launch U.S.-regulated stablecoins.]]></description>
-      <dc:creator>Ian Allison</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

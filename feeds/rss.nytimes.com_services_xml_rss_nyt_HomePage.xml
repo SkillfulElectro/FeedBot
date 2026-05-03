@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 03 May 2026 17:23:57 +0000</lastBuildDate>
-    <pubDate>Sun, 03 May 2026 17:04:20 +0000</pubDate>
+    <lastBuildDate>Sun, 03 May 2026 18:09:03 +0000</lastBuildDate>
+    <pubDate>Sun, 03 May 2026 17:53:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -68,6 +68,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/03/multimedia/03biz-opec-mhcg/03biz-opec-mhcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christian Bruna/Getty Images</media:credit>
       <media:description>The OPEC headquarters in Vienna. Seven of the members of the consortium of oil producing nations on Sunday noted “the importance of adopting a cautious approach.”</media:description>
@@ -192,12 +193,13 @@
       <description>A Times analysis of footage released by the F.B.I. on Thursday night appears to show the assailant shot at a Secret Service officer, who then returned fire.</description>
       <dc:creator>Malachy Browne and McKinnon de Kuyper, Rafaela Balster, Alex Cardia and Monika Cvorak</dc:creator>
       <pubDate>Sat, 02 May 2026 18:08:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allen, Cole Tomas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Correspondents&#39; Dinner Shooting (April 25, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allen, Cole Tomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
     </item>
     <item>
       <title>The Last Days of Butter Ridge</title>
@@ -401,27 +403,21 @@
       <media:description>Spirit Airlines’ presence at an airport usually helped to push down the fares of all airlines operating there.</media:description>
     </item>
     <item>
-      <title>The Insurgency Threatening to Derail a U.S.-Pakistan Pact</title>
-      <link>https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/03/world/asia/pakistan-balochistan-insurgency-reko-diq.html" rel="standout"></atom:link>
-      <description>Attacks by the Baloch Liberation Army could derail Pakistan’s plans for a billion-dollar mining deal with the Trump administration.</description>
-      <dc:creator>Elian Peltier, Zia ur-Rehman, Christiaan Triebert, Pablo Robles and Asim Hafeez</dc:creator>
-      <pubDate>Sun, 03 May 2026 16:40:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baluchistan (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baloch Liberation Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copper, Brass and Bronze</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/03/multimedia/00int-pakistan-balochistan-promo-wfqh/00int-pakistan-balochistan-promo-wfqh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Asim Hafeez for The New York Times</media:credit>
+      <title>2 U.S. Service Members Are Missing After Military Exercise in Morocco</title>
+      <link>https://www.nytimes.com/2026/05/03/us/politics/us-army-missing-service-members-morocco-african-lion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/03/us/politics/us-army-missing-service-members-morocco-african-lion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/03/us/politics/us-army-missing-service-members-morocco-african-lion.html" rel="standout"></atom:link>
+      <description>The two Army soldiers were reported missing during a joint military exercise on Saturday near Cap Draa Training Area, a coastal area in southwestern Morocco.</description>
+      <dc:creator>Leo Sands and Eric Schmitt</dc:creator>
+      <pubDate>Sun, 03 May 2026 17:51:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/03/multimedia/03trump-news-africom-qcjt/03trump-news-africom-qcjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mosa&#39;Ab Elshamy/Associated Press</media:credit>
+      <media:description>A United States and Moroccan military exercise in Morocco in 2024.</media:description>
     </item>
     <item>
       <title>Norway’s Northern Lights Nightmare</title>

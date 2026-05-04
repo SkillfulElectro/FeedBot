@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_=1777928996" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 04 May 2026 21:09:56 +0000</lastBuildDate>
-    <pubDate>Mon, 04 May 2026 21:05:58 +0000</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 22:29:12 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 22:23:53 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy" rel="standout"></atom:link>
       <description>U.S. warships shot down missiles and drones aimed at ships the Navy was guiding through the Strait of Hormuz, and the authorities in the United Arab Emirates blamed Iran for a drone attack.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 04 May 2026 21:04:09 +0000</pubDate>
+      <pubDate>Mon, 04 May 2026 22:23:53 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/04/multimedia/04mideast-live-promo-430p-fgbj/04mideast-live-promo-430p-fgbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
     </item>
@@ -272,8 +272,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/04/world/middleeast/iran-ship-crew-pakistan.html" rel="standout"></atom:link>
       <description>Describing the transfer of the crew from the MV Touska cargo ship back to Iran as a ‘confidence-building measure’ between U.S. and Iranian officials, Pakistan again plays a mediating role.</description>
-      <dc:creator>Elian Peltier and Dan Watson</dc:creator>
-      <pubDate>Mon, 04 May 2026 18:06:17 +0000</pubDate>
+      <dc:creator>Elian Peltier, Dan Watson and Zia ur-Rehman</dc:creator>
+      <pubDate>Mon, 04 May 2026 22:15:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -396,7 +396,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/05/04/world/iran-hormuz-ships-navy/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Aaron Boxerman, Ismaeel Naar and Eric Schmitt</dc:creator>
-      <pubDate>Mon, 04 May 2026 21:04:07 +0000</pubDate>
+      <pubDate>Mon, 04 May 2026 21:11:41 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Warns China Over Iranian Oil as Sanctions Fight Intensifies</title>
@@ -565,7 +565,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html" rel="standout"></atom:link>
       <description>With President Trump’s visit to Beijing looming, China is pushing Iran to negotiate even as its companies export material that could be used by Iran’s military.</description>
       <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Mon, 04 May 2026 19:26:11 +0000</pubDate>
+      <pubDate>Mon, 04 May 2026 21:33:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
@@ -591,13 +591,12 @@
       <atom:link href="https://www.nytimes.com/2026/05/03/world/deepseek-china-ai-iran-india-elections.html" rel="standout"></atom:link>
       <description>China made the inner workings of the A.I. model open to all, and that’s starting to look like a soft-power win.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 04 May 2026 04:45:37 +0000</pubDate>
+      <pubDate>Mon, 04 May 2026 04:45:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/04/multimedia/04int-theworld-top-kqlv/04int-theworld-top-kqlv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kelsey McClellan for The New York Times</media:credit>
     </item>

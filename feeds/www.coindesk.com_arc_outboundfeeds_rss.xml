@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 04 May 2026 10:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:33:47 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto bears got it wrong again, losing $300 million in liquidations]]></title>
+      <link>https://www.coindesk.com/markets/2026/05/04/crypto-bears-got-it-wrong-again-losing-usd300-million-in-liquidations</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f38628eaca68701e192ec5a8aa9adc7fa7535fa4-3464x2309.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">fd9b43fa-437d-4ccb-8127-2f79a4188069</guid>
+      <pubDate>Mon, 04 May 2026 10:30:41 +0000</pubDate>
+      <description><![CDATA[Bitcoin's move to $80,000 caught bears on the wrong side of the market again, leading to large short liquidations. ]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Jobs data, earnings calls: Crypto Week Ahead]]></title>
       <link>https://www.coindesk.com/markets/2026/05/04/jobs-data-earnings-calls-crypto-week-ahead</link>
@@ -375,20 +391,6 @@
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="tag"><![CDATA[MicroStrategy]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[A new narrative for bitcoin that will last]]></title>
-      <link>https://www.coindesk.com/opinion/2026/05/01/a-new-narrative-for-bitcoin-that-will-last</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4c4b6d83ec07f1a9cb9858d9091284b006c9a647-5472x3648.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6c555c94-6817-42ff-a7d9-aac7d4685108</guid>
-      <pubDate>Fri, 01 May 2026 17:33:00 +0000</pubDate>
-      <description><![CDATA[Of the myriad pundits proclaiming what bitcoin is or isn’t, Blume offers a more clear-eyed framing that, he argues, will outlast the others.  
-]]></description>
-      <dc:creator>Alexander Blume</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
-      <category domain="https://www.coindesk.com/">Opinion</category>
     </item>
   </channel>
 </rss>

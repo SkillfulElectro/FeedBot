@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 04 May 2026 10:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:37:34 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Coinbase boosts Solana trading with DFlow integration]]></title>
+      <link>https://www.coindesk.com/business/2026/05/04/coinbase-boosts-solana-trading-with-dflow-integration</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b55e9075-580a-4b91-b76c-80ddfe52fea7</guid>
+      <pubDate>Mon, 04 May 2026 10:36:12 +0000</pubDate>
+      <description><![CDATA[Coinbase adding DFlow as its primary router will mean eight times less trade failures.]]></description>
+      <dc:creator>Ian Allison</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Coinbase]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Crypto bears got it wrong again, losing $300 million in liquidations]]></title>
       <link>https://www.coindesk.com/markets/2026/05/04/crypto-bears-got-it-wrong-again-losing-usd300-million-in-liquidations</link>
@@ -375,21 +389,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Ethereum News]]></category>
       <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Canadian pension giant AIMCo buys the dip in Strategy, now sitting on $69 million unrealized gain]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/01/canadian-pension-giant-aimco-buys-the-dip-in-strategy-now-sitting-on-usd69-million-unrealized-gain</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">489df98a-d15b-4e4c-a605-c9d25ac5b6b4</guid>
-      <pubDate>Fri, 01 May 2026 17:40:40 +0000</pubDate>
-      <description><![CDATA[AIMCo returns to Michael Saylor's bitcoin treasury company years after exiting, now sitting on a sizable unrealized gain.]]></description>
-      <dc:creator>James Van Straten</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[MicroStrategy]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -5,5 +5,6 @@
   "https://www.isna.ir/rss": "HTTPSConnectionPool(host='www.isna.ir', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.isna.ir', port=443): Failed to resolve 'www.isna.ir' ([Errno -3] Temporary failure in name resolution)\"))",
   "https://www.irna.ir/rss": "HTTPSConnectionPool(host='www.irna.ir', port=443): Read timed out.",
   "https://openrss.org/apnews.com/hub/world-news": "HTTPSConnectionPool(host='openrss.org', port=443): Max retries exceeded with url: /apnews.com/hub/world-news (Caused by ConnectTimeoutError(<HTTPSConnection(host='openrss.org', port=443) at 0x7fba62f5b380>, 'Connection to openrss.org timed out. (connect timeout=30)'))",
-  "https://rsshub.app/apnews/topics/world-news": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/world-news"
+  "https://rsshub.app/apnews/topics/world-news": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/world-news",
+  "https://news.bitcoin.com/feed/": "404 Client Error: Not Found for url: https://news.bitcoin.com/feed/"
 }

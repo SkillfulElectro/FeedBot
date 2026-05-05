@@ -7,16 +7,17 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-05T14:32:46Z</dc:date>
+  <dc:date>2026-05-05T14:55:30Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-says-ceasefire-still-holds-despite-clashes/live-77045752?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-tehran-says-it-will-keep-up-intolerable-blockade/live-77045752?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/decoding-china-beijing-courts-europe-amid-us-dysfunction/a-77038349?maca=en-rss-en-all-1573-rdf"/>
@@ -78,7 +79,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-entrepreneurs-betting-on-post-maduro-venezuela/a-76968518?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-stranded-whale-timmy-being-transported-towards-ocean-in-special-barge/a-76970765?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-games-abroad-unlikely-but-for-how-long/a-76954022?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/marine-unicorns-aren-t-loving-arctic-noise/a-76704611?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-rdf"/>
@@ -151,11 +151,29 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf">
+  <title>Germany prepares for mission in the Strait of Hormuz</title>
+  <link>https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf</link>
+  <description>The German minesweeper Fulda has set course for the Mediterranean. The German Armed Forces may assist in clearing mines in the Strait of Hormuz — although only under certain conditions.</description>
+  <dc:date>2026-05-05T14:37:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77054325</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-war-us-says-ceasefire-still-holds-despite-clashes/live-77045752?maca=en-rss-en-all-1573-rdf">
+  <title>Iran war: US says ceasefire still holds despite clashes</title>
+  <link>https://www.dw.com/en/iran-war-us-says-ceasefire-still-holds-despite-clashes/live-77045752?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US military has again warned it will protect commercial shipping against Iranian attack in the Strait of Hormuz. However, US officials underlined that the ceasefire is still in place.</description>
+  <dc:date>2026-05-05T14:37:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77045752</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf">
   <title>Venice Biennale in crisis: The controversies explained</title>
   <link>https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf</link>
   <description>The traditional Golden Lion will not be awarded this year, following the resignation of the jury over Russia&apos;s and Israel&apos;s disputed participation.</description>
-  <dc:date>2026-05-05T14:05:00Z</dc:date>
+  <dc:date>2026-05-05T14:26:00Z</dc:date>
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76807499</dwsyn:contentID>
@@ -195,15 +213,6 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77047777</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-war-tehran-says-it-will-keep-up-intolerable-blockade/live-77045752?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: Tehran says it will keep up &apos;intolerable&apos; blockade</title>
-  <link>https://www.dw.com/en/iran-war-tehran-says-it-will-keep-up-intolerable-blockade/live-77045752?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US military has again warned it will protect commercial shipping against Iranian attack in the Strait of Hormuz. However, US officials underlined a ceasefire is still in place.</description>
-  <dc:date>2026-05-05T11:59:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77045752</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-all-1573-rdf">
   <title>Romania&apos;s government collapses after Prime Minister Ilie Bolojan loses confidence vote</title>
@@ -753,15 +762,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76823988</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine&apos;s Zelenskyy rebukes Israel for buying grain &apos;stolen&apos; by Russia</title>
-  <link>https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-all-1573-rdf</link>
-  <description>President Volodymyr Zelenskyy has accused Israel of &quot;purchasing stolen goods,&quot; namely grain from regions occupied by Russia. Ukraine summoned Israel&apos;s ambassador on Monday, and now it says another such ship has docked.</description>
-  <dc:date>2026-04-28T13:13:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76966917</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/bundesliga-games-abroad-unlikely-but-for-how-long/a-76954022?maca=en-rss-en-all-1573-rdf">
   <title>Bundesliga games abroad unlikely, but for how long?</title>

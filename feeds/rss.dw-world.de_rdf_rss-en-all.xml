@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-05T21:06:33Z</dc:date>
+  <dc:date>2026-05-05T22:31:07Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +152,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-rdf">
+  <title>Spain to receive hantavirus-hit ship in Canary Islands</title>
+  <link>https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-rdf</link>
+  <description>Three passengers abord the MV Hondius have died after a hantavirus outbreak onboard. The cruise ship has been stuck off the coast of Cape Verde since the virus was detected.</description>
+  <dc:date>2026-05-05T21:16:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77059425</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: Will tensions escalate in the Strait of Hormuz?</title>
   <link>https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-all-1573-rdf</link>

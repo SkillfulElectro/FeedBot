@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-05T10:09:54Z</dc:date>
+  <dc:date>2026-05-05T10:50:13Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-sea-that-is-vanishing-in-real-time/a-76813409?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-warns-it-could-block-shipping-in-hormuz/live-77045752?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-prime-minister-ilie-bolojan-faces-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/colombia-says-nine-miners-dead-after-explosion/a-77046739?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-aryan-myth/a-77046616?maca=en-rss-en-all-1573-rdf"/>
@@ -18,7 +20,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/malawi-fuel-crisis-deepens-as-oil-shortages-spread/a-77000372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/taiwan-s-lai-returns-from-eswatini-trip-amid-china-objection/a-77046190?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-germany-condemns-attacks-on-uae/live-77045752?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-explosion-at-fireworks-factory-kills-at-least-21/a-77045835?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-uae-reports-first-iranian-missile-and-drone-attacks-in-weeks/live-77026618?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/person-shot-near-washington-monument-us-secret-service-says/a-77045301?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-child-soldiers-in-sudan-become-influencers-on-tiktok/a-77033265?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-modi-claims-victory-in-west-bengal-election/live-77026483?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/decoding-china-beijing-courts-europe-amid-us-dysfunction/a-77038349?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/north-korea-ramps-up-executions-over-foreign-media-says-ngo/a-77037627?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/georg-baselitz-artist-renowned-for-his-upside-down-paintings-dies/a-77037122?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/angine-de-poitrine-a-masked-rock-band-conquers-the-internet/a-77030522?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/women-s-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846?maca=en-rss-en-all-1573-rdf"/>
@@ -150,6 +150,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/the-sea-that-is-vanishing-in-real-time/a-76813409?maca=en-rss-en-all-1573-rdf">
+  <title>The sea that is vanishing in real time</title>
+  <link>https://www.dw.com/en/the-sea-that-is-vanishing-in-real-time/a-76813409?maca=en-rss-en-all-1573-rdf</link>
+  <description>The world&apos;s largest inland body of water is retreating at alarming speed. From stranded buildings to vanishing habitats, scientists warn the Caspian Sea may be approaching a tipping point.</description>
+  <dc:date>2026-05-05T10:24:00Z</dc:date>
+  <dc:subject>Environment</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>76813409</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-warns-it-could-block-shipping-in-hormuz/live-77045752?maca=en-rss-en-all-1573-rdf">
+  <title>Iran warns it could block shipping in Hormuz</title>
+  <link>https://www.dw.com/en/iran-warns-it-could-block-shipping-in-hormuz/live-77045752?maca=en-rss-en-all-1573-rdf</link>
+  <description>Iran&apos;s lead negotiator warned his country has &quot;not even begun&quot; to test the status of the Strait of Hormuz. His statement follows a day after Trump announced a new initiative to help neutral ships stranded in the Gulf.</description>
+  <dc:date>2026-05-05T10:22:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77045752</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/romania-prime-minister-ilie-bolojan-faces-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-all-1573-rdf">
   <title>Romania: Prime Minister Ilie Bolojan faces confidence vote in parliament after largest party, PSD, quit his coalition</title>
   <link>https://www.dw.com/en/romania-prime-minister-ilie-bolojan-faces-confidence-vote-in-parliament-after-largest-party-psd-quit-his-coalition/a-77047950?maca=en-rss-en-all-1573-rdf</link>
@@ -212,15 +230,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77046190</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-war-germany-condemns-attacks-on-uae/live-77045752?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: Germany condemns attacks on UAE</title>
-  <link>https://www.dw.com/en/iran-war-germany-condemns-attacks-on-uae/live-77045752?maca=en-rss-en-all-1573-rdf</link>
-  <description>German Chancellor Friedrich Merz has urged Iran to return to the negotiating table after the UAE was targeted by drone and missile attacks. DW has the latest.</description>
-  <dc:date>2026-05-05T03:09:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77045752</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/china-explosion-at-fireworks-factory-kills-at-least-21/a-77045835?maca=en-rss-en-all-1573-rdf">
   <title>China: Explosion at fireworks factory kills at least 21</title>
@@ -320,15 +329,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77038349</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/north-korea-ramps-up-executions-over-foreign-media-says-ngo/a-77037627?maca=en-rss-en-all-1573-rdf">
-  <title>North Korea ramps up executions over foreign media, says NGO</title>
-  <link>https://www.dw.com/en/north-korea-ramps-up-executions-over-foreign-media-says-ngo/a-77037627?maca=en-rss-en-all-1573-rdf</link>
-  <description>Many children of North Korean elites are &quot;addicted to smuggled South Korean pop culture and American action movies,&quot; an expert told DW. Under Kim Jong Un, watching this content could put one&apos;s life at risk.</description>
-  <dc:date>2026-05-04T13:01:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77037627</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/georg-baselitz-artist-renowned-for-his-upside-down-paintings-dies/a-77037122?maca=en-rss-en-all-1573-rdf">
   <title>Georg Baselitz, artist renowned for his upside-down paintings, dies</title>

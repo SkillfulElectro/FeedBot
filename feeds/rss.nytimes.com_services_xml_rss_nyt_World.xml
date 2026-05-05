@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_=1777975818" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 05 May 2026 10:10:19 +0000</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 10:10:03 +0000</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 10:44:40 +0000</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 10:40:24 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -320,6 +320,50 @@
       <media:description>The cruise ship MV Hondius stationed off the port of Praia, Cape Verde, on Sunday.</media:description>
     </item>
     <item>
+      <title>The Venice Biennale and Its Many Flashpoints: An Explainer</title>
+      <link>https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/05/arts/design/venice-biennale-flashpoints-explainer-opening.html" rel="standout"></atom:link>
+      <description>The sudden death of a curator, the surprise participation of Russia and an unconventional U.S. entry are heating up the art world Olympics, which begins previews Tuesday.</description>
+      <dc:creator>Zachary Small</dc:creator>
+      <pubDate>Tue, 05 May 2026 10:34:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venice (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Allen, Alma (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fainaru, Belu-Simion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kouoh, Koyo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parido, Jenni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/05/multimedia/05cul-venice-explainer-fhvp/05cul-venice-explainer-fhvp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Casey Kelbaugh for The New York Times</media:credit>
+      <media:description>The central pavilion of the Giardini on Tuesday, first day of previews for the 61st Venice Biennale. The exhibition, “In Minor Keys,” was initiated by Koyo Kouoh and overseen by her team after her death last year.</media:description>
+    </item>
+    <item>
+      <title>Cruise Ship Struck by Hantavirus Remains at Sea</title>
+      <link>https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/05/world/africa/cruise-ship-hantavirus-cape-verde-hondius.html" rel="standout"></atom:link>
+      <description>Passengers on the MV Hondius have not received permission from the authorities in Cape Verde, in the Atlantic Ocean, to disembark. Three people have died and at least three others were ill.</description>
+      <dc:creator>Max Kim</dc:creator>
+      <pubDate>Tue, 05 May 2026 10:23:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Verde</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hantavirus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oceanwide Expeditions BV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/05/multimedia/05int-cruise-virus-fthv/05int-cruise-virus-fthv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arilson Almeida/Associated Press</media:credit>
+      <media:description>The MV Hondius moored off the coast of Cape Verde on Monday.</media:description>
+    </item>
+    <item>
       <title>The Uncertain Fate of France’s Last Two Captive Orcas</title>
       <link>https://www.nytimes.com/2026/05/05/world/europe/france-orcas-killer-whales.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/05/world/europe/france-orcas-killer-whales.html</guid>
@@ -361,7 +405,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>John Yoon</dc:creator>
-      <pubDate>Tue, 05 May 2026 10:10:03 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 10:16:28 +0000</pubDate>
     </item>
     <item>
       <title>In Venezuela, Trump Vowed to Show Accountability. But Secret Oil Deals Linger.</title>
@@ -370,7 +414,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/05/world/trump-venezuela-oil-deals.html" rel="standout"></atom:link>
       <description>Trump officials and their Venezuelan allies have promised a new era of accountability to unlock Venezuela’s immense oil wealth. But the country’s oil industry remains a black hole.</description>
       <dc:creator>Anatoly Kurmanaev and Adriana Loureiro Fernandez</dc:creator>
-      <pubDate>Tue, 05 May 2026 09:00:38 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 09:00:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
@@ -1090,41 +1134,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/02/multimedia/02int-canada-letter-wkmq/02int-canada-letter-wkmq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chloe Ellingson for The New York Times</media:credit>
       <media:description>Claire Brosseau in her Toronto home with her dog, Olive, in 2025.</media:description>
-    </item>
-    <item>
-      <title>Shipwreck Reveals Fate of Vanished World War I Coast Guard Cutter</title>
-      <link>https://www.nytimes.com/2026/05/02/world/europe/tampa-shipwreck-found-uk-us-coast-guard.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/02/world/europe/tampa-shipwreck-found-uk-us-coast-guard.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/02/world/europe/tampa-shipwreck-found-uk-us-coast-guard.html" rel="standout"></atom:link>
-      <description>The Tampa disappeared in 1918 with 131 British and American personnel and civilians aboard. It was the largest single American naval combat loss of life in World War I</description>
-      <dc:creator>Christine Hauser</dc:creator>
-      <pubDate>Sat, 02 May 2026 09:01:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shipwrecks (Historic)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Celtic Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War I (1914-18)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/02/16/multimedia/16xp-shipwreck1-vjkf/16xp-shipwreck1-vjkf-mediumSquareAt3X.jpg" width="1365"></media:content>
-      <media:credit>Brendon Baillod, via Associated Press</media:credit>
-      <media:description>An original photo print of the Lac La Belle docked at Marquette, Mich., in 1866.</media:description>
-    </item>
-    <item>
-      <title>Jordanians Struggle as Mideast Wars Scare Tourists Away</title>
-      <link>https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/02/world/middleeast/jordan-travel-tourists-war.html" rel="standout"></atom:link>
-      <description>Though Jordan mostly sat out the conflicts, its tourism high season was nearly wiped out at popular sites. Visitors canceled flights, hotels and tours.</description>
-      <dc:creator>Raja Abdulrahim, Rana F. Sweis and Laura Boushnak</dc:creator>
-      <pubDate>Sat, 02 May 2026 09:00:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Petra (Jordan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dead Sea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/28/multimedia/28Jordan-Tourism-01-qmcb/28Jordan-Tourism-01-qmcb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A few tourists in front of the 2,000-year-old Treasury building in the ancient city of Petra, Jordan, last month.</media:description>
     </item>
   </channel>
 </rss>

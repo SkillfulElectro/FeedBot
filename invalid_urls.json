@@ -1,0 +1,10 @@
+{
+  "https://www.reutersagency.com/feed/?best-topics=top-news": "404 Client Error: Not Found for url: https://reutersagency.com/feed/?best-topics=top-news",
+  "https://rsshub.app/apnews/topics/world-news": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/world-news",
+  "https://rss.cnn.com/rss/edition.rss": "HTTPSConnectionPool(host='rss.cnn.com', port=443): Max retries exceeded with url: /rss/edition.rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+  "https://www.forbes.com/forbes/feed/": "404 Client Error: Not Found for url: https://www.forbes.com/forbes/feed/",
+  "http://feeds.reuters.com/Reuters/worldNews": "HTTPConnectionPool(host='feeds.reuters.com', port=80): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError(\"HTTPConnection(host='feeds.reuters.com', port=80): Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))",
+  "https://feeds.latimes.com/world": "HTTPSConnectionPool(host='feeds.latimes.com', port=443): Max retries exceeded with url: /world (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+  "https://www.yahoo.com/news/rss": "403 Client Error: Forbidden for url: https://www.yahoo.com/news/rss/",
+  "http://rss.xinhuanet.com/rss/world.xml": "HTTPConnectionPool(host='rss.xinhuanet.com', port=80): Max retries exceeded with url: /rss/world.xml (Caused by NameResolutionError(\"HTTPConnection(host='rss.xinhuanet.com', port=80): Failed to resolve 'rss.xinhuanet.com' ([Errno -2] Name or service not known)\"))"
+}

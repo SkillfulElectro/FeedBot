@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-05T16:45:04Z</dc:date>
+  <dc:date>2026-05-05T17:59:33Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/here-s-why-amsterdam-banned-fossil-fuel-and-meat-advertising/a-77054187?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/from-india-to-iran-how-hitler-redefined-aryan-for-the-nazis/a-77046616?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-leipzig-ramming-suspect-to-appear-in-court/live-77046961?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/malawi-fuel-crisis-deepens-as-oil-shortages-spread/a-77000372?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-saudi-arabia-is-withdrawing-from-sport/a-77032858?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +151,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-rdf">
+  <title>India: West Bengal election win boosts Modi&apos;s BJP</title>
+  <link>https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-rdf</link>
+  <description>The election outcome allows Prime Minister Narendra Modi&apos;s Bharatiya Janata Party to further expand its political dominance.</description>
+  <dc:date>2026-05-05T16:46:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77058088</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf">
   <title>Boko Haram militants kill at least 23 troops in Chad attack</title>
   <link>https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf</link>
@@ -321,15 +330,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77000372</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-rdf">
-  <title>India news: West Bengal wakes to a new political reality</title>
-  <link>https://www.dw.com/en/india-news-west-bengal-wakes-to-a-new-political-reality/live-77046236?maca=en-rss-en-all-1573-rdf</link>
-  <description>After years of making steady inroads, Narendra Modi&apos;s Bharatiya Janata Party has clinched West Bengal at the polls. Meanwhile, India&apos;s Foreign Ministry criticized Iran over an attack on the UAE.</description>
-  <dc:date>2026-05-05T07:10:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77046236</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-all-1573-rdf">
   <title>Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath</title>

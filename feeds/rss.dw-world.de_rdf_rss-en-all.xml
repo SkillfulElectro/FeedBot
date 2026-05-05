@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-05T13:52:27Z</dc:date>
+  <dc:date>2026-05-05T14:32:46Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/person-shot-near-washington-monument-us-secret-service-says/a-77045301?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/pushback-in-nigeria-over-ex-boko-haram-fighter-reintegration/a-77031419?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-saudi-arabia-is-withdrawing-from-sport/a-77032858?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/georg-baselitz-artist-renowned-for-his-upside-down-paintings-dies/a-77037122?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/angine-de-poitrine-a-masked-rock-band-conquers-the-internet/a-77030522?maca=en-rss-en-all-1573-rdf"/>
@@ -93,7 +94,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/meta-microsoft-purge-jobs-amid-ai-build-up/a-76918848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-unveils-first-ever-military-strategy-for-bundeswehr/a-76914837?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-country-that-s-turning-to-solar-during-war/a-76907346?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/unpacking-the-2026-venice-biennale-controversies-and-highlights/a-76807499?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/a-book-lover-s-dream-holiday-in-scotland/a-76884546?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bayern-munich-on-the-brink-of-historic-double-treble/a-76894410?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +151,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf">
+  <title>Venice Biennale in crisis: The controversies explained</title>
+  <link>https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf</link>
+  <description>The traditional Golden Lion will not be awarded this year, following the resignation of the jury over Russia&apos;s and Israel&apos;s disputed participation.</description>
+  <dc:date>2026-05-05T14:05:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>76807499</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf">
+  <title>Germany: BioNTech shutting down COVID vaccine production entirely, 1,860 jobs at risk</title>
+  <link>https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf</link>
+  <description>The German company that pioneered one of the first mRNA coronavirus vaccines is halting production, handing the reins to partner Pfizer. BioNTech is restructuring to focus on research and illnesses like cancer.</description>
+  <dc:date>2026-05-05T13:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77055320</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-all-1573-rdf">
   <title>Japan pivots Indo-Pacific strategy toward Southeast Asia</title>
   <link>https://www.dw.com/en/japan-pivots-indo-pacific-strategy-toward-southeast-asia/a-77054483?maca=en-rss-en-all-1573-rdf</link>
@@ -163,9 +181,9 @@
  <item rdf:about="https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf">
   <title>Germany: Difficult first year for Chancellor Friedrich Merz</title>
   <link>https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf</link>
-  <description>A year after taking office, Germany&apos;s federal leadership is struggling with the drudgery of coalition governance. Whenever there are problems, they always blame their coalition partners. Or US President Donald Trump.</description>
+  <description>A year after taking office, Germany&apos;s federal leadership is struggling with the drudgery of coalition governance. Whenever there are problems, the coalition partners are blamed. Or US President Donald Trump.</description>
   <dc:date>2026-05-05T12:20:00Z</dc:date>
-  <dc:subject>NRS-Import</dc:subject>
+  <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77053478</dwsyn:contentID>
  </item>
@@ -321,15 +339,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76959753</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/pushback-in-nigeria-over-ex-boko-haram-fighter-reintegration/a-77031419?maca=en-rss-en-all-1573-rdf">
-  <title>Pushback in Nigeria over ex-Boko Haram fighter reintegration</title>
-  <link>https://www.dw.com/en/pushback-in-nigeria-over-ex-boko-haram-fighter-reintegration/a-77031419?maca=en-rss-en-all-1573-rdf</link>
-  <description>Nigeria is set to reintegrate more than 700 former Boko Haram fighters into society under a government deradicalization program. Authorities say this is key to ending the insurgency — but communities are skeptical.</description>
-  <dc:date>2026-05-04T16:22:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77031419</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/why-saudi-arabia-is-withdrawing-from-sport/a-77032858?maca=en-rss-en-all-1573-rdf">
   <title>Why Saudi Arabia is withdrawing from sport</title>
@@ -888,15 +897,6 @@
   <dc:subject>Climate</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76907346</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/unpacking-the-2026-venice-biennale-controversies-and-highlights/a-76807499?maca=en-rss-en-all-1573-rdf">
-  <title>Unpacking the 2026 Venice Biennale controversies and highlights</title>
-  <link>https://www.dw.com/en/unpacking-the-2026-venice-biennale-controversies-and-highlights/a-76807499?maca=en-rss-en-all-1573-rdf</link>
-  <description>Following the return of Russia to the Biennale, the EU said it will carry out its threat to cut its funding from the international art show.</description>
-  <dc:date>2026-04-23T10:45:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76807499</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/a-book-lover-s-dream-holiday-in-scotland/a-76884546?maca=en-rss-en-all-1573-rdf">
   <title>A book lover&apos;s dream holiday in Scotland</title>

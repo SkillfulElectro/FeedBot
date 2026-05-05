@@ -1,0 +1,2980 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>RSS Parrot</title>
+  <meta name="description" content="Home of RSS Parrot, a free Fediverse service that lets you turn Mastodon into an RSS or Atom feed reader." />
+  <meta name="og:description" content="Home of RSS Parrot, a free Fediverse service that lets you turn Mastodon into an RSS or Atom feed reader." />
+
+
+  <link rel="stylesheet" href="/assets/style.css?ver=1777953829781">
+  <script defer data-domain="rss-parrot.net" src="https://plausible.io/js/script.js"></script>
+</head>
+<body>
+
+<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1777953829781"
+        onload="this.parentNode.replaceChild(this.contentDocument.documentElement, this)">
+</object>
+
+<div id="pnlMid">
+  <header>
+    <div>
+      <h1>
+        <a href="/">
+          <span class="cp1">R</span><span class="cp2">S</span><span class="cp3">S</span>&nbsp;<span class="cp4">P</span><span class="cp4">a</span><span class="cp6">r</span><span class="cp7">r</span><span class="cp1">o</span><span class="cp2">t</span>
+        </a>
+      </h1>
+      <span class="beta"><span>BETA</span></span>
+    </div>
+    <nav>
+      <a href="/web/feeds" class="selected">Feeds</a>
+      <a href="/web/changes" class="">Changes</a>
+      <a href="/web/about" class="">About</a>
+    </nav>
+  </header>
+  <main>
+      
+  <h2>Feeds watched by the Parrot</h2>
+  <p><i>These are the feeds the Parrot is currently following. More recently requested are at the top.</i></p>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.infodocket.com/feed</h3>
+        <span>[<a href="https://www.infodocket.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 5, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.infodocket.com">@www.infodocket.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Library Journal infoDOCKET</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:4ujihxlnolrxdepjxuq2narc/rss</h3>
+        <span>[<a href="https://bsky.app/profile/erikgrove.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 5, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.erikgrove.com">@bsky.app.profile.erikgrove.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">@erikgrove.com on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:xtkqh74profo4ipjnljyvzus/rss</h3>
+        <span>[<a href="https://bsky.app/profile/gradyish.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 5, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.gradyish.bsky.social">@bsky.app.profile.gradyish.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: April 27, 2026
+      </p>
+      <p class="title">@gradyish.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/kawasakifm/rss</h3>
+        <span>[<a href="https://nitter.poast.org/kawasakifm">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 4, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.kawasakifm">@nitter.poast.org.kawasakifm</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">かわさきFM📻7区がひとつ 79.1MHz🎶川崎市のラジオ局みんなで繋がろう / @kawasakifm</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:vie3gxzifx6z2ktmkhrqat2t/rss</h3>
+        <span>[<a href="https://bsky.app/profile/devolvedelections.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 4, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.devolvedelections.bsky.social">@bsky.app.profile.devolvedelections.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">@devolvedelections.bsky.social - Devolved Election Projections</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://vasemmisto.fi/feed</h3>
+        <span>[<a href="https://vasemmisto.fi">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 4, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/vasemmisto.fi">@vasemmisto.fi</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Vasemmistoliitto</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://vignette.eco/feed.xml</h3>
+        <span>[<a href="https://vignette.eco/filvignette">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 4, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/vignette.eco.filvignette">@vignette.eco.filvignette</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Vignette.eco</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:ye6fhyor6bpm7ir3hc2xunpd/rss</h3>
+        <span>[<a href="https://bsky.app/profile/emilylowan.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.emilylowan.bsky.social">@bsky.app.profile.emilylowan.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">@emilylowan.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.universetoday.com/rss.xml</h3>
+        <span>[<a href="https://www.universetoday.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.universetoday.com">@www.universetoday.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Universe Today</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://sweetandsavorymeals.com/feed</h3>
+        <span>[<a href="https://sweetandsavorymeals.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/sweetandsavorymeals.com">@sweetandsavorymeals.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 26, 2026
+      </p>
+      <p class="title">Sweet and Savory Meals</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.sugarandsoul.co/feed</h3>
+        <span>[<a href="https://www.sugarandsoul.co/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.sugarandsoul.co">@www.sugarandsoul.co</a>
+      </p>
+      <p class="info">
+        Last posted: April 9, 2026
+      </p>
+      <p class="title">Sugar and Soul</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://kitchenfunwithmy3sons.com/feed</h3>
+        <span>[<a href="https://kitchenfunwithmy3sons.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/kitchenfunwithmy3sons.com">@kitchenfunwithmy3sons.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 3, 2026
+      </p>
+      <p class="title">Kitchen Fun With My 3 Sons</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.stephreallife.com/feed</h3>
+        <span>[<a href="https://www.stephreallife.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.stephreallife.com">@www.stephreallife.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title"></p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://flashinthepans.com/feed</h3>
+        <span>[<a href="https://flashinthepans.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/flashinthepans.com">@flashinthepans.com</a>
+      </p>
+      <p class="info">
+        Last posted: June 15, 2022
+      </p>
+      <p class="title">Flash in the Pans</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://lemmy.world/feeds/c/witchymemes.xml</h3>
+        <span>[<a href="https://lemmy.world/c/witchymemes">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/lemmy.world.c.witchymemes">@lemmy.world.c.witchymemes</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Lemmy.World - witchymemes</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://lemmy.world/feeds/c/shirtsthatgohard.xml</h3>
+        <span>[<a href="https://lemmy.world/c/shirtsthatgohard">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/lemmy.world.c.shirtsthatgohard">@lemmy.world.c.shirtsthatgohard</a>
+      </p>
+      <p class="info">
+        Last posted: April 21, 2026
+      </p>
+      <p class="title">Lemmy.World - shirtsthatgohard</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://lemmy.world/feeds/c/atheistmemes.xml</h3>
+        <span>[<a href="https://lemmy.world/c/atheistmemes">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/lemmy.world.c.atheistmemes">@lemmy.world.c.atheistmemes</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Lemmy.World - atheistmemes</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:sfqlzizu3yqo2ttgjo6pdouh/rss</h3>
+        <span>[<a href="https://bsky.app/profile/peterhense.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.peterhense.bsky.social">@bsky.app.profile.peterhense.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">@peterhense.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.koufogiorgos.de/feed</h3>
+        <span>[<a href="https://www.koufogiorgos.de">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.koufogiorgos.de">@www.koufogiorgos.de</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Kostas Koufogiorgos – Karikaturist</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://privacy-handbuch.de/changelog-handbuch.rss</h3>
+        <span>[<a href="https://www.privacy-handbuch.de/index.htm">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.privacy-handbuch.de.index.htm">@www.privacy-handbuch.de.index.htm</a>
+      </p>
+      <p class="info">
+        Last posted: January 4, 2025
+      </p>
+      <p class="title">Privacy-Handbuch Changelog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://gerd-kommer.de/feed</h3>
+        <span>[<a href="https://gerd-kommer.de/blog">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/gerd-kommer.de.blog">@gerd-kommer.de.blog</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Blog – Gerd Kommer</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.nrz.de/lokales/dinslaken-huenxe-voerde/rss</h3>
+        <span>[<a href="https://www.nrz.de/lokales/dinslaken-huenxe-voerde">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.nrz.de.lokales.dinslaken-huenxe-voerde">@www.nrz.de.lokales.dinslaken-huenxe-voerde</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Aktuelle Nachrichten aus Dinslaken</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCRXSpcj8K_LKN4eVaXFJkmg</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCRXSpcj8K_LKN4eVaXFJkmg">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucrxspcj8k.lkn4evaxfjkmg">@www.youtube.com.channel.ucrxspcj8k.lkn4evaxfjkmg</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title">Prof. Dr. Christoph Juhn [Steuerberater]</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.fernuni-hagen.de/bibliothek/include/rss2.xml</h3>
+        <span>[<a href="https://www.fernuni-hagen.de/bibliothek/einrichtung/aktuelles">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.fernuni-hagen.de.bibliothek.einrichtung.aktuelles">@www.fernuni-hagen.de.bibliothek.einrichtung.aktuelles</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">FernUniversität in Hagen - Unibibliothek - Aktuelles</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://freebooters.uk/rss.xml</h3>
+        <span>[<a href="https://freebooters.uk/spacevirgins">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/freebooters.uk.spacevirgins">@freebooters.uk.spacevirgins</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">Space Virgins: First Contact</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:woguanxjwrm7yjapgt5avd2p/rss</h3>
+        <span>[<a href="https://bsky.app/profile/profsaunders.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.profsaunders.bsky.social">@bsky.app.profile.profsaunders.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">@profsaunders.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.jeffgeerling.com/blog.xml</h3>
+        <span>[<a href="https://www.jeffgeerling.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.jeffgeerling.com">@www.jeffgeerling.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">Jeff Geerling</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://comiccaster.xyz/rss/nancy</h3>
+        <span>[<a href="https://www.gocomics.com/nancy">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 3, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.gocomics.com.nancy">@www.gocomics.com.nancy</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Nancy - GoComics</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://glennkenny.substack.com/feed</h3>
+        <span>[<a href="https://glennkenny.substack.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 2, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/glennkenny.substack.com">@glennkenny.substack.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">Glenn Kenny&#39;s SCR 2.0 | Substack</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://spbpublishing.substack.com/feed</h3>
+        <span>[<a href="https://spbpublishing.substack.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 2, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/spbpublishing.substack.com">@spbpublishing.substack.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">Frank Zappa Research: The Continuing Adventures | Scott Parker | Substack</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://badmachinery.com/feed</h3>
+        <span>[<a href="https://badmachinery.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 2, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/badmachinery.com">@badmachinery.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Bad Machinery</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://xobs.io/index.xml</h3>
+        <span>[<a href="https://xobs.io/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 2, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/xobs.io">@xobs.io</a>
+      </p>
+      <p class="info">
+        Last posted: July 6, 2022
+      </p>
+      <p class="title">Xobs&#39; Blog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.net/mitsuhiko/rss</h3>
+        <span>[<a href="https://nitter.net/mitsuhiko">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 2, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.net.mitsuhiko">@nitter.net.mitsuhiko</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Armin Ronacher ⇌ / @mitsuhiko</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.net/theo/rss</h3>
+        <span>[<a href="https://nitter.net/theo">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 1, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.net.theo">@nitter.net.theo</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Theo - t3.gg / @theo</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.101cookbooks.com/feed</h3>
+        <span>[<a href="https://www.101cookbooks.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 1, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.101cookbooks.com">@www.101cookbooks.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">101 Cookbooks</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.net/badlogicgames/rss</h3>
+        <span>[<a href="https://nitter.net/badlogicgames">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 1, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.net.badlogicgames">@nitter.net.badlogicgames</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Mario Zechner / @badlogicgames</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.aclumaine.org/feed</h3>
+        <span>[<a href="https://www.aclumaine.org/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 1, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.aclumaine.org">@www.aclumaine.org</a>
+      </p>
+      <p class="info">
+        Last posted: April 15, 2026
+      </p>
+      <p class="title">ACLU of Maine</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://strangehorizons.com/wordpress/feed</h3>
+        <span>[<a href="https://strangehorizons.com/wordpress">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 1, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/strangehorizons.com.wordpress">@strangehorizons.com.wordpress</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Strange Horizons</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://rett24.no/rss</h3>
+        <span>[<a href="https://rett24.no/rss">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 1, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/rett24.no.rss">@rett24.no.rss</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title"> Rett24 rss </p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://internetemo.com/rss.xml</h3>
+        <span>[<a href="https://internetemo.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 1, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/internetemo.com">@internetemo.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 28, 2026
+      </p>
+      <p class="title">internetemo.com</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>http://feeds.feedburner.com/AnimationForAdults</h3>
+        <span>[<a href="http://www.animationforadults.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.animationforadults.com">@www.animationforadults.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">AFA: Animation For Adults :  Animation News, Reviews, Articles, Podcasts and More</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:mavur2btgbn4rx5cin3ocanq/rss</h3>
+        <span>[<a href="https://bsky.app/profile/volksvargas.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.volksvargas.bsky.social">@bsky.app.profile.volksvargas.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">@volksvargas.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:66v27zgh2r2x32znymtcto4u/rss</h3>
+        <span>[<a href="https://bsky.app/profile/zippyframes.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.zippyframes.bsky.social">@bsky.app.profile.zippyframes.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">@zippyframes.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.casadaanimacao.pt/feed</h3>
+        <span>[<a href="https://www.casadaanimacao.pt">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.casadaanimacao.pt">@www.casadaanimacao.pt</a>
+      </p>
+      <p class="info">
+        Last posted: April 28, 2026
+      </p>
+      <p class="title">Casa da Animação</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.abrilabril.pt/feed</h3>
+        <span>[<a href="https://www.abrilabril.pt/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.abrilabril.pt">@www.abrilabril.pt</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">AbrilAbril</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.hodd.no/rss-nyheter</h3>
+        <span>[<a href="https://www.hodd.no/rss-nyheter">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.hodd.no.rss-nyheter">@www.hodd.no.rss-nyheter</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Nyheiter / Hødd</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://oeygardenbirds.blogspot.com/feeds/posts/default</h3>
+        <span>[<a href="https://oeygardenbirds.blogspot.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/oeygardenbirds.blogspot.com">@oeygardenbirds.blogspot.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Øygarden Birding</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.kidsakoder.no/feed</h3>
+        <span>[<a href="https://www.kidsakoder.no/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.kidsakoder.no">@www.kidsakoder.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 24, 2026
+      </p>
+      <p class="title">Lær Kidsa Koding!</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://rss.tecmundo.com.br/feed</h3>
+        <span>[<a href="https://www.tecmundo.com.br">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.tecmundo.com.br">@www.tecmundo.com.br</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Novidades do TecMundo</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://brooker.co.za/blog/rss.xml</h3>
+        <span>[<a href="http://brooker.co.za/blog/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/brooker.co.za.blog">@brooker.co.za.blog</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Marc Brooker&#39;s Blog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://feeds.acast.com/public/shows/69255836ac4db2b031f7a343</h3>
+        <span>[<a href="https://nkom.no/innsikt">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nkom.no.innsikt">@nkom.no.innsikt</a>
+      </p>
+      <p class="info">
+        Last posted: April 13, 2026
+      </p>
+      <p class="title">Nkom innsikt</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://surf.social/flipboard/v1/feed/surf/custom/01kn7q631en3bhe9g8r2gfkhb0.rss</h3>
+        <span>[<a href="https://surf.social/feed/01kn7q631en3bhe9g8r2gfkhb0">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 30, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/surf.social.feed.01kn7q631en3bhe9g8r2gfkhb0">@surf.social.feed.01kn7q631en3bhe9g8r2gfkhb0</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Bristol Surf Social feed</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/novartis/rss</h3>
+        <span>[<a href="https://nitter.poast.org/Novartis">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.novartis">@nitter.poast.org.novartis</a>
+      </p>
+      <p class="info">
+        Last posted: April 28, 2026
+      </p>
+      <p class="title">Novartis / @Novartis</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://pus.unistra.fr/feed</h3>
+        <span>[<a href="https://pus.unistra.fr/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/pus.unistra.fr">@pus.unistra.fr</a>
+      </p>
+      <p class="info">
+        Last posted: March 30, 2026
+      </p>
+      <p class="title">Presses universitaires de Strasbourg</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://web.unican.es/rss/noticias</h3>
+        <span>[<a href="https://web.unican.es/noticias/_layouts/15/feed.aspx?xsl=1&amp;web=/noticias&amp;page=1587105f-dc81-47b7-875e-0b9b483e5740&amp;wp=e6143a72-42b4-452a-9af8-fe370e1cf54d">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/web.unican.es.noticias.layouts.15.feed.aspx.xsl.1.web.noticias.page.1587105f-dc81-47b7-875e-0b9b483e5740.wp.e6143a72-42b4-452a-9af8-fe370e1cf54d">@web.unican.es.noticias.layouts.15.feed.aspx.xsl.1.web.noticias.page.1587105f-dc81-47b7-875e-0b9b483e5740.wp.e6143a72-42b4-452a-9af8-fe370e1cf54d</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">RSS Noticias de la UC</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/eivp_paris/rss</h3>
+        <span>[<a href="https://nitter.poast.org/eivp_paris">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.eivp.paris">@nitter.poast.org.eivp.paris</a>
+      </p>
+      <p class="info">
+        Last posted: January 6, 2023
+      </p>
+      <p class="title">. / @eivp_paris</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.ofpra.gouv.fr/rss.xml</h3>
+        <span>[<a href="https://www.ofpra.gouv.fr/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.ofpra.gouv.fr">@www.ofpra.gouv.fr</a>
+      </p>
+      <p class="info">
+        Last posted: April 22, 2026
+      </p>
+      <p class="title">Ofpra</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCuMcNvP-2Anm8mw_jLA4-VA</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCuMcNvP-2Anm8mw_jLA4-VA">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucumcnvp-2anm8mw.jla4-va">@www.youtube.com.channel.ucumcnvp-2anm8mw.jla4-va</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">CNMSS</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://blog.bssg.dragas.net/rss.xml</h3>
+        <span>[<a href="https://blog.bssg.dragas.net/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/blog.bssg.dragas.net">@blog.bssg.dragas.net</a>
+      </p>
+      <p class="info">
+        Last posted: March 27, 2026
+      </p>
+      <p class="title">BSSG dev Blog - RSS Feed</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>http://sisalp.fr/index.php/feed/atom</h3>
+        <span>[<a href="http://sisalp.fr/index.php/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/sisalp.fr.index.php">@sisalp.fr.index.php</a>
+      </p>
+      <p class="info">
+        Last posted: March 14, 2018
+      </p>
+      <p class="title">SISalp</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UC06KyJJNwAFLgZM4JKK6kkQ</h3>
+        <span>[<a href="https://www.youtube.com/channel/UC06KyJJNwAFLgZM4JKK6kkQ">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.uc06kyjjnwaflgzm4jkk6kkq">@www.youtube.com.channel.uc06kyjjnwaflgzm4jkk6kkq</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">fusionbeats</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/campusfrance/rss</h3>
+        <span>[<a href="https://nitter.poast.org/CampusFrance">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.campusfrance">@nitter.poast.org.campusfrance</a>
+      </p>
+      <p class="info">
+        Last posted: January 31, 2025
+      </p>
+      <p class="title">Campus France / @CampusFrance</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://francealumni.fr/global/rss.php</h3>
+        <span>[<a href="https://www.francealumni.fr/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.francealumni.fr">@www.francealumni.fr</a>
+      </p>
+      <p class="info">
+        Last posted: May 6, 2026
+      </p>
+      <p class="title">France Alumni</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://vintageshowbiz.com/feed</h3>
+        <span>[<a href="https://vintageshowbiz.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/vintageshowbiz.com">@vintageshowbiz.com</a>
+      </p>
+      <p class="info">
+        Last posted: February 12, 2026
+      </p>
+      <p class="title">Vintage Showbiz</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCjrhew00huDLWGUeqqqdt0g</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCjrhew00huDLWGUeqqqdt0g">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucjrhew00hudlwgueqqqdt0g">@www.youtube.com.channel.ucjrhew00hudlwgueqqqdt0g</a>
+      </p>
+      <p class="info">
+        Last posted: May 3, 2026
+      </p>
+      <p class="title">Another Sakuga</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UC18N3U_kjw2jFTyNLfeow2g</h3>
+        <span>[<a href="https://www.youtube.com/channel/UC18N3U_kjw2jFTyNLfeow2g">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.uc18n3u.kjw2jftynlfeow2g">@www.youtube.com.channel.uc18n3u.kjw2jftynlfeow2g</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Yuno AMVs</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://safedep.io/rss.xml</h3>
+        <span>[<a href="https://safedep.io">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/safedep.io">@safedep.io</a>
+      </p>
+      <p class="info">
+        Last posted: May 3, 2026
+      </p>
+      <p class="title">SafeDep’s Blog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://stepsecurity.io/blog/rss.xml</h3>
+        <span>[<a href="https://www.stepsecurity.io">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.stepsecurity.io">@www.stepsecurity.io</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Step Security Blog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://woodtv.com/feed</h3>
+        <span>[<a href="https://www.woodtv.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.woodtv.com">@www.woodtv.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">WOODTV.com</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://scan.netsecurity.ne.jp/rss20/index.rdf</h3>
+        <span>[<a href="https://scan.netsecurity.ne.jp/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/scan.netsecurity.ne.jp">@scan.netsecurity.ne.jp</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">ScanNetSecurity</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/opecsecretariat/rss</h3>
+        <span>[<a href="https://nitter.poast.org/OPECSecretariat">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.opecsecretariat">@nitter.poast.org.opecsecretariat</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">OPEC / @OPECSecretariat</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/di_ukraine/rss</h3>
+        <span>[<a href="https://nitter.poast.org/DI_Ukraine">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.di.ukraine">@nitter.poast.org.di.ukraine</a>
+      </p>
+      <p class="info">
+        Last posted: May 3, 2026
+      </p>
+      <p class="title">Defence Intelligence of Ukraine / @DI_Ukraine</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://suippes.fr/feed</h3>
+        <span>[<a href="https://www.suippes.fr/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.suippes.fr">@www.suippes.fr</a>
+      </p>
+      <p class="info">
+        Last posted: April 17, 2026
+      </p>
+      <p class="title">Suippes</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bamada.net/feed</h3>
+        <span>[<a href="https://bamada.net">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bamada.net">@bamada.net</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Bamada.net</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://mali24.info/feed</h3>
+        <span>[<a href="https://mali24.info/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/mali24.info">@mali24.info</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Mali 24</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://saheltribune.com/feed</h3>
+        <span>[<a href="https://saheltribune.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/saheltribune.com">@saheltribune.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Sahel Tribune</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://espos.stream/feed.xml</h3>
+        <span>[<a href="http://espos.stream/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/espos.stream">@espos.stream</a>
+      </p>
+      <p class="info">
+        Last posted: April 23, 2026
+      </p>
+      <p class="title">ESPOS</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.europesays.com/it/sport/rugby/rss</h3>
+        <span>[<a href="https://www.europesays.com/it">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.europesays.com.it">@www.europesays.com.it</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Rugby – Italia</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://thedriven.io/feed</h3>
+        <span>[<a href="https://thedriven.io">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/thedriven.io">@thedriven.io</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">The Driven | Your best source for electric vehicle news &amp; analysis.</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.bloomberg.com/authors/AOW9ekpmwpk/tracy-alloway.rss</h3>
+        <span>[<a href="https://www.bloomberg.com/authors/AOW9ekpmwpk/tracy-alloway">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 29, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.bloomberg.com.authors.aow9ekpmwpk.tracy-alloway">@www.bloomberg.com.authors.aow9ekpmwpk.tracy-alloway</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Tracy Alloway - Odd Lots Co-host</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.dokfest-muenchen.de/rss</h3>
+        <span>[<a href="https://www.dokfest-muenchen.de">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.dokfest-muenchen.de">@www.dokfest-muenchen.de</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">DOK.fest München</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://respublica.no/feed</h3>
+        <span>[<a href="https://respublica.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/respublica.no">@respublica.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 17, 2026
+      </p>
+      <p class="title">Res Publica</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.kristiansandsjakk.no/feed</h3>
+        <span>[<a href="https://www.kristiansandsjakk.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.kristiansandsjakk.no">@www.kristiansandsjakk.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 27, 2026
+      </p>
+      <p class="title"></p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.lillesandhundeklubb.no/feed</h3>
+        <span>[<a href="https://www.lillesandhundeklubb.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.lillesandhundeklubb.no">@www.lillesandhundeklubb.no</a>
+      </p>
+      <p class="info">
+        Last posted: February 27, 2026
+      </p>
+      <p class="title">Lillesand og Omegn Hundeklubb</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.bck.no/feed</h3>
+        <span>[<a href="https://www.bck.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.bck.no">@www.bck.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 12, 2026
+      </p>
+      <p class="title">Blindleia CK</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://blssl.no/feed</h3>
+        <span>[<a href="https://blssl.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/blssl.no">@blssl.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 18, 2026
+      </p>
+      <p class="title">Birkenes &amp; Lillesand</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.ljff.org/feed</h3>
+        <span>[<a href="https://www.ljff.org">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.ljff.org">@www.ljff.org</a>
+      </p>
+      <p class="info">
+        Last posted: February 3, 2026
+      </p>
+      <p class="title">Lillesand &amp; Birkenes Jeger og fisk</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.lillesandsjomannsforening.no/feed</h3>
+        <span>[<a href="https://www.lillesandsjomannsforening.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.lillesandsjomannsforening.no">@www.lillesandsjomannsforening.no</a>
+      </p>
+      <p class="info">
+        Last posted: March 15, 2026
+      </p>
+      <p class="title">Lillesand Sjømannsforening</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://kilden.com/feed</h3>
+        <span>[<a href="https://kilden.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/kilden.com">@kilden.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Kilden</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.bibforb.no/feed</h3>
+        <span>[<a href="https://www.bibforb.no/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.bibforb.no">@www.bibforb.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Bibliotekarforbundet</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://github.com/golang/go/commits/master.atom</h3>
+        <span>[<a href="https://github.com/golang/go/commits/master">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/github.com.golang.go.commits.master">@github.com.golang.go.commits.master</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Recent Commits to go:master</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>http://nitter.net/andaerz/rss</h3>
+        <span>[<a href="https://nitter.net/Andaerz">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.net.andaerz">@nitter.net.andaerz</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Andaerz / @Andaerz</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://old.reddit.com/r/gamingonlinuxsub/.rss</h3>
+        <span>[<a href="https://old.reddit.com/r/gamingonlinuxsub/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/old.reddit.com.r.gamingonlinuxsub">@old.reddit.com.r.gamingonlinuxsub</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">gamingonlinuxsub</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://jornalapostoladoangola.org/feed/atom</h3>
+        <span>[<a href="https://jornalapostoladoangola.org">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/jornalapostoladoangola.org">@jornalapostoladoangola.org</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Jornal O Apostolado Angola</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.hilobrow.com/feed</h3>
+        <span>[<a href="https://www.hilobrow.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.hilobrow.com">@www.hilobrow.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">HILOBROW</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.ethernet.fm/feed</h3>
+        <span>[<a href="https://www.ethernet.fm">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 28, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.ethernet.fm">@www.ethernet.fm</a>
+      </p>
+      <p class="info">
+        Last posted: April 21, 2026
+      </p>
+      <p class="title">Ethernet.fm | Ryan Schreiber | Substack</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://conalforjas.com/feed</h3>
+        <span>[<a href="https://conalforjas.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/conalforjas.com">@conalforjas.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">Con Alforjas</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://antorcharevista.org/index.php/feed</h3>
+        <span>[<a href="https://antorcharevista.org/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/antorcharevista.org">@antorcharevista.org</a>
+      </p>
+      <p class="info">
+        Last posted: April 13, 2026
+      </p>
+      <p class="title">Revista Antorcha</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.thesoundprojector.com/feed</h3>
+        <span>[<a href="https://www.thesoundprojector.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.thesoundprojector.com">@www.thesoundprojector.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">The Sound Projector</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UC4Dw1LhPSANxxhkD9wxo7zQ</h3>
+        <span>[<a href="https://www.youtube.com/channel/UC4Dw1LhPSANxxhkD9wxo7zQ">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.uc4dw1lhpsanxxhkd9wxo7zq">@www.youtube.com.channel.uc4dw1lhpsanxxhkd9wxo7zq</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">WIC Science Channel Suomi - YouTube</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.barnebokkritikk.no/feed</h3>
+        <span>[<a href="https://www.barnebokkritikk.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.barnebokkritikk.no">@www.barnebokkritikk.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Barnebokkritikk.no</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://periskop.no/feed</h3>
+        <span>[<a href="https://periskop.no/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/periskop.no">@periskop.no</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Periskop</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://rauli.cbs.dk/index.php/revy/gateway/plugin/WebFeedGatewayPlugin/atom</h3>
+        <span>[<a href="https://rauli.cbs.dk/index.php/revy">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/rauli.cbs.dk.index.php.revy">@rauli.cbs.dk.index.php.revy</a>
+      </p>
+      <p class="info">
+        Last posted: April 8, 2026
+      </p>
+      <p class="title">Revy</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://shellsharks.com/feeds/scroll-feed.xml</h3>
+        <span>[<a href="https://shellsharks.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 27, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/shellsharks.com">@shellsharks.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">shellsharks Scrolls</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCuu8TaJ-CPGV0_dJ-7OEY3A</h3>
+        <span>[<a href="https://www.youtube.com/@jgao1999/videos">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.jgao1999.videos">@www.youtube.com.jgao1999.videos</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Jeff Gao - YouTube</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://feeds.feedburner.com/lokalhistoriewiki/8Cwl4eKSkJZ</h3>
+        <span>[<a href="https://lokalhistoriewiki.no/wiki/Spesial:Nye_sider">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/lokalhistoriewiki.no.wiki.spesial.nye.sider">@lokalhistoriewiki.no.wiki.spesial.nye.sider</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">lokalhistoriewiki.no - Nye sider [nb]</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:5xyjxbl72m4d3je4pj4uvwes/rss</h3>
+        <span>[<a href="https://bsky.app/profile/gruene.de">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.gruene.de">@bsky.app.profile.gruene.de</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">@gruene.de on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.empirix.no/feed</h3>
+        <span>[<a href="https://www.empirix.no/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.empirix.no">@www.empirix.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 27, 2026
+      </p>
+      <p class="title">Empirix</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://feeds.feedburner.com/klartale/Se1lOrCU0JM</h3>
+        <span>[<a href="https://www.klartale.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.klartale.no">@www.klartale.no</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">forsiden - klar tale</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://dblp.org/feed</h3>
+        <span>[<a href="https://dblp.org">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/dblp.org">@dblp.org</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title">dblp: new issues and volumes</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://feeds.feedburner.com/google/u437dooRNN6</h3>
+        <span>[<a href="https://news.google.com/search?q=lillesand&amp;hl=no&amp;gl=NO&amp;ceid=NO:no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/news.google.com.search.q.lillesand.hl.no.gl.no.ceid.no.no">@news.google.com.search.q.lillesand.hl.no.gl.no.ceid.no.no</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title">&#34;lillesand&#34; - Google Nyheter</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://feeds.feedburner.com/fvn/nmuubnb69lr</h3>
+        <span>[<a href="https://www.fvn.no?kat=lokalt">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.fvn.no.kat.lokalt">@www.fvn.no.kat.lokalt</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Nyheter fra Fædrelandsvennen</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCDJULR1Gih0yctzWBMS7EYg</h3>
+        <span>[<a href="https://www.youtube.com/@benjiplant/videos">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.benjiplant.videos">@www.youtube.com.benjiplant.videos</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">benjiplant - YouTube</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCzH5n3Ih5kgQoiDAQt2FwLw</h3>
+        <span>[<a href="https://www.youtube.com/@LifebyMikeG">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.lifebymikeg">@www.youtube.com.lifebymikeg</a>
+      </p>
+      <p class="info">
+        Last posted: May 3, 2026
+      </p>
+      <p class="title">LifebyMikeG - YouTube</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCmIQKT-RzmE1qFTpMK9a_rA</h3>
+        <span>[<a href="https://www.youtube.com/@CuriousOwl-l5p/videos">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 26, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.curiousowl-l5p.videos">@www.youtube.com.curiousowl-l5p.videos</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">A Curious Birb - YouTube</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://crystal-lang.org/feed.xml</h3>
+        <span>[<a href="https://crystal-lang.org/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/crystal-lang.org">@crystal-lang.org</a>
+      </p>
+      <p class="info">
+        Last posted: April 29, 2026
+      </p>
+      <p class="title">The Crystal Programming Language</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCcc_LE8kzIzcloTVAttch5w</h3>
+        <span>[<a href="https://www.youtube.com/@DrJonathanTam">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.drjonathantam">@www.youtube.com.drjonathantam</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Dr. Jonathan Tam - YouTube</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://arendalrockklubb.no/feed</h3>
+        <span>[<a href="https://arendalrockklubb.no/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/arendalrockklubb.no">@arendalrockklubb.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 11, 2026
+      </p>
+      <p class="title">Arendal Rockklubb</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.krscinematek.no/feed</h3>
+        <span>[<a href="https://www.krscinematek.no/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.krscinematek.no">@www.krscinematek.no</a>
+      </p>
+      <p class="info">
+        Last posted: February 3, 2026
+      </p>
+      <p class="title">Cinemateket i Kristiansand</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://gjer.no/feed/instance/atom</h3>
+        <span>[<a href="https://gjer.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/gjer.no">@gjer.no</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Public feed for GjerNo</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://hovaghistorielag.no/feed</h3>
+        <span>[<a href="https://hovaghistorielag.no">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/hovaghistorielag.no">@hovaghistorielag.no</a>
+      </p>
+      <p class="info">
+        Last posted: April 20, 2026
+      </p>
+      <p class="title">Høvåg museums- og historielag</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://irishtechnews.ie/feed</h3>
+        <span>[<a href="https://irishtechnews.ie">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/irishtechnews.ie">@irishtechnews.ie</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Irish Tech News</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://news.zerkalo.io/rss/all.rss</h3>
+        <span>[<a href="https://news.zerkalo.io/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/news.zerkalo.io">@news.zerkalo.io</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">ZERKALO.IO: Новости</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://moovdrives.com/feed</h3>
+        <span>[<a href="https://moovdrives.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/moovdrives.com">@moovdrives.com</a>
+      </p>
+      <p class="info">
+        Last posted: December 20, 2021
+      </p>
+      <p class="title">MOOV</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCbKIWz7uAeDSMgulTonKk6w</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCbKIWz7uAeDSMgulTonKk6w">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucbkiwz7uaedsmgultonkk6w">@www.youtube.com.channel.ucbkiwz7uaedsmgultonkk6w</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Grin Technologies - YouTube</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://broadbandbreakfast.com/rss</h3>
+        <span>[<a href="https://broadbandbreakfast.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/broadbandbreakfast.com">@broadbandbreakfast.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Broadband Breakfast</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UC0AUSYG5r2ppPs7L9CPylPA</h3>
+        <span>[<a href="https://www.youtube.com/channel/UC0AUSYG5r2ppPs7L9CPylPA">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.uc0ausyg5r2ppps7l9cpylpa">@www.youtube.com.channel.uc0ausyg5r2ppps7l9cpylpa</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Iron Master</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCjQhd1APsd5NQhiVZV7GYzg</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCjQhd1APsd5NQhiVZV7GYzg">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucjqhd1apsd5nqhivzv7gyzg">@www.youtube.com.channel.ucjqhd1apsd5nqhivzv7gyzg</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Sabaton</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UC5SdvjkYXdGAqmqAGlxTnpw</h3>
+        <span>[<a href="https://www.youtube.com/channel/UC5SdvjkYXdGAqmqAGlxTnpw">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.uc5sdvjkyxdgaqmqaglxtnpw">@www.youtube.com.channel.uc5sdvjkyxdgaqmqaglxtnpw</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title">Minniva</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://jodiettenberg.substack.com/feed</h3>
+        <span>[<a href="https://jodiettenberg.substack.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 25, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/jodiettenberg.substack.com">@jodiettenberg.substack.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 13, 2026
+      </p>
+      <p class="title">Curious About Everything | Jodi Ettenberg | Substack</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/IpsosScotland/rss</h3>
+        <span>[<a href="https://nitter.poast.org/IpsosScotland">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.ipsosscotland">@nitter.poast.org.ipsosscotland</a>
+      </p>
+      <p class="info">
+        Last posted: April 29, 2026
+      </p>
+      <p class="title">Ipsos Scotland / @IpsosScotland</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://littleforbig.com/feed</h3>
+        <span>[<a href="https://www.littleforbig.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.littleforbig.com">@www.littleforbig.com</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">LittleForBig Cute &amp; Sexy Products</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCaA5wWERI1gyl-iwTkb0JTw</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCaA5wWERI1gyl-iwTkb0JTw">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucaa5wweri1gyl-iwtkb0jtw">@www.youtube.com.channel.ucaa5wweri1gyl-iwtkb0jtw</a>
+      </p>
+      <p class="info">
+        Last posted: May 3, 2026
+      </p>
+      <p class="title">Hobbes Sakuga</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/carnivalcruise/rss</h3>
+        <span>[<a href="https://nitter.poast.org/CarnivalCruise">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.carnivalcruise">@nitter.poast.org.carnivalcruise</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Carnival Cruise Line / @CarnivalCruise</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://my-notes.dragas.net/rss.xml</h3>
+        <span>[<a href="https://my-notes.dragas.net/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/my-notes.dragas.net">@my-notes.dragas.net</a>
+      </p>
+      <p class="info">
+        Last posted: April 22, 2026
+      </p>
+      <p class="title">MyNotes - RSS Feed</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://proton.me/blog/feed</h3>
+        <span>[<a href="https://proton.me/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/proton.me">@proton.me</a>
+      </p>
+      <p class="info">
+        Last posted: April 28, 2026
+      </p>
+      <p class="title">The Proton Blog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCPmGBEAUNUp7UGjY699vF6w</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCPmGBEAUNUp7UGjY699vF6w">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucpmgbeaunup7ugjy699vf6w">@www.youtube.com.channel.ucpmgbeaunup7ugjy699vf6w</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Forkbomb Massacre</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://lagny-sur-marne.fr/feed</h3>
+        <span>[<a href="https://www.lagny-sur-marne.fr">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.lagny-sur-marne.fr">@www.lagny-sur-marne.fr</a>
+      </p>
+      <p class="info">
+        Last posted: April 28, 2026
+      </p>
+      <p class="title">Lagny-sur-Marne</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/fondationfrance/rss</h3>
+        <span>[<a href="https://nitter.poast.org/Fondationfrance">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.fondationfrance">@nitter.poast.org.fondationfrance</a>
+      </p>
+      <p class="info">
+        Last posted: September 8, 2025
+      </p>
+      <p class="title">Fondation de France / @Fondationfrance</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/ffbatiment/rss</h3>
+        <span>[<a href="https://nitter.poast.org/FFBatiment">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.ffbatiment">@nitter.poast.org.ffbatiment</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">FFB - Fédération Française du Bâtiment / @FFBatiment</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://mesinfos.fr/rss.xml</h3>
+        <span>[<a href="https://mesinfos.fr">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/mesinfos.fr">@mesinfos.fr</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">mesinfos</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://batiactu.com/accueil.rss</h3>
+        <span>[<a href="https://www.batiactu.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.batiactu.com">@www.batiactu.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">BATIACTU : Actualité, BTP chantiers, Architecture &amp; Conception (Plus de 60000 articles)</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/cgad_france/rss</h3>
+        <span>[<a href="https://nitter.poast.org/CGAD_france">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.cgad.france">@nitter.poast.org.cgad.france</a>
+      </p>
+      <p class="info">
+        Last posted: April 23, 2026
+      </p>
+      <p class="title">CGAD / @CGAD_france</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/cnatpnationale/rss</h3>
+        <span>[<a href="https://nitter.poast.org/CNATPnationale">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.cnatpnationale">@nitter.poast.org.cnatpnationale</a>
+      </p>
+      <p class="info">
+        Last posted: February 20, 2025
+      </p>
+      <p class="title">CNATP / @CNATPnationale</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://autodiagnostic.capeb.fr/feed</h3>
+        <span>[<a href="https://autodiagnostic.capeb.fr">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/autodiagnostic.capeb.fr">@autodiagnostic.capeb.fr</a>
+      </p>
+      <p class="info">
+        Last posted: February 29, 2024
+      </p>
+      <p class="title">Autodiagnostic CAPEB</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://unapl.fr/feed</h3>
+        <span>[<a href="https://unapl.fr">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/unapl.fr">@unapl.fr</a>
+      </p>
+      <p class="info">
+        Last posted: June 9, 2023
+      </p>
+      <p class="title">UNAPL</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.dudelange.lu/index.php/feed</h3>
+        <span>[<a href="https://www.dudelange.lu">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.dudelange.lu">@www.dudelange.lu</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">Ville de Dudelange</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/itroninc/rss</h3>
+        <span>[<a href="https://nitter.poast.org/ItronInc">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.itroninc">@nitter.poast.org.itroninc</a>
+      </p>
+      <p class="info">
+        Last posted: April 15, 2026
+      </p>
+      <p class="title">Itron, Inc. / @ItronInc</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.privacyredirect.com/clementlanot/rss</h3>
+        <span>[<a href="https://nitter.privacyredirect.com/ClementLanot">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.privacyredirect.com.clementlanot">@nitter.privacyredirect.com.clementlanot</a>
+      </p>
+      <p class="info">
+        Last posted: May 3, 2026
+      </p>
+      <p class="title">Clément Lanot / @ClementLanot</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.certeurope.fr/certeurope/feed</h3>
+        <span>[<a href="https://www.certeurope.fr/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.certeurope.fr">@www.certeurope.fr</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">Commentaires sur : Home</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://feeds.content.dowjones.io/public/rss/socialeconomyfeed</h3>
+        <span>[<a href="https://www.wsj.com/economy">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.wsj.com.economy">@www.wsj.com.economy</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">WSJ.com: Economy</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed</h3>
+        <span>[<a href="https://www.wsj.com/politics">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.wsj.com.politics">@www.wsj.com.politics</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">WSJ.com: Politics</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.infos.marchesonline.com/accueil/feed</h3>
+        <span>[<a href="https://www.infos.marchesonline.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.infos.marchesonline.com">@www.infos.marchesonline.com</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">Commentaires sur : Toute l’actualité de la commande publique</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/infoprodigital/rss</h3>
+        <span>[<a href="https://nitter.poast.org/InfoproDigital">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.infoprodigital">@nitter.poast.org.infoprodigital</a>
+      </p>
+      <p class="info">
+        Last posted: September 18, 2023
+      </p>
+      <p class="title">Infopro Digital / @InfoproDigital</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCiCRAz0xl-ByHh4_zohQNUw</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCiCRAz0xl-ByHh4_zohQNUw">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucicraz0xl-byhh4.zohqnuw">@www.youtube.com.channel.ucicraz0xl-byhh4.zohqnuw</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">The Oracle</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://odeadom.fr/feed</h3>
+        <span>[<a href="https://www.odeadom.fr">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.odeadom.fr">@www.odeadom.fr</a>
+      </p>
+      <p class="info">
+        Last posted: March 18, 2026
+      </p>
+      <p class="title">ODEADOM, Office de développement de l&#39;économie agricole d´outre-mer</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCR_KGVghsWA09_l7UkWjLGA</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCR_KGVghsWA09_l7UkWjLGA">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucr.kgvghswa09.l7ukwjlga">@www.youtube.com.channel.ucr.kgvghswa09.l7ukwjlga</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Agence de services et de paiement</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/cloudinary/rss</h3>
+        <span>[<a href="https://nitter.poast.org/cloudinary">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.cloudinary">@nitter.poast.org.cloudinary</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Cloudinary / @cloudinary</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/ecritel_france/rss</h3>
+        <span>[<a href="https://nitter.poast.org/Ecritel_France">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.ecritel.france">@nitter.poast.org.ecritel.france</a>
+      </p>
+      <p class="info">
+        Last posted: January 13, 2026
+      </p>
+      <p class="title">Ecritel France / @Ecritel_France</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/franceagrimerfr/rss</h3>
+        <span>[<a href="https://nitter.poast.org/FranceAgriMerFR">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.franceagrimerfr">@nitter.poast.org.franceagrimerfr</a>
+      </p>
+      <p class="info">
+        Last posted: December 9, 2024
+      </p>
+      <p class="title">FranceAgriMer / @FranceAgriMerFR</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/netcom89/rss</h3>
+        <span>[<a href="https://nitter.poast.org/NetCom89">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.netcom89">@nitter.poast.org.netcom89</a>
+      </p>
+      <p class="info">
+        Last posted: June 5, 2024
+      </p>
+      <p class="title">Net.Com / @NetCom89</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://github.com/VibingJustSpeakIt/Vibing/tags.atom</h3>
+        <span>[<a href="https://github.com/VibingJustSpeakIt/Vibing/releases">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/github.com.vibingjustspeakit.vibing.releases">@github.com.vibingjustspeakit.vibing.releases</a>
+      </p>
+      <p class="info">
+        Last posted: April 6, 2026
+      </p>
+      <p class="title">Tags from Vibing</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://rossel.be/feed</h3>
+        <span>[<a href="https://www.rossel.be">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.rossel.be">@www.rossel.be</a>
+      </p>
+      <p class="info">
+        Last posted: March 31, 2026
+      </p>
+      <p class="title">Rossel</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://science.feedback.org/fr/feed</h3>
+        <span>[<a href="https://science.feedback.org">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/science.feedback.org">@science.feedback.org</a>
+      </p>
+      <p class="info">
+        Last posted: April 22, 2026
+      </p>
+      <p class="title">Science Feedback</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://rthk9.rthk.hk/rthk/news/rss/e_expressnews_elocal.xml</h3>
+        <span>[<a href="https://news.rthk.hk">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/news.rthk.hk">@news.rthk.hk</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">rthk.hk - Express News: Local</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCzFR2AnPCoKvDn1szeaJLTw</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCzFR2AnPCoKvDn1szeaJLTw">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.uczfr2anpcokvdn1szeajltw">@www.youtube.com.channel.uczfr2anpcokvdn1szeajltw</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">siebz0r</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://jobs.adt.com/feed/#pr0nz</h3>
+        <span>[<a href="https://jobs.adt.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/jobs.adt.com">@jobs.adt.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 7, 2026
+      </p>
+      <p class="title">Careers at ADT</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.luxtimes.lu/tag/crime/rss</h3>
+        <span>[<a href="https://www.luxtimes.lu/tag/crime">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.luxtimes.lu.tag.crime">@www.luxtimes.lu.tag.crime</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Luxembourg Times - Crime</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://radiofrance-podcast.net/podcast09/podcast_13d4ef2f-2aca-4331-949b-bc8da638d670.xml</h3>
+        <span>[<a href="https://www.radiofrance.fr/fip/podcasts/club-jazzafip">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.radiofrance.fr.fip.podcasts.club-jazzafip">@www.radiofrance.fr.fip.podcasts.club-jazzafip</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Club Jazzafip</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://radiofrance-podcast.net/podcast09/podcast_dfcc4b25-5cc8-47cc-99d9-5d6612840f22.xml</h3>
+        <span>[<a href="https://www.ici.fr/emissions/affaires-classees">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.ici.fr.emissions.affaires-classees">@www.ici.fr.emissions.affaires-classees</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Affaires classées racontées par Thierry Sagardoytho</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://fsinf.informatik.uni-leipzig.de/atom.xml</h3>
+        <span>[<a href="https://fsinf.informatik.uni-leipzig.de">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 24, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/fsinf.informatik.uni-leipzig.de">@fsinf.informatik.uni-leipzig.de</a>
+      </p>
+      <p class="info">
+        Last posted: April 24, 2026
+      </p>
+      <p class="title">FSInf</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://pubmed.ncbi.nlm.nih.gov/rss/search/1fU8XZK4YhHEwwxHJPj0wias65oQqskKl3Us0d7KijXyJIFEEi/</h3>
+        <span>[<a href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1fU8XZK4YhHEwwxHJPj0wias65oQqskKl3Us0d7KijXyJIFEEi&amp;utm_content=1fU8XZK4YhHEwwxHJPj0wias65oQqskKl3Us0d7KijXyJIFEEi&amp;utm_source=RSS-Parrot-Bot&amp;ff=20260423183435&amp;utm_medium=rss&amp;v=2.19.0.post6&#43;133c1fe">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/pubmed.ncbi.nlm.nih.gov.rss-feed.feed.id.1fu8xzk4yhhewwxhjpj0wias65oqqskkl3us0d7kijxyjifeei.utm.content.1fu8xzk4yhhewwxhjpj0wias65oqqskkl3us0d7kijxyjifeei.utm.source.rss-parrot-bot.ff.20260423183435.utm.medium.rss.v.2.19.0.post6.133c1fe">@pubmed.ncbi.nlm.nih.gov.rss-feed.feed.id.1fu8xzk4yhhewwxhjpj0wias65oqqskkl3us0d7kijxyjifeei.utm.content.1fu8xzk4yhhewwxhjpj0wias65oqqskkl3us0d7kijxyjifeei.utm.source.rss-parrot-bot.ff.20260423183435.utm.medium.rss.v.2.19.0.post6.133c1fe</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title">(multiple sclerosis[TIAB] AND microglia [TIAB] AND (modulate [tiab] OR therapy [tiab]) )</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://pubmed.ncbi.nlm.nih.gov/rss/search/1BKD3NT7c-BB2OX2P4gq17ANUKDwTGC2lCFjxpodg3qEwx1cZI/</h3>
+        <span>[<a href="https://pubmed.ncbi.nlm.nih.gov/rss-feed/?feed_id=1BKD3NT7c-BB2OX2P4gq17ANUKDwTGC2lCFjxpodg3qEwx1cZI&amp;utm_content=1BKD3NT7c-BB2OX2P4gq17ANUKDwTGC2lCFjxpodg3qEwx1cZI&amp;utm_medium=rss&amp;ff=20260423180744&amp;utm_source=RSS-Parrot-Bot&amp;v=2.19.0.post6&#43;133c1fe">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/pubmed.ncbi.nlm.nih.gov.rss-feed.feed.id.1bkd3nt7c-bb2ox2p4gq17anukdwtgc2lcfjxpodg3qewx1czi.utm.content.1bkd3nt7c-bb2ox2p4gq17anukdwtgc2lcfjxpodg3qewx1czi.utm.medium.rss.ff.20260423180744.utm.source.rss-parrot-bot.v.2.19.0.post6.133c1fe">@pubmed.ncbi.nlm.nih.gov.rss-feed.feed.id.1bkd3nt7c-bb2ox2p4gq17anukdwtgc2lcfjxpodg3qewx1czi.utm.content.1bkd3nt7c-bb2ox2p4gq17anukdwtgc2lcfjxpodg3qewx1czi.utm.medium.rss.ff.20260423180744.utm.source.rss-parrot-bot.v.2.19.0.post6.133c1fe</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Multiple [TIAB] AND sclerosis [TIAB] AND therapy [TIAB] AND trial</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:rn73hbenztpulroieqypnw5b/rss</h3>
+        <span>[<a href="https://bsky.app/profile/geochemsoc.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.geochemsoc.bsky.social">@bsky.app.profile.geochemsoc.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: April 27, 2026
+      </p>
+      <p class="title">@geochemsoc.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:bcen47iol6hccqoufvtk7wt6/rss</h3>
+        <span>[<a href="https://bsky.app/profile/gregggonsalves.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.gregggonsalves.bsky.social">@bsky.app.profile.gregggonsalves.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">@gregggonsalves.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCRu1gU9refuIqqaV7_cZJ8w</h3>
+        <span>[<a href="https://www.youtube.com/channel/UCRu1gU9refuIqqaV7_cZJ8w">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucru1gu9refuiqqav7.czj8w">@www.youtube.com.channel.ucru1gu9refuiqqav7.czj8w</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title">Animeka Network</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://uni-luebeck.de/universitaet/universitaet/rss.xml</h3>
+        <span>[<a href="https://www.uni-luebeck.de/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.uni-luebeck.de">@www.uni-luebeck.de</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Pressemeldungen der Universität zu Lübeck</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://dfir.ch/posts/index.xml</h3>
+        <span>[<a href="https://dfir.ch/posts/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/dfir.ch.posts">@dfir.ch.posts</a>
+      </p>
+      <p class="info">
+        Last posted: November 16, 2025
+      </p>
+      <p class="title">Posts on dfir.ch</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://element.io/blog/rss</h3>
+        <span>[<a href="https://element.io/blog/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/element.io.blog">@element.io.blog</a>
+      </p>
+      <p class="info">
+        Last posted: April 22, 2026
+      </p>
+      <p class="title">Element Blog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://eclypsium.com/feed</h3>
+        <span>[<a href="https://eclypsium.com/home/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/eclypsium.com.home">@eclypsium.com.home</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">Eclypsium | Supply Chain Security for the Modern Enterprise</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://sandflysecurity.com/blog/rss.xml</h3>
+        <span>[<a href="https://sandflysecurity.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/sandflysecurity.com">@sandflysecurity.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 9, 2026
+      </p>
+      <p class="title">Sandfly Security Blog RSS Feed</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bgstack15.ddns.net/blog/rss.xml</h3>
+        <span>[<a href="https://bgstack15.ddns.net/blog/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bgstack15.ddns.net.blog">@bgstack15.ddns.net.blog</a>
+      </p>
+      <p class="info">
+        Last posted: May 2, 2026
+      </p>
+      <p class="title">Knowledge Base</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://codeberg.org/ironfox-oss/IronFox.rss</h3>
+        <span>[<a href="https://codeberg.org/ironfox-oss/IronFox">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/codeberg.org.ironfox-oss.ironfox">@codeberg.org.ironfox-oss.ironfox</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">Feed of &#34;ironfox-oss/IronFox&#34;</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://celenity.dev/index.xml</h3>
+        <span>[<a href="https://celenity.dev/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/celenity.dev">@celenity.dev</a>
+      </p>
+      <p class="info">
+        Last posted: February 20, 2026
+      </p>
+      <p class="title">💘</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.dwarmstrong.org/feed.xml</h3>
+        <span>[<a href="https://www.dwarmstrong.org">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.dwarmstrong.org">@www.dwarmstrong.org</a>
+      </p>
+      <p class="info">
+        Last posted: April 16, 2026
+      </p>
+      <p class="title">Daniel Wayne Armstrong</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://pled.fr/feed</h3>
+        <span>[<a href="https://pled.fr">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/pled.fr">@pled.fr</a>
+      </p>
+      <p class="info">
+        Last posted: April 29, 2026
+      </p>
+      <p class="title">Pascal&#39;s weblog</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://blog.feld.me/feeds/all.rss.xml</h3>
+        <span>[<a href="https://blog.feld.me/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/blog.feld.me">@blog.feld.me</a>
+      </p>
+      <p class="info">
+        Last posted: May 1, 2026
+      </p>
+      <p class="title">Makefile.feld</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://sunkencastles.com/feed</h3>
+        <span>[<a href="https://sunkencastles.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/sunkencastles.com">@sunkencastles.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 20, 2026
+      </p>
+      <p class="title">Sunken Castles, Evil Poodles</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://libreboot.org/news/feed.xml</h3>
+        <span>[<a href="https://libreboot.org/news">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/libreboot.org.news">@libreboot.org.news</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">News about Libreboot releases and development</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://fedfree.org/news/feed.xml</h3>
+        <span>[<a href="https://fedfree.org/news">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/fedfree.org.news">@fedfree.org.news</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">News for fedfree.org</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://www.nagoyatv.com/rss2.xml</h3>
+        <span>[<a href="http://www.nagoyatv.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.nagoyatv.com">@www.nagoyatv.com</a>
+      </p>
+      <p class="info">
+        Last posted: January 1, 1900
+      </p>
+      <p class="title">名古屋テレビ【メ～テレ】</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:nc4iv4jdznfq66cgxrcdu6ea/rss</h3>
+        <span>[<a href="https://bsky.app/profile/exemplaire.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 23, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.exemplaire.bsky.social">@bsky.app.profile.exemplaire.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">@exemplaire.bsky.social - exemplaire_editions</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://elsental.fr/feed</h3>
+        <span>[<a href="https://elsental.fr/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/elsental.fr">@elsental.fr</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">Dans la tête d&#39;Elsental</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://piie.com/rss/update.xml</h3>
+        <span>[<a href="https://www.piie.com/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.piie.com">@www.piie.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 6, 2026
+      </p>
+      <p class="title">Peterson Institute Update</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://lfm.ch/feed</h3>
+        <span>[<a href="https://www.lfm.ch">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.lfm.ch">@www.lfm.ch</a>
+      </p>
+      <p class="info">
+        Last posted: May 5, 2026
+      </p>
+      <p class="title">LFM la radio</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://mercotte.fr/feed</h3>
+        <span>[<a href="https://www.mercotte.fr">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.mercotte.fr">@www.mercotte.fr</a>
+      </p>
+      <p class="info">
+        Last posted: December 11, 2025
+      </p>
+      <p class="title">La cuisine de Mercotte :: Macarons, Verrines, … et chocolat</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.poast.org/crisiscenterbe/rss</h3>
+        <span>[<a href="https://nitter.poast.org/CrisiscenterBE">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.crisiscenterbe">@nitter.poast.org.crisiscenterbe</a>
+      </p>
+      <p class="info">
+        Last posted: April 21, 2026
+      </p>
+      <p class="title">CrisisCenter Belgium / @CrisiscenterBE</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://rugbycoqmosan.be/blog-feed.xml</h3>
+        <span>[<a href="https://www.rugbycoqmosan.be/blog">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/www.rugbycoqmosan.be.blog">@www.rugbycoqmosan.be.blog</a>
+      </p>
+      <p class="info">
+        Last posted: September 3, 2021
+      </p>
+      <p class="title">Rugby Coq Mosan</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://tele-accueil.be/feed</h3>
+        <span>[<a href="https://tele-accueil.be">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/tele-accueil.be">@tele-accueil.be</a>
+      </p>
+      <p class="info">
+        Last posted: December 1, 2025
+      </p>
+      <p class="title">Télé Accueil</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://militarnyi.com/uk/feed</h3>
+        <span>[<a href="https://militarnyi.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since April 22, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/militarnyi.com">@militarnyi.com</a>
+      </p>
+      <p class="info">
+        Last posted: April 27, 2026
+      </p>
+      <p class="title">Мілітарний</p>
+    </article>
+  
+  <nav class="pager">
+  
+    <a href="/web/feeds" class="selected">1</a>
+  
+    <a href="/web/feeds?page=1" class="">2</a>
+  
+    <a href="/web/feeds?page=2" class="">3</a>
+  
+    <a href="/web/feeds?page=3" class="">4</a>
+  
+    <a href="/web/feeds?page=4" class="">5</a>
+  
+    <a href="/web/feeds?page=5" class="">6</a>
+  
+    <a href="/web/feeds?page=6" class="">7</a>
+  
+    <a href="/web/feeds?page=7" class="">8</a>
+  
+    <a href="/web/feeds?page=8" class="">9</a>
+  
+    <a href="/web/feeds?page=9" class="">10</a>
+  
+    <a href="/web/feeds?page=10" class="">11</a>
+  
+    <a href="/web/feeds?page=11" class="">12</a>
+  
+    <a href="/web/feeds?page=12" class="">13</a>
+  
+    <a href="/web/feeds?page=13" class="">14</a>
+  
+    <a href="/web/feeds?page=14" class="">15</a>
+  
+    <a href="/web/feeds?page=15" class="">16</a>
+  
+    <a href="/web/feeds?page=16" class="">17</a>
+  
+    <a href="/web/feeds?page=17" class="">18</a>
+  
+    <a href="/web/feeds?page=18" class="">19</a>
+  
+    <a href="/web/feeds?page=19" class="">20</a>
+  
+    <a href="/web/feeds?page=20" class="">21</a>
+  
+    <a href="/web/feeds?page=21" class="">22</a>
+  
+    <a href="/web/feeds?page=22" class="">23</a>
+  
+    <a href="/web/feeds?page=23" class="">24</a>
+  
+    <a href="/web/feeds?page=24" class="">25</a>
+  
+    <a href="/web/feeds?page=25" class="">26</a>
+  
+    <a href="/web/feeds?page=26" class="">27</a>
+  
+    <a href="/web/feeds?page=27" class="">28</a>
+  
+    <a href="/web/feeds?page=28" class="">29</a>
+  
+    <a href="/web/feeds?page=29" class="">30</a>
+  
+    <a href="/web/feeds?page=30" class="">31</a>
+  
+    <a href="/web/feeds?page=31" class="">32</a>
+  
+    <a href="/web/feeds?page=32" class="">33</a>
+  
+    <a href="/web/feeds?page=33" class="">34</a>
+  
+    <a href="/web/feeds?page=34" class="">35</a>
+  
+    <a href="/web/feeds?page=35" class="">36</a>
+  
+    <a href="/web/feeds?page=36" class="">37</a>
+  
+    <a href="/web/feeds?page=37" class="">38</a>
+  
+    <a href="/web/feeds?page=38" class="">39</a>
+  
+    <a href="/web/feeds?page=39" class="">40</a>
+  
+    <a href="/web/feeds?page=40" class="">41</a>
+  
+    <a href="/web/feeds?page=41" class="">42</a>
+  
+    <a href="/web/feeds?page=42" class="">43</a>
+  
+    <a href="/web/feeds?page=43" class="">44</a>
+  
+    <a href="/web/feeds?page=44" class="">45</a>
+  
+    <a href="/web/feeds?page=45" class="">46</a>
+  
+    <a href="/web/feeds?page=46" class="">47</a>
+  
+    <a href="/web/feeds?page=47" class="">48</a>
+  
+    <a href="/web/feeds?page=48" class="">49</a>
+  
+    <a href="/web/feeds?page=49" class="">50</a>
+  
+    <a href="/web/feeds?page=50" class="">51</a>
+  
+    <a href="/web/feeds?page=51" class="">52</a>
+  
+    <a href="/web/feeds?page=52" class="">53</a>
+  
+    <a href="/web/feeds?page=53" class="">54</a>
+  
+    <a href="/web/feeds?page=54" class="">55</a>
+  
+    <a href="/web/feeds?page=55" class="">56</a>
+  
+    <a href="/web/feeds?page=56" class="">57</a>
+  
+    <a href="/web/feeds?page=57" class="">58</a>
+  
+    <a href="/web/feeds?page=58" class="">59</a>
+  
+    <a href="/web/feeds?page=59" class="">60</a>
+  
+  </nav>
+  <div class="bottom-spacer"></div>
+
+  </main>
+  <footer>
+    <p class="source">
+      <a href="https://codeberg.org/gugray/rss-parrot">
+        <span>Source code&nbsp;</span>
+        <span><svg class="inline-icon"><use href="#icon-codeberg-logo"></use></svg></span>
+      </a>
+    </p>
+    <p>&bull;</p>
+    <p id="version">v0.0.99
+</p>
+  </footer>
+</div>
+</body>
+</html>

@@ -6,5 +6,9 @@
   "https://www.irna.ir/rss": "HTTPSConnectionPool(host='www.irna.ir', port=443): Read timed out.",
   "https://openrss.org/apnews.com/hub/world-news": "HTTPSConnectionPool(host='openrss.org', port=443): Max retries exceeded with url: /apnews.com/hub/world-news (Caused by ConnectTimeoutError(<HTTPSConnection(host='openrss.org', port=443) at 0x7fba62f5b380>, 'Connection to openrss.org timed out. (connect timeout=30)'))",
   "https://rsshub.app/apnews/topics/world-news": "403 Client Error: Forbidden for url: https://rsshub.app/apnews/topics/world-news",
-  "https://news.bitcoin.com/feed/": "404 Client Error: Not Found for url: https://news.bitcoin.com/feed/"
+  "https://news.bitcoin.com/feed/": "404 Client Error: Not Found for url: https://news.bitcoin.com/feed/",
+  "http://feeds.reuters.com/Reuters/worldNews": "HTTPConnectionPool(host='feeds.reuters.com', port=80): Max retries exceeded with url: /Reuters/worldNews (Caused by NameResolutionError(\"HTTPConnection(host='feeds.reuters.com', port=80): Failed to resolve 'feeds.reuters.com' ([Errno -2] Name or service not known)\"))",
+  "https://feeds.latimes.com/world": "HTTPSConnectionPool(host='feeds.latimes.com', port=443): Max retries exceeded with url: /world (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+  "https://www.yahoo.com/news/rss": "403 Client Error: Forbidden for url: https://www.yahoo.com/news/rss/",
+  "http://rss.xinhuanet.com/rss/world.xml": "HTTPConnectionPool(host='rss.xinhuanet.com', port=80): Max retries exceeded with url: /rss/world.xml (Caused by NameResolutionError(\"HTTPConnection(host='rss.xinhuanet.com', port=80): Failed to resolve 'rss.xinhuanet.com' ([Errno -2] Name or service not known)\"))"
 }

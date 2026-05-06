@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-06T03:29:16Z</dc:date>
+  <dc:date>2026-05-06T06:19:24Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/australia-suspect-in-bondi-massacre-to-face-more-charges/a-77060769?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/australia-says-13-is-linked-citizens-to-fly-back-from-syria/a-77060174?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-government-collapses-after-prime-minister-ilie-bolojan-loses-confidence-vote/a-77047950?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/decoding-china-beijing-courts-europe-amid-us-dysfunction/a-77038349?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-sea-that-is-vanishing-in-real-time/a-76813409?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-india-to-iran-how-hitler-redefined-aryan-for-the-nazis/a-77046616?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-all-1573-rdf"/>
@@ -152,6 +152,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/australia-suspect-in-bondi-massacre-to-face-more-charges/a-77060769?maca=en-rss-en-all-1573-rdf">
+  <title>Australia: Suspect in Bondi massacre to face more charges</title>
+  <link>https://www.dw.com/en/australia-suspect-in-bondi-massacre-to-face-more-charges/a-77060769?maca=en-rss-en-all-1573-rdf</link>
+  <description>Nineteen extra charges have been laid against a 24-year-old man accused of carrying out a deadly mass shooting on a Jewish festival in 2025. The attack took place at the iconic Bondi Beach in Sydney.</description>
+  <dc:date>2026-05-06T06:15:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77060769</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/australia-says-13-is-linked-citizens-to-fly-back-from-syria/a-77060174?maca=en-rss-en-all-1573-rdf">
+  <title>Australia says 13 IS-linked citizens to fly back from Syria</title>
+  <link>https://www.dw.com/en/australia-says-13-is-linked-citizens-to-fly-back-from-syria/a-77060174?maca=en-rss-en-all-1573-rdf</link>
+  <description>A group of four Australian women and nine children related to &quot;Islamic State&quot; group have booked their flights from Syria to Australia. Some of them will face charges on arrival.</description>
+  <dc:date>2026-05-06T04:39:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77060174</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine: Dozens killed hours before Kyiv-proposed ceasefire</title>
   <link>https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf</link>
@@ -313,24 +331,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77047950</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-all-1573-rdf">
-  <title>Germany: Couple admits €1.9 million parking meter thefts</title>
-  <link>https://www.dw.com/en/germany-couple-admits-€1-9-million-parking-meter-thefts/a-77052664?maca=en-rss-en-all-1573-rdf</link>
-  <description>A German couple accused of siphoning large quantities of cash from parking meters has confessed in court. Nearly two million euros disappeared from machines in a picturesque Bavarian town — but no one noticed for years.</description>
-  <dc:date>2026-05-05T11:17:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77052664</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/decoding-china-beijing-courts-europe-amid-us-dysfunction/a-77038349?maca=en-rss-en-all-1573-rdf">
-  <title>Decoding China: Beijing courts Europe amid US dysfunction</title>
-  <link>https://www.dw.com/en/decoding-china-beijing-courts-europe-amid-us-dysfunction/a-77038349?maca=en-rss-en-all-1573-rdf</link>
-  <description>China is hoping to secure new allies for a future multipolar world order as the partnership between the US and the European powers slides into a crisis.</description>
-  <dc:date>2026-05-05T10:55:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77038349</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/the-sea-that-is-vanishing-in-real-time/a-76813409?maca=en-rss-en-all-1573-rdf">
   <title>The sea that is vanishing in real time</title>

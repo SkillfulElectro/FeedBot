@@ -8,12 +8,12 @@
   <meta name="og:description" content="Home of RSS Parrot, a free Fediverse service that lets you turn Mastodon into an RSS or Atom feed reader." />
 
 
-  <link rel="stylesheet" href="/assets/style.css?ver=1778032804448">
+  <link rel="stylesheet" href="/assets/style.css?ver=1778040174774">
   <script defer data-domain="rss-parrot.net" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
 
-<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1778032804448"
+<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1778040174774"
         onload="this.parentNode.replaceChild(this.contentDocument.documentElement, this)">
 </object>
 
@@ -37,6 +37,20 @@
       
   <h2>Feeds watched by the Parrot</h2>
   <p><i>These are the feeds the Parrot is currently following. More recently requested are at the top.</i></p>
+  
+    <article class="feed">
+      <div>
+        <h3>https://psl-t20.com/feed</h3>
+        <span>[<a href="https://psl-t20.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 6, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/psl-t20.com">@psl-t20.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">HBL Pakistan Super League</p>
+    </article>
   
     <article class="feed">
       <div>
@@ -425,7 +439,7 @@
         <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.kawasakifm">@nitter.poast.org.kawasakifm</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">かわさきFM📻7区がひとつ 79.1MHz🎶川崎市のラジオ局みんなで繋がろう / @kawasakifm</p>
     </article>
@@ -677,7 +691,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.nrz.de.lokales.dinslaken-huenxe-voerde">@www.nrz.de.lokales.dinslaken-huenxe-voerde</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">Aktuelle Nachrichten aus Dinslaken</p>
     </article>
@@ -915,7 +929,7 @@
         <a href="https://rss-parrot.net/web/feeds/rett24.no.rss">@rett24.no.rss</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title"> Rett24 rss </p>
     </article>
@@ -1699,7 +1713,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.hilobrow.com">@www.hilobrow.com</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">HILOBROW</p>
     </article>
@@ -1937,7 +1951,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.fvn.no.kat.lokalt">@www.fvn.no.kat.lokalt</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">Nyheter fra Fædrelandsvennen</p>
     </article>
@@ -2091,7 +2105,7 @@
         <a href="https://rss-parrot.net/web/feeds/news.zerkalo.io">@news.zerkalo.io</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">ZERKALO.IO: Новости</p>
     </article>
@@ -2822,20 +2836,6 @@
         Last posted: May 5, 2026
       </p>
       <p class="title">@gregggonsalves.bsky.social on Bluesky</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://www.youtube.com/feeds/videos.xml?channel_id=UCRu1gU9refuIqqaV7_cZJ8w</h3>
-        <span>[<a href="https://www.youtube.com/channel/UCRu1gU9refuIqqaV7_cZJ8w">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 23, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/www.youtube.com.channel.ucru1gu9refuiqqav7.czj8w">@www.youtube.com.channel.ucru1gu9refuiqqav7.czj8w</a>
-      </p>
-      <p class="info">
-        Last posted: May 5, 2026
-      </p>
-      <p class="title">Animeka Network</p>
     </article>
   
   <nav class="pager">

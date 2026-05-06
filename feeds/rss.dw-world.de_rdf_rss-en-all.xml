@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-06T19:50:34Z</dc:date>
+  <dc:date>2026-05-06T21:13:46Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cnn-founder-ted-turner-has-died-at-87/a-77069817?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/biontech-faces-its-biggest-post-pandemic-crisis/a-77061364?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/north-korea-drops-reunification-goal-from-constitution/a-77061282?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/israel-strikes-beirut-for-first-time-since-lebanon-ceasefire/live-77059422?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-happens-when-cities-ban-cars/a-76984918?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-twin-explosions-put-punjab-on-edge/live-77060808?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-all-1573-rdf"/>
@@ -155,6 +155,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-all-1573-rdf">
+  <title>Bayern Munich exit Champions League in semifinal to PSG</title>
+  <link>https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-all-1573-rdf</link>
+  <description>Holders Paris Saint-Germain are one game away from retaining the Champions League after knocking out German champions Bayern Munich. Bayern can still complete the domestic double but again miss out on the big one.</description>
+  <dc:date>2026-05-06T20:55:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77072250</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-rdf">
   <title>Germany cracks down on neo-Nazi networks</title>
   <link>https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-rdf</link>
@@ -325,15 +334,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76984918</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-twin-explosions-put-punjab-on-edge/live-77060808?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Twin explosions put Punjab on edge</title>
-  <link>https://www.dw.com/en/india-news-twin-explosions-put-punjab-on-edge/live-77060808?maca=en-rss-en-all-1573-rdf</link>
-  <description>Two explosions near military complexes have put the northern state of Punjab on edge. Authorities are still investigating the source of the blasts. Meanwhile TVK&apos;s Vijay seeks an alliance in Tamil Nadu.</description>
-  <dc:date>2026-05-06T06:48:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77060808</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-rdf">
   <title>Spain to receive hantavirus-hit ship in Canary Islands</title>

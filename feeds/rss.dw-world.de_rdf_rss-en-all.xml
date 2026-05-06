@@ -7,11 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-05T23:51:05Z</dc:date>
+  <dc:date>2026-05-06T03:29:16Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-operation-epic-fury-is-over-rubio-says/live-77059422?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-all-1573-rdf"/>
@@ -142,7 +143,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/60-years-after-the-indonesian-mass-killings-is-the-cold-war-back/a-76504740?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/homegrown-energy-is-slashing-us-energy-bills/a-76566780?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/one-in-five-young-germans-plan-to-leave-the-country/a-76689505?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -152,11 +152,20 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/iran-war-operation-epic-fury-is-over-rubio-says/live-77059422?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: Operation Epic Fury is &apos;over,&apos; Rubio says</title>
-  <link>https://www.dw.com/en/iran-war-operation-epic-fury-is-over-rubio-says/live-77059422?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US Secretary of State says that US forces will now only operate defensively to enforce a naval blockade of Iran, which in turn has denied attacking the United Arab Emirates this week. DW has more.</description>
-  <dc:date>2026-05-05T22:38:00Z</dc:date>
+ <item rdf:about="https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine: Dozens killed hours before Kyiv-proposed ceasefire</title>
+  <link>https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Russian strikes came just hours before a unilaterally proposed Ukrainian ceasefire and days before Russia itself intends to observe a ceasefire. Volodymyr Zelenskyy condemned &quot;cynical, vile&quot; attacks by Russia.</description>
+  <dc:date>2026-05-06T02:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77059886</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-rdf">
+  <title>Iran war: Trump says Project Freedom &apos;paused&apos;</title>
+  <link>https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Trump says the US effort to escort ships through the Strait of Hormuz is on pause amid a push for an Iran deal. The US says it will now only operate defensively to enforce a naval blockade. DW has more.</description>
+  <dc:date>2026-05-06T00:22:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77059422</dwsyn:contentID>
@@ -1330,14 +1339,5 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76689505</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-all-1573-rdf">
-  <title>Mediterranean sharks are vanishing in a legal void</title>
-  <link>https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-all-1573-rdf</link>
-  <description>Along Libya&apos;s coast, sharks — including breeding females — are being sold unchecked. With little enforcement and growing financial pressure on fishermen, vulnerable species are spiraling toward extinction.</description>
-  <dc:date>2026-04-06T07:05:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76594337</dwsyn:contentID>
  </item>
 </rdf:RDF>

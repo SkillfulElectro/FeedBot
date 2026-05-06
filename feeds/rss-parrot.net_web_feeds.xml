@@ -8,12 +8,12 @@
   <meta name="og:description" content="Home of RSS Parrot, a free Fediverse service that lets you turn Mastodon into an RSS or Atom feed reader." />
 
 
-  <link rel="stylesheet" href="/assets/style.css?ver=1777953829781">
+  <link rel="stylesheet" href="/assets/style.css?ver=1778032804448">
   <script defer data-domain="rss-parrot.net" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
 
-<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1777953829781"
+<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1778032804448"
         onload="this.parentNode.replaceChild(this.contentDocument.documentElement, this)">
 </object>
 
@@ -37,6 +37,20 @@
       
   <h2>Feeds watched by the Parrot</h2>
   <p><i>These are the feeds the Parrot is currently following. More recently requested are at the top.</i></p>
+  
+    <article class="feed">
+      <div>
+        <h3>https://cmosshoptalk.com/feed</h3>
+        <span>[<a href="https://cmosshoptalk.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 6, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/cmosshoptalk.com">@cmosshoptalk.com</a>
+      </p>
+      <p class="info">
+        Last posted: November 25, 2025
+      </p>
+      <p class="title">CMOS Shop Talk - From the Chicago Manual of Style</p>
+    </article>
   
     <article class="feed">
       <div>
@@ -719,7 +733,7 @@
         <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.profsaunders.bsky.social">@bsky.app.profile.profsaunders.bsky.social</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">@profsaunders.bsky.social on Bluesky</p>
     </article>
@@ -789,7 +803,7 @@
         <a href="https://rss-parrot.net/web/feeds/badmachinery.com">@badmachinery.com</a>
       </p>
       <p class="info">
-        Last posted: May 4, 2026
+        Last posted: May 5, 2026
       </p>
       <p class="title">Bad Machinery</p>
     </article>
@@ -831,7 +845,7 @@
         <a href="https://rss-parrot.net/web/feeds/nitter.net.theo">@nitter.net.theo</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">Theo - t3.gg / @theo</p>
     </article>
@@ -1041,7 +1055,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.tecmundo.com.br">@www.tecmundo.com.br</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">Novidades do TecMundo</p>
     </article>
@@ -1083,7 +1097,7 @@
         <a href="https://rss-parrot.net/web/feeds/surf.social.feed.01kn7q631en3bhe9g8r2gfkhb0">@surf.social.feed.01kn7q631en3bhe9g8r2gfkhb0</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">Bristol Surf Social feed</p>
     </article>
@@ -1321,7 +1335,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.woodtv.com">@www.woodtv.com</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">WOODTV.com</p>
     </article>
@@ -1391,7 +1405,7 @@
         <a href="https://rss-parrot.net/web/feeds/bamada.net">@bamada.net</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">Bamada.net</p>
     </article>
@@ -1461,7 +1475,7 @@
         <a href="https://rss-parrot.net/web/feeds/thedriven.io">@thedriven.io</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">The Driven | Your best source for electric vehicle news &amp; analysis.</p>
     </article>
@@ -2343,7 +2357,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.batiactu.com">@www.batiactu.com</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">BATIACTU : Actualité, BTP chantiers, Architecture &amp; Conception (Plus de 60000 articles)</p>
     </article>
@@ -2483,7 +2497,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.wsj.com.politics">@www.wsj.com.politics</a>
       </p>
       <p class="info">
-        Last posted: May 5, 2026
+        Last posted: May 6, 2026
       </p>
       <p class="title">WSJ.com: Politics</p>
     </article>
@@ -2822,20 +2836,6 @@
         Last posted: May 5, 2026
       </p>
       <p class="title">Animeka Network</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://uni-luebeck.de/universitaet/universitaet/rss.xml</h3>
-        <span>[<a href="https://www.uni-luebeck.de/">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 23, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/www.uni-luebeck.de">@www.uni-luebeck.de</a>
-      </p>
-      <p class="info">
-        Last posted: May 5, 2026
-      </p>
-      <p class="title">Pressemeldungen der Universität zu Lübeck</p>
     </article>
   
   <nav class="pager">

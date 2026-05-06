@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-06T11:25:20Z</dc:date>
+  <dc:date>2026-05-06T13:14:44Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-s-nicobar-gamble-for-power-and-position-against-china/a-77064418?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ghana-debates-ban-on-sex-for-jobs-practices/a-77062838?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-canary-islands-objects-to-docking-of-cruise-ship/live-77063670?maca=en-rss-en-all-1573-rdf"/>
@@ -29,12 +31,10 @@
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-will-tensions-escalate-in-the-strait-of-hormuz/a-77057831?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-who-is-cdu-parliamentary-leader-jens-spahn/a-77056956?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-difficult-first-year-for-chancellor-friedrich-merz/a-77053478?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf"/>
@@ -155,6 +155,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf">
+  <title>Venice Biennale in crisis: The controversies explained</title>
+  <link>https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf</link>
+  <description>Following the resignation of the jury over Russia&apos;s and Israel&apos;s disputed participation, the traditional Golden Lion will not be awarded this year.</description>
+  <dc:date>2026-05-06T12:52:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>76807499</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-s-nicobar-gamble-for-power-and-position-against-china/a-77064418?maca=en-rss-en-all-1573-rdf">
+  <title>India&apos;s Nicobar gamble for power and position against China</title>
+  <link>https://www.dw.com/en/india-s-nicobar-gamble-for-power-and-position-against-china/a-77064418?maca=en-rss-en-all-1573-rdf</link>
+  <description>At the edge of the Indian Ocean, a remote island is being turned into a strategic hub that New Delhi hopes will shape trade routes and boost its military reach.</description>
+  <dc:date>2026-05-06T12:38:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77064418</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-rdf">
   <title>Romania&apos;s government falls, far-right firewall crumbles</title>
   <link>https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-rdf</link>
@@ -212,7 +230,7 @@
  <item rdf:about="https://www.dw.com/en/iran-war-how-the-jet-fuel-shortage-affects-air-travel/a-77047977?maca=en-rss-en-all-1573-rdf">
   <title>Iran War: How the jet fuel shortage affects air travel</title>
   <link>https://www.dw.com/en/iran-war-how-the-jet-fuel-shortage-affects-air-travel/a-77047977?maca=en-rss-en-all-1573-rdf</link>
-  <description>Jet fuel supply could become a problem for the aviation industry. Passengers should expect disruption beyond higher prices.</description>
+  <description>A jet fuel supply crunch is looming large over the aviation industry. Passengers should brace themselves for more than higher prices.</description>
   <dc:date>2026-05-06T08:28:00Z</dc:date>
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
@@ -241,7 +259,7 @@
   <link>https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-rdf</link>
   <description>US President Trump says the US effort to escort ships through the Strait of Hormuz is on pause amid a push for an Iran deal. The US says it will now only operate defensively to enforce a naval blockade. DW has more.</description>
   <dc:date>2026-05-06T07:09:00Z</dc:date>
-  <dc:subject>World</dc:subject>
+  <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77059422</dwsyn:contentID>
  </item>
@@ -317,15 +335,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77058088</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf">
-  <title>Boko Haram militants kill at least 23 troops in Chad attack</title>
-  <link>https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-rdf</link>
-  <description>Chad&apos;s President Mahamat Idriss Deby Itno vowed to eradicate Boko Haram after the &quot;cowardly&quot; attack. Boko Haram is one of several armed groups operating around Lake Chad.</description>
-  <dc:date>2026-05-05T16:10:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77057854</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf">
   <title>Armenia balances on the tightrope between Russia and the EU</title>
   <link>https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf</link>
@@ -361,15 +370,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77054325</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf">
-  <title>Venice Biennale in crisis: The controversies explained</title>
-  <link>https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf</link>
-  <description>The traditional Golden Lion will not be awarded this year, following the resignation of the jury over Russia&apos;s and Israel&apos;s disputed participation.</description>
-  <dc:date>2026-05-05T14:26:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76807499</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf">
   <title>Germany: BioNTech shutting down COVID vaccine production entirely, 1,860 jobs at risk</title>

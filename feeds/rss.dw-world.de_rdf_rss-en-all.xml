@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-07T22:02:49Z</dc:date>
+  <dc:date>2026-05-07T23:28:34Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-gives-eu-until-jul-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/one-year-after-india-pakistan-conflict-rival-narratives-persist/live-77073167?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-new-york-judge-makes-alleged-esptein-suicide-note-public/a-77072765?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-optimistic-for-deal-as-tehran-yet-to-respond/live-77072632?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/covid-pioneer-biontech-the-fall-of-germany-s-pandemic-hero/a-77061364?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-all-1573-rdf"/>
@@ -154,6 +154,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-rdf">
+  <title>US says it struck targets in Iran after attack on warships</title>
+  <link>https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. DW has more.</description>
+  <dc:date>2026-05-07T22:58:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77088159</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/trump-gives-eu-until-jul-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-rdf">
   <title>Trump gives EU until Jul 4 to implement trade deal</title>
   <link>https://www.dw.com/en/trump-gives-eu-until-jul-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-rdf</link>
@@ -324,15 +333,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77072765</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-war-trump-optimistic-for-deal-as-tehran-yet-to-respond/live-77072632?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: Trump optimistic for deal as Tehran yet to respond</title>
-  <link>https://www.dw.com/en/iran-war-trump-optimistic-for-deal-as-tehran-yet-to-respond/live-77072632?maca=en-rss-en-all-1573-rdf</link>
-  <description>Iran is reviewing the latest US proposal and will pass its response to Pakistan after &quot;finalizing its views.&quot; Trump claimed the latest round of talks were &quot;very good.&quot; DW has more.</description>
-  <dc:date>2026-05-07T00:49:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77072632</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-rdf">
   <title>Germany cracks down on neo-Nazi networks</title>

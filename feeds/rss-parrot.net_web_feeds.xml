@@ -8,12 +8,12 @@
   <meta name="og:description" content="Home of RSS Parrot, a free Fediverse service that lets you turn Mastodon into an RSS or Atom feed reader." />
 
 
-  <link rel="stylesheet" href="/assets/style.css?ver=1778040174774">
+  <link rel="stylesheet" href="/assets/style.css?ver=1778126624765">
   <script defer data-domain="rss-parrot.net" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
 
-<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1778040174774"
+<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1778126624765"
         onload="this.parentNode.replaceChild(this.contentDocument.documentElement, this)">
 </object>
 
@@ -37,6 +37,62 @@
       
   <h2>Feeds watched by the Parrot</h2>
   <p><i>These are the feeds the Parrot is currently following. More recently requested are at the top.</i></p>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:3gld46wnnvm22lc5wmh3ac2m/rss</h3>
+        <span>[<a href="https://bsky.app/profile/delia2d.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 7, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.delia2d.bsky.social">@bsky.app.profile.delia2d.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: April 30, 2026
+      </p>
+      <p class="title">@delia2d.bsky.social on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://nitter.net/STVNews/rss</h3>
+        <span>[<a href="https://nitter.net/STVNews">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 7, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/nitter.net.stvnews">@nitter.net.stvnews</a>
+      </p>
+      <p class="info">
+        Last posted: May 6, 2026
+      </p>
+      <p class="title">STV News / @STVNews</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:r4webtrjpxqyauxg3a2zsvce/rss</h3>
+        <span>[<a href="https://bsky.app/profile/codeforamerica.org">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 7, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.codeforamerica.org">@bsky.app.profile.codeforamerica.org</a>
+      </p>
+      <p class="info">
+        Last posted: May 4, 2026
+      </p>
+      <p class="title">@codeforamerica.org - Code for America</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:so5r7asbd26pmnnoerksklor/rss</h3>
+        <span>[<a href="https://bsky.app/profile/meredithmeredith.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 7, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.meredithmeredith.bsky.social">@bsky.app.profile.meredithmeredith.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: April 14, 2026
+      </p>
+      <p class="title">@meredithmeredith.bsky.social - Meredith Whittaker</p>
+    </article>
   
     <article class="feed">
       <div>
@@ -425,7 +481,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.nrk.no.sorlandet">@www.nrk.no.sorlandet</a>
       </p>
       <p class="info">
-        Last posted: May 6, 2026
+        Last posted: May 7, 2026
       </p>
       <p class="title">Toppsaker – NRK Sørlandet – Lokale nyheter, TV og radio</p>
     </article>
@@ -859,7 +915,7 @@
         <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.kawasakifm">@nitter.poast.org.kawasakifm</a>
       </p>
       <p class="info">
-        Last posted: May 6, 2026
+        Last posted: May 7, 2026
       </p>
       <p class="title">かわさきFM📻7区がひとつ 79.1MHz🎶川崎市のラジオ局みんなで繋がろう / @kawasakifm</p>
     </article>
@@ -1111,7 +1167,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.nrz.de.lokales.dinslaken-huenxe-voerde">@www.nrz.de.lokales.dinslaken-huenxe-voerde</a>
       </p>
       <p class="info">
-        Last posted: May 6, 2026
+        Last posted: May 7, 2026
       </p>
       <p class="title">Aktuelle Nachrichten aus Dinslaken</p>
     </article>
@@ -1279,7 +1335,7 @@
         <a href="https://rss-parrot.net/web/feeds/nitter.net.theo">@nitter.net.theo</a>
       </p>
       <p class="info">
-        Last posted: May 6, 2026
+        Last posted: May 7, 2026
       </p>
       <p class="title">Theo - t3.gg / @theo</p>
     </article>
@@ -1349,7 +1405,7 @@
         <a href="https://rss-parrot.net/web/feeds/rett24.no.rss">@rett24.no.rss</a>
       </p>
       <p class="info">
-        Last posted: May 6, 2026
+        Last posted: May 7, 2026
       </p>
       <p class="title"> Rett24 rss </p>
     </article>
@@ -1769,7 +1825,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.woodtv.com">@www.woodtv.com</a>
       </p>
       <p class="info">
-        Last posted: May 6, 2026
+        Last posted: May 7, 2026
       </p>
       <p class="title">WOODTV.com</p>
     </article>
@@ -2343,7 +2399,7 @@
         <a href="https://rss-parrot.net/web/feeds/dblp.org">@dblp.org</a>
       </p>
       <p class="info">
-        Last posted: May 3, 2026
+        Last posted: May 4, 2026
       </p>
       <p class="title">dblp: new issues and volumes</p>
     </article>
@@ -2780,62 +2836,6 @@
         Last posted: May 6, 2026
       </p>
       <p class="title">mesinfos</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://batiactu.com/accueil.rss</h3>
-        <span>[<a href="https://www.batiactu.com/">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 24, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/www.batiactu.com">@www.batiactu.com</a>
-      </p>
-      <p class="info">
-        Last posted: May 7, 2026
-      </p>
-      <p class="title">BATIACTU : Actualité, BTP chantiers, Architecture &amp; Conception (Plus de 60000 articles)</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://nitter.poast.org/cgad_france/rss</h3>
-        <span>[<a href="https://nitter.poast.org/CGAD_france">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 24, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.cgad.france">@nitter.poast.org.cgad.france</a>
-      </p>
-      <p class="info">
-        Last posted: April 23, 2026
-      </p>
-      <p class="title">CGAD / @CGAD_france</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://nitter.poast.org/cnatpnationale/rss</h3>
-        <span>[<a href="https://nitter.poast.org/CNATPnationale">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 24, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.cnatpnationale">@nitter.poast.org.cnatpnationale</a>
-      </p>
-      <p class="info">
-        Last posted: February 20, 2025
-      </p>
-      <p class="title">CNATP / @CNATPnationale</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://autodiagnostic.capeb.fr/feed</h3>
-        <span>[<a href="https://autodiagnostic.capeb.fr">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 24, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/autodiagnostic.capeb.fr">@autodiagnostic.capeb.fr</a>
-      </p>
-      <p class="info">
-        Last posted: February 29, 2024
-      </p>
-      <p class="title">Autodiagnostic CAPEB</p>
     </article>
   
   <nav class="pager">

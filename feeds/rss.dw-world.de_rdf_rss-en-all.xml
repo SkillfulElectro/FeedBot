@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-07T07:48:10Z</dc:date>
+  <dc:date>2026-05-07T10:27:18Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-modi-vows-to-defeat-terrorism-on-anniversary-of-india-pakistan-conflict/live-77073167?maca=en-rss-en-all-1573-rdf"/>
@@ -29,14 +31,12 @@
     <rdf:li rdf:resource="https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-india-uses-remote-island-to-show-strength-against-china/a-77064418?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/could-ghana-outlaw-sex-for-jobs-demands/a-77062838?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-american-cdc-says-risk-to-public-very-low/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-s-new-government-pushes-for-euro-by-2030/a-77053959?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-the-strait-of-hormuz-fuel-crisis-means-for-air-travel/a-77047977?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-rosalia-became-a-global-pop-force/a-77052783?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/here-s-what-happens-when-cities-kick-out-cars/a-76984918?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/why-is-amsterdam-banning-ads-for-meat/a-77054187?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-who-is-cdu-parliamentary-leader-jens-spahn/a-77056956?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf"/>
@@ -154,6 +154,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Coalition at odds over pay rises for MPs</title>
+  <link>https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-all-1573-rdf</link>
+  <description>German conservatives want to hold on to automatic pay increases for lawmakers, while the center-left thinks they should skip it this year in light of the economic situation. DW has more.</description>
+  <dc:date>2026-05-07T08:20:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77073798</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-all-1573-rdf">
+  <title>EU reaches tentative deal on simpler AI rules, plans ban on &apos;nudifier&apos; apps</title>
+  <link>https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-all-1573-rdf</link>
+  <description>In a provisional deal, the European Union has agreed on a ban on the use of AI for creating pornographic deepfakes and sexualized imagery. It has also agreed on amending certain rules within the EU&apos;s AI Act.</description>
+  <dc:date>2026-05-07T08:07:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77073411</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-all-1573-rdf">
   <title>&apos;Dark patterns&apos;: Investigating online manipulation</title>
   <link>https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-all-1573-rdf</link>
@@ -316,24 +334,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77064565</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/could-ghana-outlaw-sex-for-jobs-demands/a-77062838?maca=en-rss-en-all-1573-rdf">
-  <title>Could Ghana outlaw &apos;sex for jobs&apos; demands?</title>
-  <link>https://www.dw.com/en/could-ghana-outlaw-sex-for-jobs-demands/a-77062838?maca=en-rss-en-all-1573-rdf</link>
-  <description>President John Mahama wants to criminalize employers demanding sex in exchange for work. But can a new law — that falls into a legal grey zone — be enforced?</description>
-  <dc:date>2026-05-06T11:06:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77062838</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/hantavirus-american-cdc-says-risk-to-public-very-low/live-77063670?maca=en-rss-en-all-1573-rdf">
-  <title>Hantavirus: American CDC says risk to public &apos;very low&apos;</title>
-  <link>https://www.dw.com/en/hantavirus-american-cdc-says-risk-to-public-very-low/live-77063670?maca=en-rss-en-all-1573-rdf</link>
-  <description>A medivac flight carrying at least one of three ill patients from the MV Hondius has landed in Amsterdam. Spain is contentiously allowing the ship hit by a deadly hantavirus outbreak to dock in the Canary Islands.</description>
-  <dc:date>2026-05-06T10:11:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77063670</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/hungary-s-new-government-pushes-for-euro-by-2030/a-77053959?maca=en-rss-en-all-1573-rdf">
   <title>Hungary&apos;s new government pushes for euro by 2030</title>
   <link>https://www.dw.com/en/hungary-s-new-government-pushes-for-euro-by-2030/a-77053959?maca=en-rss-en-all-1573-rdf</link>
@@ -379,10 +379,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77055231</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-all-1573-rdf">
-  <title>Here&apos;s why some cities are banning fossil fuel and meat ads</title>
-  <link>https://www.dw.com/en/here-s-why-some-cities-are-banning-fossil-fuel-and-meat-ads/a-77054187?maca=en-rss-en-all-1573-rdf</link>
-  <description>Cities from Amsterdam to Sydney are banning fossil fuel advertisements, drawing from tactics once used to curb smoking. They&apos;re targeting the messaging that has normalized carbon-intensive lifestyles for decades.</description>
+ <item rdf:about="https://www.dw.com/en/why-is-amsterdam-banning-ads-for-meat/a-77054187?maca=en-rss-en-all-1573-rdf">
+  <title>Why is Amsterdam banning ads for meat?</title>
+  <link>https://www.dw.com/en/why-is-amsterdam-banning-ads-for-meat/a-77054187?maca=en-rss-en-all-1573-rdf</link>
+  <description>Cities from Amsterdam to Sydney are banning fossil fuel and meat advertisements, drawing from tactics once used to curb smoking. They&apos;re targeting the messaging that has normalized high-carbon lifestyles for decades.</description>
   <dc:date>2026-05-05T15:09:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>

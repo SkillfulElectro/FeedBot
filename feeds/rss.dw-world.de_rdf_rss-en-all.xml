@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-08T13:56:33Z</dc:date>
+  <dc:date>2026-05-08T15:44:05Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fertilizer-shortages-what-are-africa-s-options-during-the-hormuz-crisis/a-77094073?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/shakira-teases-official-2026-fifa-world-cup-song/a-77088590?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/zelenskyy-warns-russia-s-friends-against-attending-parade/a-77087963?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-all-1573-rdf"/>
@@ -155,6 +155,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf">
+  <title>Christians decry persecution in India&apos;s heartland</title>
+  <link>https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf</link>
+  <description>With Christians in India increasingly targeted by Hindu vigilantes, victims say police often side with their attackers.</description>
+  <dc:date>2026-05-08T14:39:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77095929</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-rdf">
+  <title>Pakistan: Drop in Gulf remittances puts families on edge</title>
+  <link>https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-rdf</link>
+  <description>For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and education.</description>
+  <dc:date>2026-05-08T14:35:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77098364</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf">
+  <title>New film portrays Thomas and Erika Mann — with an oddly twisted premise</title>
+  <link>https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf</link>
+  <description>Premiering at Cannes and starring Sandra Hüller, Pawel Pawlikowski&apos;s &quot;Fatherland&quot; is set during the Cold War — a complex period for the prominent anti-Nazi intellectuals.</description>
+  <dc:date>2026-05-08T13:57:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>76970827</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf">
   <title>UAE charts its own course across the Middle East and Africa</title>
   <link>https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf</link>
@@ -275,7 +302,7 @@
  <item rdf:about="https://www.dw.com/en/india-news-tamil-nadu-government-takes-shape-after-impasse/live-77089882?maca=en-rss-en-all-1573-rdf">
   <title>India news: Tamil Nadu government takes shape after impasse</title>
   <link>https://www.dw.com/en/india-news-tamil-nadu-government-takes-shape-after-impasse/live-77089882?maca=en-rss-en-all-1573-rdf</link>
-  <description>Actor-politician Joseph Vijay&apos;s TVK party appears poised to form the next Tamil Nadu government after garnering support from other parties, ending days of political uncertainty. DW has the latest.</description>
+  <description>Actor-politician Joseph Vijay&apos;s TVK party appears poised to form the next Tamil Nadu government after garnering support from other parties, ending days of political uncertainty.</description>
   <dc:date>2026-05-08T07:49:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -307,33 +334,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77088590</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-all-1573-rdf">
-  <title>US court deals fresh blow to Trump&apos;s 10% global tariff policy</title>
-  <link>https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-all-1573-rdf</link>
-  <description>A US federal court said President Donald Trump overstepped his authority when he invoked a section of a 1974 trade law to enact the 10% global tariff policy.</description>
-  <dc:date>2026-05-08T01:49:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77088575</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/zelenskyy-warns-russia-s-friends-against-attending-parade/a-77087963?maca=en-rss-en-all-1573-rdf">
-  <title>Zelenskyy warns Russia&apos;s friends against attending parade</title>
-  <link>https://www.dw.com/en/zelenskyy-warns-russia-s-friends-against-attending-parade/a-77087963?maca=en-rss-en-all-1573-rdf</link>
-  <description>Zelenskyy said he did &quot;not recommend&quot; that representatives of states allied with Russia attend the May 9 parade. Russian authorities also said they were concerned about possible Ukrainian attacks.</description>
-  <dc:date>2026-05-07T23:34:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77087963</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-rdf">
-  <title>US says it struck targets in Iran after attack on warships</title>
-  <link>https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. President Donald Trump called the US strikes against Iran a &quot;love tap.&quot; Follow DW.</description>
-  <dc:date>2026-05-07T22:58:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77088159</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf">
   <title>Vilseck, Germany: A town on edge over US troop withdrawal</title>

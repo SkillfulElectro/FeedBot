@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-08T08:22:32Z</dc:date>
+  <dc:date>2026-05-08T10:03:53Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/hostage-situation-unfolds-at-german-bank/a-77092718?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-russia-trade-attacks-despite-ceasefire/live-77091251?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-africa-s-top-court-orders-ramaphosa-impeachment-review/a-77090630?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/china-calls-for-death-penalty-after-teen-gets-life-sentence/a-77090636?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-tamil-nadu-struggles-to-form-government/live-77089882?maca=en-rss-en-all-1573-rdf"/>
@@ -27,9 +31,7 @@
     <rdf:li rdf:resource="https://www.dw.com/en/australia-3-women-with-is-links-arrested-on-return-home/a-77079473?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-russian-oil-becoming-a-lifeline-for-southeast-asia/a-77079277?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-who-assesses-public-health-risk-as-low/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-the-eu-sees-chinese-solar-tech-as-a-major-security-risk/a-77066865?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-all-1573-rdf"/>
@@ -139,10 +141,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/merck-s-keytruda-a-lifesaving-drug-a-global-divide/a-76743753?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nasa-s-billion-dollar-space-race-goes-into-overdrive/a-76716821?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/has-coachella-festival-sold-out/a-76723989?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/veteran-german-actor-mario-adorf-dies-aged-95/a-76718629?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
@@ -154,6 +154,42 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/hostage-situation-unfolds-at-german-bank/a-77092718?maca=en-rss-en-all-1573-rdf">
+  <title>Hostage situation unfolds at German bank</title>
+  <link>https://www.dw.com/en/hostage-situation-unfolds-at-german-bank/a-77092718?maca=en-rss-en-all-1573-rdf</link>
+  <description>Armed suspects have taken at least one bank employee hostage after intercepting a cash transport at a small bank in a German town. Police have sealed off the area as special forces respond.</description>
+  <dc:date>2026-05-08T09:22:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77092718</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukraine-russia-trade-attacks-despite-ceasefire/live-77091251?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine, Russia trade attacks despite &apos;ceasefire&apos;</title>
+  <link>https://www.dw.com/en/ukraine-russia-trade-attacks-despite-ceasefire/live-77091251?maca=en-rss-en-all-1573-rdf</link>
+  <description>Russia had declared a unilateral ceasefire for World War II commemorations, but Ukraine said Moscow has not held off. Both sides reported new strikes. A Victory Day parade in Moscow will be more subdued this year.</description>
+  <dc:date>2026-05-08T09:07:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77091251</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-africa-s-top-court-orders-ramaphosa-impeachment-review/a-77090630?maca=en-rss-en-all-1573-rdf">
+  <title>South Africa&apos;s top court orders Ramaphosa impeachment review</title>
+  <link>https://www.dw.com/en/south-africa-s-top-court-orders-ramaphosa-impeachment-review/a-77090630?maca=en-rss-en-all-1573-rdf</link>
+  <description>Cyril Ramaphosa&apos;s presidency is on the line, as lawmakers will now have to reconsider whether there are grounds to impeach him over the scandal dubbed &quot;Farmgate.&quot;</description>
+  <dc:date>2026-05-08T08:42:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77090630</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/china-calls-for-death-penalty-after-teen-gets-life-sentence/a-77090636?maca=en-rss-en-all-1573-rdf">
+  <title>China: Calls for death penalty after teen gets life sentence</title>
+  <link>https://www.dw.com/en/china-calls-for-death-penalty-after-teen-gets-life-sentence/a-77090636?maca=en-rss-en-all-1573-rdf</link>
+  <description>A 14-year-old in China&apos;s Yunnan province has been convicted of intentional homicide and rape, and sentenced to life in prison. The victim&apos;s family argue he deserves the death penalty.</description>
+  <dc:date>2026-05-08T08:29:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77090636</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf">
   <title>Indonesia volcano eruption kills 3 hikers, several missing</title>
   <link>https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf</link>
@@ -298,15 +334,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77079277</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-rdf">
-  <title>Marco Rubio meets Pope Leo at the Vatican</title>
-  <link>https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-rdf</link>
-  <description>The visit by the US secretary of state to the Vatican comes as President Donald Trump continues to disparage the Catholic leader over criticism of the Iran war.</description>
-  <dc:date>2026-05-07T12:31:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77073372</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-rdf">
   <title>Eurovision 2026: Politics collide with a blockbuster show</title>
   <link>https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-rdf</link>
@@ -315,15 +342,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77069828</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/hantavirus-who-assesses-public-health-risk-as-low/live-77063670?maca=en-rss-en-all-1573-rdf">
-  <title>Hantavirus: WHO assesses public health risk as low</title>
-  <link>https://www.dw.com/en/hantavirus-who-assesses-public-health-risk-as-low/live-77063670?maca=en-rss-en-all-1573-rdf</link>
-  <description>The WHO said it expects more cases to emerge given the long incubation period. But its doctors said the virus was very different to COVID and did not pose the same threat. Follow DW for the latest.</description>
-  <dc:date>2026-05-07T11:03:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77063670</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/why-the-eu-sees-chinese-solar-tech-as-a-major-security-risk/a-77066865?maca=en-rss-en-all-1573-rdf">
   <title>Why the EU sees Chinese solar tech as a major security risk</title>
@@ -1306,15 +1324,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>76712016</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/nasa-s-billion-dollar-space-race-goes-into-overdrive/a-76716821?maca=en-rss-en-all-1573-rdf">
-  <title>NASA&apos;s billion-dollar space race goes into overdrive</title>
-  <link>https://www.dw.com/en/nasa-s-billion-dollar-space-race-goes-into-overdrive/a-76716821?maca=en-rss-en-all-1573-rdf</link>
-  <description>NASA&apos;s renewed push to get a human mission to the moon and Mars is neither cheap, nor for the faint of heart. But who ends up covering the costs and what does everyone still on Earth get out of all this?</description>
-  <dc:date>2026-04-10T11:34:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76716821</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-rdf">
   <title>Recycling&apos;s next big thing — or big bluff?</title>
   <link>https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-rdf</link>
@@ -1332,15 +1341,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76723989</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/veteran-german-actor-mario-adorf-dies-aged-95/a-76718629?maca=en-rss-en-all-1573-rdf">
-  <title>Veteran German actor Mario Adorf dies aged 95</title>
-  <link>https://www.dw.com/en/veteran-german-actor-mario-adorf-dies-aged-95/a-76718629?maca=en-rss-en-all-1573-rdf</link>
-  <description>Few actors had a career as rich as Mario Adorf. He played legendary Hollywood villains, wrote German TV history and still had film roles at age 90.</description>
-  <dc:date>2026-04-09T09:15:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76718629</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-rdf">
   <title>Artemis II crew emotional as mission prepares for reentry</title>

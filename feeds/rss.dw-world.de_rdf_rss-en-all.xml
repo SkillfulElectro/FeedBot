@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-08T06:53:37Z</dc:date>
+  <dc:date>2026-05-08T08:22:32Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-tamil-nadu-struggles-to-form-government/live-77089882?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/shakira-teases-official-2026-fifa-world-cup-song/a-77088590?maca=en-rss-en-all-1573-rdf"/>
@@ -71,8 +74,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-history-of-us-bases-in-germany-and-their-role-today/a-77015428?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-plans-army-pay-hikes-phased-discharge-zelenskyy/a-77014629?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-greens-and-cdu-agree-baden-württemberg-deal/live-77008112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-s-vafaei-playing-for-more-than-snooker-glory/a-76998832?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/study-busts-myth-german-spring-fatigue-doesn-t-exist/a-76985131?maca=en-rss-en-all-1573-rdf"/>
@@ -153,6 +154,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf">
+  <title>Indonesia volcano eruption kills 3 hikers, several missing</title>
+  <link>https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf</link>
+  <description>Rescuers are rushing to find missing hikers, three of whom have been declared dead after a volcanic eruption in eastern Indonesia.</description>
+  <dc:date>2026-05-08T08:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77090871</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf">
+  <title>ASEAN leaders meet to discuss plans to ease Iran war impacts</title>
+  <link>https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf</link>
+  <description>Southeast Asian leaders are meeting in the Philippines, with the economic fallout from the Iran war the main focus. Disputes in the South China Sea and border clashes between Thailand and Cambodia are also on the agenda.</description>
+  <dc:date>2026-05-08T07:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77090790</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-tamil-nadu-struggles-to-form-government/live-77089882?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Tamil Nadu struggles to form government</title>
+  <link>https://www.dw.com/en/india-news-tamil-nadu-struggles-to-form-government/live-77089882?maca=en-rss-en-all-1573-rdf</link>
+  <description>Four days after Tamil Nadu&apos;s assembly election results were announced, uncertainty over government formation continues as actor-politician Joseph Vijay&apos;s TVK party remains short of a majority in the state&apos;s assembly.</description>
+  <dc:date>2026-05-08T07:49:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77089882</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf">
   <title>War and peace: Key themes of Pope Leo&apos;s first year in office</title>
   <link>https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf</link>
@@ -692,24 +720,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77014629</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-all-1573-rdf">
-  <title>Germany needs no tips from Donald Trump, says Merz&apos;s deputy</title>
-  <link>https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-all-1573-rdf</link>
-  <description>Germany&apos;s vice chancellor says US President Donald Trump has made a mess of the Iran war and that his focus should be on ending it. As fuel prices soar, Lars Klingbeil said Trump bears responsibility for the fallout.</description>
-  <dc:date>2026-05-01T15:11:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77013396</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-greens-and-cdu-agree-baden-württemberg-deal/live-77008112?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Greens and CDU agree Baden-Württemberg deal</title>
-  <link>https://www.dw.com/en/germany-news-greens-and-cdu-agree-baden-württemberg-deal/live-77008112?maca=en-rss-en-all-1573-rdf</link>
-  <description>The state of Baden-Württemberg&apos;s Greens and conservatives have forged a coalition deal after weeks of talks. Meanwhile, unions are staging May Day rallies to demand better work conditions and a wealth tax.</description>
-  <dc:date>2026-05-01T08:53:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77008112</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-rdf">
   <title>Gender investment gap: Are women catching up with men?</title>

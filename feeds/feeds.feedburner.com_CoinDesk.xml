@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 08 May 2026 15:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:14:06 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[ECB's Lagarde’s digital euro warning: Why Europe shouldn’t just copy the U.S. stablecoin model]]></title>
+      <link>https://www.coindesk.com/business/2026/05/08/ecb-s-lagarde-warns-tether-and-circle-stablecoins-risk-digital-dollarisation-in-europe</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9e2e0210-c894-4471-9e5a-103a1cc880a3</guid>
+      <pubDate>Fri, 08 May 2026 16:11:58 +0000</pubDate>
+      <description><![CDATA[Lagarde warned that large stablecoins like Tether and USDC, which now dominate a $310 billion market, pose financial stability risks and could transmit stress to underlying asset markets during periods of turmoil.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[ECB]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="tag"><![CDATA[CBDC]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[XRP pushes toward $1.40 as tightening range lowers breakout chances]]></title>
       <link>https://www.coindesk.com/markets/2026/05/08/xrp-pushes-toward-usd1-40-as-tightening-range-lowers-breakout-chances</link>
@@ -364,21 +380,6 @@
       <category domain="tag"><![CDATA[Ethereum News]]></category>
       <category domain="tag"><![CDATA[Digital Asset Treasury]]></category>
       <category domain="tag"><![CDATA[Consensus Miami 2026]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA['DeFi is not dead,' it’s going mainstream with AI agents, crypto executives agree]]></title>
-      <link>https://www.coindesk.com/business/2026/05/07/defi-is-not-dead-it-s-going-mainstream-with-ai-agents-crypto-executives-say</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/377096aaf65bca17c92e717eeb4e883278898f2f-3000x1688.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">d24cfb6b-baf4-4d3c-9083-1b63ee959d03</guid>
-      <pubDate>Thu, 07 May 2026 18:05:27 +0000</pubDate>
-      <description><![CDATA[DeFi and its underlying technology have already proved themselves at scale, said eToro CEO Yoni Assia.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Consensus Miami 2026]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

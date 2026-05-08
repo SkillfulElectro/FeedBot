@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-08T15:44:05Z</dc:date>
+  <dc:date>2026-05-08T17:22:12Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-tamil-nadu-government-takes-shape-after-impasse/live-77089882?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/shakira-teases-official-2026-fifa-world-cup-song/a-77088590?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-all-1573-rdf"/>
@@ -143,7 +144,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/has-coachella-festival-sold-out/a-76723989?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
@@ -155,6 +155,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf">
+  <title>How real is a coup threat against Russia&apos;s president?</title>
+  <link>https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf</link>
+  <description>Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Yet some observers remain skeptical.</description>
+  <dc:date>2026-05-08T15:57:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77098085</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-rdf">
+  <title>Hantavirus: US plans evacuation flight for American cruise passengers</title>
+  <link>https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US says it is planning a repatriation flight for American citizens aboard the hantavirus-hit MV Hondius. The cruise ship is heading for the Spanish island of Tenerife with more than 140 passengers. DW has more.</description>
+  <dc:date>2026-05-08T15:54:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77063670</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf">
   <title>Christians decry persecution in India&apos;s heartland</title>
   <link>https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf</link>
@@ -326,15 +344,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>76880848</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/shakira-teases-official-2026-fifa-world-cup-song/a-77088590?maca=en-rss-en-all-1573-rdf">
-  <title>Shakira teases official 2026 FIFA World Cup song</title>
-  <link>https://www.dw.com/en/shakira-teases-official-2026-fifa-world-cup-song/a-77088590?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Colombian star unveils a clip of her singing the official World Cup 2026 song &quot;Dai Dai&quot; featuring Afrobeats artist Burna Boy.</description>
-  <dc:date>2026-05-08T02:41:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77088590</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf">
   <title>Vilseck, Germany: A town on edge over US troop withdrawal</title>
   <link>https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf</link>
@@ -347,7 +356,7 @@
  <item rdf:about="https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-rdf">
   <title>World Cup &apos;prices will drop&apos; but too late for traveling fans</title>
   <link>https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-rdf</link>
-  <description>Among many firsts at World Cup 2026, FIFA has tried its hand at dynamic pricing and acting as a secondary seller. The tactic has seen a ticket listed for over $2 million but many games seem undersold. What&apos;s going on?</description>
+  <description>Among many firsts at World Cup 2026, FIFA has tried its hand at dynamic pricing and acting as a secondary seller. The tactic has seen a ticket listed for over $2 million, but many games seem undersold. What&apos;s going on?</description>
   <dc:date>2026-05-07T14:25:00Z</dc:date>
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
@@ -527,7 +536,7 @@
  <item rdf:about="https://www.dw.com/en/why-is-amsterdam-banning-ads-for-meat/a-77054187?maca=en-rss-en-all-1573-rdf">
   <title>Why is Amsterdam banning ads for meat?</title>
   <link>https://www.dw.com/en/why-is-amsterdam-banning-ads-for-meat/a-77054187?maca=en-rss-en-all-1573-rdf</link>
-  <description>Cities from Amsterdam to Sydney are banning fossil fuel and meat advertisements, drawing from tactics once used to curb smoking. They&apos;re targeting the messaging that has normalized high-carbon lifestyles for decades.</description>
+  <description>Cities from Amsterdam to Sydney are banning fossil fuel and meat advertising, using the same playbook that helped curb smoking.</description>
   <dc:date>2026-05-05T15:09:00Z</dc:date>
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
@@ -1342,15 +1351,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76509313</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/has-coachella-festival-sold-out/a-76723989?maca=en-rss-en-all-1573-rdf">
-  <title>Has Coachella festival sold out?</title>
-  <link>https://www.dw.com/en/has-coachella-festival-sold-out/a-76723989?maca=en-rss-en-all-1573-rdf</link>
-  <description>One of the world&apos;s biggest open-air music and art festivals has been hit by controversies and declining credibility — yet the world&apos;s biggest acts continue to headline.</description>
-  <dc:date>2026-04-09T13:58:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76723989</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-rdf">
   <title>Artemis II crew emotional as mission prepares for reentry</title>

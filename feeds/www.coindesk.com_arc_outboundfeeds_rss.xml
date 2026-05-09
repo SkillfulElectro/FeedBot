@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 09 May 2026 13:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 14:31:54 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,35 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[How DeFi is changing the financial landscape for Latin Americans]]></title>
+      <link>https://www.coindesk.com/opinion/2026/05/09/how-defi-is-changing-the-financial-landscape-for-latin-americans</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d9060aedd21a891e7ba47fb7911ea7ff0b9ad0b4-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">af960f7b-49f6-4765-8f3d-425f974ae671</guid>
+      <pubDate>Sat, 09 May 2026 14:30:00 +0000</pubDate>
+      <description><![CDATA[DeFi is quietly shifting from niche crypto experiment to a legitimate financial tool across the region, explains Serrano. 
+]]></description>
+      <dc:creator>Sebastián Serrano</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="tag"><![CDATA[DeFi]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto wallets are being rebuilt for AI agents, Trust Wallet and Mesh executives say at Consensus Miami]]></title>
+      <link>https://www.coindesk.com/business/2026/05/09/crypto-wallets-are-being-rebuilt-for-ai-agents-trust-wallet-and-mesh-executives-say-at-consensus-miami</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/df93872ec030bb8814d21974fb38b934e700f31b-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9303998c-b541-4a00-a89b-4dd7a00c76fb</guid>
+      <pubDate>Sat, 09 May 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[Trust Wallet CEO Felix Fan and Mesh CTO Arjun Mukherjee said AI agents are creating a new role for crypto wallets.]]></description>
+      <dc:creator>Jeffrey Albus</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Consensus Miami 2026]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[BlackRock deepens tokenization push with new onchain fund offerings]]></title>
       <link>https://www.coindesk.com/business/2026/05/09/blackrock-deepens-tokenization-push-with-new-onchain-fund-offerings</link>
@@ -353,36 +382,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Consensus panelists explain why Perp DEXes remain a tough sell for institutional investors]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/08/perp-dexs-still-don-t-work-for-institutions-consensus-panelists-explain-why</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2f2296e78363e28f936d580473081289645e209b-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">1bde5676-d423-42a7-9d86-cec584ee5d18</guid>
-      <pubDate>Fri, 08 May 2026 06:44:34 +0000</pubDate>
-      <description><![CDATA[Panelists at Consensus Miami said institutional investors are still largely absent from perp DEXs, citing security risks and KYC friction as key barriers.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Consensus Miami 2026]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[AI agents could solve crypto’s user problem]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/08/ai-agents-could-solve-crypto-s-user-problem</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/73962ef7dbe236584680ace3459d33dc8d10a942-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">8488f434-2e20-4bad-b9c7-8ccdab7dd18b</guid>
-      <pubDate>Fri, 08 May 2026 05:31:18 +0000</pubDate>
-      <description><![CDATA[Chappy Asel says autonomous software may be more natural users of wallets and stablecoins than humans, though agentic payments remain mostly theoretical.]]></description>
-      <dc:creator>Sam Reynolds</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Consensus Miami 2026]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

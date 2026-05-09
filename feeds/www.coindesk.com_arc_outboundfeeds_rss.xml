@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 09 May 2026 03:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 06:23:09 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Judge clears path for Aave to move $71 million in ETH linked to North Korea hack]]></title>
+      <link>https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6ef2a61db600f1771a21a17e7e34caf2b701a33b-1500x989.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">de7e33c5-5b22-4217-9b0a-3666da40591b</guid>
+      <pubDate>Sat, 09 May 2026 04:16:36 +0000</pubDate>
+      <description><![CDATA[Judge Margaret Garnett allowed frozen exploit funds on Arbitrum to move to Aave, but the legal freeze follows the assets as terrorism plaintiffs continue their claim. ]]></description>
+      <dc:creator>Sam Reynolds</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Ethereum News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Senate Banking Committee plans to hold key market structure hearing on Thursday]]></title>
       <link>https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday</link>
@@ -367,20 +381,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Consensus Miami 2026]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Privacy and accountability can coexist onchain, say panelists at Consensus Miami]]></title>
-      <link>https://www.coindesk.com/tech/2026/05/07/privacy-and-accountability-can-coexist-onchain-say-panelists-at-consensus-miami</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ddd08b0460ef6cf4e7a22b42f28a3a843659835e-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">47c2e356-c6b6-4ec9-b21c-1cd55aef70f2</guid>
-      <pubDate>Thu, 07 May 2026 21:14:23 +0000</pubDate>
-      <description><![CDATA[Public blockchains make transactions traceable, but that transparency can come at the expense of user privacy. Speakers from Moody’s Ratings and ChangeNOW said that hybrid blockchain architecture and address-level monitoring can help solve both problems simultaneously.]]></description>
-      <dc:creator>Jeffrey Albus</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Consensus Miami 2026]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>

@@ -7,14 +7,16 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-09T19:06:52Z</dc:date>
+  <dc:date>2026-05-09T20:08:53Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-who-chief-reassures-tenerife-residents-as-spain-prepares-for-cruise-ship-s-arrival/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-peter-magyar-sworn-in-as-prime-minister/a-77104888?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-surf-s-up-again-in-munich/live-77103139?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/putin-oversees-scaled-back-victory-day-parade-on-red-square/a-77103146?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-suvendu-adhikari-takes-oath-as-west-bengal-s-first-bjp-chief-minister/live-77102224?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/us-pentagon-releases-trove-of-classified-ufo-files/a-77100163?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-russia-has-scaled-back-may-9-victory-parade/a-77085264?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-far-right-afd-benefits-from-discontent-with-merz/a-77094216?maca=en-rss-en-all-1573-rdf"/>
@@ -152,6 +152,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf">
+  <title>Putin says he thinks Ukraine war &apos;coming to an end&apos;</title>
+  <link>https://www.dw.com/en/putin-says-he-thinks-ukraine-war-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.</description>
+  <dc:date>2026-05-09T19:16:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77106772</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/hantavirus-who-chief-reassures-tenerife-residents-as-spain-prepares-for-cruise-ship-s-arrival/live-77063670?maca=en-rss-en-all-1573-rdf">
   <title>Hantavirus: WHO chief reassures Tenerife residents as Spain prepares for cruise ship&apos;s arrival</title>
   <link>https://www.dw.com/en/hantavirus-who-chief-reassures-tenerife-residents-as-spain-prepares-for-cruise-ship-s-arrival/live-77063670?maca=en-rss-en-all-1573-rdf</link>
@@ -187,6 +196,15 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77100109</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf">
+  <title>New film portrays Thomas and Erika Mann — with an oddly twisted premise</title>
+  <link>https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf</link>
+  <description>Premiering at Cannes and starring Sandra Hüller, Pawel Pawlikowski&apos;s &quot;Fatherland&quot; is set during the Cold War — a complex period for the prominent anti-Nazi intellectuals.</description>
+  <dc:date>2026-05-09T12:16:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>76970827</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-news-surf-s-up-again-in-munich/live-77103139?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Surf&apos;s up again in Munich!</title>
@@ -313,24 +331,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77095929</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf">
-  <title>New film portrays Thomas and Erika Mann — with an oddly twisted premise</title>
-  <link>https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf</link>
-  <description>Premiering at Cannes and starring Sandra Hüller, Pawel Pawlikowski&apos;s &quot;Fatherland&quot; is set during the Cold War — a complex period for the prominent anti-Nazi intellectuals.</description>
-  <dc:date>2026-05-08T13:57:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76970827</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf">
-  <title>UAE charts its own course across the Middle East and Africa</title>
-  <link>https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf</link>
-  <description>Close relations with Israel and the United States have placed the United Arab Emirates in Iran&apos;s crosshairs as Abu Dhabi pursues a more independent foreign policy than many Gulf countries, including Saudi Arabia.</description>
-  <dc:date>2026-05-08T13:37:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77095790</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-all-1573-rdf">
   <title>Hungary: New govt intent on initiating swift systemic change</title>

@@ -8,12 +8,12 @@
   <meta name="og:description" content="Home of RSS Parrot, a free Fediverse service that lets you turn Mastodon into an RSS or Atom feed reader." />
 
 
-  <link rel="stylesheet" href="/assets/style.css?ver=1778213034536">
+  <link rel="stylesheet" href="/assets/style.css?ver=1778299393769">
   <script defer data-domain="rss-parrot.net" src="https://plausible.io/js/script.js"></script>
 </head>
 <body>
 
-<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1778213034536"
+<object style="position:fixed;bottom:0;height:1px;" type="image/svg+xml" data="/assets/icons.svg?ver=1778299393769"
         onload="this.parentNode.replaceChild(this.contentDocument.documentElement, this)">
 </object>
 
@@ -37,6 +37,48 @@
       
   <h2>Feeds watched by the Parrot</h2>
   <p><i>These are the feeds the Parrot is currently following. More recently requested are at the top.</i></p>
+  
+    <article class="feed">
+      <div>
+        <h3>https://v4bel.github.io/feed.xml</h3>
+        <span>[<a href="https://v4bel.github.io/">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 9, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/v4bel.github.io">@v4bel.github.io</a>
+      </p>
+      <p class="info">
+        Last posted: March 23, 2026
+      </p>
+      <p class="title">Project V4bel</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:rfixmqbspb6j7ej6fla64hgh/rss</h3>
+        <span>[<a href="https://bsky.app/profile/tkingfisher.com">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 9, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.tkingfisher.com">@bsky.app.profile.tkingfisher.com</a>
+      </p>
+      <p class="info">
+        Last posted: May 8, 2026
+      </p>
+      <p class="title">@tkingfisher.com on Bluesky</p>
+    </article>
+  
+    <article class="feed">
+      <div>
+        <h3>https://bsky.app/profile/did:plc:kbcrcerdtyra7rdpyull32ra/rss</h3>
+        <span>[<a href="https://bsky.app/profile/cmuratori.bsky.social">visit</a>]</span></div>
+      <p class="info">
+        Parroting since May 9, 2026 as
+        <a href="https://rss-parrot.net/web/feeds/bsky.app.profile.cmuratori.bsky.social">@bsky.app.profile.cmuratori.bsky.social</a>
+      </p>
+      <p class="info">
+        Last posted: April 10, 2026
+      </p>
+      <p class="title">@cmuratori.bsky.social on Bluesky</p>
+    </article>
   
     <article class="feed">
       <div>
@@ -271,7 +313,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.storm.mg">@www.storm.mg</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Storm Media Group RSS</p>
     </article>
@@ -299,7 +341,7 @@
         <a href="https://rss-parrot.net/web/feeds/udn.com">@udn.com</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">聯合新聞網：觸動未來 新識力</p>
     </article>
@@ -761,7 +803,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.wcbi.com">@www.wcbi.com</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Home - WCBI TV | Telling Your StoryHome – WCBI TV | Telling Your Story</p>
     </article>
@@ -957,7 +999,7 @@
         <a href="https://rss-parrot.net/web/feeds/kevinbonham.blogspot.com">@kevinbonham.blogspot.com</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Dr Kevin Bonham</p>
     </article>
@@ -1447,7 +1489,7 @@
         <a href="https://rss-parrot.net/web/feeds/nitter.poast.org.kawasakifm">@nitter.poast.org.kawasakifm</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">かわさきFM📻7区がひとつ 79.1MHz🎶川崎市のラジオ局みんなで繋がろう / @kawasakifm</p>
     </article>
@@ -1867,7 +1909,7 @@
         <a href="https://rss-parrot.net/web/feeds/nitter.net.theo">@nitter.net.theo</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Theo - t3.gg / @theo</p>
     </article>
@@ -2119,7 +2161,7 @@
         <a href="https://rss-parrot.net/web/feeds/surf.social.feed.01kn7q631en3bhe9g8r2gfkhb0">@surf.social.feed.01kn7q631en3bhe9g8r2gfkhb0</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Bristol Surf Social feed</p>
     </article>
@@ -2357,7 +2399,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.woodtv.com">@www.woodtv.com</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">WOODTV.com</p>
     </article>
@@ -2427,7 +2469,7 @@
         <a href="https://rss-parrot.net/web/feeds/bamada.net">@bamada.net</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Bamada.net</p>
     </article>
@@ -2483,7 +2525,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.europesays.com.it">@www.europesays.com.it</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Rugby – Italia</p>
     </article>
@@ -2497,7 +2539,7 @@
         <a href="https://rss-parrot.net/web/feeds/thedriven.io">@thedriven.io</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">The Driven | Your best source for electric vehicle news &amp; analysis.</p>
     </article>
@@ -2525,7 +2567,7 @@
         <a href="https://rss-parrot.net/web/feeds/www.dokfest-muenchen.de">@www.dokfest-muenchen.de</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">DOK.fest München</p>
     </article>
@@ -2665,7 +2707,7 @@
         <a href="https://rss-parrot.net/web/feeds/github.com.golang.go.commits.master">@github.com.golang.go.commits.master</a>
       </p>
       <p class="info">
-        Last posted: May 8, 2026
+        Last posted: May 9, 2026
       </p>
       <p class="title">Recent Commits to go:master</p>
     </article>
@@ -2794,48 +2836,6 @@
         Last posted: May 8, 2026
       </p>
       <p class="title">WIC Science Channel Suomi - YouTube</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://www.barnebokkritikk.no/feed</h3>
-        <span>[<a href="https://www.barnebokkritikk.no">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 27, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/www.barnebokkritikk.no">@www.barnebokkritikk.no</a>
-      </p>
-      <p class="info">
-        Last posted: May 6, 2026
-      </p>
-      <p class="title">Barnebokkritikk.no</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://periskop.no/feed</h3>
-        <span>[<a href="https://periskop.no/">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 27, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/periskop.no">@periskop.no</a>
-      </p>
-      <p class="info">
-        Last posted: May 7, 2026
-      </p>
-      <p class="title">Periskop</p>
-    </article>
-  
-    <article class="feed">
-      <div>
-        <h3>https://rauli.cbs.dk/index.php/revy/gateway/plugin/WebFeedGatewayPlugin/atom</h3>
-        <span>[<a href="https://rauli.cbs.dk/index.php/revy">visit</a>]</span></div>
-      <p class="info">
-        Parroting since April 27, 2026 as
-        <a href="https://rss-parrot.net/web/feeds/rauli.cbs.dk.index.php.revy">@rauli.cbs.dk.index.php.revy</a>
-      </p>
-      <p class="info">
-        Last posted: April 8, 2026
-      </p>
-      <p class="title">Revy</p>
     </article>
   
   <nav class="pager">

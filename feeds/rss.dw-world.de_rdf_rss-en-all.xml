@@ -7,16 +7,19 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-09T00:04:15Z</dc:date>
+  <dc:date>2026-05-09T04:04:06Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/mexico-to-shorten-school-year-due-to-world-cup-summer-heat/a-77101994?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/canvas-education-platform-back-online-after-cyberattack/a-77101219?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-pentagon-releases-trove-of-classified-ufo-files/a-77100163?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-spain-readies-to-receive-cruise-ship/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-exports-jump-higher-than-expected/live-77092745?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-hostages-freed-at-bank-after-suspect-flees-scene/a-77092718?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-africa-constitutional-court-orders-parliament-to-revisit-ramaphosa-impeachment-proceedings/a-77090630?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/china-calls-for-death-penalty-after-teen-gets-life-sentence/a-77090636?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-rdf"/>
@@ -153,6 +153,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-all-1573-rdf">
+  <title>Journalist found dead in Colombia&apos;s conflict zone</title>
+  <link>https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-all-1573-rdf</link>
+  <description>Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock.</description>
+  <dc:date>2026-05-09T03:45:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77102110</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/mexico-to-shorten-school-year-due-to-world-cup-summer-heat/a-77101994?maca=en-rss-en-all-1573-rdf">
+  <title>Mexico to shorten school year due to World Cup, summer heat</title>
+  <link>https://www.dw.com/en/mexico-to-shorten-school-year-due-to-world-cup-summer-heat/a-77101994?maca=en-rss-en-all-1573-rdf</link>
+  <description>Mexican authorities announced a decision to end the academic year earlier than planned because of the World Cup and a heat wave. But the decision sparked backlash from parents&apos; groups and teachers.</description>
+  <dc:date>2026-05-09T02:49:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77101994</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-all-1573-rdf">
+  <title>Iran war: US expecting Tehran&apos;s response to proposed deal</title>
+  <link>https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-all-1573-rdf</link>
+  <description>President Donald Trump said Washington was expecting an answer from Tehran over a proposed deal to set up talks to end the war by Friday night Eastern time. Follow live.</description>
+  <dc:date>2026-05-09T02:42:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77102104</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/canvas-education-platform-back-online-after-cyberattack/a-77101219?maca=en-rss-en-all-1573-rdf">
   <title>Canvas education platform back online after cyberattack</title>
   <link>https://www.dw.com/en/canvas-education-platform-back-online-after-cyberattack/a-77101219?maca=en-rss-en-all-1573-rdf</link>
@@ -198,10 +225,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77098085</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-rdf">
-  <title>Hantavirus: US plans evacuation flight for American cruise passengers</title>
-  <link>https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US says it is planning a repatriation flight for American citizens aboard the hantavirus-hit MV Hondius. The cruise ship is heading for the Spanish island of Tenerife with more than 140 passengers. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/hantavirus-spain-readies-to-receive-cruise-ship/live-77063670?maca=en-rss-en-all-1573-rdf">
+  <title>Hantavirus: Spain readies to receive cruise ship</title>
+  <link>https://www.dw.com/en/hantavirus-spain-readies-to-receive-cruise-ship/live-77063670?maca=en-rss-en-all-1573-rdf</link>
+  <description>Spanish authorities are readying to receive the cruise ship at the center of the hantavirus outbreak. The WHO has confirmed six hantavirus cases linked to the ship so far.</description>
   <dc:date>2026-05-08T15:54:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -305,33 +332,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77090630</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/china-calls-for-death-penalty-after-teen-gets-life-sentence/a-77090636?maca=en-rss-en-all-1573-rdf">
-  <title>China: Calls for death penalty after teen gets life sentence</title>
-  <link>https://www.dw.com/en/china-calls-for-death-penalty-after-teen-gets-life-sentence/a-77090636?maca=en-rss-en-all-1573-rdf</link>
-  <description>A 14-year-old in China&apos;s Yunnan province has been convicted of intentional homicide and rape, and sentenced to life in prison. The victim&apos;s family argue he deserves the death penalty.</description>
-  <dc:date>2026-05-08T08:29:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77090636</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf">
-  <title>Indonesia volcano eruption kills 3 hikers, several missing</title>
-  <link>https://www.dw.com/en/indonesia-volcano-eruption-kills-3-hikers-several-missing/a-77090871?maca=en-rss-en-all-1573-rdf</link>
-  <description>Rescuers are rushing to find missing hikers, three of whom have been declared dead after a volcanic eruption in eastern Indonesia.</description>
-  <dc:date>2026-05-08T08:04:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77090871</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf">
-  <title>ASEAN leaders meet to discuss plans to ease Iran war impacts</title>
-  <link>https://www.dw.com/en/asean-leaders-meet-to-discuss-plans-to-ease-iran-war-impacts/a-77090790?maca=en-rss-en-all-1573-rdf</link>
-  <description>Southeast Asian leaders are meeting in the Philippines, with the economic fallout from the Iran war the main focus. Disputes in the South China Sea and border clashes between Thailand and Cambodia are also on the agenda.</description>
-  <dc:date>2026-05-08T07:53:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77090790</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-rdf">
   <title>Celebrated broadcaster and naturalist David Attenborough turns 100</title>

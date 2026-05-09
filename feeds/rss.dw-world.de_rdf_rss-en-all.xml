@@ -7,7 +7,7 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-08T22:58:06Z</dc:date>
+  <dc:date>2026-05-09T00:04:15Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
@@ -144,8 +144,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hungary-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -1351,23 +1349,5 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76509313</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-rdf">
-  <title>Artemis II crew emotional as mission prepares for reentry</title>
-  <link>https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-rdf</link>
-  <description>In less than 48 hours, the Orion spacecraft is due to splash down in the Pacific Ocean. Crew members have said what they saw in space will forever change how they see the world.</description>
-  <dc:date>2026-04-09T08:38:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76717707</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/hungary-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-all-1573-rdf">
-  <title>Hungary election: How football has helped Orban keep power</title>
-  <link>https://www.dw.com/en/hungary-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-all-1573-rdf</link>
-  <description>Viktor Orban is a football fanatic but has long used the sport as a political tool, both in Hungary and abroad. With polls predicting election defeat, he could also lose his chance of hosting the Champions League final.</description>
-  <dc:date>2026-04-09T06:34:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76705555</dwsyn:contentID>
  </item>
 </rdf:RDF>

@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-10T11:54:47Z</dc:date>
+  <dc:date>2026-05-10T13:24:43Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-first-evacuation-flight-leaves-tenerife/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-ceasefire-tested-by-ship-fire-drone-attack/live-77102104?maca=en-rss-en-all-1573-rdf"/>
@@ -100,7 +101,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-games-abroad-unlikely-but-for-how-long/a-76954022?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/marine-unicorns-aren-t-loving-arctic-noise/a-76704611?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-the-iran-war-end-strait-of-hormuz-oil-supremacy/a-76893004?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/sawe-smashes-2-hour-mark-setting-record-at-london-marathon/a-76943171?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +151,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-rdf">
+  <title>Africa summit in Kenya: France seeks new partners</title>
+  <link>https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-rdf</link>
+  <description>Following a withdrawal from the Sahel region, France is seeking to expand its geostrategic influence in Africa by seeking allies. The first Africa Summit, to be held May 11–12 in Kenya, is intended to mark a fresh start.</description>
+  <dc:date>2026-05-10T13:17:00Z</dc:date>
+  <dc:subject>Africa</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77098131</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/hantavirus-first-evacuation-flight-leaves-tenerife/live-77063670?maca=en-rss-en-all-1573-rdf">
   <title>Hantavirus: First evacuation flight leaves Tenerife</title>
   <link>https://www.dw.com/en/hantavirus-first-evacuation-flight-leaves-tenerife/live-77063670?maca=en-rss-en-all-1573-rdf</link>
@@ -951,15 +960,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76704611</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Major raids carried out against Hells Angels</title>
-  <link>https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-rdf</link>
-  <description>A large-scale police operation in the western state of North Rhine-Westphalia has targeted biker gang crime. Meanwhile, Germany is to bid again for a non-permanent seat in the UN Security Council.</description>
-  <dc:date>2026-04-28T06:10:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76959182</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/will-the-iran-war-end-strait-of-hormuz-oil-supremacy/a-76893004?maca=en-rss-en-all-1573-rdf">
   <title>Will the Iran war end Strait of Hormuz oil supremacy?</title>

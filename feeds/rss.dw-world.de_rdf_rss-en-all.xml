@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-10T14:36:02Z</dc:date>
+  <dc:date>2026-05-10T15:57:43Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-first-evacuation-flight-leaves-tenerife/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-all-1573-rdf"/>
@@ -77,7 +78,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-majority-thinks-coalition-government-doomed-survey/live-77022566?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/alex-zanardi-f1-driver-and-multiple-cart-and-paralympic-champion-dies-at-59/a-77018399?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-history-of-us-bases-in-germany-and-their-role-today/a-77015428?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +151,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-all-1573-rdf">
+  <title>RSF urges Niger to ditch &apos;abusive&apos; French media ban</title>
+  <link>https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-all-1573-rdf</link>
+  <description>Media watchdog Reporters Without Borders has called on Niger&apos;s Russian-backed military government to lift its sudden suspension of nine French media outlets. This coincides with major instability in neighboring Mali.</description>
+  <dc:date>2026-05-10T15:26:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77110893</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-rdf">
   <title>Africa summit in Kenya: France seeks new partners</title>
   <link>https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-rdf</link>
@@ -744,15 +753,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77020320</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-all-1573-rdf">
-  <title>Why Russia&apos;s Northern Sea Route is a risk for global trade</title>
-  <link>https://www.dw.com/en/why-russia-s-northern-sea-route-is-a-risk-for-global-trade/a-76987400?maca=en-rss-en-all-1573-rdf</link>
-  <description>Russia wants its Northern Sea Route to become an important artery of global trade. However, the Arctic shortcut between Europe and Asia is fraught with both political and environmental hurdles.</description>
-  <dc:date>2026-05-02T19:43:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76987400</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/alex-zanardi-f1-driver-and-multiple-cart-and-paralympic-champion-dies-at-59/a-77018399?maca=en-rss-en-all-1573-rdf">
   <title>Alex Zanardi, F1 driver and multiple CART and Paralympic champion, dies at 59</title>

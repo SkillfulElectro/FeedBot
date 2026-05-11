@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-11T00:02:35Z</dc:date>
+  <dc:date>2026-05-11T04:43:43Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-peter-magyar-sworn-in-as-prime-minister/a-77104888?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-sugar-tax-sparks-nanny-state-debate/a-77083208?maca=en-rss-en-all-1573-rdf"/>
@@ -150,10 +150,28 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Cut fuel use, gold buys and foreign trips, says Modi, as no end in sight to Iran war</title>
+  <link>https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf</link>
+  <description>Prime Minister Narendra Modi is asking Indians to make a series of changes in their consumption habits to help the country withstand the global economic upheaval from the Iran war. DW has the latest.</description>
+  <dc:date>2026-05-11T04:43:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77113618</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-all-1573-rdf">
+  <title>Former Thai Prime Minister Thaksin let out of prison early</title>
+  <link>https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-all-1573-rdf</link>
+  <description>Thailand&apos;s influential former prime minister Thaksin Shinawatra will be required to wear an electronic monitor during his four-month probation period.</description>
+  <dc:date>2026-05-11T02:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77113447</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf">
   <title>Iranian Nobel winner Mohammadi moved to Tehran hospital</title>
   <link>https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf</link>
-  <description>Human rights activist and Nobel peace prize laureate Narges Mohammadi has been released on bail and transferred to Tehran, her foundation said, amid alarm about her health.</description>
+  <description>Human rights activist and Nobel Peace Prize laureate Narges Mohammadi has been released on bail and transferred to Tehran, her foundation said, amid alarm about her health.</description>
   <dc:date>2026-05-10T23:09:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -216,7 +234,7 @@
  <item rdf:about="https://www.dw.com/en/hantavirus-passengers-leave-tenerife-on-evacuation-flights/live-77063670?maca=en-rss-en-all-1573-rdf">
   <title>Hantavirus: Passengers leave Tenerife on evacuation flights</title>
   <link>https://www.dw.com/en/hantavirus-passengers-leave-tenerife-on-evacuation-flights/live-77063670?maca=en-rss-en-all-1573-rdf</link>
-  <description>Spain, France, Germany, the UK, US and the Netherlands have sent planes to evacuate passengers from the hantavirus-hit cruise ship, which is anchored off Tenerife. Follow DW.</description>
+  <description>Spain, France, Germany, the UK, the US and the Netherlands have sent planes to evacuate passengers from the hantavirus-hit cruise ship, which is anchored off Tenerife. Follow DW.</description>
   <dc:date>2026-05-10T11:52:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -311,24 +329,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77104888</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-all-1573-rdf">
-  <title>Australian far-right party wins first lower house seat</title>
-  <link>https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-all-1573-rdf</link>
-  <description>The far-right populist One Nation party has won its first seat in Australia&apos;s House of Representatives.</description>
-  <dc:date>2026-05-09T13:03:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77104689</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-all-1573-rdf">
-  <title>Tariffs or not? How EU is dealing with US &apos;dealmaking&apos;</title>
-  <link>https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-all-1573-rdf</link>
-  <description>Earlier this week, President Trump threatened European car makers with 25% tariffs before walking it back later in the week. How is the EU dealing with this unpredictability?</description>
-  <dc:date>2026-05-09T12:39:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77100109</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf">
   <title>New film portrays Thomas and Erika Mann — with an oddly twisted premise</title>

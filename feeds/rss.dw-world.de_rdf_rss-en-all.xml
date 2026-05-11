@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-10T22:58:29Z</dc:date>
+  <dc:date>2026-05-11T00:02:35Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-rdf"/>
@@ -140,8 +141,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-s-strait-of-hormuz-blockade-hits-iran-s-oil-trade/a-76760110?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/merck-s-keytruda-a-lifesaving-drug-a-global-divide/a-76743753?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -151,10 +150,19 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf">
+  <title>Iranian Nobel winner Mohammadi moved to Tehran hospital</title>
+  <link>https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf</link>
+  <description>Human rights activist and Nobel peace prize laureate Narges Mohammadi has been released on bail and transferred to Tehran, her foundation said, amid alarm about her health.</description>
+  <dc:date>2026-05-10T23:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77113033</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: Trump rejects proposal to end conflict</title>
   <link>https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump called Iran&apos;s peace plan &quot;totally unacceptable.&quot; The fragile ceasefire had been tested earlier in the day by Iranian strikes across the Gulf. DW has more.</description>
+  <description>Donald Trump has called Iran&apos;s plan &quot;totally unacceptable.&quot; The fragile ceasefire had been tested earlier in the day by Iranian strikes across the Gulf. DW has more.</description>
   <dc:date>2026-05-10T20:33:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -1311,23 +1319,5 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76743753</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858?maca=en-rss-en-all-1573-rdf">
-  <title>UFOs: &apos;Most are reported by people out for an evening smoke&apos;</title>
-  <link>https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858?maca=en-rss-en-all-1573-rdf</link>
-  <description>Hansjürgen Köhler has been a volunteer UFO hunter for more than 50 years. He sees his work as scientific investigation, but sometimes also as caring for others.</description>
-  <dc:date>2026-04-11T19:19:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76711858</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf">
-  <title>First gay rights movement: Berlin&apos;s wild 1920s queer history</title>
-  <link>https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-rdf</link>
-  <description>Before the Nazis took power, Berlin was a center of LGBTQ+ rights and queer culture, with research institutes, a flourishing nightlife and one of the earliest gay rights&apos; movements.</description>
-  <dc:date>2026-04-11T06:34:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76712016</dwsyn:contentID>
  </item>
 </rdf:RDF>

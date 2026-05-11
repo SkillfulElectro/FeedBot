@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-11T21:20:45Z</dc:date>
+  <dc:date>2026-05-11T22:33:06Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained-as-passengers-return/a-77122959?maca=en-rss-en-all-1573-rdf"/>
@@ -93,7 +95,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/a-new-climate-club-minus-the-fossil-fuel-lobby/a-76992981?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-eu-bring-in-a-windfall-tax-on-oil-companies/a-76920556?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/whale-timmy-reaches-denmark-in-rescue-effort-in-pictures/a-76989600?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/football-afghan-women-s-team-recognized-in-blow-to-taliban/a-76979827?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/2026-goethe-medal-meet-the-recipients/a-76982863?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rose-and-the-piece-of-fabric-that-embodies-gender-politics/a-76926727?maca=en-rss-en-all-1573-rdf"/>
@@ -150,6 +151,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf">
+  <title>Iran war: Trump says ceasefire &apos;on life support&apos;</title>
+  <link>https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf</link>
+  <description>After rejecting Tehran&apos;s response to the US peace proposal, President Donald Trump warned that the ceasefire in the war with Iran was &quot;on life support.&quot; Follow DW for the latest.</description>
+  <dc:date>2026-05-11T22:21:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77126070</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-rdf">
+  <title>Ukrainian children held in Russia: militarized, &apos;reeducated&apos;</title>
+  <link>https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Ukrainian initiative to repatriate abducted Ukrainian children reports that at least 20,000 girls and boys are being held by Russian families and authorities. Can these children ever find their way home?</description>
+  <dc:date>2026-05-11T22:07:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77124356</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-rdf">
   <title>Slovenia, Spain and Ireland won&apos;t air Eurovision over Israel&apos;s participation</title>
   <link>https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-rdf</link>
@@ -887,15 +906,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76975354</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/whale-timmy-reaches-denmark-in-rescue-effort-in-pictures/a-76989600?maca=en-rss-en-all-1573-rdf">
-  <title>Whale &apos;Timmy&apos; reaches Denmark in rescue effort — in pictures</title>
-  <link>https://www.dw.com/en/whale-timmy-reaches-denmark-in-rescue-effort-in-pictures/a-76989600?maca=en-rss-en-all-1573-rdf</link>
-  <description>A barge carrying a humpback whale stranded in Germany for weeks has reached Danish waters on its journey to the North Sea.</description>
-  <dc:date>2026-04-30T01:37:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76989600</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/football-afghan-women-s-team-recognized-in-blow-to-taliban/a-76979827?maca=en-rss-en-all-1573-rdf">
   <title>Football: Afghan women&apos;s team recognized in blow to Taliban</title>

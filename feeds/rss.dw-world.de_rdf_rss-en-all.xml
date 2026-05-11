@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-11T15:17:21Z</dc:date>
+  <dc:date>2026-05-11T17:33:48Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained-as-passengers-return/a-77122959?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/religion-steers-bengal-politics-in-bangladesh-india-again/a-77123609?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/architecture-of-remembrance-and-hope-daniel-libeskind-at-80/a-19251296?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-businesses-frustrated-by-economic-decline/a-77097307?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-is-hollywood-missing-from-cannes/a-77056586?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-all-1573-rdf"/>
@@ -150,6 +150,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf">
+  <title>White House press dinner shooting suspect pleads not guilty</title>
+  <link>https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf</link>
+  <description>A California man has been charged with attempting to assassinate Trump at the White House Correspondents&apos; Association dinner.</description>
+  <dc:date>2026-05-11T17:18:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77125420</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained-as-passengers-return/a-77122959?maca=en-rss-en-all-1573-rdf">
+  <title>Hantavirus: How is the outbreak being contained as passengers return?</title>
+  <link>https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained-as-passengers-return/a-77122959?maca=en-rss-en-all-1573-rdf</link>
+  <description>Passengers evacuated from the MV Hondius cruise ship are returning to their home countries, some with symptoms, many without. What happens to these people and what is being done to contain the spread?</description>
+  <dc:date>2026-05-11T15:34:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77122959</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-rdf">
   <title>EU greenlights sanctions on Israeli West Bank settlers</title>
   <link>https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-rdf</link>
@@ -311,24 +329,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77113447</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf">
-  <title>Iranian Nobel winner Mohammadi moved to Tehran hospital</title>
-  <link>https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-rdf</link>
-  <description>Human rights activist and Nobel Peace Prize laureate Narges Mohammadi has been released on bail and transferred to Tehran, her foundation said, amid alarm about her health.</description>
-  <dc:date>2026-05-10T23:09:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77113033</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: Trump rejects proposal to end conflict</title>
-  <link>https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump has called Iran&apos;s plan &quot;totally unacceptable.&quot; The fragile ceasefire had been tested earlier in the day by Iranian strikes across the Gulf. DW has more.</description>
-  <dc:date>2026-05-10T20:33:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77102104</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-rdf">
   <title>Could German ex-leader really negotiate Ukraine peace?</title>

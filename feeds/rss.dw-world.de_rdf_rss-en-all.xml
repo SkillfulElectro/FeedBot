@@ -7,17 +7,18 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-11T17:33:48Z</dc:date>
+  <dc:date>2026-05-11T19:52:54Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained-as-passengers-return/a-77122959?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/religion-steers-bengal-politics-in-bangladesh-india-again/a-77123609?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/architecture-of-remembrance-and-hope-daniel-libeskind-at-80/a-19251296?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-it-differs-from-covid/a-77122374?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-one-in-six-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nigeria-s-solar-boom-faces-cost-and-policy-barriers/a-77122375?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-eu-sanctions-russians-over-systematic-unlawful-deportation-of-children/live-77121806?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-will-happen-to-iran-s-nuclear-material/a-77122353?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-businesses-frustrated-by-economic-decline/a-77097307?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-is-hollywood-missing-from-cannes/a-77056586?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/no-comment-after-schröder-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-all-1573-rdf"/>
@@ -150,6 +150,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-rdf">
+  <title>Slovenia, Spain and Ireland won&apos;t air Eurovision over Israel&apos;s participation</title>
+  <link>https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-rdf</link>
+  <description>The three European countries are boycotting the popular song contest over Israel&apos;s participation in it. More countries have said they won&apos;t be taking part.</description>
+  <dc:date>2026-05-11T17:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77124206</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf">
   <title>White House press dinner shooting suspect pleads not guilty</title>
   <link>https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-rdf</link>
@@ -204,9 +213,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77122374</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-one-in-six-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: One-in-six retailers fear for future</title>
-  <link>https://www.dw.com/en/germany-news-one-in-six-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: 1-in-6 retailers fear for future</title>
+  <link>https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf</link>
   <description>About one-in-12 German businesses worry about survival, with twice as many retailers jittery. Meanwhile in Stuttgart, five pro-Palestinian activists face trial over attacking an Israeli defense company site. Follow DW.</description>
   <dc:date>2026-05-11T13:39:00Z</dc:date>
   <dc:subject>News</dc:subject>
@@ -270,7 +279,7 @@
  <item rdf:about="https://www.dw.com/en/hantavirus-evacuated-passengers-begin-returning-home/live-77063670?maca=en-rss-en-all-1573-rdf">
   <title>Hantavirus: Evacuated passengers begin returning home</title>
   <link>https://www.dw.com/en/hantavirus-evacuated-passengers-begin-returning-home/live-77063670?maca=en-rss-en-all-1573-rdf</link>
-  <description>Passengers on the ill-fated cruise from several European countries, including Germany, are returning home and will be screened by health authorities. One French woman developed symptoms on the return flight. Follow DW.</description>
+  <description>Passengers on the ill-fated cruise from several European countries, including Germany, are returning home and will be screened by health authorities. One French woman developed symptoms on the return flight.</description>
   <dc:date>2026-05-11T09:47:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -320,15 +329,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77056586</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-all-1573-rdf">
-  <title>Former Thai Prime Minister Thaksin let out of prison early</title>
-  <link>https://www.dw.com/en/former-thai-prime-minister-thaksin-let-out-of-prison-early/a-77113447?maca=en-rss-en-all-1573-rdf</link>
-  <description>Thailand&apos;s influential former prime minister Thaksin Shinawatra will be required to wear an electronic monitor during his four-month probation period.</description>
-  <dc:date>2026-05-11T02:25:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77113447</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-rdf">
   <title>Could German ex-leader really negotiate Ukraine peace?</title>

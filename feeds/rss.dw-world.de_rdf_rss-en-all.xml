@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-12T10:04:35Z</dc:date>
+  <dc:date>2026-05-12T12:24:07Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/sport-helping-displaced-lebanese-living-in-stadium-to-cope/a-77080170?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/work-not-over-says-who-after-hantavirus-evacuation/a-77130594?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-first-junior-minister-resigns/a-77129695?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/architecture-of-remembrance-and-hope-daniel-libeskind-at-80/a-19251296?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-it-differs-from-covid/a-77122374?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-1-in-6-retailers-fear-for-future/live-77114178?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nigeria-s-solar-boom-faces-cost-and-policy-barriers/a-77122375?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-eu-sanctions-russians-over-systematic-unlawful-deportation-of-children/live-77121806?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-prime-minister-keir-starmer-not-walking-away-after-local-election-mauling/a-77116149?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/endemic-epidemic-pandemic-what-s-the-difference/a-60295060?maca=en-rss-en-all-1573-rdf"/>
@@ -89,7 +90,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/alex-zanardi-f1-driver-and-multiple-cart-and-paralympic-champion-dies-at-59/a-77018399?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-history-of-us-bases-in-germany-and-their-role-today/a-77015428?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-s-vafaei-playing-for-more-than-snooker-glory/a-76998832?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/study-busts-myth-german-spring-fatigue-doesn-t-exist/a-76985131?maca=en-rss-en-all-1573-rdf"/>
@@ -152,6 +152,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/sport-helping-displaced-lebanese-living-in-stadium-to-cope/a-77080170?maca=en-rss-en-all-1573-rdf">
+  <title>Sport helping displaced Lebanese living in stadium to cope</title>
+  <link>https://www.dw.com/en/sport-helping-displaced-lebanese-living-in-stadium-to-cope/a-77080170?maca=en-rss-en-all-1573-rdf</link>
+  <description>More than a million people have been forced to flee their homes in southern Lebanon due to fighting between Israeli forces and Hezbollah. As many shelter in Beirut stadiums, sport is sometimes a welcome distraction.</description>
+  <dc:date>2026-05-12T11:34:00Z</dc:date>
+  <dc:subject>Sports</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77080170</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/work-not-over-says-who-after-hantavirus-evacuation/a-77130594?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Work not over,&apos; says WHO after hantavirus evacuation</title>
+  <link>https://www.dw.com/en/work-not-over-says-who-after-hantavirus-evacuation/a-77130594?maca=en-rss-en-all-1573-rdf</link>
+  <description>Extensive testing, contact tracing, and quarantine procedures are still needed to contain the outbreak, WHO says. However, it has stressed that the current outbreak is vastly different to the COVID-19 pandemic.</description>
+  <dc:date>2026-05-12T10:43:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77130594</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Merz booed as he advocates economic reform</title>
   <link>https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-rdf</link>
@@ -164,7 +182,7 @@
  <item rdf:about="https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-first-junior-minister-resigns/a-77129695?maca=en-rss-en-all-1573-rdf">
   <title>UK: Keir Starmer tells Cabinet he will continue in place, as first junior minister resigns</title>
   <link>https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-first-junior-minister-resigns/a-77129695?maca=en-rss-en-all-1573-rdf</link>
-  <description>British Prime Minister Keir Starmer is meeting with his Cabinet amid continued pressure after election losses. A set piece speech yesterday failed to calm the waters, and a junior minister resigned early on Tuesday.</description>
+  <description>British Prime Minister Keir Starmer has met with his Cabinet amid continued pressure after election losses. A set piece speech yesterday failed to calm the waters, and a junior minister resigned early on Tuesday.</description>
   <dc:date>2026-05-12T09:45:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -322,15 +340,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77114178</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nigeria-s-solar-boom-faces-cost-and-policy-barriers/a-77122375?maca=en-rss-en-all-1573-rdf">
-  <title>Nigeria&apos;s solar boom faces cost and policy barriers</title>
-  <link>https://www.dw.com/en/nigeria-s-solar-boom-faces-cost-and-policy-barriers/a-77122375?maca=en-rss-en-all-1573-rdf</link>
-  <description>Nigeria&apos;s rising solar imports signal a search for alternatives to unreliable grid power and high fuel costs. But adoption is being held back by steep upfront prices, limited financing and policy uncertainty.</description>
-  <dc:date>2026-05-11T13:36:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77122375</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukraine-eu-sanctions-russians-over-systematic-unlawful-deportation-of-children/live-77121806?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine: EU sanctions Russians over &apos;systematic unlawful deportation&apos; of children</title>
@@ -853,15 +862,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77018399</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-history-of-us-bases-in-germany-and-their-role-today/a-77015428?maca=en-rss-en-all-1573-rdf">
-  <title>The history of US bases in Germany, and their role today</title>
-  <link>https://www.dw.com/en/the-history-of-us-bases-in-germany-and-their-role-today/a-77015428?maca=en-rss-en-all-1573-rdf</link>
-  <description>President Donald Trump is planning to cut US troop numbers in Germany. How many US bases are there in the country now, and what&apos;s their strategic importance?</description>
-  <dc:date>2026-05-02T07:04:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77015428</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/gender-investment-gap-are-women-catching-up-with-men/a-76862702?maca=en-rss-en-all-1573-rdf">
   <title>Gender investment gap: Are women catching up with men?</title>

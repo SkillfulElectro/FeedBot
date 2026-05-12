@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-12T00:00:58Z</dc:date>
+  <dc:date>2026-05-12T04:23:27Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-africa-s-ramaphosa-refuses-to-resign-over-cash-scandal/a-77126147?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-evacuated-passengers-begin-returning-home/live-77063670?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nazi-looted-artwork-surfaces-with-dutch-collaborator-s-heirs/a-77115569?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/somali-piracy-adds-new-strain-to-global-shipping-and-trade-routes/a-77047750?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-businesses-frustrated-by-economic-decline/a-77097307?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-is-hollywood-missing-from-cannes/a-77056586?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-rdf"/>
@@ -151,6 +151,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/south-africa-s-ramaphosa-refuses-to-resign-over-cash-scandal/a-77126147?maca=en-rss-en-all-1573-rdf">
+  <title>South Africa&apos;s Ramaphosa refuses to resign over cash scandal</title>
+  <link>https://www.dw.com/en/south-africa-s-ramaphosa-refuses-to-resign-over-cash-scandal/a-77126147?maca=en-rss-en-all-1573-rdf</link>
+  <description>Despite the establishment of an impeachment committee, South African President Cyril Ramaphosa has ruled out resigning over the cash heist scandal.</description>
+  <dc:date>2026-05-12T00:59:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77126147</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: Trump says ceasefire &apos;on life support&apos;</title>
   <link>https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-rdf</link>
@@ -321,15 +330,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77047750</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Cut fuel use, gold buys and foreign trips, says Modi, as no end in sight to Iran war</title>
-  <link>https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-rdf</link>
-  <description>Prime Minister Narendra Modi is asking Indians to work from home more and make a series of changes in their consumption habits, including cutting down on foreign trips and buying gold jewelry.</description>
-  <dc:date>2026-05-11T08:39:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77113618</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-s-businesses-frustrated-by-economic-decline/a-77097307?maca=en-rss-en-all-1573-rdf">
   <title>Germany&apos;s businesses frustrated by economic decline</title>

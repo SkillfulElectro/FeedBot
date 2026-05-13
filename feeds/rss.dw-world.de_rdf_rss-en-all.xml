@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-12T22:41:04Z</dc:date>
+  <dc:date>2026-05-13T00:02:39Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-surge-of-political-prisoners-amid-us-israel-war/a-77136844?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-russia-breaks-ceasefire-overnight-zelenskyy-says/a-77128198?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained/a-77122959?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/architecture-of-remembrance-and-hope-daniel-libeskind-at-80/a-19251296?maca=en-rss-en-all-1573-rdf"/>
@@ -143,8 +143,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/solar-power-in-morocco-s-desert-bold-vision-mixed-results/a-75387618?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-world-ditched-wasteful-toilets-the-us-stayed-behind/a-76639304?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/merck-s-keytruda-a-lifesaving-drug-a-global-divide/a-76743753?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -154,6 +152,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-rdf">
+  <title>OpenAI boss Sam Altman says Musk wanted control of company</title>
+  <link>https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-rdf</link>
+  <description>Sam Altman testified in trial that could determine the future of OpenAI, the company behind ChatGPT.</description>
+  <dc:date>2026-05-12T23:27:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77139248</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-rdf">
   <title>Canvas owner secures student data in deal with hacking group</title>
   <link>https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-rdf</link>
@@ -324,15 +331,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77126715</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-all-1573-rdf">
-  <title>US: LA area mayor to plead guilty to acting as Chinese agent</title>
-  <link>https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-all-1573-rdf</link>
-  <description>The mayor of a Los Angeles suburb with a heavy Chinese-American presence has resigned after admitting to acting as a Chinese propaganda agent. Eileen Wang now faces a maximum penalty of 10 years in jail.</description>
-  <dc:date>2026-05-12T05:39:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77126713</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-rdf">
   <title>Ukrainian children held in Russia: militarized, &apos;reeducated&apos;</title>
@@ -1341,23 +1339,5 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76639304</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-all-1573-rdf">
-  <title>Lufthansa pilots launch 2-day strike, cabin crew say they will strike right after</title>
-  <link>https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-all-1573-rdf</link>
-  <description>Pilots who are members of the Vereinigung Cockpit trade union are striking on Monday and Tuesday. As hundreds of flights were canceled, the UFO cabin crew union said it would also strike on Wednesday and Thursday.</description>
-  <dc:date>2026-04-13T17:15:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76760890</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/merck-s-keytruda-a-lifesaving-drug-a-global-divide/a-76743753?maca=en-rss-en-all-1573-rdf">
-  <title>Merck&apos;s Keytruda: A lifesaving drug, a global divide</title>
-  <link>https://www.dw.com/en/merck-s-keytruda-a-lifesaving-drug-a-global-divide/a-76743753?maca=en-rss-en-all-1573-rdf</link>
-  <description>A cross-border investigation by DW and ICIJ reveals how pricing and patents helped turn a life-saving medicine into one of the world&apos;s best selling drugs while leaving many patients struggling to access it.</description>
-  <dc:date>2026-04-13T05:06:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76743753</dwsyn:contentID>
  </item>
 </rdf:RDF>

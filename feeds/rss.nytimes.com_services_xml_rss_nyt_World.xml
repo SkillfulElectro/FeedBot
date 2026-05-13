@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 13 May 2026 18:21:06 +0000</lastBuildDate>
-    <pubDate>Wed, 13 May 2026 18:20:43 +0000</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 20:16:17 +0000</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 20:11:39 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -69,6 +69,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-gulf-shiites-3-tfbp/13int-gulf-shiites-3-tfbp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Smoke billowing after a drone strike in Kuwait City in March.</media:description>
@@ -87,6 +88,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1513" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-ukraine-ceasefires-1-mwlq/13int-ukraine-ceasefires-1-mwlq-mediumSquareAt3X-v2.jpg" width="1512"></media:content>
       <media:credit>Gleb Garanich/Reuters</media:credit>
       <media:description>Explosions over Kyiv, Ukraine, as air defenses shot down a Russian drone on Tuesday.</media:description>
@@ -99,6 +101,8 @@
       <description>Wolder, near the Belgian border, is waiting to see if the skeleton it dug up in a church is Count d’Artagnan, from Alexandre Dumas’s tale.</description>
       <dc:creator>Jeanna Smialek</dc:creator>
       <pubDate>Wed, 13 May 2026 09:01:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">d&#39;Artagnan (Charles de Batz de Castelmore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wolder (Maastricht, Netherlands)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Skeletons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bones</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
@@ -108,7 +112,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dumas, Alexandre</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Louis XIV, King of France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Three Musketeers (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wolder (Maastricht, Netherlands)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maastricht (Netherlands)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -118,41 +121,26 @@
       <media:description>An excavation in St. Peter and Paul’s Church in Wolder, the Netherlands, to see if remains found in the church belong to Count d’Artagnan, who was dramatized, fictionalized and immortalized in Dumas’s “The Three Musketeers.”</media:description>
     </item>
     <item>
-      <title>Trump Is in China as Iran War Continues With No End in Sight</title>
-      <link>https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html" rel="standout"></atom:link>
-      <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
-      <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Wed, 13 May 2026 15:04:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-mideast-iran-01-wmhc/13int-mideast-iran-01-wmhc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump departing Joint Base Andrews in Maryland for China on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>King’s Speech Comes at an Awkward Time for Starmer</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html" rel="standout"></atom:link>
-      <description>King Charles III read out Keir Starmer’s legislative agenda in the traditional manner, even as the British prime minister’s leadership remained under pressure.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Wed, 13 May 2026 17:26:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <title>Top Gaza Negotiator Urges Hamas to Embrace Rebuilding Plan</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html" rel="standout"></atom:link>
+      <description>Nickolay Mladenov, who is overseeing the U.S.-led truce in Gaza, has tried to convince the militant group to give up its arms, but it has so far refused amid Israeli cease-fire violations.</description>
+      <dc:creator>David M. Halbfinger, Adam Rasgon and Aaron Boxerman</dc:creator>
+      <pubDate>Wed, 13 May 2026 19:46:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mladenov, Nickolay E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board of Peace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-uk-king-speech-01-qjkm/13int-uk-king-speech-01-qjkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Kirsty Wigglesworth</media:credit>
-      <media:description>King Charles III sat beside Queen Camilla as he spoke during the State Opening of Parliament in London on Wednesday.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/12/06/multimedia/13int-mideast-hamas-topart/06int-gaza-militias-vpmk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saher Alghorra for The New York Times</media:credit>
+      <media:description>Members of Hamas in Gaza City in November.</media:description>
     </item>
     <item>
       <title>How China Sent a Message to Trump on His Arrival</title>
@@ -173,6 +161,42 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Han Zheng (1954- )</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/2026-05-12-trump-beijing-arrival-index/2026-05-12-trump-beijing-arrival-index-mediumSquareAt3X-v3.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Nigel Farage, Leader of Reform U.K., Faces Investigation for £5 Million Gift</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html" rel="standout"></atom:link>
+      <description>The Conservative Party referred the case against Mr. Farage, the leader of a right-wing populist party in Britain, to a parliamentary watchdog.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Wed, 13 May 2026 20:06:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-uk-farage-photo-vpmz/13int-uk-farage-photo-vpmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Toby Melville</media:credit>
+      <media:description>Nigel Farage attending the opening of Parliament in London on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Trump Is in China as Iran War Continues With No End in Sight</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/middleeast/trump-china-iran-war.html" rel="standout"></atom:link>
+      <description>Before leaving Washington on Tuesday, the president reiterated threats to decimate Iran if it doesn’t agree to a deal to resolve the conflict.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Wed, 13 May 2026 15:04:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-mideast-iran-01-wmhc/13int-mideast-iran-01-wmhc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump departing Joint Base Andrews in Maryland for China on Tuesday.</media:description>
     </item>
     <item>
       <title>A Tech Tycoon’s Prosecution Raises Fears of Authoritarian Overreach</title>
@@ -199,40 +223,17 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html" rel="standout"></atom:link>
       <description>The sound of gunshots, apparently from inside the chamber, was broadcast on live television as a senator in the Philippines, who was an ally of the former leader Rodrigo Duterte, faced arrest.</description>
       <dc:creator>Jason Gutierrez</dc:creator>
-      <pubDate>Wed, 13 May 2026 15:54:39 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 18:28:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manila (Philippines)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hague (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-philippines-arrest-02-zlcw/13int-philippines-arrest-02-zlcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jam Sta Rosa/Agence France-Presse — Getty Images</media:credit>
       <media:description>Police personnel arrive as people react to the gunshots heard inside the Senate of the Philippines in Manila on Monday.</media:description>
-    </item>
-    <item>
-      <title>As Starmer Rejects Calls to Resign, Some Make Comparisons to President Biden</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html" rel="standout"></atom:link>
-      <description>In Britain, some argue that Prime Minister Keir Starmer, by rejecting calls to step aside, risks repeating the mistakes of President Joseph R. Biden Jr.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Wed, 13 May 2026 10:01:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Rory</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13uk-starmer-biden-01-phqm/13uk-starmer-biden-01-phqm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Benjamin Cremel/Agence France-Presse — Getty Images</media:credit>
-      <media:description>For Britain’s prime minister, Keir Starmer, the parallels with former President Joseph R. Biden Jr. may not be welcome, but they are certainly evident.</media:description>
     </item>
     <item>
       <title>Catherine, Princess of Wales, to Make First Official Trip Abroad Since Cancer Diagnosis</title>
@@ -248,9 +249,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Reggio Emilia (Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-catherine-italy-01-mctg/13int-catherine-italy-01-mctg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Marco Bertorello</media:credit>
       <media:description>Catherine, Princess of Wales, arriving at the town hall in Reggio Emilia, Italy, on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Beware of Drunk Deer, French Police Say, Announcing Season of Inebriation</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/france-drunk-deer.html" rel="standout"></atom:link>
+      <description>Some wild animals, eating fermented or rotten fruits, “may exhibit completely unpredictable behavior,” the police warned drivers in Saône-et-Loire, a rural region in central-eastern France.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Wed, 13 May 2026 18:55:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Burgundy (France)</category>
     </item>
     <item>
       <title>Why A.I. is the Hidden Minefield of Trump’s China Visit</title>
@@ -272,28 +288,69 @@
       <media:description>President Trump and President Xi Jinping meeting in Busan, South Korea, in 2025.</media:description>
     </item>
     <item>
-      <title>Europe Tries a Trumpian Tactic With Trump: No Apologies</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html" rel="standout"></atom:link>
-      <description>Stuck with the fallout from America’s war in Iran, European leaders have criticized the president publicly. When he’s been angered, they haven’t backed down.</description>
-      <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Wed, 13 May 2026 12:53:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <title>Netanyahu Made a ‘Secret Visit’ to U.A.E. During Iran War</title>
+      <link>https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/middleeast/netanyahu-uae-iran-war.html" rel="standout"></atom:link>
+      <description>The visit to meet with the Emirati leader, Sheikh Mohamed bin Zayed, was another sign of how Israel and the Emirates have drawn closer together.</description>
+      <dc:creator>Pranav Baskar and Johnatan Reiss</dc:creator>
+      <pubDate>Wed, 13 May 2026 20:05:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-europe-trump-01-jkbt/13int-europe-trump-01-jkbt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Annegret Hilse/Reuters</media:credit>
-      <media:description>Chancellor Friedrich Merz of Germany is one of several European leaders who has openly criticized President Trump.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nahyan, Mohamed bin Zayed al- (1961- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-israel-uae-photo-kbtw/13int-israel-uae-photo-kbtw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ilia Yefimovich/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel in Jerusalem in April.</media:description>
+    </item>
+    <item>
+      <title>More U.S. Spy Planes are Surveilling Cuba</title>
+      <link>https://www.nytimes.com/2026/05/13/world/americas/us-cuba-spy-planes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/americas/us-cuba-spy-planes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/americas/us-cuba-spy-planes.html" rel="standout"></atom:link>
+      <description>As President Trump threatens to act against Cuba, experts are debating whether the flights, which the United States is not taking pains to hide, are just intimidation or foreshadow military force.</description>
+      <dc:creator>Frances Robles, Eric Schmitt and Julian E. Barnes</dc:creator>
+      <pubDate>Wed, 13 May 2026 20:03:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-cuba-planes01-photo-wjhv/13int-cuba-planes01-photo-wjhv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ramon Espinosa/Associated Press</media:credit>
+      <media:description>A taxi driver in Havana earlier this month.</media:description>
+    </item>
+    <item>
+      <title>What to Watch at Trump and Xi’s U.S.-China Summit</title>
+      <link>https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html" rel="standout"></atom:link>
+      <description>Here’s what to know about the biggest sources of tension in U.S.-China relations before the first summit in Beijing in nine years between the nations’ leaders.</description>
+      <dc:creator>Alan Rappeport, Ana Swanson and Edward Wong</dc:creator>
+      <pubDate>Wed, 13 May 2026 19:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14DC-China-WhatToKnow-cmvj/14DC-China-WhatToKnow-cmvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump arrived in Beijing on Wednesday.</media:description>
     </item>
     <item>
       <title>Eric Trump, Who Runs the Family Business, Hops Along on the Plane to China</title>
-      <link>https://www.nytimes.com/2026/05/13/us/politics/eric-trump-who-runs-the-family-business-hops-along-on-the-plane-to-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/us/politics/eric-trump-who-runs-the-family-business-hops-along-on-the-plane-to-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/us/politics/eric-trump-who-runs-the-family-business-hops-along-on-the-plane-to-china.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/05/13/us/politics/eric-trump-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/us/politics/eric-trump-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/us/politics/eric-trump-china.html" rel="standout"></atom:link>
       <description>The president’s middle son is said to be joining his father in a “personal capacity” rather than to make business deals.</description>
       <dc:creator>Ben Protess</dc:creator>
       <pubDate>Wed, 13 May 2026 18:18:44 +0000</pubDate>
@@ -306,7 +363,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13dc-trump-china-sons-zfwl/13dc-trump-china-sons-zfwl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump and his delegation, including his son Eric Trump, at the Beijing Capital Airport May 13, 2026.</media:description>
+      <media:description>President Trump and his delegation, including his son Eric Trump, at the Beijing Capital Airport on Wednesday.</media:description>
     </item>
     <item>
       <title>Chinese Firms Plot Secret Arms Sales to Iran, U.S. Officials Say</title>
@@ -324,6 +381,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13dc-china-weapons-cmzk/13dc-china-weapons-cmzk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Trump arrived in Beijing on Wednesday for a high-stakes diplomatic visit with President Xi Jinping of China.</media:description>
@@ -340,6 +398,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13xp-norovirus-01-mlkg/13xp-norovirus-01-mlkg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christophe Archambault/Agence France-Presse — Getty Images</media:credit>
       <media:description>Passengers aboard the Ambition, a ship operated by Ambassador Cruise Line, have been prevented from leaving the vessel while it is docked at the Bordeaux port in France.</media:description>
@@ -368,7 +427,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html" rel="standout"></atom:link>
       <description>Electric vehicle sales have soared in Europe and much of the rest of the world, but Americans are still hesitant.</description>
       <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Wed, 13 May 2026 15:06:38 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 18:29:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
@@ -420,7 +479,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/hantavirus-outbreak-cases-france.html" rel="standout"></atom:link>
       <description>The woman, who was a passenger on the MV Hondius, was breathing with the help of an artificial lung, officials in Paris said.</description>
       <dc:creator>Leo Sands and Ségolène Le Stradic</dc:creator>
-      <pubDate>Wed, 13 May 2026 17:56:12 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 19:09:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
@@ -431,9 +490,55 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oceanwide Expeditions BV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13xp-virus-02-tzgb/13xp-virus-02-tzgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jorge Guerrero/Agence France-Presse — Getty Images</media:credit>
       <media:description>Passengers after disembarking from the MV Hondius on Monday.</media:description>
+    </item>
+    <item>
+      <title>King’s Speech Comes at an Awkward Time for Starmer</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/uk-kings-speech-starmer-charles.html" rel="standout"></atom:link>
+      <description>King Charles III read out Keir Starmer’s legislative agenda in the traditional manner, even as the British prime minister’s leadership remained under pressure.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Wed, 13 May 2026 17:26:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-uk-king-speech-01-qjkm/13int-uk-king-speech-01-qjkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Kirsty Wigglesworth</media:credit>
+      <media:description>King Charles III sat beside Queen Camilla as he spoke during the State Opening of Parliament in London on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>As Starmer Rejects Calls to Resign, Some Make Comparisons to President Biden</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/starmer-labour-uk-biden-debate-resign.html" rel="standout"></atom:link>
+      <description>In Britain, some argue that Prime Minister Keir Starmer, by rejecting calls to step aside, risks repeating the mistakes of President Joseph R. Biden Jr.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Wed, 13 May 2026 10:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Rory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13uk-starmer-biden-01-phqm/13uk-starmer-biden-01-phqm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Benjamin Cremel/Agence France-Presse — Getty Images</media:credit>
+      <media:description>For Britain’s prime minister, Keir Starmer, the parallels with former President Joseph R. Biden Jr. may not be welcome, but they are certainly evident.</media:description>
     </item>
     <item>
       <title>What to Know About the Federal Gas Tax Trump Wants to Suspend</title>
@@ -472,7 +577,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/world/australia/australia-trump-tower-gold-coast.html" rel="standout"></atom:link>
       <description>The property developer says the war in Iran and Trump’s “unpopularity” contributed to the collapse of a plan for a 91-story building on the Gold Coast.</description>
       <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Wed, 13 May 2026 18:05:39 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 18:05:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
@@ -483,9 +588,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gold Coast (Australia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queensland (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-Oz-trumptower-lbgp/13int-Oz-trumptower-lbgp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Matthew Abbott for The New York Times</media:credit>
       <media:description>Surfers Paradise in Australia’s Gold Coast, where the proposed Trump Tower would be.</media:description>
+    </item>
+    <item>
+      <title>Europe Tries a Trumpian Tactic With Trump: No Apologies</title>
+      <link>https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/trump-merz-no-apology.html" rel="standout"></atom:link>
+      <description>Stuck with the fallout from America’s war in Iran, European leaders have criticized the president publicly. When he’s been angered, they haven’t backed down.</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Wed, 13 May 2026 12:53:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-europe-trump-01-jkbt/13int-europe-trump-01-jkbt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Annegret Hilse/Reuters</media:credit>
+      <media:description>Chancellor Friedrich Merz of Germany is one of several European leaders who has openly criticized President Trump.</media:description>
     </item>
     <item>
       <title>Trump’s Shrinking Ambitions on China</title>
@@ -618,6 +742,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-israel-sexual-violence-1-qlgz/13int-israel-sexual-violence-1-qlgz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
       <media:description>A house in kibbutz Kfar Aza, Israel, that was among those attacked on Oct. 7, 2023.</media:description>
@@ -656,6 +781,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/12dc-munitions-bvfq/12dc-munitions-bvfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi for The New York Times</media:credit>
       <media:description>Missile displays in Tehran in 2024. According to classified U.S. intelligence assessments, Iran retains roughly 70 percent of its prewar missile stockpile.</media:description>
@@ -1012,123 +1138,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-philippines-standoff-czgw/12int-philippines-standoff-czgw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Noel Celis/Reuters</media:credit>
       <media:description>Senator Ronald dela Rosa, who once was the chief enforcer of former President Rodrigo Duterte’s deadly “war on drugs,” talking to journalists at the Senate in Manila on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/05/12/world/uk-starmer/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/12/world/uk-starmer/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/05/12/world/uk-starmer/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Michael D. Shear and Stephen Castle</dc:creator>
-      <pubDate>Tue, 12 May 2026 16:58:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Is France’s Centrist Leader Trying to Weatherproof It From the Far Right?</title>
-      <link>https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/12/world/europe/france-macron-weatherproof-bureaucracy.html" rel="standout"></atom:link>
-      <description>President Emmanuel Macron has appointed a string of allies who will remain in critical state positions after next year’s presidential election, and who could thwart a far-right successor.</description>
-      <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Tue, 12 May 2026 04:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/10/multimedia/00int-france-macron-01-pbtv/00int-france-macron-01-pbtv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anthony Pizzoferrato/Associated Press</media:credit>
-      <media:description>President Emmanuel Macron of France speaking in Yerevan, Armenia, last week. He cannot run for re-election in France’s next presidential election.</media:description>
-    </item>
-    <item>
-      <title>Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit</title>
-      <link>https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html" rel="standout"></atom:link>
-      <description>Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.</description>
-      <dc:creator>Chris Buckley</dc:creator>
-      <pubDate>Tue, 12 May 2026 06:21:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Progressive Party (Taiwan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lai Ching-te</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ann Wang/Reuters</media:credit>
-      <media:description>A high mobility artillery rocket system, or HIMARS, displayed during a military exercise in Taichung, Taiwan, last year.</media:description>
-    </item>
-    <item>
-      <title>Altar Boy Who Called Out Sexual Abuse in the Philippines Is Now a Lawyer for Victims</title>
-      <link>https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/12/world/asia/philippines-catholic-church-sex-abuse.html" rel="standout"></atom:link>
-      <description>Michal Gatchalian dared to speak out against sexual abuse by a priest in the devoutly Catholic Philippines. He’s now a lawyer helping other victims.</description>
-      <dc:creator>Sui-Lee Wee, Aie Balagtas See and Jes Aznar</dc:creator>
-      <pubDate>Tue, 12 May 2026 06:08:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gatchalian, Michal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cebu (Philippines)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/08/multimedia/00int-philipines-lawyer-profile-01-cfwk/00int-philipines-lawyer-profile-01-cfwk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Michal Gatchalian last year in front of a makeshift altar he had setup at his suburban village’s clubhouse. He no longer goes to the church where he was an altar boy.</media:description>
-    </item>
-    <item>
-      <title>Former Hostage Calls on All of Israel’s Government to Resign</title>
-      <link>https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/11/world/middleeast/israel-hostage-demands-government-resign.html" rel="standout"></atom:link>
-      <description>Rom Braslavski, who said he had endured starvation, torture and sexual abuse during two-year captivity, demanded that members “take responsibility and get out of our lives.”</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Tue, 12 May 2026 00:22:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/11/multimedia/11int-israel-hostage-1-lgzk/11int-israel-hostage-1-lgzk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nir Elias/Reuters</media:credit>
-      <media:description>Rom Braslavski, in glasses, with three other former hostages during a ceremony in Tel Aviv in January marking the return of Israel’s last remaining hostage.</media:description>
-    </item>
-    <item>
-      <title>Former Top Zelensky Aide Is Accused in Corruption Inquiry</title>
-      <link>https://www.nytimes.com/2026/05/11/world/europe/ukraine-corruption-yermak-zelensky.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/11/world/europe/ukraine-corruption-yermak-zelensky.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/11/world/europe/ukraine-corruption-yermak-zelensky.html" rel="standout"></atom:link>
-      <description>Ukrainian news outlets named the suspect as Andriy Yermak, who resigned last year amid a sweeping scandal.</description>
-      <dc:creator>Cassandra Vinograd</dc:creator>
-      <pubDate>Mon, 11 May 2026 21:20:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yermak, Andriy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/11/multimedia/11int-ukraine-corruption-01-fhlp/11int-ukraine-corruption-01-fhlp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gleb Garanich/Reuters</media:credit>
-      <media:description>Andriy Yermak resigned in November after law enforcement agencies searched his apartment as part of a corruption investigation, but he was not charged.</media:description>
     </item>
   </channel>
 </rss>

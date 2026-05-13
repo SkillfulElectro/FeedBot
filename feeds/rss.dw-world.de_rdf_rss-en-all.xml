@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-13T00:02:39Z</dc:date>
+  <dc:date>2026-05-13T04:29:15Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/nauru-moves-to-changes-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/argentina-sees-vast-protests-against-milei-s-university-cuts/a-77139842?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-surge-of-political-prisoners-amid-us-israel-war/a-77136844?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-new-tamil-nadu-chief-minister-vijay-cracks-down-on-state-run-tasmac-liquor-shops/a-77128244?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-russia-breaks-ceasefire-overnight-zelenskyy-says/a-77128198?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained/a-77122959?maca=en-rss-en-all-1573-rdf"/>
@@ -152,6 +153,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/nauru-moves-to-changes-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-rdf">
+  <title>Nauru moves to changes its name in break from colonial past</title>
+  <link>https://www.dw.com/en/nauru-moves-to-changes-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-rdf</link>
+  <description>The parliament of Nauru has agreed to change the South Pacific microstate&apos;s name to &quot;Naoero&quot;. A referendum will now take place on the constitutional change.</description>
+  <dc:date>2026-05-13T03:55:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77140283</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/argentina-sees-vast-protests-against-milei-s-university-cuts/a-77139842?maca=en-rss-en-all-1573-rdf">
+  <title>Argentina sees vast protests against Milei&apos;s university cuts</title>
+  <link>https://www.dw.com/en/argentina-sees-vast-protests-against-milei-s-university-cuts/a-77139842?maca=en-rss-en-all-1573-rdf</link>
+  <description>Organizers estimated that some 600,000 students, university staff, union members and opposition supporters attended the protest in Buenos Aires alone.</description>
+  <dc:date>2026-05-13T03:06:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77139842</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-rdf">
   <title>OpenAI boss Sam Altman says Musk wanted control of company</title>
   <link>https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-rdf</link>
@@ -272,7 +291,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Merz booed as he advocates economic reform</title>
   <link>https://www.dw.com/en/germany-news-merz-booed-as-he-advocates-economic-reform/live-77129138?maca=en-rss-en-all-1573-rdf</link>
-  <description>Chancellor Friedrich Merz says Germany must buckle down to ensure economic renewal, amid geopolitical turmoil. Meanwhile, inflation is up again with energy prices a key driver pushing up costs. DW has the latest.</description>
+  <description>Chancellor Friedrich Merz says Germany must buckle down to ensure economic renewal, amid geopolitical turmoil. Meanwhile, inflation is up again with energy prices a key driver pushing up costs.</description>
   <dc:date>2026-05-12T09:56:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -313,15 +332,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77128190</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-russia-breaks-ceasefire-overnight-zelenskyy-says/a-77128198?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine: Russia breaks ceasefire overnight, Zelenskyy says</title>
-  <link>https://www.dw.com/en/ukraine-russia-breaks-ceasefire-overnight-zelenskyy-says/a-77128198?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ukrainian President Zelenskyy has said that Moscow launched some 200 drone strikes in a single night, bringing an end to a temporary truce. Moscow meanwhile said it intercepted 27 Ukrainian drones overnight.</description>
-  <dc:date>2026-05-12T08:02:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77128198</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-all-1573-rdf">
   <title>EU negotiators agree new rules on vital medicines</title>

@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-14T10:55:57Z</dc:date>
+  <dc:date>2026-05-14T12:58:28Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/tunisia-sliding-into-authoritarianism-experts-say/a-77155327?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/japan-saving-elderly-people-from-lonely-deaths/a-77160864?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-merkel-urges-patience-for-merz-s-coalition/live-77157896?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/can-south-africa-s-president-ramaphosa-avoid-impeachment-again/a-77132788?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/gunshots-heard-at-philippine-senate-as-icc-arrest-expected/a-77148502?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/indians-growing-anxious-as-modi-asks-them-to-cut-on-fuel/a-77146787?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fake-tiktok-fans-and-pop-music-s-unethical-marketing/a-77091563?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-new-rules-give-the-west-a-new-headache/a-77075741?maca=en-rss-en-all-1573-rdf"/>
@@ -144,7 +145,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/chess-uzbekistan-s-new-star-shows-asia-s-continued-rise/a-76819848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nueva-germania-the-failed-aryan-project-in-paraguay/a-76817647?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/senegal-the-goethe-institut-opens-its-new-building-in-dakar/a-76792644?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/anatomy-of-the-clitoris-3d-images-reveal-its-nerve-system/a-76795277?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-2026-fans-with-disabilities-excluded/a-76796915?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/solar-power-in-morocco-s-desert-bold-vision-mixed-results/a-75387618?maca=en-rss-en-all-1573-rdf"/>
@@ -157,6 +157,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/tunisia-sliding-into-authoritarianism-experts-say/a-77155327?maca=en-rss-en-all-1573-rdf">
+  <title>Tunisia sliding into authoritarianism, experts say</title>
+  <link>https://www.dw.com/en/tunisia-sliding-into-authoritarianism-experts-say/a-77155327?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Tunisian government is ramping up pressure on opposition figures, journalists and civil society — raising fresh fears of deepening repression and the steady dismantling of democracy.</description>
+  <dc:date>2026-05-14T11:40:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77155327</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/japan-saving-elderly-people-from-lonely-deaths/a-77160864?maca=en-rss-en-all-1573-rdf">
+  <title>Japan: Saving elderly people from &apos;lonely deaths&apos;</title>
+  <link>https://www.dw.com/en/japan-saving-elderly-people-from-lonely-deaths/a-77160864?maca=en-rss-en-all-1573-rdf</link>
+  <description>As Japanese society changes, many elderly people find themselves isolated and facing a &quot;lonely death.&quot; Government agencies and private groups are working hard to give them a new lease on life.</description>
+  <dc:date>2026-05-14T11:24:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77160864</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-all-1573-rdf">
   <title>Who is Mario Draghi, this year&apos;s Charlemagne Prize winner?</title>
   <link>https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-all-1573-rdf</link>
@@ -178,7 +196,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-merkel-urges-patience-for-merz-s-coalition/live-77157896?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Merkel urges patience for Merz&apos;s coalition</title>
   <link>https://www.dw.com/en/germany-news-merkel-urges-patience-for-merz-s-coalition/live-77157896?maca=en-rss-en-all-1573-rdf</link>
-  <description>Gormer Chancellor Angela Merkel says she thinks people need to have patience with the coalition government, amid widespread dissatisfaction. Meanwhile, Germany&apos;s men are celebrating Father&apos;s Day. DW has the latest.</description>
+  <description>Former Chancellor Angela Merkel says she thinks people need to have patience with the coalition government, amid widespread dissatisfaction. Meanwhile, Germany&apos;s men are celebrating Father&apos;s Day. DW has the latest.</description>
   <dc:date>2026-05-14T09:38:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -318,15 +336,6 @@
   <dc:subject>TOP STORIES</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77132994</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/indians-growing-anxious-as-modi-asks-them-to-cut-on-fuel/a-77146787?maca=en-rss-en-all-1573-rdf">
-  <title>Indians growing anxious as Modi asks them to cut on fuel</title>
-  <link>https://www.dw.com/en/indians-growing-anxious-as-modi-asks-them-to-cut-on-fuel/a-77146787?maca=en-rss-en-all-1573-rdf</link>
-  <description>With energy prices rising, Prime Minister Narendra Modi has urged Indians to embrace voluntary austerity to protect the economy from the fallout of the war in Iran. But residents say they are already at their limit.</description>
-  <dc:date>2026-05-13T12:55:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77146787</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/fake-tiktok-fans-and-pop-music-s-unethical-marketing/a-77091563?maca=en-rss-en-all-1573-rdf">
   <title>Fake TikTok fans and pop music&apos;s &apos;unethical&apos; marketing</title>
@@ -1353,15 +1362,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76817647</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/senegal-the-goethe-institut-opens-its-new-building-in-dakar/a-76792644?maca=en-rss-en-all-1573-rdf">
-  <title>Senegal: The Goethe-Institut opens its new building in Dakar</title>
-  <link>https://www.dw.com/en/senegal-the-goethe-institut-opens-its-new-building-in-dakar/a-76792644?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Goethe-Institut&apos;s new building in Dakar champions sustainable architecture, made from the earth. Star architect Francis Kere has blended local materials with contemporary design.</description>
-  <dc:date>2026-04-16T14:07:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76792644</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/anatomy-of-the-clitoris-3d-images-reveal-its-nerve-system/a-76795277?maca=en-rss-en-all-1573-rdf">
   <title>Anatomy of the clitoris: 3D images reveal its nerve system</title>

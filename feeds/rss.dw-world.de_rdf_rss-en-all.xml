@@ -7,11 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-14T05:11:52Z</dc:date>
+  <dc:date>2026-05-14T08:09:37Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/presidents-xi-and-trump-stress-importance-of-china-us-ties-at-highly-anticipated-summit-in-beijing-follow-live-at-dw/live-77140304?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-cruise-ship-on-lockdown-over-stomach-bug-outbreak/a-77154587?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-new-rules-give-the-west-a-new-headache/a-77075741?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/satellites-add-a-new-layer-to-global-poverty-data/a-77130563?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-s-modi-cuts-size-of-convoy-in-austerity-move-reports/live-77140937?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-men-are-less-worried-than-women-about-climate-change/a-76779473?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hotter-2026-and-el-nino-could-trigger-extreme-fires/a-77137100?maca=en-rss-en-all-1573-rdf"/>
@@ -155,10 +156,28 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/presidents-xi-and-trump-stress-importance-of-china-us-ties-at-highly-anticipated-summit-in-beijing-follow-live-at-dw/live-77140304?maca=en-rss-en-all-1573-rdf">
-  <title>Presidents Xi and Trump stress importance of China-US ties at highly anticipated summit in Beijing. Follow live at DW</title>
-  <link>https://www.dw.com/en/presidents-xi-and-trump-stress-importance-of-china-us-ties-at-highly-anticipated-summit-in-beijing-follow-live-at-dw/live-77140304?maca=en-rss-en-all-1573-rdf</link>
-  <description>The leaders of the world&apos;s two biggest superpowers, China and the United States, have kicked off a meeting amid heightened geopolitical tensions. Follow DW for more.</description>
+ <item rdf:about="https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine court orders arrest of Zelenskyy ally Andriy Yermak</title>
+  <link>https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf</link>
+  <description>Andriy Yermak resigned in November 2025, after investigators raided his home in a sweeping corruption probe.</description>
+  <dc:date>2026-05-14T06:52:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77156977</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-all-1573-rdf">
+  <title>&apos;Regime change&apos;: Hungary&apos;s Magyar exposes Orban&apos;s decadence</title>
+  <link>https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-all-1573-rdf</link>
+  <description>Prime Minister Peter Magyar has taken power and laid bare his predecessor&apos;s luxurious lifestyle. Many Hungarians are keen to see Magyar chart a new political course.</description>
+  <dc:date>2026-05-14T06:10:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77153692</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf">
+  <title>China warns Trump over Taiwan question at high-stakes summit</title>
+  <link>https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf</link>
+  <description>Chinese state media reported that Xi Jinping raised the question of Taiwan during his meeting with Donald Trump. The pair held talks for about two hours. Follow live.</description>
   <dc:date>2026-05-14T02:57:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -316,15 +335,6 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77130563</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-s-modi-cuts-size-of-convoy-in-austerity-move-reports/live-77140937?maca=en-rss-en-all-1573-rdf">
-  <title>India&apos;s Modi cuts size of convoy in austerity move — reports</title>
-  <link>https://www.dw.com/en/india-s-modi-cuts-size-of-convoy-in-austerity-move-reports/live-77140937?maca=en-rss-en-all-1573-rdf</link>
-  <description>Prime Minister Narendra Modi has reportedly reduced the number of vehicles in his official convoy. The reports come as Modi is making an austerity appeal to Indians.</description>
-  <dc:date>2026-05-13T07:50:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77140937</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/why-men-are-less-worried-than-women-about-climate-change/a-76779473?maca=en-rss-en-all-1573-rdf">
   <title>Why men are less worried than women about climate change</title>

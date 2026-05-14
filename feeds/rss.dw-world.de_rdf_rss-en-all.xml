@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-14T19:19:09Z</dc:date>
+  <dc:date>2026-05-14T20:53:47Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-international-student-tuition-fees-vary-across-europe/a-77146306?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-says-chinese-ships-passed-through-hormuz-overnight/a-77163709?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-10-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-tensions-oil-shocks-dominate-brics-talks-in-india/a-77158355?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/honda-reports-first-loss-since-1957-as-it-waters-down-ev-strategy-but-shares-rise-on-2026-forecasts/a-77158590?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-goes-electric-but-can-it-get-off-coal/a-77147566?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-shortfall-in-medium-range-defense-capabilities/a-77151793?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf">
+  <title>Dead whale spotted off the coast of Denmark</title>
+  <link>https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf</link>
+  <description>It was not immediately clear if the whale was Timmy, the humpback whale that captivated Germany for weeks while getting stranded multiple times off the German coast.</description>
+  <dc:date>2026-05-14T20:35:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77163823</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/how-international-student-tuition-fees-vary-across-europe/a-77146306?maca=en-rss-en-all-1573-rdf">
+  <title>How international student tuition fees vary across Europe</title>
+  <link>https://www.dw.com/en/how-international-student-tuition-fees-vary-across-europe/a-77146306?maca=en-rss-en-all-1573-rdf</link>
+  <description>A French government plan to charge students from outside the EU 16 times more than previously have stoked discontent. But how does this compare to the rest of Europe, both inside the EU and out?</description>
+  <dc:date>2026-05-14T19:52:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77146306</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-says-chinese-ships-passed-through-hormuz-overnight/a-77163709?maca=en-rss-en-all-1573-rdf">
   <title>Iran says Chinese ships passed through Hormuz overnight</title>
   <link>https://www.dw.com/en/iran-says-chinese-ships-passed-through-hormuz-overnight/a-77163709?maca=en-rss-en-all-1573-rdf</link>
@@ -328,15 +347,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77147566</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf">
-  <title>Ukraine court orders arrest of Zelenskyy ally Andriy Yermak</title>
-  <link>https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-rdf</link>
-  <description>Andriy Yermak resigned in November 2025, after investigators raided his home in a sweeping corruption probe.</description>
-  <dc:date>2026-05-14T06:52:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77156977</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-all-1573-rdf">
   <title>&apos;Regime change&apos;: Hungary&apos;s Magyar exposes Orban&apos;s decadence</title>

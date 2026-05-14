@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_=1778721898" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 14 May 2026 01:24:58 +0000</lastBuildDate>
-    <pubDate>Thu, 14 May 2026 01:15:41 +0000</pubDate>
+    <lastBuildDate>Thu, 14 May 2026 05:10:56 +0000</lastBuildDate>
+    <pubDate>Thu, 14 May 2026 05:10:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -223,7 +223,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/duterte-icc-bato-delarosa-philippines-senate-shooting.html" rel="standout"></atom:link>
       <description>The sound of gunshots, apparently from inside the chamber, was broadcast on live television as a senator in the Philippines, who was an ally of the former leader Rodrigo Duterte, faced arrest.</description>
       <dc:creator>Jason Gutierrez</dc:creator>
-      <pubDate>Thu, 14 May 2026 00:12:15 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 00:12:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
@@ -288,13 +288,52 @@
       <media:description>President Trump and President Xi Jinping meeting in Busan, South Korea, in 2025.</media:description>
     </item>
     <item>
+      <title>President Trump Goes to China</title>
+      <link>https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html" rel="standout"></atom:link>
+      <description>His talks with Xi Jinping in Beijing could decide whether the United States and China maintain their uneasy truce on trade.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 14 May 2026 04:21:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Capital International Airport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Great Hall of the People (Beijing, China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14int-china-trump-photos-02-qtvp/14int-china-trump-photos-02-qtvp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump shaking hands with China’s leader, Xi Jinping, at the Great Hall of the People in Beijing on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Beijing Tightens Security As Trump and Xi Meet in China</title>
+      <link>https://www.nytimes.com/2026/05/13/world/asia/trump-china-xi-beijing-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/asia/trump-china-xi-beijing-security.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/trump-china-xi-beijing-security.html" rel="standout"></atom:link>
+      <description>Historic sites and roads have been closed in the Chinese capital for President Trump’s state visit, resulting in severe traffic and disappointed tourists.</description>
+      <dc:creator>Francesca Regalado and Murphy Zhao</dc:creator>
+      <pubDate>Thu, 14 May 2026 04:35:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forbidden City (Beijing, China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tiananmen Square (Beijing)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+    </item>
+    <item>
       <title>Judge Orders U.S. to Return Colombian Woman Deported to Congo</title>
       <link>https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/13/world/africa/congo-colombia-deportee-return.html" rel="standout"></atom:link>
       <description>The unusual ruling came after the judge found that the Trump administration had most likely violated the law by deporting the 55-year-old woman to the African country despite its refusal to take her.</description>
       <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Thu, 14 May 2026 01:11:36 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 02:00:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
@@ -308,9 +347,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-colombia-deportee-fzck/13int-colombia-deportee-fzck-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Glody Murhabazi/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Migrants deported from the United States at a hotel in the Democratic Republic of Congo in April.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14int-colombia-deportee-vhgp/14int-colombia-deportee-vhgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Justin Makangara/Reuters</media:credit>
+      <media:description>The Colombian woman and other migrants are housed in a hotel outside Kinshasa, the capital of the Democratic Republic of Congo.</media:description>
     </item>
     <item>
       <title>Why Does China Want Taiwan?</title>
@@ -319,7 +358,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/taiwan-china-trump.html" rel="standout"></atom:link>
       <description>There are few issues in diplomacy more complicated than the status of the self-governing island, which China claims as its own. It is almost certain to come up when President Trump meets China’s leader.</description>
       <dc:creator>Chris Buckley</dc:creator>
-      <pubDate>Thu, 14 May 2026 00:20:48 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:27:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Institute in Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -332,16 +371,28 @@
       <media:description>Taiwan is certain to be raised by China’s leader, Xi Jinping, when he hosts President Trump this week.</media:description>
     </item>
     <item>
-      <title>Trump Says He Will Raise Jimmy Lai’s Case to Xi, as Lawmakers Press for His Release</title>
-      <link>https://www.nytimes.com/2026/05/13/world/asia/trump-says-he-will-raise-jimmy-lais-case-to-xi-as-lawmakers-press-for-his-release.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/asia/trump-says-he-will-raise-jimmy-lais-case-to-xi-as-lawmakers-press-for-his-release.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/trump-says-he-will-raise-jimmy-lais-case-to-xi-as-lawmakers-press-for-his-release.html" rel="standout"></atom:link>
-      <description>Mr. Trump has shown less appetite for wading into human rights issues than past U.S. presidents at summits with Beijing, but said he would raise the case of the imprisoned pro-democracy media mogul.</description>
+      <title>Activists, Lawmakers Urge Trump to Call for Release of Jimmy Lai and Dong Yuyu</title>
+      <link>https://www.nytimes.com/2026/05/13/world/asia/jimmy-lai-trump-china-xi-hong-kong.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/asia/jimmy-lai-trump-china-xi-hong-kong.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/jimmy-lai-trump-china-xi-hong-kong.html" rel="standout"></atom:link>
+      <description>Supporters of Mr. Lai, a Hong Kong dissident, and Mr. Dong, a Chinese journalist, hope President Trump will raise their cases with President Xi Jinping.</description>
       <dc:creator>Catie Edmondson</dc:creator>
-      <pubDate>Thu, 14 May 2026 00:12:05 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dong Yuyu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lai, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/10/multimedia/13trump-xi-human-rights/00int-hong-kong-lai-sentence-HFO-gqpc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
-      <media:description>Jimmy Lai at his home in Hong Kong in 2020. Mr. Lai was sentenced in February to 20 years in prison after Beijing blamed the Hong Kong publisher for leading the city’s major protests nearly seven years ago.</media:description>
+      <media:description>Jimmy Lai at his home in Hong Kong in 2020. He was sentenced in February to 20 years in prison after Beijing blamed the Hong Kong publisher for leading the city’s major protests nearly seven years ago.</media:description>
     </item>
     <item>
       <title>Here’s the latest.</title>
@@ -349,8 +400,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china/heres-the-latest</guid>
       <atom:link href="https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china/heres-the-latest" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Lily Kuo</dc:creator>
-      <pubDate>Thu, 14 May 2026 00:38:18 +0000</pubDate>
+      <dc:creator>Lily Kuo and David E. Sanger</dc:creator>
+      <pubDate>Thu, 14 May 2026 04:04:28 +0000</pubDate>
     </item>
     <item>
       <title>Canada and Alberta Reach Agreement to Raise Carbon Prices as Pipeline Tradeoff</title>
@@ -379,9 +430,9 @@
       <link>https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/13/us/politics/china-visits-nixon-to-trump.html" rel="standout"></atom:link>
-      <description>President Trump’s visit to Beijing comes as relations with China have became more combative.</description>
+      <description>President Trump’s visit to Beijing comes as relations with China have become more combative.</description>
       <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Wed, 13 May 2026 23:20:08 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:29:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
@@ -402,13 +453,13 @@
       <media:description>President Richard M. Nixon visiting Beijing in 1972.</media:description>
     </item>
     <item>
-      <title>As Trump and Xi Meet in China, Why Typical Displays of Cultural Exchange Won’t Be on Show</title>
+      <title>As Trump and Xi Meet in China, American and Chinese People Are Drifting Apart</title>
       <link>https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html" rel="standout"></atom:link>
       <description>Past meetings between the presidents of the U.S. and China have involved friendly displays of cultural exchange. Those gestures have largely dried up.</description>
       <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Wed, 13 May 2026 23:00:07 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:25:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -432,14 +483,13 @@
       <description>The attack, at a remote uranium mining site in northern Saskatchewan, was only the fourth fatal black bear encounter in the province’s recorded history, officials said.</description>
       <dc:creator>Adeel Hassan</dc:creator>
       <pubDate>Wed, 13 May 2026 22:40:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatoon (Saskatchewan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saskatchewan (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Uranium</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
       <media:content height="1415" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13xp-bear-attack-pwzk/13xp-bear-attack-pwzk-mediumSquareAt3X.jpg" width="1415"></media:content>
       <media:credit>Victor R. Caivano/Associated Press</media:credit>
       <media:description>The black bear is the most common species in Canada, though bear attacks are rare.</media:description>
@@ -451,7 +501,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html" rel="standout"></atom:link>
       <description>President Xi Jinping of China is buying time for Beijing and may see an opening with a U.S. president weakened by the war in Iran.</description>
       <dc:creator>Lily Kuo</dc:creator>
-      <pubDate>Wed, 13 May 2026 22:18:47 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:25:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -469,13 +519,13 @@
       <media:description>President Xi Jinping of China, seen here in Beijing on Tuesday, has been seeking to redefine the terms of how China and the United States should engage. </media:description>
     </item>
     <item>
-      <title>Alberta Separation Petition Is Dealt a Court Blow </title>
+      <title>Alberta Separation Petition Is Dealt a Court Blow</title>
       <link>https://www.nytimes.com/2026/05/13/world/canada/alberta-seperation-secession-judge.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/canada/alberta-seperation-secession-judge.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/13/world/canada/alberta-seperation-secession-judge.html" rel="standout"></atom:link>
       <description>A judge sided with an Indigenous group that had asked for a petition by separatists to force a vote on the oil-rich province seceding from Canada to be thrown out.</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Thu, 14 May 2026 00:05:08 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 01:39:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
@@ -491,9 +541,9 @@
       <link>https://www.nytimes.com/2026/05/13/world/trump-xi-beijing-iran-missiles.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/trump-xi-beijing-iran-missiles.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/13/world/trump-xi-beijing-iran-missiles.html" rel="standout"></atom:link>
-      <description>The president will get the red carpet treatment, but the deep rift between the U.S. and China will be very hard to repair.</description>
+      <description>The president is getting the red carpet treatment, but the deep rift between the U.S. and China will be very hard to repair.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Wed, 13 May 2026 21:49:44 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 05:10:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
@@ -573,7 +623,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html" rel="standout"></atom:link>
       <description>Here’s what to know about the biggest sources of tension in U.S.-China relations before the first summit in Beijing in nine years between the nations’ leaders.</description>
       <dc:creator>Alan Rappeport, Ana Swanson and Edward Wong</dc:creator>
-      <pubDate>Wed, 13 May 2026 19:01:41 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 01:29:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -594,7 +644,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/us/politics/eric-trump-china.html" rel="standout"></atom:link>
       <description>The president’s middle son is said to be joining his father in a “personal capacity” rather than to make business deals.</description>
       <dc:creator>Ben Protess</dc:creator>
-      <pubDate>Wed, 13 May 2026 18:18:44 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 04:29:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
@@ -628,6 +678,28 @@
       <media:description>President Trump arrived in Beijing on Wednesday for a high-stakes diplomatic visit with President Xi Jinping of China.</media:description>
     </item>
     <item>
+      <title>Why the Bombing of Iran Tied the U.S. More Closely to China</title>
+      <link>https://www.nytimes.com/2026/05/13/business/economy/iran-war-trump-china-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/business/economy/iran-war-trump-china-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/13/business/economy/iran-war-trump-china-us.html" rel="standout"></atom:link>
+      <description>As the U.S. tries to rebuild its weapons stockpiles drained in the Iran war, it will need access to rare-earth minerals, an industry China dominates.</description>
+      <dc:creator>Ana Swanson and John Ismay</dc:creator>
+      <pubDate>Wed, 13 May 2026 16:41:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rare Earths</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13dc-china-minerals-pmvf/13dc-china-minerals-pmvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>A destroyed building in Tehran last month. The war in Iran is expected to figure into talks between the United States and China in Beijing this week.</media:description>
+    </item>
+    <item>
       <title>France Clears Cruise Ship to Sail After Norovirus Outbreak Sickens Dozens</title>
       <link>https://www.nytimes.com/2026/05/13/world/europe/cruise-ship-france-illness.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/cruise-ship-france-illness.html</guid>
@@ -651,7 +723,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/us/politics/trump-xi-rivalry.html" rel="standout"></atom:link>
       <description>The relationship between the two leaders is marked just as much by mistrust and confrontation as it is by niceties.</description>
       <dc:creator>Luke Broadwater</dc:creator>
-      <pubDate>Wed, 13 May 2026 16:53:52 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 16:53:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -668,7 +740,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html" rel="standout"></atom:link>
       <description>Electric vehicle sales have soared in Europe and much of the rest of the world, but Americans are still hesitant.</description>
       <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Wed, 13 May 2026 20:17:06 +0000</pubDate>
+      <pubDate>Wed, 13 May 2026 20:17:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
@@ -721,17 +793,13 @@
       <description>The woman, who was a passenger on the MV Hondius, was breathing with the help of an artificial lung, officials in Paris said.</description>
       <dc:creator>Leo Sands and Ségolène Le Stradic</dc:creator>
       <pubDate>Wed, 13 May 2026 19:09:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hantavirus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Respiratory Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oceanwide Expeditions BV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13xp-virus-02-tzgb/13xp-virus-02-tzgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jorge Guerrero/Agence France-Presse — Getty Images</media:credit>
       <media:description>Passengers after disembarking from the MV Hondius on Monday.</media:description>
@@ -1145,43 +1213,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/12dc-prexy-kvqg/12dc-prexy-kvqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>President Trump meeting with President Xi Jinping of China in Busan, South Korea, last year. The two leaders are set to meet in Beijing on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Kuwait Accuses Iran of Trying to Infiltrate Its Territory</title>
-      <link>https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html" rel="standout"></atom:link>
-      <description>Kuwait’s interior ministry said a group of armed Iranians arrived at Bubiyan Island in the Persian Gulf on May 1 aboard a rented fishing boat and exchanged fire with Kuwaiti soldiers.</description>
-      <dc:creator>Ismaeel Naar</dc:creator>
-      <pubDate>Tue, 12 May 2026 19:56:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/12mideast-kuwait-uae-jhpv/12mideast-kuwait-uae-jhpv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yasser Al-Zayyat/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Kuwait says it arrested four members of the Islamic Revolutionary Guards Corps who arrived on a boat.</media:description>
-    </item>
-    <item>
-      <title>Starmer has struggled with the economy, the Mandelson scandal and other issues.</title>
-      <link>https://www.nytimes.com/live/2026/05/12/world/uk-starmer/starmer-has-struggled-with-the-economy-the-mandelson-scandal-and-other-issues</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/12/world/uk-starmer/starmer-has-struggled-with-the-economy-the-mandelson-scandal-and-other-issues</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/05/12/world/uk-starmer/starmer-has-struggled-with-the-economy-the-mandelson-scandal-and-other-issues" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Tue, 12 May 2026 16:05:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandelson, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/12uk-starmer-damaging-issues-phmw/12uk-starmer-damaging-issues-phmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chris J Ratcliffe/Reuters</media:credit>
-      <media:description>The appointment of Peter Mandelson to the position of Britain’s ambassador to Washington was perhaps Keir Starmer’s most damaging error.</media:description>
     </item>
   </channel>
 </rss>

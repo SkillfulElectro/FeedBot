@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-13T23:07:22Z</dc:date>
+  <dc:date>2026-05-14T01:26:38Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-cruise-ship-on-lockdown-over-stomach-bug-outbreak/a-77154587?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/satellites-add-a-new-layer-to-global-poverty-data/a-77130563?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-s-modi-cuts-size-of-convoy-in-austerity-move-reports/live-77140937?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-caring-about-the-climate-unmanly/a-76779473?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nauru-moves-to-change-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hotter-2026-and-el-nino-could-trigger-extreme-fires/a-77137100?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bundesliga-kathleen-krüger-appointed-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-all-1573-rdf"/>
@@ -146,7 +146,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/world-cup-2026-fans-with-disabilities-excluded/a-76796915?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/solar-power-in-morocco-s-desert-bold-vision-mixed-results/a-75387618?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/women-s-workwear-when-proper-fit-becomes-a-safety-issue/a-76777532?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-world-ditched-wasteful-toilets-the-us-stayed-behind/a-76639304?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -156,6 +155,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-all-1573-rdf">
+  <title>US drops bond requirement for FIFA World Cup ticket holders</title>
+  <link>https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-all-1573-rdf</link>
+  <description>Fans from five African World Cup qualifying nations with valid tickets are exempt from paying a hefty bond. But fans from several other countries still face major hurdles to seeing their teams play in the United States.</description>
+  <dc:date>2026-05-14T00:56:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77155757</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-rdf">
   <title>Trump&apos;s Federal Reserve chair nominee confirmed by Senate</title>
   <link>https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-rdf</link>
@@ -285,7 +293,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Carmakers paint bleak picture on jobs</title>
   <link>https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-all-1573-rdf</link>
-  <description>German automakers say there is a strong likelihood of huge job losses over the next decade. Meanwhile, Germany&apos;s football fans are wondering whether former national keeper Manuel Neuer is set to return. DW has more.</description>
+  <description>German automakers say there is a strong likelihood of huge job losses over the next decade. Meanwhile, Germany&apos;s football fans are wondering whether former national keeper Manuel Neuer is set to return.</description>
   <dc:date>2026-05-13T09:29:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -326,15 +334,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76779473</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nauru-moves-to-change-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-rdf">
-  <title>Nauru moves to change its name in break from colonial past</title>
-  <link>https://www.dw.com/en/nauru-moves-to-change-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-rdf</link>
-  <description>The parliament of Nauru has agreed to change the South Pacific microstate&apos;s name to &quot;Naoero&quot;. A referendum will now take place on the constitutional change.</description>
-  <dc:date>2026-05-13T03:55:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77140283</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-all-1573-rdf">
   <title>EU invites Taliban members to discuss Afghan migrant returns</title>
@@ -1370,14 +1369,5 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76777532</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-world-ditched-wasteful-toilets-the-us-stayed-behind/a-76639304?maca=en-rss-en-all-1573-rdf">
-  <title>The world ditched wasteful toilets, the US stayed behind</title>
-  <link>https://www.dw.com/en/the-world-ditched-wasteful-toilets-the-us-stayed-behind/a-76639304?maca=en-rss-en-all-1573-rdf</link>
-  <description>US toilets use far more water than many of their global counterparts. President Donald Trump is pushing to loosen water pressure standards, a move critics say would increase waste.</description>
-  <dc:date>2026-04-14T08:20:00Z</dc:date>
-  <dc:subject>Environment</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76639304</dwsyn:contentID>
  </item>
 </rdf:RDF>

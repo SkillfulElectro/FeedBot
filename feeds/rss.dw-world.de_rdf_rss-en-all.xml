@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-14T15:27:01Z</dc:date>
+  <dc:date>2026-05-14T17:20:32Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-8-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/cuba-s-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/lab-grown-tyrannosaurus-leather-more-chicken-than-dinosaur/a-77118050?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-cruise-ship-on-lockdown-over-stomach-bug-outbreak/a-77154587?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-shortfall-in-medium-range-defense-capabilities/a-77151793?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fake-tiktok-fans-and-pop-music-s-unethical-marketing/a-77091563?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-all-1573-rdf"/>
@@ -157,6 +158,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/ukraine-8-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine: 8 dead as Russian strikes pound Kyiv</title>
+  <link>https://www.dw.com/en/ukraine-8-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-rdf</link>
+  <description>Russia has unleashed a massive volley of missiles and drones at Ukrainian cities for the third day in a row, with the latest strikes hitting a Kyiv apartment block, killing eight.</description>
+  <dc:date>2026-05-14T17:11:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77163392</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf">
+  <title>Corruption in Ukraine: Will this scandal reach Zelenskyy?</title>
+  <link>https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf</link>
+  <description>A drawn-out corruption affair in Ukraine is widening, with authorities now taking action against Andriy Yermak, the former head of the presidential office. Will this scandal reach all the way to President Zelenskyy?</description>
+  <dc:date>2026-05-14T16:10:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77161926</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/cuba-s-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028?maca=en-rss-en-all-1573-rdf">
+  <title>Cuba&apos;s power grid &apos;critical&apos; as US blocks fuel shipments</title>
+  <link>https://www.dw.com/en/cuba-s-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028?maca=en-rss-en-all-1573-rdf</link>
+  <description>Protests flared in Havana amid widespread power outages. Cuba&apos;s energy minister says fuel has &quot;run out&quot; as a four-month US oil blockade chokes off energy supplies.</description>
+  <dc:date>2026-05-14T16:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77162028</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-all-1573-rdf">
   <title>UK: Health Secretary Wes Streeting resigns, likely in bid to topple PM Keir Starmer</title>
   <link>https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-all-1573-rdf</link>
@@ -318,24 +346,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77155757</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-rdf">
-  <title>Trump&apos;s Federal Reserve chair nominee confirmed by Senate</title>
-  <link>https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-rdf</link>
-  <description>Kevin Warsh is set to replace outgoing Fed chair Jerome Powell, who has been a frequent target of President Trump&apos;s criticism.</description>
-  <dc:date>2026-05-13T19:27:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77154907</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/france-cruise-ship-on-lockdown-over-stomach-bug-outbreak/a-77154587?maca=en-rss-en-all-1573-rdf">
-  <title>France: Cruise ship on lockdown over stomach bug outbreak</title>
-  <link>https://www.dw.com/en/france-cruise-ship-on-lockdown-over-stomach-bug-outbreak/a-77154587?maca=en-rss-en-all-1573-rdf</link>
-  <description>A stomach illness outbreak and the death of a man on board prompted authorities in Bordeaux to place a temporary disembarking ban on the ship.</description>
-  <dc:date>2026-05-13T18:59:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77154587</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-s-shortfall-in-medium-range-defense-capabilities/a-77151793?maca=en-rss-en-all-1573-rdf">
   <title>Germany&apos;s shortfall in medium-range defense capabilities</title>

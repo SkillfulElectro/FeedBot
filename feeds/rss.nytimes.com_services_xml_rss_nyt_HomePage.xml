@@ -3,37 +3,38 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1778859190350" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 15 May 2026 15:33:10 +0000</lastBuildDate>
-    <pubDate>Fri, 15 May 2026 15:11:10 +0000</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 17:37:55 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 17:36:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Trump Touts ‘Fantastic Trade Deals’ With China, but Details Are Scarce</title>
-      <link>https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html" rel="standout"></atom:link>
-      <description>The president left Beijing following a summit with China, during which the two countries sought to stabilize their economic and political relations.</description>
-      <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Fri, 15 May 2026 11:59:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <title>Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit</title>
+      <link>https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html" rel="standout"></atom:link>
+      <description>The president has shifted the foundations of American policy toward China, throwing aside the adversarial approach of recent years.</description>
+      <dc:creator>Anton Troianovski and David E. Sanger</dc:creator>
+      <pubDate>Fri, 15 May 2026 17:36:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15DC-Trump-Trade-fkpb/15DC-Trump-Trade-fkpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15dc-china-trump-ledeall01-photo-chvq/15dc-china-trump-ledeall01-photo-chvq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump before departing China in Beijing on Friday.</media:description>
+      <media:description>President Trump and President Xi Jinping of China arriving for the state banquet in Beijing on Thursday.</media:description>
     </item>
     <item>
       <title>Xi Pitches His Vision for Avoiding Conflict With the U.S.</title>
@@ -56,20 +57,194 @@
       <media:description>President Xi Jinping of China welcomed President Trump in Beijing on Thursday.</media:description>
     </item>
     <item>
-      <title>A Surge of U.S. Spy Planes Over Cuba, and Retailers’ $20 Billion Bet on Physical Stores</title>
-      <link>https://www.nytimes.com/2026/05/15/podcasts/the-headlines/spy-planes-cuba-physical-stores-retailers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/podcasts/the-headlines/spy-planes-cuba-physical-stores-retailers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/podcasts/the-headlines/spy-planes-cuba-physical-stores-retailers.html" rel="standout"></atom:link>
-      <description>Plus, the Friday news quiz.</description>
-      <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas and Ian Stewart</dc:creator>
-      <pubDate>Fri, 15 May 2026 11:03:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15theheadlines-cuba-lmhv/15theheadlines-cuba-lmhv-mediumSquareAt3X.jpg" width="1600"></media:content>
-      <media:credit>Lisette Poole for The New York Times</media:credit>
-      <media:description>Rooftop solar panels in Havana. Cuba’s energy minister said that solar power was not a reliable alternative source for the country because its grid was too weak.</media:description>
+      <title>For Xi’s Critics, Trump’s China Visit Is Fuel for Jokes They Can’t Tell</title>
+      <link>https://www.nytimes.com/2026/05/15/business/trump-xi-meeting-china-social-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/business/trump-xi-meeting-china-social-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/business/trump-xi-meeting-china-social-media.html" rel="standout"></atom:link>
+      <description>On Threads and other sites, liberal-minded Chinese accounts were mocking the proceedings and offering a rare window into opinions on Xi Jinping and his leadership style.</description>
+      <dc:creator>Li Yuan</dc:creator>
+      <pubDate>Fri, 15 May 2026 16:30:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15biz-newworld-summit-jokes-mcpk/15biz-newworld-summit-jokes-mcpk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump was cheered by children upon his arrival in Beijing on Thursday</media:description>
+    </item>
+    <item>
+      <title>Trump Discussed U.S. Arms Sales With Xi ‘In Great Detail’</title>
+      <link>https://www.nytimes.com/2026/05/15/world/asia/trump-china-arms-sales.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/asia/trump-china-arms-sales.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/asia/trump-china-arms-sales.html" rel="standout"></atom:link>
+      <description>The engagement between the president and the Chinese leader may have tested a decades-old U.S. assurance to Taiwan not to consult Beijing on the topic.</description>
+      <dc:creator>Chris Buckley</dc:creator>
+      <pubDate>Fri, 15 May 2026 14:30:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/14/multimedia/14trump-china-arms-sales-topart-jvzq/14trump-china-arms-sales-topart-jvzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Xi Jinping of China, left, and President Trump discussed American arm sales to Taiwan in “great detail,” according to Mr. Trump.</media:description>
+    </item>
+    <item>
+      <title>Kataib Hezbollah Commander Accused of Planning Attacks on N.Y.C.</title>
+      <link>https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html" rel="standout"></atom:link>
+      <description>Mohammad Baqer Saad Dawood Al-Saadi is accused of directing and urging others to attack American and Israeli interests. Prosecutors say he is a leader of Kataib Hezbollah, an Iraqi militia with ties to Iran.</description>
+      <dc:creator>Benjamin Weiser</dc:creator>
+      <pubDate>Fri, 15 May 2026 17:16:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kittleson, Shelly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suleimani, Qassim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
+    </item>
+    <item>
+      <title>Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.</title>
+      <link>https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html" rel="standout"></atom:link>
+      <description>Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.</description>
+      <dc:creator>Megan Mineiro</dc:creator>
+      <pubDate>Fri, 15 May 2026 16:07:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Emergency Powers (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Armed Services</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14dc-cong-iran-qkpj/14dc-cong-iran-qkpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Senator Lisa Murkowski, Republican of Alaska, during a Senate appropriation hearing last month.</media:description>
+    </item>
+    <item>
+      <title>Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War</title>
+      <link>https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html" rel="standout"></atom:link>
+      <description>Hopes for an end to the war in Iran faded after President Trump failed to secure a commitment from China to help persuade Iran to reopen the Strait of Hormuz.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 15 May 2026 14:22:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15biz-oil-stocks-gas1-hwjm/15biz-oil-stocks-gas1-hwjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston</media:credit>
+    </item>
+    <item>
+      <title>Justice Dept. Aims to Use Terrorism Laws to Target Mexican Officials</title>
+      <link>https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/americas/doj-terrorism-charges-mexican-officials.html" rel="standout"></atom:link>
+      <description>The Justice Department this week instructed federal prosecutors to build criminal drug cases against Mexican officials using new terrorism statutes.</description>
+      <dc:creator>Ernesto Londoño, Alan Feuer and Jack Nicas</dc:creator>
+      <pubDate>Fri, 15 May 2026 17:34:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Drug Enforcement Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caro Quintero, Rafael (1952- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Juan Orlando</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jacobson, Roberta S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rocha Moya, Ruben (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-doj-mexico01-photo-mtkj/15int-doj-mexico01-photo-mtkj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alejandro Cegarra for The New York Times</media:credit>
+      <media:description>Flags at the U.S. border with Mexico in Tijuana last year.</media:description>
+    </item>
+    <item>
+      <title>How a Drug Cartel Made a Mexican State Its Tool</title>
+      <link>https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html" rel="standout"></atom:link>
+      <description>Cartel insiders say that in exchange for bribes and political support they were allowed to operate in Sinaloa state with near total freedom.</description>
+      <dc:creator>Paulina Villegas</dc:creator>
+      <pubDate>Fri, 15 May 2026 17:30:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia Luna, Genaro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guzman Loera, Joaquin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Culiacan (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-mexico-cartel-collusion-mwcb/12int-mexico-cartel-collusion-mwcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Paul Ratje for The New York Times</media:credit>
+      <media:description>Cartel gunsmiths in a village on the outskirts of Culiacán, in Mexico’s Sinaloa state, in October.</media:description>
+    </item>
+    <item>
+      <title>Archaeologists Find Egyptian Mummy Buried With the ‘Iliad’</title>
+      <link>https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html" rel="standout"></atom:link>
+      <description>For the deceased of Roman-era Egypt, Greek literature may have offered a cheat code to a more comfortable afterlife.</description>
+      <dc:creator>Franz Lidz</dc:creator>
+      <pubDate>Fri, 15 May 2026 09:01:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egyptian Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mummies and Mummification</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roman Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <media:content height="1803" medium="image" url="https://static01.nyt.com/images/2026/05/14/climate/14SCI-ILIAD/14SCI-ILIAD-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maite Mascort i Roca and Esther Pons Mellado, Mission of the University of Barcelona at Oxyrhynchus</media:credit>
+      <media:description>The necropolis of Oxyrhynchus in Egypt, where a nonroyal mummy was found with some lines on papyrus from Book 2 of Homer’s “Iliad.”</media:description>
+    </item>
+    <item>
+      <title>Judge Declares Mistrial in Weinstein Rape Trial</title>
+      <link>https://www.nytimes.com/2026/05/15/nyregion/harvey-weinstein-hung-jury-mistrial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/nyregion/harvey-weinstein-hung-jury-mistrial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/nyregion/harvey-weinstein-hung-jury-mistrial.html" rel="standout"></atom:link>
+      <description>This was the third time Harvey Weinstein was on trial accused of raping an aspiring actress at a hotel in Manhattan in 2013.</description>
+      <dc:creator>Hurubie Meko and Kate Christobek</dc:creator>
+      <pubDate>Fri, 15 May 2026 17:19:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farber, Curtis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mann, Jessica (Actor)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinstein, Harvey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/08/multimedia/00met-weinstein-verdict-02-qhpm/00met-weinstein-verdict-02-qhpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Steven Hirsch</media:credit>
+      <media:description>Harvey Weinstein, the disgraced Hollywood producer, has faced three sex crimes trials in Manhattan.</media:description>
     </item>
     <item>
       <title>As Powell Steps Down, the Fed Confronts ‘Regime Change’</title>
@@ -127,49 +302,30 @@
       <media:description>Only a year ago, Intel needed a bailout by the U.S. government. This year, it has made a remarkable comeback.</media:description>
     </item>
     <item>
-      <title>Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War</title>
-      <link>https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/business/oil-stocks-gas-trump-iran.html" rel="standout"></atom:link>
-      <description>Hopes for an end to the war in Iran faded after President Trump failed to secure a commitment from China to help persuade Iran to reopen the Strait of Hormuz.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 15 May 2026 14:22:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15biz-oil-stocks-gas1-hwjm/15biz-oil-stocks-gas1-hwjm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston</media:credit>
-    </item>
-    <item>
-      <title>A Top U.S. Commander Dismisses Reports of Civilian Deaths in Iran</title>
-      <link>https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html" rel="standout"></atom:link>
-      <description>Adm. Brad Cooper said a strike on an Iranian school may have been the only civilian casualty incident of the war.</description>
-      <dc:creator>Greg Jaffe</dc:creator>
-      <pubDate>Thu, 14 May 2026 22:49:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Brad (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shajarah Tayyebeh (Minab, Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14dc-military-iran-wklv/14dc-military-iran-wklv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Admiral Cooper told the lawmakers that his staff had been proactive in trying to prevent civilian deaths. “Our staff specifically warned the Iranian people more than 100 times about the threat of them being used as human shields,” he said. </media:description>
+      <title>Martin Short and the Secret to Finding Joy While Surviving Tragedy</title>
+      <link>https://www.nytimes.com/2026/05/15/movies/martin-short-marty-life-is-short.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/movies/martin-short-marty-life-is-short.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/movies/martin-short-marty-life-is-short.html" rel="standout"></atom:link>
+      <description>The comedy star, who is the subject of a new documentary, has faced a series of unimaginable losses. Yet he says there are always laughs to remember.</description>
+      <dc:creator>Jason Zinoman and Thea Traff</dc:creator>
+      <pubDate>Fri, 15 May 2026 09:02:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Short, Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Marty, Life Is Short (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/14cul-martin-short-01-vbtj/14cul-martin-short-01-vbtj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Grieving gives you “muscles to survive,” Martin Short said.</media:description>
     </item>
     <item>
       <title>Deported Despite DACA: Dreamers Face Uncertainty Under Trump</title>
-      <link>https://www.nytimes.com/2026/05/15/us/deported-despite-daca-dreamers-face-uncertainty-under-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/deported-despite-daca-dreamers-face-uncertainty-under-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/us/deported-despite-daca-dreamers-face-uncertainty-under-trump.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/05/15/us/trump-deportations-daca.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/trump-deportations-daca.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/us/trump-deportations-daca.html" rel="standout"></atom:link>
       <description>The administration has said DACA isn’t a right to stay in the United States “indefinitely.” One man with DACA was detained and deported to Mexico in a matter of days.</description>
       <dc:creator>Miriam Jordan</dc:creator>
       <pubDate>Fri, 15 May 2026 09:00:09 +0000</pubDate>
@@ -212,41 +368,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Shelters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/05/multimedia/00int-congo-migrants-1-cqmk/00int-congo-migrants-1-cqmk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Makangara for The New York Times</media:credit>
       <media:description>Hugo Palencia was deported from the U.S. to Kinshasa, the Democratic Republic of Congo, last month.</media:description>
     </item>
     <item>
-      <title>Joe Sedelmaier, Auteur Behind ‘Where’s the Beef?’ Ad, Dies at 92</title>
-      <link>https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html" rel="standout"></atom:link>
-      <description>He directed nearly 1,000 comedic commercials, including a much-quoted spot for Wendy’s and one for FedEx featuring a manic speed talker.</description>
-      <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Fri, 15 May 2026 14:36:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wendy&#39;s International Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joe Sedelmaier (1933-2026)</category>
-      <media:content height="895" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14Sedelmair--jvhw/14Sedelmair--jvhw-mediumSquareAt3X.jpg" width="895"></media:content>
-      <media:credit>Bettmann, via Getty Images</media:credit>
-      <media:description>Clara Peller, the octogenarian star of a classic Wendy’s commercial directed by Joe Sedelmaier, asks her famous question during a news conference in 1984.</media:description>
-    </item>
-    <item>
-      <title>Oysterman, Veteran, Prep-School Alum: A Senate Candidate’s Complex Class Story</title>
-      <link>https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html" rel="standout"></atom:link>
-      <description>Democrats are pinning their hopes of flipping the Senate on Graham Platner, who has made his working-class persona key to his campaign. His background defies easy categorization.</description>
-      <dc:creator>Lisa Lerer, Katie Glueck and Sophie Park</dc:creator>
-      <pubDate>Fri, 15 May 2026 14:22:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">George Washington University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
-      <media:content height="1739" medium="image" url="https://static01.nyt.com/images/2026/05/01/multimedia/14pol-platner-workingclass/14pol-platner-workingclass-mediumSquareAt3X.jpg" width="1739"></media:content>
+      <title>German Chancellor, After Iran Spat With Trump, Reports ‘Good’ Phone Call</title>
+      <link>https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html" rel="standout"></atom:link>
+      <description>The call, initiated by Friedrich Merz, came soon after he told young people, “I am a great admirer of America. My admiration is not increasing at the moment.”</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Fri, 15 May 2026 16:04:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-Merz-US-glcq/15int-Merz-US-glcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kai Pfaffenbach/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Chancellor Friedrich Merz meeting with people in Würtzburg, Germany, on Friday.</media:description>
     </item>
     <item>
       <title>In Kentucky, the Iran War Complicates a Republican Primary</title>
@@ -255,7 +399,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/15/us/politics/kentucky-voters-iran-war.html" rel="standout"></atom:link>
       <description>Representative Thomas Massie, the incumbent, has opposed President Trump’s military strikes on Iran. He is now facing the biggest challenge of his career.</description>
       <dc:creator>Jennifer Medina and Michael Swensen</dc:creator>
-      <pubDate>Fri, 15 May 2026 14:04:48 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 15:36:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
@@ -268,32 +412,13 @@
       <media:credit>Michael Swensen for The New York Times</media:credit>
     </item>
     <item>
-      <title>Bernie Sanders Endorses Slate of Candidates in Bid to Cement Progressive Legacy</title>
-      <link>https://www.nytimes.com/2026/05/15/us/politics/bernie-sanders-endorsements-democrats-candidates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/politics/bernie-sanders-endorsements-democrats-candidates.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/us/politics/bernie-sanders-endorsements-democrats-candidates.html" rel="standout"></atom:link>
-      <description>The five dozen endorsements mostly feature those seeking state or local office who have previously supported the Vermont senator.</description>
-      <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Fri, 15 May 2026 09:03:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, City Councils</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15pol-sanders-endorsements-alt-mpzq/15pol-sanders-endorsements-alt-mpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sarah Rice/Getty Images</media:credit>
-      <media:description>Senator Bernie Sanders, an independent from Vermont, said he is working to help elect as many like-minded allies as possible up and down the ballot.</media:description>
-    </item>
-    <item>
       <title>Fierce Fights Over House Seats to Replace Nancy Pelosi and Jerrold Nadler</title>
       <link>https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/15/us/house-candidates-democrats-pelosi-nadler.html" rel="standout"></atom:link>
-      <description>Nancy Pelosi and Jerrold Nadler are retiring, sparking fierce fights in San Francisco and Manhattan to succeed them. Whoever wins their seats could tap big donors and shape the Democratic Party.</description>
+      <description>Nancy Pelosi and Jerrold Nadler are retiring, prompting competitive races to succeed them. Whoever wins their seats could tap big donors and shape the Democratic Party.</description>
       <dc:creator>Benjamin Oreskes and Heather Knight</dc:creator>
-      <pubDate>Fri, 15 May 2026 14:32:58 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 17:15:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
@@ -313,68 +438,43 @@
       <media:description>Representative Jerry Nadler and Nancy Pelosi, then the House speaker, loomed large in their respective districts. Now that they are both retiring, a fierce fight is on to replace them.</media:description>
     </item>
     <item>
-      <title>Supreme Court Allows Abortion Pill Access by Mail to Continue</title>
-      <link>https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/14/us/politics/supreme-court-abortion-pill.html" rel="standout"></atom:link>
-      <description>A federal appeals court ruling against the Food and Drug Administration would have restricted access by mail to mifepristone.</description>
-      <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Fri, 15 May 2026 13:08:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion Drugs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mifeprex (RU-486)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Danco Laboratories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GenBioPro Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <title>Trump Loyalist Leads Administration’s Hunt for Fraud in Elections</title>
+      <link>https://www.nytimes.com/2026/05/15/us/dan-bishop-election-fraud-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/dan-bishop-election-fraud-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/us/dan-bishop-election-fraud-trump.html" rel="standout"></atom:link>
+      <description>The loyalist, Dan Bishop, put his fealty to the president on display when he pressed the F.B.I. to chase investigative leads it had already rejected.</description>
+      <dc:creator>Alan Feuer and Nick Corasaniti</dc:creator>
+      <pubDate>Fri, 15 May 2026 14:11:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dominion Voting Systems Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">diGenova, Joseph E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Edward Robert Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Olsen, Kurt (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peters, Tina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14dc-scotus-abortion-wlbh/14dc-scotus-abortion-wlbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Evelyn Hockstein/Reuters</media:credit>
-      <media:description>The clash over access to mifepristone has put the Trump administration in a difficult political position ahead of the midterm election.</media:description>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/00dc0elections-jtzc/00dc0elections-jtzc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>During his time in the House, from 2019 to 2025, Mr. Bishop served on the subcommittee on the weaponization of the federal government.</media:description>
     </item>
     <item>
-      <title>Mail-Order Abortions Have Quickly Become Common</title>
-      <link>https://www.nytimes.com/2026/05/14/upshot/abortion-pills-court.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/upshot/abortion-pills-court.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/14/upshot/abortion-pills-court.html" rel="standout"></atom:link>
-      <description>Pills shipped to states with bans are a reason abortion has increased since Roe v. Wade was overturned.</description>
-      <dc:creator>Margot Sanger-Katz and Claire Cain Miller</dc:creator>
-      <pubDate>Thu, 14 May 2026 22:44:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion Drugs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mifeprex (RU-486)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/00up-abortion-pill-promo-zcfh/00up-abortion-pill-promo-zcfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amanda Andrade-Rhoades/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Archaeologists Find Egyptian Mummy Buried With the ‘Iliad’</title>
-      <link>https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/science/archaeology-egypt-mummy-iliad.html" rel="standout"></atom:link>
-      <description>For the deceased of Roman-era Egypt, Greek literature may have offered a cheat code to a more comfortable afterlife.</description>
-      <dc:creator>Franz Lidz</dc:creator>
-      <pubDate>Fri, 15 May 2026 09:01:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egyptian Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mummies and Mummification</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roman Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <media:content height="1803" medium="image" url="https://static01.nyt.com/images/2026/05/14/climate/14SCI-ILIAD/14SCI-ILIAD-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Maite Mascort i Roca and Esther Pons Mellado, Mission of the University of Barcelona at Oxyrhynchus</media:credit>
-      <media:description>The necropolis of Oxyrhynchus in Egypt, where a nonroyal mummy was found with some lines on papyrus from Book 2 of Homer’s “Iliad.”</media:description>
+      <title>Oysterman, Veteran, Prep-School Alum: A Senate Candidate’s Complex Class Story</title>
+      <link>https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/us/politics/platner-maine-senate-working-class.html" rel="standout"></atom:link>
+      <description>Democrats are pinning their hopes of flipping the Senate on Graham Platner, who has made his working-class persona key to his campaign. His background defies easy categorization.</description>
+      <dc:creator>Lisa Lerer, Katie Glueck and Sophie Park</dc:creator>
+      <pubDate>Fri, 15 May 2026 14:22:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">George Washington University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <media:content height="1739" medium="image" url="https://static01.nyt.com/images/2026/05/01/multimedia/14pol-platner-workingclass/14pol-platner-workingclass-mediumSquareAt3X.jpg" width="1739"></media:content>
     </item>
     <item>
       <title>Why a Retrial of the Murdaugh Case Could Look a Lot Different</title>
@@ -413,6 +513,41 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New England Journal of Medicine</category>
     </item>
     <item>
+      <title>Replacing a Royal Hand-Me-Down That Finally Frayed</title>
+      <link>https://www.nytimes.com/2026/05/15/arts/music/london-royal-opera-house-curtains.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/arts/music/london-royal-opera-house-curtains.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/arts/music/london-royal-opera-house-curtains.html" rel="standout"></atom:link>
+      <description>Three years after King Charles III was crowned, the Royal Opera House in London hung plush new stage curtains bearing the monarch’s insignia — but only after the old ones gave up the ghost.</description>
+      <dc:creator>Alex Marshall</dc:creator>
+      <pubDate>Fri, 15 May 2026 16:19:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/15/arts/15cul-opera-curtains-promo/15cul-opera-curtains-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeremie Souteyrat for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>In Italy, Princess Catherine Puts Her Wardrobe to Work</title>
+      <link>https://www.nytimes.com/2026/05/15/style/princess-catherine-italy-fashion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/style/princess-catherine-italy-fashion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/style/princess-catherine-italy-fashion.html" rel="standout"></atom:link>
+      <description>Suits her, sir.</description>
+      <dc:creator>Vanessa Friedman</dc:creator>
+      <pubDate>Fri, 15 May 2026 13:45:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits (Apparel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine, Princess of Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Reggio Emilia (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15ST-KATE-TRIP-STYLE-tbpl/15ST-KATE-TRIP-STYLE-tbpl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Phil Noble</media:credit>
+      <media:description>Executive arrival: Princess Catherine greeting the crowd at the city hall in Reggio Emilia in a pantsuit by the London designer Edeline Lee.</media:description>
+    </item>
+    <item>
       <title>Inside the Secret Mission to Fly Taiwan’s President to Africa</title>
       <link>https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/world/asia/taiwan-eswatini-china-flight.html</guid>
@@ -429,75 +564,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1511" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14int-taiwan-president-01-ctvq/14int-taiwan-president-01-ctvq-mediumSquareAt3X.jpg" width="1510"></media:content>
       <media:credit>Taiwan Presidential Office, via Associated Press</media:credit>
       <media:description>A photograph provided by the Taiwan Presidential Office showed the Taiwanese leader, Lai Ching-te, waving upon arriving in Eswatini in May.</media:description>
     </item>
     <item>
-      <title>How a Drug Cartel Made a Mexican State Its Tool</title>
-      <link>https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/world/americas/mexican-officials-protect-sinaloa-cartel.html" rel="standout"></atom:link>
-      <description>Cartel insiders say that in exchange for bribes and political support they were allowed to operate in Sinaloa state with near total freedom.</description>
-      <dc:creator>Paulina Villegas</dc:creator>
-      <pubDate>Fri, 15 May 2026 09:00:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia Luna, Genaro</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guzman Loera, Joaquin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Culiacan (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/12int-mexico-cartel-collusion-mwcb/12int-mexico-cartel-collusion-mwcb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Paul Ratje for The New York Times</media:credit>
-      <media:description>Cartel gunsmiths in a village on the outskirts of Culiacán, in Mexico’s Sinaloa state, in October.</media:description>
-    </item>
-    <item>
-      <title>The Favorites for Eurovision 2026: Finland, Australia, Greece and Others</title>
-      <link>https://www.nytimes.com/2026/05/15/arts/music/eurovision-song-contest-favorites.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/arts/music/eurovision-song-contest-favorites.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/arts/music/eurovision-song-contest-favorites.html" rel="standout"></atom:link>
-      <description>Finland is the favorite for prediction markets and bookmakers, but singers from Australia, Denmark, Greece and Israel are coming for the title, too.</description>
-      <dc:creator>Alex Marshall</dc:creator>
-      <pubDate>Fri, 15 May 2026 13:11:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vienna (Austria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/CUL-EUROVISION-FAVORITES-qtvg/CUL-EUROVISION-FAVORITES-qtvg-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Martin Meissner/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>How to Watch the Eurovision Song Contest Final</title>
-      <link>https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/arts/eurovision-final-how-to-watch.html" rel="standout"></atom:link>
-      <description>The internationally popular event will be available to U.S. viewers, too, although not on domestic TV in some countries that are boycotting this year.</description>
-      <dc:creator>Elisabeth Vincentelli</dc:creator>
-      <pubDate>Fri, 15 May 2026 09:01:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eurovision Song Contest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Slovenia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15cul-eurovision-how-to-watch-mvqk/15cul-eurovision-how-to-watch-mvqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
-      <media:description>Watching the Eurovision Song Contest at the press center in Rotterdam, the Netherlands, in 2021. The country is boycotting this year’s event.</media:description>
+      <title>Why ‘Smart’ Products Have Started to Look Like the Dumb Choice</title>
+      <link>https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html" rel="standout"></atom:link>
+      <description>How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity.</description>
+      <dc:creator>Nitsuh Abebe</dc:creator>
+      <pubDate>Fri, 15 May 2026 15:20:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Automation and Smart Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
     </item>
     <item>
       <title>The Damage of ‘Trump Math’ Is Adding Up</title>
@@ -559,47 +642,39 @@
       <media:credit>Kenny Holston/The New York Times</media:credit>
     </item>
     <item>
-      <title>Late Night Pokes Fun at Trump in China</title>
-      <link>https://www.nytimes.com/2026/05/15/arts/television/late-night-trump-china-xi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/arts/television/late-night-trump-china-xi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/arts/television/late-night-trump-china-xi.html" rel="standout"></atom:link>
-      <description>Jimmy Fallon joked that President Trump’s idea of a Temple of Heaven is very different from the one he toured in Beijing with China’s leader.</description>
-      <dc:creator>Trish Bendix</dc:creator>
-      <pubDate>Fri, 15 May 2026 07:19:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily Show with Jon Stewart (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klepper, Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colbert, Stephen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Show with Stephen Colbert (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyers, Seth</category>
+      <title>It’s a Hard Time to be a Young Adult. We Want to Hear From You.</title>
+      <link>https://www.nytimes.com/2026/05/14/nyregion/young-adult-nyc-reader-callout.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/nyregion/young-adult-nyc-reader-callout.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/14/nyregion/young-adult-nyc-reader-callout.html" rel="standout"></atom:link>
+      <description>I’m a Times reporter writing about young people in the New York City area. Whether you’re a young adult, or work with them, your insights can help.</description>
+      <dc:creator>Troy Closson</dc:creator>
+      <pubDate>Thu, 14 May 2026 08:06:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-reader-callout</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14met-young-adult-callout-01-zvkq/14met-young-adult-callout-01-zvkq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
     </item>
     <item>
-      <title>5 Key Moments During the California Governor Debate</title>
-      <link>https://www.nytimes.com/2026/05/15/us/california-governor-debate-takeaways-san-francisco.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/california-governor-debate-takeaways-san-francisco.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/us/california-governor-debate-takeaways-san-francisco.html" rel="standout"></atom:link>
-      <description>Candidates have become increasingly combative as they enter the final stretch before the June 2 primary. Once again, Xavier Becerra, a Democratic front-runner, drew most of the attacks.</description>
-      <dc:creator>Laurel Rosenhall and Soumya Karlamangla</dc:creator>
-      <pubDate>Fri, 15 May 2026 14:21:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mahan, Matt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Porter, Katie (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steyer, Thomas F</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Villaraigosa, Antonio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hilton, Steve (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bianco, Chad</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14nat-ca-debate-takeaways-fkpg/14nat-ca-debate-takeaways-fkpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carlos Barria/Reuters</media:credit>
-      <media:description>Seven leading candidates for California governor took part in a debate in San Francisco on Thursday.</media:description>
+      <title>Joe Sedelmaier, Auteur Behind ‘Where’s the Beef?’ Ad, Dies at 92</title>
+      <link>https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/business/media/joe-sedelmaier-dead.html" rel="standout"></atom:link>
+      <description>He directed nearly 1,000 comedic commercials, including a much-quoted spot for Wendy’s and one for FedEx featuring a manic speed talker.</description>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <pubDate>Fri, 15 May 2026 14:36:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wendy&#39;s International Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joe Sedelmaier (1933-2026)</category>
+      <media:content height="895" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14Sedelmair--jvhw/14Sedelmair--jvhw-mediumSquareAt3X.jpg" width="895"></media:content>
+      <media:credit>Bettmann, via Getty Images</media:credit>
+      <media:description>Clara Peller, the octogenarian star of a classic Wendy’s commercial directed by Joe Sedelmaier, asks her famous question during a news conference in 1984.</media:description>
     </item>
     <item>
       <title>Omaha Bar Is Not a Barbershop, State Barber Board Tells a Bar Named ‘Barber Shop’</title>
@@ -608,7 +683,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/15/us/nebraska-barber-shop-bar-name-lawsuit.html" rel="standout"></atom:link>
       <description>The establishment changed its name this week from the Barber Shop Blackstone to the Censored Shop Blackstone in protest while it is suing the state in federal court.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Fri, 15 May 2026 13:09:31 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 16:16:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
@@ -633,12 +708,13 @@
       <atom:link href="https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html" rel="standout"></atom:link>
       <description>Dozens of deaths and hundreds of infections are suspected, an African agency said. Health experts were alarmed that the outbreak hadn’t been announced sooner.</description>
       <dc:creator>Matthew Mpoke Bigg and Apoorva Mandavilli</dc:creator>
-      <pubDate>Fri, 15 May 2026 15:10:43 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 15:55:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-congo-ebola-hlgw/15int-congo-ebola-hlgw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>A Ebola treatment center in Mangima, Democratic Republic of Congo, in 2019. Congo and Uganda have seen a string of Ebola outbreaks in recent years.</media:description>

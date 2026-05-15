@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 14 May 2026 23:28:42 +0000</lastBuildDate>
-    <pubDate>Thu, 14 May 2026 22:49:52 +0000</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 01:23:38 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 01:19:13 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,6 +23,7 @@
       <dc:creator>David E. Sanger</dc:creator>
       <pubDate>Thu, 14 May 2026 21:46:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -250,7 +251,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/14/world/americas/hantavirus-cruise-ship-argentina.html" rel="standout"></atom:link>
       <description>The scientific investigation into the origin of cruise infection has become entangled with international finger pointing.</description>
       <dc:creator>Emma Bubola</dc:creator>
-      <pubDate>Thu, 14 May 2026 15:09:36 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 15:09:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hantavirus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
@@ -270,7 +271,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html" rel="standout"></atom:link>
       <description>At least 12 people were killed and dozens were wounded in a drone and missile assault, days after President Vladimir Putin of Russia said the war could end soon.</description>
       <dc:creator>Siobhán O’Grady and Oleksandra Mykolyshyn</dc:creator>
-      <pubDate>Thu, 14 May 2026 18:30:06 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 18:30:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -310,13 +311,43 @@
       <media:description>The Colombian woman and other migrants are housed in a hotel outside Kinshasa, the capital of the Democratic Republic of Congo.</media:description>
     </item>
     <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/05/14/world/trump-xi-summit-beijing/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Luke Broadwater, Ana Swanson, Lily Kuo and Niraj Chokshi</dc:creator>
+      <pubDate>Fri, 15 May 2026 01:19:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Australian Jews Testify on Experiences of Antisemitism in Bondi Beach Inquiry</title>
+      <link>https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/14/world/australia/jews-antisemitism-bondi-beach.html" rel="standout"></atom:link>
+      <description>As part of a public inquiry into the massacre at Bondi Beach, dozens have described being targeted for their Jewish identity in their daily lives.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Fri, 15 May 2026 00:50:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sydney, Australia, Hanukkah Attack (Dec 14, 2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bondi Beach (Sydney, Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sydney (Australia)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-oz-antisemitism-01-fpvw/15int-oz-antisemitism-01-fpvw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Matthew Abbott for The New York Times</media:credit>
+      <media:description>A menorah at a park overlooking Sydney Harbour last December, a few days after the attack at Bondi Beach. </media:description>
+    </item>
+    <item>
       <title>16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says</title>
       <link>https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/14/health/hantavirus-outbreak-quarantine.html" rel="standout"></atom:link>
       <description>They were passengers on a plane to Johannesburg with an infected Dutch woman who later died.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Thu, 14 May 2026 21:09:58 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 21:09:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hantavirus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
@@ -393,7 +424,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/14/us/politics/civilian-deaths-strikes-iran.html" rel="standout"></atom:link>
       <description>Adm. Brad Cooper said a strike on an Iranian school may have been the only civilian casualty incident of the war.</description>
       <dc:creator>Greg Jaffe</dc:creator>
-      <pubDate>Thu, 14 May 2026 22:49:52 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 22:49:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
@@ -517,6 +548,26 @@
       <media:description>Wes Streeting has prided himself on a background that he said enables him to relate to many voters.</media:description>
     </item>
     <item>
+      <title>Trump Might Welcome Chinese Investment, but America Is Wary</title>
+      <link>https://www.nytimes.com/2026/05/14/us/politics/trump-china-xi-investment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/us/politics/trump-china-xi-investment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/14/us/politics/trump-china-xi-investment.html" rel="standout"></atom:link>
+      <description>A pledge for more Chinese investment could face backlash given longstanding national security concerns in the United States.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Thu, 14 May 2026 14:06:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gotion Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14dc-china-invest-fqgb/14dc-china-invest-fqgb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump on Thursday in Beijing. There has been speculation that Mr. Trump and his advisers are seeking to secure a major investment pledge from China on the trip.</media:description>
+    </item>
+    <item>
       <title>Angela Rayner, Former U.K. Deputy Prime Minister, Cleared of Wrongdoing Over Taxes</title>
       <link>https://www.nytimes.com/2026/05/14/world/europe/angela-rayner-tax-uk-starmer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/world/europe/angela-rayner-tax-uk-starmer.html</guid>
@@ -602,7 +653,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/14/world/asia/trump-china-people-street.html" rel="standout"></atom:link>
       <description>Residents in four Chinese cities described a mixture of amusement and anger, blaming U.S. tensions for a slowing economy and rising fuel prices.</description>
       <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Thu, 14 May 2026 13:17:22 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 13:17:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -681,7 +732,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/14/world/asia/china-trump-xi-media.html" rel="standout"></atom:link>
       <description>Chinese state media is depicting the summit as an opportunity for the United States to accept that the “right way” for the two powers to engage is as equals.</description>
       <dc:creator>David Pierson and Berry Wang</dc:creator>
-      <pubDate>Thu, 14 May 2026 19:33:24 +0000</pubDate>
+      <pubDate>Thu, 14 May 2026 19:33:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -1121,70 +1172,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-cuba-planes01-photo-wjhv/13int-cuba-planes01-photo-wjhv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ramon Espinosa/Associated Press</media:credit>
       <media:description>A taxi driver in Havana earlier this month.</media:description>
-    </item>
-    <item>
-      <title>Top Gaza Negotiator Urges Hamas to Embrace Rebuilding Plan</title>
-      <link>https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/world/middleeast/gaza-peace-plan-reconstruction.html" rel="standout"></atom:link>
-      <description>Nickolay Mladenov, who is overseeing the U.S.-led truce in Gaza, has tried to convince the militant group to give up its arms, but it has so far refused amid Israeli cease-fire violations.</description>
-      <dc:creator>David M. Halbfinger, Adam Rasgon and Aaron Boxerman</dc:creator>
-      <pubDate>Wed, 13 May 2026 19:46:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mladenov, Nickolay E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board of Peace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/12/06/multimedia/13int-mideast-hamas-topart/06int-gaza-militias-vpmk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Saher Alghorra for The New York Times</media:credit>
-      <media:description>Members of Hamas in Gaza City in November.</media:description>
-    </item>
-    <item>
-      <title>Nigel Farage, Leader of Reform U.K., Faces Investigation for £5 Million Gift</title>
-      <link>https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/world/europe/nigel-farage-reform-uk-investigation-5-million-gift.html" rel="standout"></atom:link>
-      <description>The Conservative Party referred the case against Mr. Farage, the leader of a right-wing populist party in Britain, to a parliamentary watchdog.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Wed, 13 May 2026 20:06:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13int-uk-farage-photo-vpmz/13int-uk-farage-photo-vpmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Toby Melville</media:credit>
-      <media:description>Nigel Farage attending the opening of Parliament in London on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>What to Watch at Trump and Xi’s U.S.-China Summit</title>
-      <link>https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html" rel="standout"></atom:link>
-      <description>Here’s what to know about the biggest sources of tension in U.S.-China relations before the first summit in Beijing in nine years between the nations’ leaders.</description>
-      <dc:creator>Alan Rappeport, Ana Swanson and Edward Wong</dc:creator>
-      <pubDate>Thu, 14 May 2026 01:29:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/14DC-China-WhatToKnow-cmvj/14DC-China-WhatToKnow-cmvj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump arrived in Beijing on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

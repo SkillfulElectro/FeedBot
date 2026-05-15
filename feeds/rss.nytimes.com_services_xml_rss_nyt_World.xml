@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 15 May 2026 22:29:51 +0000</lastBuildDate>
-    <pubDate>Fri, 15 May 2026 22:26:39 +0000</pubDate>
+    <lastBuildDate>Fri, 15 May 2026 23:55:43 +0000</lastBuildDate>
+    <pubDate>Fri, 15 May 2026 23:43:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -247,6 +247,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maldives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Genoa</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15italy-divers-hkbc/15italy-divers-hkbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mohamed Afrah/Agence France-Presse — Getty Images</media:credit>
       <media:description>Divers and guides returning to shore in Malé, capital of the Maldives, a popular diving destination. The disappearance of five divers this week set off a large search mission, but the authorities have recovered only one body.</media:description>
@@ -351,7 +352,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html" rel="standout"></atom:link>
       <description>Amid stepped-up surveillance flights, a visit of the C.I.A. director and an energy embargo, the White House is trying to increase pressure on Cuba.</description>
       <dc:creator>Julian E. Barnes, Tyler Pager, Eric Schmitt, Michael Crowley and Frances Robles</dc:creator>
-      <pubDate>Fri, 15 May 2026 20:53:10 +0000</pubDate>
+      <pubDate>Fri, 15 May 2026 23:41:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
@@ -416,17 +417,17 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/15/world/middleeast/what-is-kataib-hezbollah.html" rel="standout"></atom:link>
       <description>A commander of one of the most-hard line and powerful Iranian proxies in Iraq has been charged with plotting to attack Jewish sites in the United States.</description>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Fri, 15 May 2026 20:53:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammad Baqer Saad Dawood Al-Saadi</category>
+      <dc:creator>Pranav Baskar and Neil MacFarquhar</dc:creator>
+      <pubDate>Fri, 15 May 2026 23:18:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Saadi, Mohammad Baqer Saad Dawood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-hezbollah-kataib-wtk-bpgh/15int-hezbollah-kataib-wtk-bpgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
@@ -501,16 +502,17 @@
       <dc:creator>Amy Qin</dc:creator>
       <pubDate>Fri, 15 May 2026 14:43:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Agents Registration Act</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Agents Registration Act</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Eileen (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lu Jianwang</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chao Wu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chao Wu (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lu Jianwang (Harry Lu)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maryland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15nat-chineseamericans-fqmj/15nat-chineseamericans-fqmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Trump and China’s leader, Xi Jinping, on Thursday in Beijing. Two criminal cases in the United States reflect the countries’ competitive and often tense geopolitical relationship.</media:description>

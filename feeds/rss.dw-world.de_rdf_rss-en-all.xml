@@ -7,14 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-15T01:24:03Z</dc:date>
+  <dc:date>2026-05-15T05:30:24Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-praises-strong-xi-ties-as-beijing-trip-wraps-up/live-77140304?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/sec-settles-lawsuit-against-indian-billionaire-adani/a-77165011?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-international-student-tuition-fees-vary-across-europe/a-77146306?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-says-chinese-ships-passed-through-hormuz-overnight/a-77163709?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-over-20-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cuba-s-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028?maca=en-rss-en-all-1573-rdf"/>
@@ -143,7 +144,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/climate-change-impacts-india-s-harvest-festivals/a-76821351?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-german-who-recovered-from-a-stroke-to-seal-olympic-first/a-76775080?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/record-fuel-prices-how-are-governments-responding/a-76805635?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/chess-uzbekistan-s-new-star-shows-asia-s-continued-rise/a-76819848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nueva-germania-the-failed-aryan-project-in-paraguay/a-76817647?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/trump-praises-strong-xi-ties-as-beijing-trip-wraps-up/live-77140304?maca=en-rss-en-all-1573-rdf">
+  <title>Trump praises strong Xi ties as Beijing trip wraps up</title>
+  <link>https://www.dw.com/en/trump-praises-strong-xi-ties-as-beijing-trip-wraps-up/live-77140304?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Donald Trump stressed his &quot;good relationship&quot; to China&apos;s leader Xi Jinping despite deep differences on Iran and Taiwan. Follow DW for more.</description>
+  <dc:date>2026-05-15T03:32:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77140304</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/sec-settles-lawsuit-against-indian-billionaire-adani/a-77165011?maca=en-rss-en-all-1573-rdf">
+  <title>SEC settles lawsuit against Indian billionaire Adani</title>
+  <link>https://www.dw.com/en/sec-settles-lawsuit-against-indian-billionaire-adani/a-77165011?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US government will settle a lawsuit filed against Gautam Adani, one of the world&apos;s richest people, for hiding an alleged bribery scheme. It&apos;s just one of the cases Adani faces in US courts.</description>
+  <dc:date>2026-05-15T03:23:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77165011</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf">
   <title>Dead whale spotted off the coast of Denmark</title>
   <link>https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf</link>
@@ -184,15 +202,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77163709</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf">
-  <title>China warns Trump over Taiwan question at high-stakes summit</title>
-  <link>https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-rdf</link>
-  <description>Chinese state media reported that Xi Jinping raised the question of Taiwan during his meeting with Donald Trump. The pair held talks for about two hours. Follow live.</description>
-  <dc:date>2026-05-14T17:28:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77140304</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ukraine-over-20-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine: Over 20 dead as Russian strikes pound Kyiv</title>
@@ -1345,15 +1354,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76775080</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/record-fuel-prices-how-are-governments-responding/a-76805635?maca=en-rss-en-all-1573-rdf">
-  <title>Record fuel prices: How are governments responding?</title>
-  <link>https://www.dw.com/en/record-fuel-prices-how-are-governments-responding/a-76805635?maca=en-rss-en-all-1573-rdf</link>
-  <description>In Germany, a liter of diesel costs up to 40% more than before the Iran war and other countries have seen even bigger price jumps. What are governments around the world doing to combat record fuel prices?</description>
-  <dc:date>2026-04-18T13:42:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76805635</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-all-1573-rdf">
   <title>Teen discovers first ancient Greek artifact found in Berlin</title>

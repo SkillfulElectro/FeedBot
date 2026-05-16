@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-16T03:42:35Z</dc:date>
+  <dc:date>2026-05-16T06:23:44Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-says-is-second-in-command-killed-in-nigeria/a-77178187?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/bolivia-miners-clash-with-police-president-paz-under-fire/a-77165839?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-says-no-change-in-taiwan-policy-as-china-visit-wraps/live-77140304?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/sec-settles-lawsuit-against-indian-billionaire-adani/a-77165011?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-ukraine-corruption-scandal-reach-volodymyr-zelenskyy/a-77161926?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-all-1573-rdf"/>
@@ -156,6 +156,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/trump-says-is-second-in-command-killed-in-nigeria/a-77178187?maca=en-rss-en-all-1573-rdf">
+  <title>Trump says IS second in command killed in Nigeria</title>
+  <link>https://www.dw.com/en/trump-says-is-second-in-command-killed-in-nigeria/a-77178187?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Donald Trump said Abu-Bilal al-Minuki, a high-ranking member of the &quot;Islamic State,&quot; was killed in a joint mission between US and Nigerian forces.</description>
+  <dc:date>2026-05-16T03:52:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77178187</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920?maca=en-rss-en-all-1573-rdf">
   <title>US stops Poland troop deployment after Germany pullout order</title>
   <link>https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920?maca=en-rss-en-all-1573-rdf</link>
@@ -168,7 +177,7 @@
  <item rdf:about="https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235?maca=en-rss-en-all-1573-rdf">
   <title>Middle East: Israel, Lebanon agree to extend truce, US says</title>
   <link>https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US says Israeli and Lebanese delegations have agreed to extend a ceasefire for 45 days. The truce has reduced the volume of fighting, but violations are commonplace, particularly in southern Lebanon. DW has more.</description>
+  <description>The US says Israeli and Lebanese delegations have agreed to extend a ceasefire for 45 days. The truce has reduced the volume of fighting, but violations are commonplace, particularly in southern Lebanon.</description>
   <dc:date>2026-05-15T19:03:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -177,7 +186,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Chancellor Merz says he wouldn&apos;t advise his kids to go to the US</title>
   <link>https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf</link>
-  <description>Chancellor Friedrich Merz said he wouldn&apos;t currently advise young Germans like his children to move to the US to study or work. He cited &quot;the social climate that has suddenly developed.&quot; DW has more.</description>
+  <description>Chancellor Friedrich Merz said he wouldn&apos;t currently advise young Germans like his children to move to the US to study or work. He cited &quot;the social climate that has suddenly developed.&quot;</description>
   <dc:date>2026-05-15T17:03:00Z</dc:date>
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
@@ -326,15 +335,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77165011</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf">
-  <title>Dead whale spotted off the coast of Denmark</title>
-  <link>https://www.dw.com/en/dead-whale-spotted-off-the-coast-of-denmark/a-77163823?maca=en-rss-en-all-1573-rdf</link>
-  <description>It was not immediately clear if the whale was Timmy, the humpback whale that captivated Germany for weeks while getting stranded multiple times off the German coast. Danish officials said they would test a tissue sample.</description>
-  <dc:date>2026-05-14T20:35:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77163823</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/foreign-student-fee-hikes-in-france-trigger-backlash/a-77146306?maca=en-rss-en-all-1573-rdf">
   <title>Foreign student fee hikes in France trigger backlash</title>

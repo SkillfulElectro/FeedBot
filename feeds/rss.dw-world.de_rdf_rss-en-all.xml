@@ -7,16 +7,19 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-16T14:22:04Z</dc:date>
+  <dc:date>2026-05-16T15:34:46Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/uk-far-right-group-stages-anti-immigration-protest-in-london/a-77180588?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/australia-man-dies-after-shark-attack-off-holiday-island/a-77178365?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-pm-modi-visits-the-netherlands-at-start-of-europe-tour/live-77178271?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-dozens-of-european-countries-sign-up-to-special-tribunal-plan-to-prosecute-russia/a-77174512?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-politics-how-starmer-survives-as-farage-waits-in-wings/a-77170215?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/uganda-at-a-crossroads-as-museveni-begins-new-term/a-77152718?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iconic-german-musician-udo-lindenberg-turns-80/a-77149458?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/asteroid-2026-jh2-no-need-to-worry-about-it-hitting-earth/a-70375872?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fifa-got-greedy-―-why-football-fans-in-india-may-not-be-able-to-watch-world-cup-games-on-tv-this-year/a-77131796?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,33 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-all-1573-rdf">
+  <title>Thailand: Bangkok rail crossing collision kills at least 8</title>
+  <link>https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-all-1573-rdf</link>
+  <description>A collision between a freight train and a bus occurred in downtown Bangkok. Fatal road accidents are not uncommon in Thailand.</description>
+  <dc:date>2026-05-16T15:30:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77181604</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/uk-far-right-group-stages-anti-immigration-protest-in-london/a-77180588?maca=en-rss-en-all-1573-rdf">
+  <title>UK far-right group stages anti-immigration protest in London</title>
+  <link>https://www.dw.com/en/uk-far-right-group-stages-anti-immigration-protest-in-london/a-77180588?maca=en-rss-en-all-1573-rdf</link>
+  <description>Far-right activist Tommy Robinson gathered thousands in London, urging them to &quot;get involved&quot; or &quot;lose their country forever.&quot;</description>
+  <dc:date>2026-05-16T15:00:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77180588</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-rdf">
+  <title>Middle East updates: Big crowds at Nakba Day rally in London</title>
+  <link>https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-rdf</link>
+  <description>Big crowds have gathered in London to honor Nakba Day. Meanwhile, Iran&apos;s state TV reports that European countries are discussing the safe transit of ships through the Strait of Hormuz.</description>
+  <dc:date>2026-05-16T14:50:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77179563</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-rdf">
   <title>Study: Immigrants disadvantaged in German housing market</title>
   <link>https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-rdf</link>
@@ -203,10 +230,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77174766</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Nearly half the country wants governing conservative coalition out</title>
-  <link>https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-rdf</link>
-  <description>A survey has shown that just 30% of people in Germany want the coalition government to continue. Meanwhile, pro-Palestinian demonstrators are to hold a march in Berlin to mark Nakba Day. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Dead humpback whale off Denmark is &apos;Timmy,&apos; who spent weeks stranded in Baltic Sea</title>
+  <link>https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-rdf</link>
+  <description>Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. Meanwhile, it&apos;s relegation decision day in the Bundesliga. DW has more.</description>
   <dc:date>2026-05-16T08:57:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -310,33 +337,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77170215</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942?maca=en-rss-en-all-1573-rdf">
-  <title>US-China summit exposes Trump&apos;s limits on Iran war, Taiwan</title>
-  <link>https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump hopes to have China help him end the war in Iran, but this goal seemed far from guaranteed as he wrapped up his two-day visit to Beijing. Xi Jinping, in turn, took the chance to warn the US over Taiwan.</description>
-  <dc:date>2026-05-15T13:12:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77171942</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/uganda-at-a-crossroads-as-museveni-begins-new-term/a-77152718?maca=en-rss-en-all-1573-rdf">
-  <title>Uganda at a crossroads as Museveni begins new term</title>
-  <link>https://www.dw.com/en/uganda-at-a-crossroads-as-museveni-begins-new-term/a-77152718?maca=en-rss-en-all-1573-rdf</link>
-  <description>Unemployment and poverty pose major challenges for President Museveni&apos;s seventh term, while his age and long rule prompt questions about Uganda&apos;s future beyond his leadership.</description>
-  <dc:date>2026-05-15T13:06:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77152718</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-all-1573-rdf">
-  <title>Israeli-Palestinian conflict: Allegations of sexual abuse</title>
-  <link>https://www.dw.com/en/israeli-palestinian-conflict-allegations-of-sexual-abuse/a-77132994?maca=en-rss-en-all-1573-rdf</link>
-  <description>The issue of systemic sexual abuses as part of the Israeli-Palestinian conflict is back in the spotlight following new testimonies. Both Israel and Hamas deny the claims.</description>
-  <dc:date>2026-05-15T11:10:00Z</dc:date>
-  <dc:subject>TOP STORIES</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77132994</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/iconic-german-musician-udo-lindenberg-turns-80/a-77149458?maca=en-rss-en-all-1573-rdf">
   <title>Iconic German musician Udo Lindenberg turns 80</title>

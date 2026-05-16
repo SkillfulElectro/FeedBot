@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 16 May 2026 13:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 14:03:13 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto users are choosing juicy yields over protection, putting billions at risk of hacks]]></title>
+      <link>https://www.coindesk.com/business/2026/05/16/crypto-users-are-choosing-juicy-yields-over-protection-putting-billions-at-risk-of-hacks</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4c5a253acfede39012d282e82fa00a50cf8cf434-1440x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">feb0b076-32c4-4644-8e47-85b7553617ee</guid>
+      <pubDate>Sat, 16 May 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[DeFi insurance protocols debuted with huge ambitions during the 2020 crypto boom. But as hacks evolved and users chased yields over protection, most of the sector collapsed under the same risks it was built to cover.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[DeFi]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[The $293 million KelpDAO hack shows why DeFi is finally being forced to grow up]]></title>
       <link>https://www.coindesk.com/tech/2026/05/16/the-usd293-million-kelpdao-hack-shows-why-defi-is-finally-being-forced-to-grow-up</link>
@@ -374,21 +389,6 @@
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Strategy’s STRC stock logs record $1.5 billion trading volume, funds 11,707 bitcoin purchase]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/15/strategy-s-strc-stock-logs-record-usd1-5-billion-trading-volume-funds-11-707-bitcoin-purchase</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">5d21c838-0e03-439b-8052-c0d1ca943ee9</guid>
-      <pubDate>Fri, 15 May 2026 09:21:45 +0000</pubDate>
-      <description><![CDATA[Heavy trading volume ahead of the ex-dividend date pushed STRC to its busiest session on record.]]></description>
-      <dc:creator>James Van Straten</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[MicroStrategy]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

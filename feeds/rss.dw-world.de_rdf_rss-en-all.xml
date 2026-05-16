@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-16T18:31:13Z</dc:date>
+  <dc:date>2026-05-16T20:02:03Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/eurovision-final-kicks-off-overshadowed-by-israel-dispute/a-77182516?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/islamic-feminism-more-widespread-in-bosnia-and-herzegovina/a-77163017?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-dozens-of-european-countries-sign-up-to-special-tribunal-plan-to-prosecute-russia/a-77174512?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-politics-how-starmer-survives-as-farage-waits-in-wings/a-77170215?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iconic-german-musician-udo-lindenberg-turns-80/a-77149458?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/asteroid-2026-jh2-no-need-to-worry-about-it-hitting-earth/a-70375872?maca=en-rss-en-all-1573-rdf"/>
@@ -134,7 +135,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/a-book-lover-s-dream-holiday-in-scotland/a-76884546?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bayern-munich-on-the-brink-of-historic-double-treble/a-76894410?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-to-block-kazakh-oil-flows-to-germany-via-key-pipeline/a-76895743?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-iran-war-trigger-bigger-trade-crisis-than-covid/a-76804278?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/eurovision-final-kicks-off-overshadowed-by-israel-dispute/a-77182516?maca=en-rss-en-all-1573-rdf">
+  <title>Eurovision: Final kicks off overshadowed by Israel dispute</title>
+  <link>https://www.dw.com/en/eurovision-final-kicks-off-overshadowed-by-israel-dispute/a-77182516?maca=en-rss-en-all-1573-rdf</link>
+  <description>The kitsch pop music extravaganza, the world&apos;s biggest live music contest, has again been overshadowed by protests and a boycott over Israel&apos;s participation.</description>
+  <dc:date>2026-05-16T19:42:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77182516</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf">
+  <title>Germany gets ahead in the new space race</title>
+  <link>https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf</link>
+  <description>German companies of all sizes and all over the country are developing satellites and space applications. They want to be part of the lucrative industry, which is increasingly crucial for civilian and military purposes.</description>
+  <dc:date>2026-05-16T19:25:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77177359</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf">
   <title>Could Romania and Moldova reunite?</title>
   <link>https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf</link>
@@ -328,15 +346,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77174512</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-all-1573-rdf">
-  <title>Pakistan faces pressure over mediator role in Iran war</title>
-  <link>https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-all-1573-rdf</link>
-  <description>With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf allies. A recent US media report places it under even more scrutiny.</description>
-  <dc:date>2026-05-15T14:20:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77174786</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/uk-politics-how-starmer-survives-as-farage-waits-in-wings/a-77170215?maca=en-rss-en-all-1573-rdf">
   <title>UK politics: How Starmer survives as Farage waits in wings</title>
@@ -784,7 +793,7 @@
   <link>https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-rdf</link>
   <description>Controversy over Israel&apos;s participation and boycotts unprecedented in scale are already weighing on the Eurovision Song Contest before it even kicks off in Vienna.</description>
   <dc:date>2026-05-09T07:28:00Z</dc:date>
-  <dc:subject>World</dc:subject>
+  <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77069828</dwsyn:contentID>
  </item>
@@ -1264,15 +1273,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76895743</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-all-1573-rdf">
-  <title>The rise and fall of East Germany&apos;s Palace of the Republic</title>
-  <link>https://www.dw.com/en/the-rise-and-fall-of-east-germany-s-palace-of-the-republic/a-76836834?maca=en-rss-en-all-1573-rdf</link>
-  <description>From 1976 through 1990, the building in East Berlin served as a symbol of the communist state&apos;s power. The &quot;People&apos;s Palace&quot; was controversially destroyed — and yet remains present.</description>
-  <dc:date>2026-04-22T11:58:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76836834</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/could-iran-war-trigger-bigger-trade-crisis-than-covid/a-76804278?maca=en-rss-en-all-1573-rdf">
   <title>Could Iran war trigger bigger trade crisis than COVID?</title>

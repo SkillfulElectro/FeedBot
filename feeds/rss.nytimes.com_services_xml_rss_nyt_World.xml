@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 16 May 2026 11:06:57 +0000</lastBuildDate>
-    <pubDate>Sat, 16 May 2026 10:38:09 +0000</pubDate>
+    <lastBuildDate>Sat, 16 May 2026 12:37:26 +0000</lastBuildDate>
+    <pubDate>Sat, 16 May 2026 12:25:18 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,13 +34,31 @@
       <media:credit>Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
+      <title>Rival Protests Begin in London, With a Major Security Effort</title>
+      <link>https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html" rel="standout"></atom:link>
+      <description>The police have deployed thousands of officers, partly to keep far-right and pro-Palestinian marchers apart. The events are expected to draw tens of thousands to London.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Sat, 16 May 2026 12:25:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scotland Yard (Metropolitan Police Service)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Tommy (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/05/16/multimedia/16int-uk-protest-ctbl/16int-uk-protest-ctbl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Supporters of the British far-right activist Tommy Robinson at the “Unite the Kingdom” march in London on Saturday.</media:description>
+    </item>
+    <item>
       <title>Trump Turns Taiwan Arms Sales Into Bargaining Chip With China</title>
       <link>https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html" rel="standout"></atom:link>
       <description>The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the steadfastness of U.S. support.</description>
       <dc:creator>Chris Buckley</dc:creator>
-      <pubDate>Sat, 16 May 2026 08:39:31 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 12:04:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
@@ -78,22 +96,37 @@
       <media:credit>Ivor Prickett for The New York Times</media:credit>
     </item>
     <item>
-      <title>Rival Protests Begin in London, With a Major Security Effort</title>
-      <link>https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/16/world/europe/london-rival-protests.html" rel="standout"></atom:link>
-      <description>The police are deploying thousands of officers, partly to keep far-right and pro-Palestinian marchers separated. The opposing events are expected to draw tens of thousands of people to London.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Sat, 16 May 2026 10:10:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scotland Yard (Metropolitan Police Service)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Tommy (1982- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/16/multimedia/16int-uk-protest-01-kzhm/16int-uk-protest-01-kzhm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Peter Nicholls</media:credit>
-      <media:description>Prime Minister Keir Starmer of Britain and Mayor Sadiq Khan of London met with members of the police on Friday in London to discuss operational planning ahead of this weekend’s protests.</media:description>
+      <title>Israel Says It Killed Hamas’s Top Leader in Gaza</title>
+      <link>https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html" rel="standout"></atom:link>
+      <description>Izz al-Din al-Haddad took over the group’s military wing in Gaza last year. Hamas’s official broadcaster appeared to confirm Mr. al-Haddad’s death, although the group has yet to formally comment.</description>
+      <dc:creator>Alan Yuhas, Jonathan Rosen and Iyad Abuheweila</dc:creator>
+      <pubDate>Sat, 16 May 2026 12:21:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Haddad, Izz al-Din</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza City (Gaza Strip)</category>
+    </item>
+    <item>
+      <title>China Will Host Putin, Days After Trump’s Visit</title>
+      <link>https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html" rel="standout"></atom:link>
+      <description>The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely.</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Sat, 16 May 2026 11:23:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/16/multimedia/16int-russia-china-lwth/16int-russia-china-lwth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Ramil Sitdikov</media:credit>
+      <media:description>President Vladimir V. Putin’s China visit will be “a good opportunity to share opinions on the contacts that the Chinese had with the Americans,” the Kremlin’s spokesman said. </media:description>
     </item>
     <item>
       <title>Trump Says a Top ISIS Leader Was Killed in a U.S.-Nigerian Mission</title>
@@ -139,28 +172,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-uk-politics-wckm/15int-uk-politics-wckm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Henry Nicholls/Agence France-Presse — Getty Images</media:credit>
       <media:description>Members of the news media congregated outside 10 Downing Street on Thursday, after days of turmoil in the Labour Party over Prime Minister Keir Starmer’s leadership.</media:description>
-    </item>
-    <item>
-      <title>Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit</title>
-      <link>https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html" rel="standout"></atom:link>
-      <description>The president has shifted the foundations of American policy toward China, throwing aside the adversarial approach of recent years.</description>
-      <dc:creator>Anton Troianovski and David E. Sanger</dc:creator>
-      <pubDate>Fri, 15 May 2026 19:59:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15dc-china-trump-ledeall01-photo-chvq/15dc-china-trump-ledeall01-photo-chvq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump and President Xi Jinping of China arriving for the state banquet in Beijing on Thursday.</media:description>
     </item>
     <item>
       <title>How a Drug Cartel Made a Mexican State Its Tool</title>
@@ -284,44 +295,6 @@
       <media:description>Ayatollah Ali Khamenei, Iran’s supreme leader who was killed in an airstrike in February, pictured on a billboard in Tehran this month.</media:description>
     </item>
     <item>
-      <title>Nvidia’s Future in China Remains Unclear After Trump-Xi Summit</title>
-      <link>https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html" rel="standout"></atom:link>
-      <description>The standoff comes as Chinese firms increasingly turn to domestic chipmakers like Huawei, in a drive to reduce China’s dependence on Western technologies.</description>
-      <dc:creator>Meaghan Tobin</dc:creator>
-      <pubDate>Fri, 15 May 2026 12:12:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/14/multimedia/14trump-china-chips/14trump-news-ru-Jensen-Huang-cgfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Jensen Huang, Nvidia’s chief executive, after a welcome ceremony at the Great Hall of the People in Beijing on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Large Ebola Outbreak Is Declared in Congo</title>
-      <link>https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html" rel="standout"></atom:link>
-      <description>Dozens of deaths and hundreds of infections are suspected, an African agency said. Health experts were alarmed that the outbreak hadn’t been announced sooner.</description>
-      <dc:creator>Matthew Mpoke Bigg and Apoorva Mandavilli</dc:creator>
-      <pubDate>Fri, 15 May 2026 18:15:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-congo-ebola-hlgw/15int-congo-ebola-hlgw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>A Ebola treatment center in Mangima, Democratic Republic of Congo, in 2019. Congo and Uganda have seen a string of Ebola outbreaks in recent years.</media:description>
-    </item>
-    <item>
       <title>Finishing School</title>
       <link>https://www.nytimes.com/2026/05/16/briefing/finishing-school.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/briefing/finishing-school.html</guid>
@@ -420,7 +393,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html" rel="standout"></atom:link>
       <description>Mr. Castro, Cuba’s former president, could soon face charges in the 1996 killings of four volunteer airmen who were members of a humanitarian group that searched for migrants at sea.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Fri, 15 May 2026 22:26:39 +0000</pubDate>
+      <pubDate>Sat, 16 May 2026 11:22:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Raul</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -528,22 +501,6 @@
       <media:description>A protester holding a Kataib Hezbollah flag in Baghdad, Iraq, in March. The militia was founded after the 2003 U.S. invasion of Iraq. </media:description>
     </item>
     <item>
-      <title>Israeli Strike Targeted Top Hamas Leader in Gaza, Officials Say</title>
-      <link>https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/15/world/middleeast/israel-gaza-haddad-hamas.html" rel="standout"></atom:link>
-      <description>Izz al-Din al-Haddad, the target of an Israeli strike in Gaza City, took over the group’s military wing in Gaza last year. Israeli officials said he was also an architect of the Oct. 7 attack.</description>
-      <dc:creator>Alan Yuhas, Jonathan Rosen and Iyad Abuheweila</dc:creator>
-      <pubDate>Fri, 15 May 2026 21:46:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Haddad, Izz al-Din</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza City (Gaza Strip)</category>
-    </item>
-    <item>
       <title>Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran</title>
       <link>https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html</guid>
@@ -623,6 +580,46 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-Merz-US-glcq/15int-Merz-US-glcq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kai Pfaffenbach/Agence France-Presse — Getty Images</media:credit>
       <media:description>Chancellor Friedrich Merz meeting with people in Würzburg, Germany, on Friday.</media:description>
+    </item>
+    <item>
+      <title>Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit</title>
+      <link>https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html" rel="standout"></atom:link>
+      <description>The president has shifted the foundations of American policy toward China, throwing aside the adversarial approach of recent years.</description>
+      <dc:creator>Anton Troianovski and David E. Sanger</dc:creator>
+      <pubDate>Fri, 15 May 2026 19:59:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15dc-china-trump-ledeall01-photo-chvq/15dc-china-trump-ledeall01-photo-chvq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump and President Xi Jinping of China arriving for the state banquet in Beijing on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Large Ebola Outbreak Is Declared in Congo</title>
+      <link>https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/15/world/africa/congo-ebola-outbreak.html" rel="standout"></atom:link>
+      <description>Dozens of deaths and hundreds of infections are suspected, an African agency said. Health experts were alarmed that the outbreak hadn’t been announced sooner.</description>
+      <dc:creator>Matthew Mpoke Bigg and Apoorva Mandavilli</dc:creator>
+      <pubDate>Fri, 15 May 2026 18:15:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/15int-congo-ebola-hlgw/15int-congo-ebola-hlgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>A Ebola treatment center in Mangima, Democratic Republic of Congo, in 2019. Congo and Uganda have seen a string of Ebola outbreaks in recent years.</media:description>
     </item>
     <item>
       <title>Spotlight on China Adds to Some Chinese Americans’ Fears</title>

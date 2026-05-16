@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-16T17:00:49Z</dc:date>
+  <dc:date>2026-05-16T18:31:13Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-far-right-group-stages-anti-immigration-protest-in-london/a-77180588?maca=en-rss-en-all-1573-rdf"/>
@@ -82,7 +83,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-sugar-tax-sparks-nanny-state-debate/a-77083208?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-far-right-afd-benefits-from-discontent-with-merz/a-77094216?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/we-ve-lived-with-them-for-80-years-inside-a-german-town-that-us-troops-could-soon-leave-after-donald-trump-s-withdrawal-threat/a-77081982?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf">
+  <title>Could Romania and Moldova reunite?</title>
+  <link>https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf</link>
+  <description>Moldovan leader Maia Sandu and her Romanian counterpart Nicusor Dan want to reunite their countries. Is that a realistic scenario?</description>
+  <dc:date>2026-05-16T17:21:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77181648</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Dead humpback whale off Denmark is &apos;Timmy,&apos; who spent weeks stranded in Baltic Sea</title>
   <link>https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-rdf</link>
@@ -188,7 +197,7 @@
  <item rdf:about="https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-rdf">
   <title>Middle East updates: Big crowds at Nakba Day rally in London</title>
   <link>https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-rdf</link>
-  <description>Big crowds have gathered in London to honor Nakba Day. Meanwhile, Iran&apos;s state TV reports that European countries are discussing the safe transit of ships through the Strait of Hormuz.</description>
+  <description>Big crowds have gathered in London to mark Nakba Day. Meanwhile, Iran&apos;s state TV reports that European countries are discussing the safe transit of ships through the Strait of Hormuz.</description>
   <dc:date>2026-05-16T14:50:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -796,15 +805,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77091251</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf">
-  <title>How real is a coup threat against Russia&apos;s president?</title>
-  <link>https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-rdf</link>
-  <description>Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Yet some observers remain skeptical.</description>
-  <dc:date>2026-05-08T15:57:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77098085</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-s-far-right-afd-benefits-from-discontent-with-merz/a-77094216?maca=en-rss-en-all-1573-rdf">
   <title>Germany&apos;s far-right AfD benefits from discontent with Merz</title>

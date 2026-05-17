@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 17 May 2026 18:30:36 +0000</lastBuildDate>
-    <pubDate>Sun, 17 May 2026 18:06:17 +0000</pubDate>
+    <lastBuildDate>Sun, 17 May 2026 20:04:19 +0000</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 20:02:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -127,7 +127,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html" rel="standout"></atom:link>
       <description>More than 550 drones were intercepted or shot down in more than a dozen regions, including Moscow, in one of largest attacks of the war.</description>
       <dc:creator>Valerie Hopkins and Cassandra Vinograd</dc:creator>
-      <pubDate>Sun, 17 May 2026 13:58:38 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 19:17:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
@@ -136,6 +136,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sobyanin, Sergei S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/05/17/multimedia/17int-russia-ukraine-cjkf/17int-russia-ukraine-cjkf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>A damaged residential building in Krasnogorsk, in the Moscow region of Russia, on Sunday.</media:description>
@@ -236,9 +237,7 @@
       <description>Four of the injured were in serious condition, the mayor of Modena said, praising residents who rushed to stop the car’s driver from escaping on foot.</description>
       <dc:creator>Elisabetta Povoledo</dc:creator>
       <pubDate>Sun, 17 May 2026 03:01:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vehicle-Ramming Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Modena (Italy)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/16/multimedia/16int-italy-car-ramming-qwpt/16int-italy-car-ramming-qwpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>LaPresse, via Associated Press</media:credit>
@@ -314,13 +313,14 @@
       <atom:link href="https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html" rel="standout"></atom:link>
       <description>Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.</description>
       <dc:creator>River Akira Davis</dc:creator>
-      <pubDate>Sun, 17 May 2026 17:49:16 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 18:38:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Doha (Qatar)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/00biz-qatar-economy-hbgm/00biz-qatar-economy-hbgm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Mahmud Hams/Agence France-Presse — Getty Images</media:credit>
       <media:description>Qatar has tried to transform itself into a tourist destination and a hub for international business and finance.</media:description>
@@ -460,15 +460,16 @@
       <description>As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.</description>
       <dc:creator>Edward Wong and Michael Crowley</dc:creator>
       <pubDate>Sat, 16 May 2026 13:51:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/15/multimedia/xxdc-rubio-china-vtkw/xxdc-rubio-china-vtkw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>Marco Rubio, President Trump’s secretary of state and national security adviser, posed a sticky problem ahead of Mr. Trump’s first visit to China in his second term. </media:description>

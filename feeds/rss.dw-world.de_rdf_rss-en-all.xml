@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-16T23:27:56Z</dc:date>
+  <dc:date>2026-05-17T01:26:15Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/rwandan-genocide-suspect-felicien-kabuga-dies-in-custody/a-77184740?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf"/>
@@ -99,7 +100,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-rosalia-became-a-global-pop-force/a-77052783?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-who-is-cdu-parliamentary-leader-jens-spahn/a-77056956?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-prepares-for-mission-in-the-strait-of-hormuz/a-77054325?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-sea-that-is-vanishing-in-real-time/a-76813409?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-india-to-iran-how-hitler-redefined-aryan-for-the-nazis/a-77046616?maca=en-rss-en-all-1573-rdf"/>
@@ -148,7 +148,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/climate-change-impacts-india-s-harvest-festivals/a-76821351?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-german-who-recovered-from-a-stroke-to-seal-olympic-first/a-76775080?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/chess-uzbekistan-s-new-star-shows-asia-s-continued-rise/a-76819848?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -158,6 +157,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/rwandan-genocide-suspect-felicien-kabuga-dies-in-custody/a-77184740?maca=en-rss-en-all-1573-rdf">
+  <title>Rwandan genocide suspect Felicien Kabuga dies in custody</title>
+  <link>https://www.dw.com/en/rwandan-genocide-suspect-felicien-kabuga-dies-in-custody/a-77184740?maca=en-rss-en-all-1573-rdf</link>
+  <description>Rwanda&apos;s Felicien Kabuga was once one of the world&apos;s most-wanted fugitives. He was accused of encouraging and bankrolling the 1994 genocide.</description>
+  <dc:date>2026-05-16T23:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77184740</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-rdf">
   <title>Bulgaria&apos;s Dara wins Eurovision Song Contest 2026 in Vienna</title>
   <link>https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-rdf</link>
@@ -950,15 +958,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77054325</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf">
-  <title>Germany: BioNTech shutting down COVID vaccine production entirely, 1,860 jobs at risk</title>
-  <link>https://www.dw.com/en/germany-biontech-shutting-down-covid-vaccine-production-entirely-1-860-jobs-at-risk/a-77055320?maca=en-rss-en-all-1573-rdf</link>
-  <description>The German company that pioneered one of the first mRNA coronavirus vaccines is halting production, handing the reins to partner Pfizer. BioNTech is restructuring to focus on research and illnesses like cancer.</description>
-  <dc:date>2026-05-05T13:58:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77055320</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf">
   <title>What is hantavirus?</title>
   <link>https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf</link>
@@ -1390,14 +1389,5 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76775080</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/chess-uzbekistan-s-new-star-shows-asia-s-continued-rise/a-76819848?maca=en-rss-en-all-1573-rdf">
-  <title>Chess: Uzbekistan&apos;s new star shows Asia&apos;s continued rise</title>
-  <link>https://www.dw.com/en/chess-uzbekistan-s-new-star-shows-asia-s-continued-rise/a-76819848?maca=en-rss-en-all-1573-rdf</link>
-  <description>Javokhir Sindarov of Uzbekistan has earned the right to challenge India&apos;s Dommaraju Gukesh for the world title. Both men are under 21 and from Asia, underlining an ongoing demographic shift in top level chess.</description>
-  <dc:date>2026-04-17T09:57:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76819848</dwsyn:contentID>
  </item>
 </rdf:RDF>

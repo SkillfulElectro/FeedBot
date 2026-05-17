@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-17T20:04:48Z</dc:date>
+  <dc:date>2026-05-17T21:27:52Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-trump-warns-iran-time-is-ticking-on-deal/live-77179563?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-two-jets-collide-midair-at-idaho-air-show/a-77191396?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-epstein-victims-turn-up-in-french-probe-prosecutor/a-77190062?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/young-czechs-drink-less-beer-but-risk-other-addictions/a-77175549?maca=en-rss-en-all-1573-rdf"/>
@@ -20,8 +21,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/two-nepali-climbers-break-own-everest-records/a-77186761?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-declares-international-emergency-over-ebola-outbreak/a-77184899?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/venezuela-deports-maduro-ally-alex-saab-to-us/a-77184876?maca=en-rss-en-all-1573-rdf"/>
@@ -83,7 +84,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/data-centers-critical-tech-infrastructure-under-threat/a-77106191?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/antisemitism-in-germany-and-the-cdu-s-search-for-answers/a-77096960?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-sugar-tax-sparks-nanny-state-debate/a-77083208?maca=en-rss-en-all-1573-rdf"/>
@@ -157,10 +157,19 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/middle-east-trump-warns-iran-time-is-ticking-on-deal/live-77179563?maca=en-rss-en-all-1573-rdf">
+  <title>Middle East: Trump warns Iran &apos;time is ticking&apos; on deal</title>
+  <link>https://www.dw.com/en/middle-east-trump-warns-iran-time-is-ticking-on-deal/live-77179563?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US president said the Iranians should agree to a deal &quot;or there won&apos;t be anything left of them&quot; amid stalled peace talks. DW has more.</description>
+  <dc:date>2026-05-17T20:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77179563</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-two-jets-collide-midair-at-idaho-air-show/a-77191396?maca=en-rss-en-all-1573-rdf">
   <title>US: Two jets collide midair at Idaho air show</title>
   <link>https://www.dw.com/en/us-two-jets-collide-midair-at-idaho-air-show/a-77191396?maca=en-rss-en-all-1573-rdf</link>
-  <description>Two EA-18G Growler jets crashed near a US Air Force base in Idaho. It is unclear if the pilots have survived.</description>
+  <description>Two EA-18G Growler jets crashed near a US Air Force base in Idaho. The pilots ejected safely, organizers said.</description>
   <dc:date>2026-05-17T19:59:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -238,15 +247,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77186062</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf">
-  <title>Dead humpback whale off Denmark is &apos;Timmy&apos;</title>
-  <link>https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf</link>
-  <description>Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. It comes two weeks after a contentious rescue operation.</description>
-  <dc:date>2026-05-17T07:28:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77184917</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: UNICEF says child well-being ranking &apos;alarming&apos;</title>
   <link>https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf</link>
@@ -255,6 +255,15 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77178633</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf">
+  <title>Dead humpback whale off Denmark is &apos;Timmy&apos;</title>
+  <link>https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf</link>
+  <description>Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. It comes two weeks after a contentious rescue operation.</description>
+  <dc:date>2026-05-17T07:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77184917</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf">
   <title>India news: CNG gas price hiked in Delhi NCR amid Iran war fallout</title>
@@ -804,15 +813,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77107116</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf">
-  <title>Putin says he thinks Ukraine war is &apos;coming to an end&apos;</title>
-  <link>https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict.</description>
-  <dc:date>2026-05-09T19:16:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77106772</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-rdf">
   <title>New film portrays Thomas and Erika Mann — with an oddly twisted premise</title>

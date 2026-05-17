@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?s7=MZKmMEM6" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 17 May 2026 15:35:53 +0000</lastBuildDate>
-    <pubDate>Sun, 17 May 2026 15:03:32 +0000</pubDate>
+    <lastBuildDate>Sun, 17 May 2026 16:59:22 +0000</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 16:54:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/17/world/europe/erdogan-turkey-demography-babies-family-planning-economy.html" rel="standout"></atom:link>
       <description>Using cash grants and subsidized loans, President Recep Tayyip Erdogan’s government is trying to increase the birthrate. It’s not working.</description>
       <dc:creator>Ben Hubbard and Safak Timur</dc:creator>
-      <pubDate>Sun, 17 May 2026 11:54:55 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 11:54:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
@@ -29,6 +29,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/11/multimedia/00int-turkey-families-01-zmlv/00int-turkey-families-01-zmlv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emin Ozmen for The New York Times</media:credit>
       <media:description>A family visiting Miniaturk, a theme park in Istanbul. Living costs have undermined efforts to increase fertility rates.</media:description>
@@ -99,21 +100,20 @@
       <atom:link href="https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html" rel="standout"></atom:link>
       <description>Just a day after the announcement, cases were confirmed in the Democratic Republic of Congo and Uganda. There is no approved vaccine for this species of Ebola.</description>
       <dc:creator>Yan Zhuang, Matthew Mpoke Bigg and Apoorva Mandavilli</dc:creator>
-      <pubDate>Sun, 17 May 2026 14:59:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <pubDate>Sun, 17 May 2026 16:01:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kampala (Uganda)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kinshasa (Democratic Republic of Congo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
       <media:content height="1069" medium="image" url="https://static01.nyt.com/images/2026/05/17/multimedia/17xp-ebola-lhqf/17xp-ebola-lhqf-mediumSquareAt3X.jpg" width="1069"></media:content>
       <media:credit>Victoire Mukenge/Reuters</media:credit>
       <media:description>A man is carried from an ambulance on Saturday as he arrives at a hospital after confirmation of an Ebola outbreak in the Ituri province of the Democratic Republic of Congo.</media:description>
@@ -165,7 +165,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/16/world/americas/venezuela-extradites-tycoon-alex-saab.html" rel="standout"></atom:link>
       <description>The extradition of Alex Saab, who is tied to a huge graft scheme, is part of a purge of powerful figures who helped the deposed president, Nicolás Maduro, stay in power.</description>
       <dc:creator>Simon Romero</dc:creator>
-      <pubDate>Sun, 17 May 2026 01:26:02 +0000</pubDate>
+      <pubDate>Sun, 17 May 2026 16:25:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
@@ -190,9 +190,14 @@
       <dc:creator>Jason Horowitz, Claire Moses, Amelia Nierenberg and Samuel Granados</dc:creator>
       <pubDate>Sun, 17 May 2026 02:32:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hantavirus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oceanwide Expeditions BV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birdwatching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andes Mountains</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canary Islands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Verde</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Johannesburg (South Africa)</category>

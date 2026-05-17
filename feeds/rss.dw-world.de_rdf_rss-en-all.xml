@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-17T07:56:30Z</dc:date>
+  <dc:date>2026-05-17T09:55:12Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/two-nepali-climbers-break-own-everest-records/a-77186761?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/islamic-feminism-more-widespread-in-bosnia-and-herzegovina/a-77163017?maca=en-rss-en-all-1573-rdf"/>
@@ -157,6 +158,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/two-nepali-climbers-break-own-everest-records/a-77186761?maca=en-rss-en-all-1573-rdf">
+  <title>Two Nepali climbers break own Everest records</title>
+  <link>https://www.dw.com/en/two-nepali-climbers-break-own-everest-records/a-77186761?maca=en-rss-en-all-1573-rdf</link>
+  <description>Two veteran Nepali climbers, a man and a woman, have each set new records for ascents of the world&apos;s highest mountain. The 492 Everest climbing permits issued by Nepal for the 2026 spring season represent another high.</description>
+  <dc:date>2026-05-17T09:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77186761</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-all-1573-rdf">
+  <title>German transport minister promotes green hydrogen in Japan</title>
+  <link>https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-all-1573-rdf</link>
+  <description>During a recent visit to Japan, Germany&apos;s transport minister Patrick Schnieder toured hydrogen projects aimed at bringing the fuel into the mainstream.</description>
+  <dc:date>2026-05-17T08:25:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77182456</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-all-1573-rdf">
   <title>North Korean women&apos;s football team makes rare visit to South</title>
   <link>https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-all-1573-rdf</link>
@@ -318,15 +337,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77178649</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-all-1573-rdf">
-  <title>China, US, Israel compete in fast-growing laser weapons race</title>
-  <link>https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-all-1573-rdf</link>
-  <description>More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?</description>
-  <dc:date>2026-05-16T09:13:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77174766</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-rdf">
   <title>Andreas Rettig: &apos;You can&apos;t separate sports and politics&apos;</title>

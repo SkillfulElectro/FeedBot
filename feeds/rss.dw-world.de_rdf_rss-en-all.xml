@@ -7,16 +7,17 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-17T12:11:11Z</dc:date>
+  <dc:date>2026-05-17T14:04:29Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukrainian-drones-hit-russia-in-massive-overnight-attack/a-77188685?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/two-nepali-climbers-break-own-everest-records/a-77186761?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-declares-international-emergency-over-ebola-outbreak/a-77184899?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/venezuela-deports-maduro-ally-alex-saab-to-us/a-77184876?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/middle-east-drone-strike-sparks-fire-at-uae-nuclear-plant/live-77179563?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/islamic-feminism-more-widespread-in-bosnia-and-herzegovina/a-77163017?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf">
+  <title>Tiger escapes enclosure near Leipzig, one person injured</title>
+  <link>https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf</link>
+  <description>A tiger that was on the loose near the eastern city of Leipzig has badly injured a 73-year-old man, according to media reports. Police said they shot the animal.</description>
+  <dc:date>2026-05-17T12:30:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77189049</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/ukrainian-drones-hit-russia-in-massive-overnight-attack/a-77188685?maca=en-rss-en-all-1573-rdf">
   <title>Ukrainian drones hit Russia in massive overnight attack</title>
   <link>https://www.dw.com/en/ukrainian-drones-hit-russia-in-massive-overnight-attack/a-77188685?maca=en-rss-en-all-1573-rdf</link>
@@ -194,15 +203,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77186062</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: UNICEF says child well-being ranking &apos;alarming&apos;</title>
-  <link>https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf</link>
-  <description>A new study ranks Germany near the bottom in child well-being and education. Meanwhile, authorities say a dead humpback spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s coast. DW has more.</description>
-  <dc:date>2026-05-17T07:28:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77178633</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf">
   <title>Dead humpback whale off Denmark is &apos;Timmy&apos;</title>
   <link>https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf</link>
@@ -211,6 +211,15 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77184917</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: UNICEF says child well-being ranking &apos;alarming&apos;</title>
+  <link>https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf</link>
+  <description>A new study ranks Germany near the bottom in child well-being and education. Meanwhile, authorities say a dead humpback spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s coast. DW has more.</description>
+  <dc:date>2026-05-17T07:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77178633</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf">
   <title>India news: CNG gas price hiked in Delhi NCR amid Iran war fallout</title>
@@ -328,15 +337,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77095911</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-rdf">
-  <title>US: New York&apos;s Long Island railway workers go on strike</title>
-  <link>https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-rdf</link>
-  <description>Nearly 300,000 passengers rely on the LIRR daily to travel between New York City, its boroughs and suburban Long Island.</description>
-  <dc:date>2026-05-16T09:33:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77178863</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-rdf">
   <title>Andreas Rettig: &apos;You can&apos;t separate sports and politics&apos;</title>

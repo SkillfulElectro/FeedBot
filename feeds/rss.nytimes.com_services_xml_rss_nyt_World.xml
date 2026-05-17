@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?s7=MZKmMEM6" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 17 May 2026 14:01:25 +0000</lastBuildDate>
-    <pubDate>Sun, 17 May 2026 13:58:38 +0000</pubDate>
+    <lastBuildDate>Sun, 17 May 2026 15:35:53 +0000</lastBuildDate>
+    <pubDate>Sun, 17 May 2026 15:03:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -32,6 +32,40 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/11/multimedia/00int-turkey-families-01-zmlv/00int-turkey-families-01-zmlv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emin Ozmen for The New York Times</media:credit>
       <media:description>A family visiting Miniaturk, a theme park in Istanbul. Living costs have undermined efforts to increase fertility rates.</media:description>
+    </item>
+    <item>
+      <title>Runoff in Peru Offers Two Starkly Differing Visions for the Nation</title>
+      <link>https://www.nytimes.com/2026/05/17/world/americas/peru-runoff-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/17/world/americas/peru-runoff-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/17/world/americas/peru-runoff-election.html" rel="standout"></atom:link>
+      <description>The presidential election pits Keiko Fujimori, a conservative, against Roberto Sánchez, a leftist, after a crisis marked by delays and protests.</description>
+      <dc:creator>Mitra Taj and Genevieve Glatsky</dc:creator>
+      <pubDate>Sun, 17 May 2026 14:47:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Keiko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez, Roberto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lima (Peru)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/14/world/00int-peru-election-fujimori/00int-peru-election-fujimori-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sara Wayra for The New York Times</media:credit>
+      <media:description>Keiko Fujimori, the leader of the Popular Force Party, at a campaign rally last month in Lima, Peru.</media:description>
+    </item>
+    <item>
+      <title>How Birding Apps Are Boosting Tourism in the World’s Top Bird Destination</title>
+      <link>https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html" rel="standout"></atom:link>
+      <description>Colombia is home to the most species of birds known to ornithologists. Merlin, an app, is helping to build an “avian tourism” industry there.</description>
+      <dc:creator>Max Bearak and Esteban Vanegas</dc:creator>
+      <pubDate>Sun, 17 May 2026 09:01:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birdwatching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/17/multimedia/17int-colombia-birds01-photo-qtmb/17int-colombia-birds01-photo-qtmb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Samantha Giraldo and Bibiana Acevedo looking for birds in Los Guácharos nature preserve in Jardín, Colombia.</media:description>
     </item>
     <item>
       <title>In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months</title>
@@ -59,21 +93,30 @@
       <media:description>A shepherd with his herd in the Najaf desert in southwestern Iran on Tuesday. Israel operated at least two secret outposts in the desert during the war with Iran.</media:description>
     </item>
     <item>
-      <title>How Birding Apps Are Boosting Tourism in the World’s Top Bird Destination</title>
-      <link>https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/17/world/americas/colombia-birding-app-merlin-ebird-tourism.html" rel="standout"></atom:link>
-      <description>Colombia is home to the most species of birds known to ornithologists. Merlin, an app, is helping to build an “avian tourism” industry there.</description>
-      <dc:creator>Max Bearak and Esteban Vanegas</dc:creator>
-      <pubDate>Sun, 17 May 2026 09:01:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birdwatching</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/17/multimedia/17int-colombia-birds01-photo-qtmb/17int-colombia-birds01-photo-qtmb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Samantha Giraldo and Bibiana Acevedo looking for birds in Los Guácharos nature preserve in Jardín, Colombia.</media:description>
+      <title>W.H.O. Declares Ebola Outbreak a Global Health Emergency</title>
+      <link>https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html" rel="standout"></atom:link>
+      <description>Just a day after the announcement, cases were confirmed in the Democratic Republic of Congo and Uganda. There is no approved vaccine for this species of Ebola.</description>
+      <dc:creator>Yan Zhuang, Matthew Mpoke Bigg and Apoorva Mandavilli</dc:creator>
+      <pubDate>Sun, 17 May 2026 14:59:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kampala (Uganda)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kinshasa (Democratic Republic of Congo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
+      <media:content height="1069" medium="image" url="https://static01.nyt.com/images/2026/05/17/multimedia/17xp-ebola-lhqf/17xp-ebola-lhqf-mediumSquareAt3X.jpg" width="1069"></media:content>
+      <media:credit>Victoire Mukenge/Reuters</media:credit>
+      <media:description>A man is carried from an ambulance on Saturday as he arrives at a hospital after confirmation of an Ebola outbreak in the Ituri province of the Democratic Republic of Congo.</media:description>
     </item>
     <item>
       <title>Wave of Ukrainian Strikes Kills at Least 4, Russia Says</title>
@@ -114,32 +157,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/17/multimedia/17int-nkorea-soccer-wtk-jcgh/17int-nkorea-soccer-wtk-jcgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
       <media:description>Members of Naegohyang, a North Korean women’s soccer team, arriving at Incheon International Airport in South Korea on Sunday.</media:description>
-    </item>
-    <item>
-      <title>W.H.O. Declares Ebola Outbreak a Global Health Emergency</title>
-      <link>https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html" rel="standout"></atom:link>
-      <description>Just a day after the outbreak was announced, cases were confirmed in the capitals of Uganda and the Democratic Republic of Congo. There is no approved vaccine for the strain.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Sun, 17 May 2026 07:23:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">African Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kampala (Uganda)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kinshasa (Democratic Republic of Congo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
-      <media:content height="1069" medium="image" url="https://static01.nyt.com/images/2026/05/17/multimedia/17xp-ebola-lhqf/17xp-ebola-lhqf-mediumSquareAt3X.jpg" width="1069"></media:content>
-      <media:credit>Victoire Mukenge/Reuters</media:credit>
-      <media:description>A man is carried from an ambulance as he arrives Monday at a hospital after confirmation of an Ebola outbreak in the Ituri Province of the Democratic Republic of Congo.</media:description>
     </item>
     <item>
       <title>Venezuela Extradites Billionaire Tycoon Alex Saab to U.S.</title>
@@ -239,26 +256,6 @@
       <media:description>Supporters of the British far-right activist Tommy Robinson at the “Unite the Kingdom” march in London on Saturday.</media:description>
     </item>
     <item>
-      <title>Félicien Kabuga Dies; Accused of Masterminding Rwanda’s Genocide</title>
-      <link>https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html" rel="standout"></atom:link>
-      <description>One of his country’s richest businessmen, he fled arrest and escaped prosecution for allegedly financing and directing the bloodletting that cost 800,000 lives in 1994.</description>
-      <dc:creator>Alan Cowell</dc:creator>
-      <pubDate>Sat, 16 May 2026 21:50:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kabuga, Felicien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Tribunal for Rwanda</category>
-      <media:content height="1170" medium="image" url="https://static01.nyt.com/images/2026/05/16/multimedia/16kabuga-ftwv/16kabuga-ftwv-mediumSquareAt3X.jpg" width="1170"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>A screen grab of Félicien Kabuga at a hearing in The Hague, where he faced charges of genocide and crimes against humanity, in 2022.</media:description>
-    </item>
-    <item>
       <title>Train Crashes Into Bangkok Traffic, Killing at Least 8</title>
       <link>https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/asia/bangkok-bus-train-crash.html</guid>
@@ -322,6 +319,26 @@
       <media:description>Qatar has tried to transform itself into a tourist destination and a hub for international business and finance.</media:description>
     </item>
     <item>
+      <title>Félicien Kabuga Dies; Accused of Masterminding Rwanda’s Genocide</title>
+      <link>https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/16/world/africa/felicien-kabuga-dead.html" rel="standout"></atom:link>
+      <description>One of his country’s richest businessmen, he fled arrest and escaped prosecution for allegedly financing and directing the bloodletting that cost 800,000 lives in 1994.</description>
+      <dc:creator>Alan Cowell</dc:creator>
+      <pubDate>Sat, 16 May 2026 21:50:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kabuga, Felicien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rwanda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Tribunal for Rwanda</category>
+      <media:content height="1170" medium="image" url="https://static01.nyt.com/images/2026/05/16/multimedia/16kabuga-ftwv/16kabuga-ftwv-mediumSquareAt3X.jpg" width="1170"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A screen grab of Félicien Kabuga at a hearing in The Hague, where he faced charges of genocide and crimes against humanity, in 2022.</media:description>
+    </item>
+    <item>
       <title>Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.</title>
       <link>https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html</guid>
@@ -329,15 +346,11 @@
       <description>The lack of concrete agreements with Beijing shows the risks of President Trump’s personality-driven foreign policy, which rests on the belief that he can defend U.S. interests through charm and force of will.</description>
       <dc:creator>Anton Troianovski</dc:creator>
       <pubDate>Sat, 16 May 2026 17:01:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baier, Bret</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/16/multimedia/16dc-trump-diplo-mzvf/16dc-trump-diplo-mzvf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Trump and China’s leader, Xi Jinping, at the state banquet in Beijing on Thursday.</media:description>
@@ -1158,20 +1171,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/13trump-xi-landmarks-bgcl/13trump-xi-landmarks-bgcl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kevin Frayer/Getty Images</media:credit>
       <media:description>Security outside Zhongnanhai, the official residence of China’s leadership, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>China Starting to Fulfill ‘Promises,’ U.S. Trade Representative Says</title>
-      <link>https://www.nytimes.com/2026/05/14/world/asia/trump-china-us-trade.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/14/world/asia/trump-china-us-trade.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/14/world/asia/trump-china-us-trade.html" rel="standout"></atom:link>
-      <description>As President Trump and China’s leader, Xi Jinping, meet, the United States said China has promised to expand its purchases of farm goods and airplanes.</description>
-      <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Fri, 15 May 2026 06:51:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/14/multimedia/14trump-china-trade-cgjv/14trump-china-trade-cgjv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
-      <media:description>U.S. Trade Representative Jamieson Greer, left, during a state dinner with President Trump and China’s President Xi Jinping at the Great Hall of the People in Beijing, on Thursday,</media:description>
     </item>
   </channel>
 </rss>

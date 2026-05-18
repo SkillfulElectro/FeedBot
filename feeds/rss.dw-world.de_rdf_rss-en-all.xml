@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-18T21:46:57Z</dc:date>
+  <dc:date>2026-05-18T23:05:00Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/live-updates-shooting-at-san-diego-mosque-leaves-three-dead/live-77205503?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/active-shooter-reported-at-san-diego-mosque/a-77205174?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-drops-irs-lawsuit-gets-billion-dollar-victim-s-fund/a-77204690?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/belarus-launches-drills-involving-russian-nuclear-weapons/a-77204498?maca=en-rss-en-all-1573-rdf"/>
@@ -20,8 +21,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-china-became-the-new-master-of-russia-s-economy/a-77193402?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-and-nigerian-forces-kill-20-jihadists-in-northern-region/a-77201201?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-moment-putin-heads-to-beijing-after-trump-courts-xi/a-77200122?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-sends-revised-us-proposal-trump-cancels-planned-strike/a-77200623?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-women-s-football-help-reconnect-north-and-south-korea/a-77198739?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-sends-revised-us-proposal-trump-cancels-planned-strike/a-77200623?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/maldives-bodies-of-missing-italian-divers-found/a-77197873?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/zambia-s-media-freedom-under-scrutiny-ahead-of-2026-elections/a-77195263?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korea-s-new-constitution-deepens-split-with-seoul/a-77195733?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-crisis-hit-chemical-industry-seeks-revival/a-77166282?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/atlas-of-civil-society-downgrades-germany/a-77193686?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/elversberg-bundesliga-newcomers-from-tiny-town-make-history/a-77194483?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/mv-hondius-docks-in-rotterdam-after-hantavirus-ordeal/a-77192012?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-in-africa-why-it-s-a-constant-threat/a-71524627?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/young-czechs-drink-less-beer-but-risk-other-addictions/a-77175549?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-singer-heino-pushes-back-against-the-far-right-afd/a-77173665?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/live-updates-shooting-at-san-diego-mosque-leaves-three-dead/live-77205503?maca=en-rss-en-all-1573-rdf">
+  <title>Live updates: Shooting at San Diego mosque leaves three dead</title>
+  <link>https://www.dw.com/en/live-updates-shooting-at-san-diego-mosque-leaves-three-dead/live-77205503?maca=en-rss-en-all-1573-rdf</link>
+  <description>Three people were killed in a shooting at the Islamic Center of San Diego. Two teen suspects were found dead in a car near the mosque. Follow live.</description>
+  <dc:date>2026-05-18T22:10:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77205503</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/active-shooter-reported-at-san-diego-mosque/a-77205174?maca=en-rss-en-all-1573-rdf">
   <title>Active shooter reported at San Diego mosque</title>
   <link>https://www.dw.com/en/active-shooter-reported-at-san-diego-mosque/a-77205174?maca=en-rss-en-all-1573-rdf</link>
@@ -239,15 +248,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77200122</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/iran-sends-revised-us-proposal-trump-cancels-planned-strike/a-77200623?maca=en-rss-en-all-1573-rdf">
-  <title>Iran sends revised US proposal, Trump cancels planned strike</title>
-  <link>https://www.dw.com/en/iran-sends-revised-us-proposal-trump-cancels-planned-strike/a-77200623?maca=en-rss-en-all-1573-rdf</link>
-  <description>Separately, US President Donald Trump said he is delaying a strike on Iran due to “serious negotiations.”</description>
-  <dc:date>2026-05-18T13:58:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77200623</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/can-women-s-football-help-reconnect-north-and-south-korea/a-77198739?maca=en-rss-en-all-1573-rdf">
   <title>Can women&apos;s football help reconnect North and South Korea?</title>
   <link>https://www.dw.com/en/can-women-s-football-help-reconnect-north-and-south-korea/a-77198739?maca=en-rss-en-all-1573-rdf</link>
@@ -256,6 +256,15 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77198739</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-sends-revised-us-proposal-trump-cancels-planned-strike/a-77200623?maca=en-rss-en-all-1573-rdf">
+  <title>Iran sends revised US proposal, Trump cancels planned strike</title>
+  <link>https://www.dw.com/en/iran-sends-revised-us-proposal-trump-cancels-planned-strike/a-77200623?maca=en-rss-en-all-1573-rdf</link>
+  <description>Separately, US President Donald Trump said he is delaying a strike on Iran due to “serious negotiations.”</description>
+  <dc:date>2026-05-18T13:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77200623</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/maldives-bodies-of-missing-italian-divers-found/a-77197873?maca=en-rss-en-all-1573-rdf">
   <title>Maldives: Bodies of missing Italian divers found</title>
@@ -328,15 +337,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77194483</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/mv-hondius-docks-in-rotterdam-after-hantavirus-ordeal/a-77192012?maca=en-rss-en-all-1573-rdf">
-  <title>MV Hondius docks in Rotterdam after hantavirus ordeal</title>
-  <link>https://www.dw.com/en/mv-hondius-docks-in-rotterdam-after-hantavirus-ordeal/a-77192012?maca=en-rss-en-all-1573-rdf</link>
-  <description>The hantavirus-stricken MV Hondius cruise ship has arrived at its final destination, Rotterdam. The remaining crew on board, including two medics, will disembark the ship.</description>
-  <dc:date>2026-05-18T09:01:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77192012</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ebola-in-africa-why-it-s-a-constant-threat/a-71524627?maca=en-rss-en-all-1573-rdf">
   <title>Ebola in Africa: Why it&apos;s a constant threat</title>

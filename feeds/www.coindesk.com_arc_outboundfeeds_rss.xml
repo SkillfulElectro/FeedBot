@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 18 May 2026 21:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 22:22:27 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg]]></title>
+      <link>https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/027ad48cfa40c0b6f4997f516abebf656a10a0e9-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a461f22e-5a25-464f-856a-29a2dc824eaa</guid>
+      <pubDate>Mon, 18 May 2026 22:20:27 +0000</pubDate>
+      <description><![CDATA[The U.S. Securities and Exchange Commission is reportedly poised to release a major crypto proposal as it seeks to institute its digital assets agenda.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Minnesotan banks and credit unions set to provide crypto custody August 1]]></title>
       <link>https://www.coindesk.com/policy/2026/05/18/minnesotan-banks-and-credit-unions-set-to-provide-crypto-custody-august-1</link>
@@ -375,21 +389,6 @@
       <category domain="tag"><![CDATA[Hack]]></category>
       <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
       <category domain="https://www.coindesk.com/">Feature</category>
-    </item>
-    <item>
-      <title><![CDATA[Aave restores ether borrowing limits after $230 million exploit]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/18/aave-restores-weth-collateral-limits-as-rseth-crisis-enters-recovery-phase</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8ead0a113fbc042385fbb82db39b5f84efe740f6-860x516.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">defe9629-ff0a-40b9-a546-376412c5f225</guid>
-      <pubDate>Mon, 18 May 2026 07:05:20 +0000</pubDate>
-      <description><![CDATA[The DeFi lending protocol reversed restrictions imposed after April’s $292 million exploit, restoring borrowing capacity across six networks as contagion fears ease.]]></description>
-      <dc:creator>Sam Reynolds</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Ethereum News]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

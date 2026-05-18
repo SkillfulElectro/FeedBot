@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-17T23:32:38Z</dc:date>
+  <dc:date>2026-05-18T03:58:27Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/thousands-gather-in-washington-for-america-themed-prayer-rally/a-77191869?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/executions-worldwide-hit-highest-level-since-1981-amnesty-says/a-77175005?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cuba-buys-more-than-300-drones-from-russia-and-iran-report/a-77191599?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/middle-east-trump-warns-iran-time-is-ticking-on-deal/live-77179563?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-two-jets-collide-midair-at-idaho-air-show/a-77191396?maca=en-rss-en-all-1573-rdf"/>
@@ -22,14 +24,12 @@
     <rdf:li rdf:resource="https://www.dw.com/en/two-nepali-climbers-break-own-everest-records/a-77186761?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-transport-minister-promotes-green-hydrogen-in-japan/a-77182456?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/north-korean-women-s-football-team-makes-rare-visit-to-south/a-77186062?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-declares-international-emergency-over-ebola-outbreak/a-77184899?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/venezuela-deports-maduro-ally-alex-saab-to-us/a-77184876?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/rwandan-genocide-suspect-felicien-kabuga-dies-in-custody/a-77184740?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-rdf"/>
@@ -146,8 +146,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-chip-ambitions-shake-up-global-tech-industry/a-76056790?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/mines-in-the-strait-of-hormuz-how-dangerous-are-they/a-76847658?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/climate-change-impacts-india-s-harvest-festivals/a-76821351?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/the-german-who-recovered-from-a-stroke-to-seal-olympic-first/a-76775080?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -157,6 +155,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/thousands-gather-in-washington-for-america-themed-prayer-rally/a-77191869?maca=en-rss-en-all-1573-rdf">
+  <title>Thousands gather in Washington for America-themed prayer rally</title>
+  <link>https://www.dw.com/en/thousands-gather-in-washington-for-america-themed-prayer-rally/a-77191869?maca=en-rss-en-all-1573-rdf</link>
+  <description>Donald Trump and top Cabinet officials addressed the thousands of people gathered at the mass prayer event in Washington.</description>
+  <dc:date>2026-05-18T01:19:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77191869</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/executions-worldwide-hit-highest-level-since-1981-amnesty-says/a-77175005?maca=en-rss-en-all-1573-rdf">
+  <title>Executions worldwide hit highest level since 1981, Amnesty says</title>
+  <link>https://www.dw.com/en/executions-worldwide-hit-highest-level-since-1981-amnesty-says/a-77175005?maca=en-rss-en-all-1573-rdf</link>
+  <description>The human rights group Amnesty International confirmed that at least 2,707 people were put to death in 2025 but said the actual number was much higher. Despite these figures, there are indications of possible progress.</description>
+  <dc:date>2026-05-18T00:03:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77175005</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/cuba-buys-more-than-300-drones-from-russia-and-iran-report/a-77191599?maca=en-rss-en-all-1573-rdf">
   <title>Cuba buys more than 300 drones from Russia and Iran — report</title>
   <link>https://www.dw.com/en/cuba-buys-more-than-300-drones-from-russia-and-iran-report/a-77191599?maca=en-rss-en-all-1573-rdf</link>
@@ -256,15 +272,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77186062</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf">
-  <title>Dead humpback whale off Denmark is &apos;Timmy&apos;</title>
-  <link>https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf</link>
-  <description>Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. It comes two weeks after a contentious rescue operation.</description>
-  <dc:date>2026-05-17T07:28:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77184917</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: UNICEF says child well-being ranking &apos;alarming&apos;</title>
   <link>https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf</link>
@@ -273,6 +280,15 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77178633</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf">
+  <title>Dead humpback whale off Denmark is &apos;Timmy&apos;</title>
+  <link>https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf</link>
+  <description>Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. It comes two weeks after a contentious rescue operation.</description>
+  <dc:date>2026-05-17T07:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77184917</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-rdf">
   <title>India news: CNG gas price hiked in Delhi NCR amid Iran war fallout</title>
@@ -309,24 +325,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77184740</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-rdf">
-  <title>Bulgaria&apos;s Dara wins Eurovision Song Contest 2026 in Vienna</title>
-  <link>https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-rdf</link>
-  <description>Bulgaria has won the 70th Eurovision Song Contest. The kitsch pop music extravaganza, the world&apos;s biggest live music contest, has again been overshadowed by protests and a boycott over Israel&apos;s participation.</description>
-  <dc:date>2026-05-16T23:01:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77182516</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-rdf">
-  <title>Eight injured after car ploughs into crowd in Italy&apos;s Modena</title>
-  <link>https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-rdf</link>
-  <description>Investigators are still determining if the driver acted deliberately. Italian Prime Minister Giorgia Meloni called the incident in Modena &quot;extremely serious.&quot;</description>
-  <dc:date>2026-05-16T21:33:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77184369</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf">
   <title>Germany gets ahead in the new space race</title>
@@ -1371,23 +1369,5 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76821351</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf">
-  <title>Hannover Messe 2026: Brazilian flair awaits visitors</title>
-  <link>https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-rdf</link>
-  <description>With war in Iran on hold, the world&apos;s largest industrial trade fair opens in Hannover. And Brazil, this year&apos;s partner country, is pulling out all stops to convince visitors it&apos;s a reliable technology leader.</description>
-  <dc:date>2026-04-18T20:02:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76810602</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/the-german-who-recovered-from-a-stroke-to-seal-olympic-first/a-76775080?maca=en-rss-en-all-1573-rdf">
-  <title>The German who recovered from a stroke to seal Olympic first</title>
-  <link>https://www.dw.com/en/the-german-who-recovered-from-a-stroke-to-seal-olympic-first/a-76775080?maca=en-rss-en-all-1573-rdf</link>
-  <description>Kathrin Marchand was an elite rower for years before becoming a doctor. But a stroke at the age of 30 changed everything. Despite the challenges, she has now achieved something no other Olympian ever has.</description>
-  <dc:date>2026-04-18T13:45:00Z</dc:date>
-  <dc:subject>Sports</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76775080</dwsyn:contentID>
  </item>
 </rdf:RDF>

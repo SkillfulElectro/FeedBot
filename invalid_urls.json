@@ -10,5 +10,6 @@
   "https://www.irna.ir/rss": "504 Server Error: Gateway Time-out for url: https://www.irna.ir/rss",
   "https://rss-parrot.net/web/feeds?category=world": "HTTPSConnectionPool(host='rss-parrot.net', port=443): Max retries exceeded with url: /web/feeds?category=world (Caused by NameResolutionError(\"HTTPSConnection(host='rss-parrot.net', port=443): Failed to resolve 'rss-parrot.net' ([Errno -3] Temporary failure in name resolution)\"))",
   "https://www.isna.ir/rss": "HTTPSConnectionPool(host='www.isna.ir', port=443): Read timed out. (read timeout=30)",
-  "https://news.google.com/rss?hl=en-US&gl=US&ceid=US%3Aen": "503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US%3Aen"
+  "https://news.google.com/rss?hl=en-US&gl=US&ceid=US%3Aen": "503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US%3Aen",
+  "https://www.reddit.com/r/worldnews/.rss": "500 Server Error: Internal Server Error for url: https://www.reddit.com/r/worldnews/.rss"
 }

@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-18T15:53:22Z</dc:date>
+  <dc:date>2026-05-18T18:03:20Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/jury-rules-against-elon-musk-in-case-against-openai/a-77204479?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/kenya-fuel-protests-turn-deadly-amid-iran-war-disruptions/a-77202954?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-china-became-the-new-master-of-russia-s-economy/a-77193402?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-and-nigerian-forces-kill-20-jihadists-in-northern-region/a-77201201?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-s-moment-putin-heads-to-beijing-after-trump-courts-xi/a-77200122?maca=en-rss-en-all-1573-rdf"/>
@@ -28,9 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-delhi-rejects-dutch-concerns-on-minority-rights-press-freedom/live-77192866?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-in-africa-why-it-s-a-constant-threat/a-71524627?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-s-dnipro-and-odesa-targeted-in-russian-strikes/a-77192579?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/australia-orders-firms-to-sell-stakes-in-rare-earths-miner/a-77192174?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/thousands-gather-in-washington-for-america-themed-prayer-rally/a-77191869?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/executions-worldwide-hit-highest-level-since-1981-amnesty-says/a-77175005?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/young-czechs-drink-less-beer-but-risk-other-addictions/a-77175549?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-singer-heino-pushes-back-against-the-far-right-afd/a-77173665?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf"/>
@@ -157,10 +157,37 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/jury-rules-against-elon-musk-in-case-against-openai/a-77204479?maca=en-rss-en-all-1573-rdf">
+  <title>Jury rules against Elon Musk in case against OpenAI</title>
+  <link>https://www.dw.com/en/jury-rules-against-elon-musk-in-case-against-openai/a-77204479?maca=en-rss-en-all-1573-rdf</link>
+  <description>Elon Musk took on Sam Altman, accusing him of betraying OpenAI&apos;s original nonprofit mission.</description>
+  <dc:date>2026-05-18T17:46:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77204479</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/kenya-fuel-protests-turn-deadly-amid-iran-war-disruptions/a-77202954?maca=en-rss-en-all-1573-rdf">
+  <title>Kenya fuel protests turn deadly amid Iran war disruptions</title>
+  <link>https://www.dw.com/en/kenya-fuel-protests-turn-deadly-amid-iran-war-disruptions/a-77202954?maca=en-rss-en-all-1573-rdf</link>
+  <description>The African country is among many dependent on fuel imports from the Gulf. Last week, authorities in the country hiked fuel prices by 23.5%.</description>
+  <dc:date>2026-05-18T16:58:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77202954</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253?maca=en-rss-en-all-1573-rdf">
+  <title>Pakistan: 2 killed protecting polio workers in tribal area</title>
+  <link>https://www.dw.com/en/pakistan-2-killed-protecting-polio-workers-in-tribal-area/a-77202253?maca=en-rss-en-all-1573-rdf</link>
+  <description>Authorities seek to vaccinate 19 million children against polio, in the latest effort to eradicate a disease that is endemic in Pakistan.</description>
+  <dc:date>2026-05-18T16:42:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77202253</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/how-china-became-the-new-master-of-russia-s-economy/a-77193402?maca=en-rss-en-all-1573-rdf">
   <title>How China became the new master of Russia&apos;s economy</title>
   <link>https://www.dw.com/en/how-china-became-the-new-master-of-russia-s-economy/a-77193402?maca=en-rss-en-all-1573-rdf</link>
-  <description>Hot on the heels of Trump, Russian President Vladimir Putin visits Beijing this week for talks with Xi Jinping. DW explores how China&apos;s financial lifeline since the Ukraine war has reshaped the Russian economy.</description>
+  <description>Hot on the heels of Donald Trump&apos;s visit, Russian President Vladimir Putin travels Beijing this week for talks with Xi Jinping. DW explores how China has been Russia&apos;s financial lifeline since the Ukraine war.</description>
   <dc:date>2026-05-18T15:34:00Z</dc:date>
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
@@ -309,33 +336,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77192579</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/australia-orders-firms-to-sell-stakes-in-rare-earths-miner/a-77192174?maca=en-rss-en-all-1573-rdf">
-  <title>Australia orders firms to sell stakes in rare earths miner</title>
-  <link>https://www.dw.com/en/australia-orders-firms-to-sell-stakes-in-rare-earths-miner/a-77192174?maca=en-rss-en-all-1573-rdf</link>
-  <description>The treasurer ordered China-linked companies to divest of Northern Minerals to protect Australia&apos;s interests.</description>
-  <dc:date>2026-05-18T05:17:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77192174</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/thousands-gather-in-washington-for-america-themed-prayer-rally/a-77191869?maca=en-rss-en-all-1573-rdf">
-  <title>Thousands gather in Washington for America-themed prayer rally</title>
-  <link>https://www.dw.com/en/thousands-gather-in-washington-for-america-themed-prayer-rally/a-77191869?maca=en-rss-en-all-1573-rdf</link>
-  <description>Donald Trump and top Cabinet officials addressed the thousands of people gathered at the mass prayer event in Washington.</description>
-  <dc:date>2026-05-18T01:19:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77191869</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/executions-worldwide-hit-highest-level-since-1981-amnesty-says/a-77175005?maca=en-rss-en-all-1573-rdf">
-  <title>Executions worldwide hit highest level since 1981, Amnesty says</title>
-  <link>https://www.dw.com/en/executions-worldwide-hit-highest-level-since-1981-amnesty-says/a-77175005?maca=en-rss-en-all-1573-rdf</link>
-  <description>The human rights group Amnesty International confirmed that at least 2,707 people were put to death in 2025 but said the actual number was much higher. Despite these figures, there are indications of possible progress.</description>
-  <dc:date>2026-05-18T00:03:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77175005</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/young-czechs-drink-less-beer-but-risk-other-addictions/a-77175549?maca=en-rss-en-all-1573-rdf">
   <title>Young Czechs drink less beer but risk other addictions</title>

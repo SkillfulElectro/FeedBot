@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-19T20:14:28Z</dc:date>
+  <dc:date>2026-05-19T21:53:40Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/vance-hails-good-progress-in-iran-talks/a-77222349?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-troop-withdrawal-from-europe-to-take-years-general/a-77221778?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-s-new-prime-minister-magyar-seeks-to-fix-poland-ties/a-77215714?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/181-2-million-pollock-shatters-auction-record-at-christie-s/a-77221090?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/sweden-orders-4-frigates-from-french-company-naval-group/a-77208762?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-3-missing-after-görlitz-house-collapse/live-77208112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/top-european-parliament-honor-to-be-awarded-for-first-time/a-77208111?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-china-became-russia-s-economic-lifeline/a-77193402?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-2030-climate-goals-in-danger-experts-warn/live-77193205?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-crisis-hit-chemical-industry-seeks-revival/a-77166282?maca=en-rss-en-all-1573-rdf"/>
@@ -157,6 +157,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/vance-hails-good-progress-in-iran-talks/a-77222349?maca=en-rss-en-all-1573-rdf">
+  <title>Vance hails &apos;good progress&apos; in Iran talks</title>
+  <link>https://www.dw.com/en/vance-hails-good-progress-in-iran-talks/a-77222349?maca=en-rss-en-all-1573-rdf</link>
+  <description>US Vice President JD Vance said Washington remained &quot;locked and loaded&quot; in the event of failed negotiations. It comes a day after Donald Trump said he called off an attack on Iran at three Gulf nations&apos; request.</description>
+  <dc:date>2026-05-19T20:48:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77222349</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-troop-withdrawal-from-europe-to-take-years-general/a-77221778?maca=en-rss-en-all-1573-rdf">
   <title>US troop withdrawal from Europe to take &apos;years&apos; — general</title>
   <link>https://www.dw.com/en/us-troop-withdrawal-from-europe-to-take-years-general/a-77221778?maca=en-rss-en-all-1573-rdf</link>
@@ -327,15 +336,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77208111</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390?maca=en-rss-en-all-1573-rdf">
-  <title>Moscow begins nuclear drills as Russia-Ukraine drone strikes intensify</title>
-  <link>https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390?maca=en-rss-en-all-1573-rdf</link>
-  <description>As Russian and Ukrainian forces carried out fresh cross-border aerial strikes, Moscow launched nationwide nuclear drills.</description>
-  <dc:date>2026-05-19T07:30:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77208390</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/how-china-became-russia-s-economic-lifeline/a-77193402?maca=en-rss-en-all-1573-rdf">
   <title>How China became Russia&apos;s economic lifeline</title>

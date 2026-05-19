@@ -333,12 +333,12 @@ a.jetpack-sharing-button__button{color:inherit}.jetpack-sharing-button__button{a
 <link rel='stylesheet' id='msnow-style-css' href='https://www.ms.now/wp-content/themes/msnow/assets/dist/main.css?ver=1779204139' media='all' />
 <link rel='stylesheet' id='msnow-print-css' href='https://www.ms.now/wp-content/themes/msnow/assets/dist/print.css?ver=1779204139' media='print' />
 <link rel='stylesheet' id='sailthru-subscribe-widget-styles-css' href='https://www.ms.now/wp-content/plugins/sailthru-widget/css/widget.subscribe.css?ver=6.9.4' media='all' />
+<script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/announcement/view.js?ver=0ed49865e3d4a3904160" id="msnbc-announcement-view-script-js" defer data-wp-strategy="defer"></script>
+<script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/flyout-menu/flyout.js?ver=d416236ba72830367c4f" id="rkv-flyout-menu-view-script-js" defer data-wp-strategy="defer"></script>
 <script id="jetpack-blocks-assets-base-url-js-before">
 var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/_inc/blocks/";
 //# sourceURL=jetpack-blocks-assets-base-url-js-before
 </script>
-<script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/announcement/view.js?ver=0ed49865e3d4a3904160" id="msnbc-announcement-view-script-js" defer data-wp-strategy="defer"></script>
-<script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/flyout-menu/flyout.js?ver=d416236ba72830367c4f" id="rkv-flyout-menu-view-script-js" defer data-wp-strategy="defer"></script>
 <script src="https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/_inc/blocks/sharing-button/view.js?ver=e94af43b7684647a3184" id="jetpack-sharing-button-view-script-js" defer data-wp-strategy="defer"></script>
 <script src="https://www.ms.now/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
 <script src="https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/_inc/blocks/sharing-buttons/view.js?ver=333b4824017f8498de3c" id="jetpack-sharing-buttons-view-script-js" defer data-wp-strategy="defer"></script>
@@ -1183,7 +1183,7 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 			</p>
 			
 
-			<ul style="font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.588), 1.25rem);" class="wp-block-latest-posts__list has-link-color wp-elements-0cbb514e648859f84061a292c35d85cd wp-block-latest-posts has-text-color has-grey-60-color has-merriweather-font-family"><li><a class="wp-block-latest-posts__post-title" href="https://www.ms.now/news/half-of-u-s-voters-say-theyd-vote-for-the-democratic-candidate-over-the-republican-candidate-if-elections-for-congress-were-held-today">Half of U.S. voters say they’d vote for the Democratic candidate over the Republican candidate if elections for Congress were held today</a></li>
+			<ul style="font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.588), 1.25rem);" class="wp-block-latest-posts__list has-link-color wp-elements-0cbb514e648859f84061a292c35d85cd wp-block-latest-posts has-text-color has-grey-60-color has-merriweather-font-family"><li><a class="wp-block-latest-posts__post-title" href="https://www.ms.now/rachel-maddow-show/maddowblog/trump-tax-returns-irs-settlement-fund">Trump’s ‘slush fund’ deal came with some newly disclosed fine print about his tax returns</a></li>
 </ul>
 		</div>
 		
@@ -1337,7 +1337,9 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 		<div class="jetpack-instant-search__widget-area" style="display: none">
 							<div id="jetpack-search-filters-1" class="widget jetpack-filters widget_search">			<div id="jetpack-search-filters-1-wrapper" class="jetpack-instant-search-wrapper">
 		</div></div>					</div>
-		<script id="wp-block-template-skip-link-js-after">
+		<script src="https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/_inc/blocks/sharing-button/view.js?minify=false&amp;ver=15.7" id="jetpack-block-sharing-button-js" defer data-wp-strategy="defer"></script>
+<script src="https://www.ms.now/wp-includes/js/dist/html-entities.min.js?ver=e8b78b18a162491d5e5f" id="wp-html-entities-js"></script>
+<script id="wp-block-template-skip-link-js-after">
 	( function() {
 		var skipLinkTarget = document.querySelector( 'main' ),
 			sibling,
@@ -1380,8 +1382,6 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 	
 //# sourceURL=wp-block-template-skip-link-js-after
 </script>
-<script src="https://www.ms.now/wp-content/mu-plugins/jetpack-15.7/_inc/blocks/sharing-button/view.js?minify=false&amp;ver=15.7" id="jetpack-block-sharing-button-js" defer data-wp-strategy="defer"></script>
-<script src="https://www.ms.now/wp-includes/js/dist/html-entities.min.js?ver=e8b78b18a162491d5e5f" id="wp-html-entities-js"></script>
 <script id="msnow-homepage-refresh-js-js-extra">
 var MSNOW_HOMEPAGE_REFRESH = {"seconds":"240"};
 //# sourceURL=msnow-homepage-refresh-js-js-extra

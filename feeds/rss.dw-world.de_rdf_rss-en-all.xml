@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-20T18:40:51Z</dc:date>
+  <dc:date>2026-05-20T20:59:19Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/israel-s-treatment-of-aid-flotilla-activists-sparks-global-outrage/a-77234756?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/central-africa-did-us-aid-cuts-worsen-ebola-outbreak/a-77233437?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-indicts-former-cuban-president-raul-castro/a-77233317?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-us-ebola-patient-s-family-to-join-him/live-77225377?maca=en-rss-en-all-1573-rdf"/>
@@ -84,7 +85,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/sport-helping-displaced-lebanese-living-in-stadium-to-cope/a-77080170?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-four-junior-ministers-quit/a-77129695?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained/a-77122959?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/architecture-of-remembrance-and-hope-daniel-libeskind-at-80/a-19251296?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hantavirus-how-it-differs-from-covid/a-77122374?maca=en-rss-en-all-1573-rdf"/>
@@ -157,6 +157,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/israel-s-treatment-of-aid-flotilla-activists-sparks-global-outrage/a-77234756?maca=en-rss-en-all-1573-rdf">
+  <title>Israel&apos;s treatment of aid flotilla activists sparks global outrage</title>
+  <link>https://www.dw.com/en/israel-s-treatment-of-aid-flotilla-activists-sparks-global-outrage/a-77234756?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Israeli far-right minister released a video in which he taunted the detained Gaza aid flotilla activists, sparking widespread criticism both in Israel and around the world.</description>
+  <dc:date>2026-05-20T18:52:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77234756</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/central-africa-did-us-aid-cuts-worsen-ebola-outbreak/a-77233437?maca=en-rss-en-all-1573-rdf">
   <title>Central Africa: Did US aid cuts worsen Ebola outbreak?</title>
   <link>https://www.dw.com/en/central-africa-did-us-aid-cuts-worsen-ebola-outbreak/a-77233437?maca=en-rss-en-all-1573-rdf</link>
@@ -331,7 +340,7 @@
  <item rdf:about="https://www.dw.com/en/russian-president-vladimir-putin-in-beijing-for-talks-with-chinese-leader-xi-jinping/live-77220110?maca=en-rss-en-all-1573-rdf">
   <title>Russian President Vladimir Putin in Beijing for talks with Chinese leader Xi Jinping</title>
   <link>https://www.dw.com/en/russian-president-vladimir-putin-in-beijing-for-talks-with-chinese-leader-xi-jinping/live-77220110?maca=en-rss-en-all-1573-rdf</link>
-  <description>Presidents Xi Jinping and Vladimir Putin each praised their countries&apos; bilateral relations during the Russian leader&apos;s visit to Beijing. Follow DW for more.</description>
+  <description>Presidents Xi Jinping and Vladimir Putin each praised their countries&apos; bilateral relations during the Russian leader&apos;s visit to Beijing.</description>
   <dc:date>2026-05-20T05:12:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -813,15 +822,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77114886</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-rdf">
-  <title>What now for the role of high representative in Bosnia?</title>
-  <link>https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-rdf</link>
-  <description>Christian Schmidt&apos;s departure as high representative in Bosnia and Herzegovina doesn&apos;t look like a routine diplomatic handover. It seems to indicate that international powers want something different from the role.</description>
-  <dc:date>2026-05-12T08:13:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77128190</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained/a-77122959?maca=en-rss-en-all-1573-rdf">
   <title>Hantavirus: How is the outbreak being contained?</title>

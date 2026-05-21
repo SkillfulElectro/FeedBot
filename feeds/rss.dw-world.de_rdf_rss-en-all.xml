@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-21T20:20:33Z</dc:date>
+  <dc:date>2026-05-21T21:56:39Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-to-send-5-000-additional-troops-to-poland-trump/a-77255103?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war/a-77213872?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/will-spacex-s-ipo-fund-life-on-mars-and-a-trillionaire/a-77236838?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/is-the-us-deepening-its-military-involvement-in-nigeria/a-77236534?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-2026-world-cup-squad-announcement-neuer-returns/a-77212854?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/extreme-climate-scenario-fades-but-warming-continues/a-77238401?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/montenegro-at-20-eu-ambitions-and-serbian-ties/a-77233006?maca=en-rss-en-all-1573-rdf"/>
@@ -160,6 +160,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/us-to-send-5-000-additional-troops-to-poland-trump/a-77255103?maca=en-rss-en-all-1573-rdf">
+  <title>US to send 5,000 additional troops to Poland – Trump</title>
+  <link>https://www.dw.com/en/us-to-send-5-000-additional-troops-to-poland-trump/a-77255103?maca=en-rss-en-all-1573-rdf</link>
+  <description>In comments which appear to contradict recent Pentagon announcements, US President Donald Trump says 5,000 additional American troops are to be deployed to NATO ally Poland.</description>
+  <dc:date>2026-05-21T21:46:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77255103</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-all-1573-rdf">
   <title>France: Part of Eiffel Tower sold at auction for €450,000</title>
   <link>https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-all-1573-rdf</link>
@@ -330,15 +339,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77236534</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-all-1573-rdf">
-  <title>French court finds Airbus, Air France guilty in 2009 crash</title>
-  <link>https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-all-1573-rdf</link>
-  <description>A Paris appeals court has found Airbus and Air ‌France ⁠guilty ⁠of corporate manslaughter over a 2009 air crash. The disaster in the Atlantic Ocean claimed the lives of all on board Air France Flight 447.</description>
-  <dc:date>2026-05-21T12:06:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77246335</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-2026-world-cup-squad-announcement-neuer-returns/a-77212854?maca=en-rss-en-all-1573-rdf">
   <title>Germany 2026 World Cup squad announcement: Neuer returns</title>

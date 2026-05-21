@@ -7,7 +7,7 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-20T22:40:38Z</dc:date>
+  <dc:date>2026-05-21T00:09:29Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
@@ -144,10 +144,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/russia-to-block-kazakh-oil-flows-to-germany-via-key-pipeline/a-76895743?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-iran-war-trigger-bigger-trade-crisis-than-covid/a-76804278?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-jet-fuel-crisis-deepens-as-lufthansa-cuts-flights/a-76889141?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/mars-nasa-s-curiosity-rover-finds-new-organic-matter-in-gale-crater/a-76880842?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/apple-switches-ceo-what-it-means-for-the-tech-giant/a-76875625?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/can-data-centers-be-green/a-76873187?maca=en-rss-en-all-1573-rdf"/>
    </rdf:Seq>
   </items>
  </channel>
@@ -1353,41 +1349,5 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76889141</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-all-1573-rdf">
-  <title>How grievance turns to violence in a mass shooter&apos;s mind</title>
-  <link>https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-all-1573-rdf</link>
-  <description>Attacks like last week&apos;s school shooting in Turkey can seem to come out of nowhere, but they rarely do. Instead, a buildup of grievance and fixation often precedes the the moment violent thoughts become violent acts.</description>
-  <dc:date>2026-04-21T16:17:00Z</dc:date>
-  <dc:subject>Science</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76882329</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/mars-nasa-s-curiosity-rover-finds-new-organic-matter-in-gale-crater/a-76880842?maca=en-rss-en-all-1573-rdf">
-  <title>Mars: NASA&apos;s Curiosity rover finds new organic matter in Gale Crater</title>
-  <link>https://www.dw.com/en/mars-nasa-s-curiosity-rover-finds-new-organic-matter-in-gale-crater/a-76880842?maca=en-rss-en-all-1573-rdf</link>
-  <description>NASA&apos;s Curiosity rover has identified more organic compounds as scientists investigate any potential ancient life signs on Mars. It was exploring the massive Gale Crater also believed to be a now-dry lake.</description>
-  <dc:date>2026-04-21T13:55:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76880842</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/apple-switches-ceo-what-it-means-for-the-tech-giant/a-76875625?maca=en-rss-en-all-1573-rdf">
-  <title>Apple switches CEO: What it means for the tech giant</title>
-  <link>https://www.dw.com/en/apple-switches-ceo-what-it-means-for-the-tech-giant/a-76875625?maca=en-rss-en-all-1573-rdf</link>
-  <description>Apple&apos;s top hardware engineer John Ternus will lead the $4 trillion iPhone maker, as Tim Cook steps back. Will Apple chase rivals for the smartest intelligence, or deliver the best personal AI experience?</description>
-  <dc:date>2026-04-21T11:17:00Z</dc:date>
-  <dc:subject>Business</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76875625</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/can-data-centers-be-green/a-76873187?maca=en-rss-en-all-1573-rdf">
-  <title>Can data centers be green?</title>
-  <link>https://www.dw.com/en/can-data-centers-be-green/a-76873187?maca=en-rss-en-all-1573-rdf</link>
-  <description>Renewable energy is increasingly being used to supply power-hungry data centers. As the sector swells, much of the electricity demand is being met by polluting fossil fuels.</description>
-  <dc:date>2026-04-21T09:28:00Z</dc:date>
-  <dc:subject>Environment</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76873187</dwsyn:contentID>
  </item>
 </rdf:RDF>

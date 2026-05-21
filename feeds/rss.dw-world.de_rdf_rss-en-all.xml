@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-21T00:09:29Z</dc:date>
+  <dc:date>2026-05-21T04:53:37Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/colombia-presidential-race-overshadowed-by-rising-violence/a-77236018?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/elon-musk-s-spacex-files-to-go-public-in-what-could-be-historic-ipo/a-77235739?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/israel-s-treatment-of-aid-flotilla-activists-sparks-global-outrage/a-77234756?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/central-africa-did-us-aid-cuts-worsen-ebola-outbreak/a-77233437?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-indicts-former-cuban-president-raul-castro/a-77233317?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-meta-wants-to-profile-13-year-olds-on-insta-facebook/a-77099295?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-is-failing-to-cut-pesticide-use/a-76961584?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/enhanced-games-pushing-human-potential-or-lethal-circus/a-77201096?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/millions-follow-india-s-viral-cockroach-movement/live-77223897?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russian-president-vladimir-putin-in-beijing-for-talks-with-chinese-leader-xi-jinping/live-77220110?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/hungary-s-new-prime-minister-magyar-seeks-to-fix-poland-ties/a-77215714?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pioneer-of-pop-music-cher-turns-80/a-77202087?maca=en-rss-en-all-1573-rdf"/>
@@ -48,8 +49,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/german-singer-heino-pushes-back-against-the-far-right-afd/a-77173665?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-and-japan-test-hydrogen-future-with-bmw-toyota-cars/a-77182456?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-stakes-claim-in-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/could-romania-and-moldova-reunite/a-77181648?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-housing-crisis-hits-immigrants-hardest/a-77171138?maca=en-rss-en-all-1573-rdf"/>
@@ -153,6 +154,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/colombia-presidential-race-overshadowed-by-rising-violence/a-77236018?maca=en-rss-en-all-1573-rdf">
+  <title>Colombia: Presidential race overshadowed by rising violence</title>
+  <link>https://www.dw.com/en/colombia-presidential-race-overshadowed-by-rising-violence/a-77236018?maca=en-rss-en-all-1573-rdf</link>
+  <description>With bombings, assassinations and ceasefire announcements from armed groups, Colombia&apos;s presidential candidates are sharply divided over how to confront the worsening conflict.</description>
+  <dc:date>2026-05-21T04:50:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77236018</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/elon-musk-s-spacex-files-to-go-public-in-what-could-be-historic-ipo/a-77235739?maca=en-rss-en-all-1573-rdf">
+  <title>Elon Musk&apos;s SpaceX files to go public, in what could be historic IPO</title>
+  <link>https://www.dw.com/en/elon-musk-s-spacex-files-to-go-public-in-what-could-be-historic-ipo/a-77235739?maca=en-rss-en-all-1573-rdf</link>
+  <description>The rocket giant could seek to raise $75 billion in the IPO, in what could be the biggest-ever market debut. Musk, set to become SpaceX&apos;s CEO, CTO, and Chairman of the Board, would hold majority voting power.</description>
+  <dc:date>2026-05-21T01:19:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77235739</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/israel-s-treatment-of-aid-flotilla-activists-sparks-global-outrage/a-77234756?maca=en-rss-en-all-1573-rdf">
   <title>Israel&apos;s treatment of aid flotilla activists sparks global outrage</title>
   <link>https://www.dw.com/en/israel-s-treatment-of-aid-flotilla-activists-sparks-global-outrage/a-77234756?maca=en-rss-en-all-1573-rdf</link>
@@ -183,7 +202,7 @@
  <item rdf:about="https://www.dw.com/en/germany-freiburg-loses-europa-league-final-to-aston-villa/live-77225377?maca=en-rss-en-all-1573-rdf">
   <title>Germany: Freiburg loses Europa League final to Aston Villa</title>
   <link>https://www.dw.com/en/germany-freiburg-loses-europa-league-final-to-aston-villa/live-77225377?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Bundesliga club hoped on winning its first ever title, but lost to a stronger English side. Meanwhile, an American doctor infected with the Ebola virus has been flown to Berlin for specialist treatment. Follow DW.</description>
+  <description>The Bundesliga club hoped on winning its first ever title, but lost to a stronger English side. Meanwhile, an American doctor infected with the Ebola virus has been flown to Berlin for specialist treatment.</description>
   <dc:date>2026-05-20T15:49:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -323,15 +342,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77201096</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/millions-follow-india-s-viral-cockroach-movement/live-77223897?maca=en-rss-en-all-1573-rdf">
-  <title>Millions follow India&apos;s viral &apos;cockroach&apos; movement</title>
-  <link>https://www.dw.com/en/millions-follow-india-s-viral-cockroach-movement/live-77223897?maca=en-rss-en-all-1573-rdf</link>
-  <description>What started as an internet joke is fast becoming young India&apos;s newest symbol of resilience, survival and collective frustration. Meanwhile, PM Modi has reached Italy for the last leg of his tour.</description>
-  <dc:date>2026-05-20T07:06:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77223897</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/russian-president-vladimir-putin-in-beijing-for-talks-with-chinese-leader-xi-jinping/live-77220110?maca=en-rss-en-all-1573-rdf">
   <title>Russian President Vladimir Putin in Beijing for talks with Chinese leader Xi Jinping</title>
@@ -486,15 +496,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77182456</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf">
-  <title>Dead humpback whale off Denmark is &apos;Timmy&apos;</title>
-  <link>https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf</link>
-  <description>Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. It comes two weeks after a contentious rescue operation.</description>
-  <dc:date>2026-05-17T07:28:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77184917</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: UNICEF says child well-being ranking &apos;alarming&apos;</title>
   <link>https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-rdf</link>
@@ -503,6 +504,15 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77178633</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf">
+  <title>Dead humpback whale off Denmark is &apos;Timmy&apos;</title>
+  <link>https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-rdf</link>
+  <description>Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany&apos;s Baltic coast. It comes two weeks after a contentious rescue operation.</description>
+  <dc:date>2026-05-17T07:28:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77184917</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-stakes-claim-in-new-space-race/a-77177359?maca=en-rss-en-all-1573-rdf">
   <title>Germany stakes claim in new space race</title>

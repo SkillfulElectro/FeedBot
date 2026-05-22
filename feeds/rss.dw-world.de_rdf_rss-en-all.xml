@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-22T15:35:31Z</dc:date>
+  <dc:date>2026-05-22T17:55:10Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-parliament-approves-reforms-giving-pharmacies-more-autonomy-on-vaccinations-prescriptions-tests/live-77264680?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/what-s-behind-bolivia-s-ongoing-protests/a-77254642?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/honduras-gunmen-open-fire-in-2-deadly-armed-attacks/a-77255909?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-to-send-5-000-additional-troops-to-poland-trump/a-77255103?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-germany-s-aviation-tax-cut-lower-ticket-prices/a-75022175?maca=en-rss-en-all-1573-rdf"/>
@@ -162,6 +162,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf">
+  <title>What is Pentecost?</title>
+  <link>https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf</link>
+  <description>People new to Germany are often surprised by the number of public holidays in the spring. Pentecost is one of them, but its significance is not well known.</description>
+  <dc:date>2026-05-22T15:56:00Z</dc:date>
+  <dc:subject>Culture</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77213765</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf">
+  <title>US or Iran: Who will win the Hormuz endurance game?</title>
+  <link>https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf</link>
+  <description>Tehran is betting that its sanctions‑hardened economy can outlast the Strait of Hormuz crisis. Washington, meanwhile, is contending with elevated oil prices, renewed inflation pressure and rising global recession risks.</description>
+  <dc:date>2026-05-22T15:38:00Z</dc:date>
+  <dc:subject>Business</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77211690</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: &apos;Slight progress&apos; in peace talks, Rubio says</title>
   <link>https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf</link>
@@ -255,7 +273,7 @@
  <item rdf:about="https://www.dw.com/en/nato-chief-welcomes-trump-decision-to-send-troops-to-poland/live-77258714?maca=en-rss-en-all-1573-rdf">
   <title>NATO chief welcomes Trump decision to send troops to Poland</title>
   <link>https://www.dw.com/en/nato-chief-welcomes-trump-decision-to-send-troops-to-poland/live-77258714?maca=en-rss-en-all-1573-rdf</link>
-  <description>NATO foreign ministers are meeting in Sweden after Washington apparently reversed its plans to reduce its troop deployments to Poland. Meanwhile, Germany says defense spending will cross 4% of GDP. Follow DW live</description>
+  <description>NATO foreign ministers are meeting in Sweden after Washington apparently reversed its plans to reduce its troop deployments to Poland. Meanwhile, Germany says defense spending will cross 4% of GDP.</description>
   <dc:date>2026-05-22T08:59:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -323,24 +341,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77255103</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-all-1573-rdf">
-  <title>France: Part of Eiffel Tower sold at auction for €450,000</title>
-  <link>https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-€450-000/a-77253774?maca=en-rss-en-all-1573-rdf</link>
-  <description>A French collector bought a 14-step staircase section of the Eiffel Tower at an auction in Paris.</description>
-  <dc:date>2026-05-21T19:02:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77253774</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393?maca=en-rss-en-all-1573-rdf">
-  <title>Turkish court ousts opposition leader in boost to Erdogan</title>
-  <link>https://www.dw.com/en/turkish-court-ousts-opposition-leader-in-boost-to-erdogan/a-77253393?maca=en-rss-en-all-1573-rdf</link>
-  <description>The 2023 party congress where Ozgur Ozel was elected leader of Turkey&apos;s opposition CHP has been declared null and void. The ruling is a legal victory for President Erdogan, but Ozel has vowed not to give in.</description>
-  <dc:date>2026-05-21T18:40:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77253393</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-all-1573-rdf">
   <title>Ebola patient in Berlin: Why Germany&apos;s helping</title>

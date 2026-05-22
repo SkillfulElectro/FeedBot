@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-22T19:50:57Z</dc:date>
+  <dc:date>2026-05-22T21:14:46Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trump-s-intelligence-chief/a-77269234?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf"/>
@@ -21,7 +22,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/the-dying-dream-of-the-dead-to-be-at-peace-with-life/a-77197682?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-experts-warn-of-scale-and-spread-of-deadly-virus/a-77248583?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-happened-to-jailed-belarus-dissident-raman-pratasevich/a-77250853?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/nato-chief-welcomes-trump-decision-to-send-troops-to-poland/live-77258714?maca=en-rss-en-all-1573-rdf"/>
@@ -162,6 +162,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-rdf">
+  <title>New alliances emerge in Middle East — which one will &apos;win&apos;?</title>
+  <link>https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-rdf</link>
+  <description>The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.</description>
+  <dc:date>2026-05-22T20:15:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77246663</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trump-s-intelligence-chief/a-77269234?maca=en-rss-en-all-1573-rdf">
   <title>US: Tulsi Gabbard resigns as Trump&apos;s intelligence chief</title>
   <link>https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trump-s-intelligence-chief/a-77269234?maca=en-rss-en-all-1573-rdf</link>
@@ -251,15 +260,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77261939</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-rdf">
-  <title>New alliances emerge in Middle East — which one will &apos;win&apos;?</title>
-  <link>https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-rdf</link>
-  <description>The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift in the Gulf, as approaches to the Iran war and the region diverge.</description>
-  <dc:date>2026-05-22T11:00:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77246663</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/what-happened-to-jailed-belarus-dissident-raman-pratasevich/a-77250853?maca=en-rss-en-all-1573-rdf">
   <title>What happened to jailed Belarus dissident Raman Pratasevich?</title>

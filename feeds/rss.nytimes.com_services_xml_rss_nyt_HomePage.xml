@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?lh_bust=sZhUEqHyLj" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 22 May 2026 05:45:17 +0000</lastBuildDate>
-    <pubDate>Fri, 22 May 2026 05:00:04 +0000</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 09:30:34 +0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 09:11:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -108,9 +108,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21int-rubio-tolls-gzmt/21int-rubio-tolls-gzmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21int-rubio-tolls-gzmt/21int-rubio-tolls-gzmt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Ships and tankers in the Strait of Hormuz last month.</media:description>
+    </item>
+    <item>
+      <title>Oil Prices Jump on Impasse Over Reopening the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html" rel="standout"></atom:link>
+      <description>Nearly three months since the fighting began, disagreements remain over the fate of Iran’s uranium stockpile and transit fees for the Strait of Hormuz.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 22 May 2026 09:11:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
     </item>
     <item>
       <title>Thousands of Miles From the Iran War, Asia’s Currencies Feel the Strain</title>
@@ -162,25 +177,22 @@
       <pubDate>Fri, 22 May 2026 02:11:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Islamic Center of San Diego Shooting (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Diego County (Calif)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21nat-san-diego-funeral-vmbh/21nat-san-diego-funeral-vmbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21nat-san-diego-funeral-vmbh/21nat-san-diego-funeral-vmbh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>John Francis Peters for The New York Times</media:credit>
       <media:description>Mourners gathered for a funeral prayer for three men who died on Monday while confronting two shooters at the Islamic Center of San Diego.</media:description>
     </item>
     <item>
-      <title>Outside Colbert’s Final Show, Fans From Near and Far Line Up for a Farewell</title>
-      <link>https://www.nytimes.com/2026/05/21/us/stephen-colbert-last-show-farewell.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/us/stephen-colbert-last-show-farewell.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/21/us/stephen-colbert-last-show-farewell.html" rel="standout"></atom:link>
-      <description>Hundreds of people, including a pope, staked out the Ed Sullivan Theater in Manhattan, hoping to get in, or just get a glimpse.</description>
-      <dc:creator>Rylee Kirk, Alexandra E. Petri and Graham Dickie</dc:creator>
-      <pubDate>Thu, 21 May 2026 23:42:32 +0000</pubDate>
+      <title>Stephen Colbert’s Last ‘Late Show’ Features Famous Friends and Paul McCartney</title>
+      <link>https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html" rel="standout"></atom:link>
+      <description>Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of “The Late Show.”</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Fri, 22 May 2026 07:43:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS News</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colbert, Stephen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21xp-colbertscene-top-vpfh/21xp-colbertscene-top-vpfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>The crowd outside the Ed Sullivan Theater on Thursday afternoon. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Show with Stephen Colbert (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
     </item>
     <item>
       <title>Cuba Celebrates Raúl Castro After the U.S. Accuses Him of Murder</title>
@@ -382,41 +394,38 @@
       <media:description>“Story tenders” were on hand to offer personalized recommendations to those seeking “twisty thrillers” or “enemies-to-lovers” tales.</media:description>
     </item>
     <item>
-      <title>Pope Leo’s A.I. Encyclical Signals a New Course for the Church</title>
-      <link>https://www.nytimes.com/2026/05/22/opinion/pope-leo-encyclical-ai-social-doctrine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/opinion/pope-leo-encyclical-ai-social-doctrine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/22/opinion/pope-leo-encyclical-ai-social-doctrine.html" rel="standout"></atom:link>
-      <description>The document will address A.I. and its impact on humanity. He’s also staying the course on Catholic social teaching.</description>
-      <dc:creator>David Gibson</dc:creator>
-      <pubDate>Fri, 22 May 2026 05:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Paul II</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIII</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <title>The Agony Around the Democrats’ Mysterious, Ridiculous Autopsy</title>
+      <link>https://www.nytimes.com/2026/05/22/opinion/dnc-autopsy-ken-martin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/opinion/dnc-autopsy-ken-martin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/opinion/dnc-autopsy-ken-martin.html" rel="standout"></atom:link>
+      <description>After this fiasco, Ken Martin, the chair of the D.N.C., should be replaced.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Fri, 22 May 2026 09:03:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic National Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Ken (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22goldberg-hjbw/22goldberg-hjbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
-      <title>Ebola Is a Terrible Disease. I Saw It Firsthand.</title>
-      <link>https://www.nytimes.com/2026/05/21/opinion/ebola-outbreak-virus-spread-usaid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/opinion/ebola-outbreak-virus-spread-usaid.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/21/opinion/ebola-outbreak-virus-spread-usaid.html" rel="standout"></atom:link>
-      <description>The Trump administration cut the programs meant to coordinate an Ebola response.</description>
-      <dc:creator>Craig Spencer</dc:creator>
-      <pubDate>Thu, 21 May 2026 21:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21spencer-zkqf/21spencer-zkqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Moses Sawasawa/Associated Press</media:credit>
+      <title>The One Big Reason YouTube Will Never Replace Stephen Colbert</title>
+      <link>https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html" rel="standout"></atom:link>
+      <description>Don’t count out the moguls. </description>
+      <dc:creator>Michael Hirschorn</dc:creator>
+      <pubDate>Fri, 22 May 2026 09:02:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Web-Original Programming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colbert, Stephen</category>
     </item>
     <item>
       <title>Trump Says He Will ‘Try and Make’ Son Don Jr.’s Wedding, but Timing ‘Not Good’</title>
@@ -436,6 +445,26 @@
       <media:description>President Trump, right, with his son Donald Trump Jr. earlier this month. The younger Mr. Trump’s wedding is this weekend.</media:description>
     </item>
     <item>
+      <title>Stowaway Fox Gets Clean Bill of Health and a Name: Basil (Like ‘Dazzle’)</title>
+      <link>https://www.nytimes.com/2026/05/22/nyregion/stowaway-fox-bronx-zoo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/nyregion/stowaway-fox-bronx-zoo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/22/nyregion/stowaway-fox-bronx-zoo.html" rel="standout"></atom:link>
+      <description>He made his way to New York on a ship from England and wound up at the Bronx Zoo needing treatment for a serious infection.</description>
+      <dc:creator>Ed Shanahan</dc:creator>
+      <pubDate>Fri, 22 May 2026 08:54:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bronx Zoo Wildlife Conservation Park</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stowaways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/nyregion/22met-red-fox/22met-red-fox-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bronx Zoo</media:credit>
+      <media:description>A red fox that arrived in New York after hiding out on a ship from England spent the past several months in quarantine.</media:description>
+    </item>
+    <item>
       <title>Elim Chan Becomes First Female Music Director of San Francisco Symphony</title>
       <link>https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/arts/music/san-francisco-symphony-elim-chan-music-director.html</guid>
@@ -452,20 +481,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21cul-sf-symphony-bckh/21cul-sf-symphony-bckh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lanna Apisukh for The New York Times</media:credit>
       <media:description>“When it happened, I was like, ‘Oh my God — it’s time,’” the conductor Elim Chan said of her appointment in San Francisco. “It is groundbreaking. It’s another ceiling broken.”</media:description>
-    </item>
-    <item>
-      <title>A Very Lonely Caterpillar, Possibly the Last of Its Kind, Has Died</title>
-      <link>https://www.nytimes.com/2026/05/21/climate/a-very-lonely-caterpillar-the-sacramento-mountains-checkerspot-has-died.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/21/climate/a-very-lonely-caterpillar-the-sacramento-mountains-checkerspot-has-died.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/21/climate/a-very-lonely-caterpillar-the-sacramento-mountains-checkerspot-has-died.html" rel="standout"></atom:link>
-      <description>The Sacramento Mountains checkerspot butterfly hasn’t been seen in the wild since 2022. The caterpillar was the last individual in human care.</description>
-      <dc:creator>Catrin Einhorn</dc:creator>
-      <pubDate>Thu, 21 May 2026 18:37:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21CLI-LONELY-CATERPILLAR-stillpromo-kfcw/21CLI-LONELY-CATERPILLAR-stillpromo-kfcw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Diana Cervantes for The New York Times</media:credit>
     </item>
     <item>
       <title>Alberta Separation: What to Know Ahead of Oct. 19 Vote on Staying in Canada</title>

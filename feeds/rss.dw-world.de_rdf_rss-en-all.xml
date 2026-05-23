@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-23T09:21:51Z</dc:date>
+  <dc:date>2026-05-23T10:53:59Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-germany-marks-constitution-day/live-77272115?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-marco-rubio-visits-to-repair-ties-boost-quad/live-77271153?maca=en-rss-en-all-1573-rdf"/>
@@ -25,8 +27,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trump-s-intelligence-chief/a-77269234?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-bourbon-bets-big-on-india-s-growing-market/a-77265868?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-dying-dream-of-the-dead-to-be-at-peace-with-life/a-77197682?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-experts-warn-of-scale-and-spread-of-deadly-virus/a-77248583?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/germany-news-germany-marks-constitution-day/live-77272115?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Germany marks Constitution Day</title>
+  <link>https://www.dw.com/en/germany-news-germany-marks-constitution-day/live-77272115?maca=en-rss-en-all-1573-rdf</link>
+  <description>Germany is commemorating the day its Basic Law came into effect 77 years ago. And a record number of German passports was issued in 2025, a media report says. DW has more.</description>
+  <dc:date>2026-05-23T10:08:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77272115</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf">
+  <title>South Africa xenophobia response under fire</title>
+  <link>https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf</link>
+  <description>South Africa condemns xenophobic violence when it erupts, but critics say prevention is weak, arrests are limited and political rhetoric sometimes fuels tensions instead of easing them.</description>
+  <dc:date>2026-05-23T09:41:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77265909</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf">
   <title>Germany: Record numbers take German passport in 2025</title>
   <link>https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf</link>
@@ -284,24 +302,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77213765</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: &apos;Slight progress&apos; in peace talks, Rubio says</title>
-  <link>https://www.dw.com/en/iran-war-slight-progress-in-peace-talks-rubio-says/live-77258282?maca=en-rss-en-all-1573-rdf</link>
-  <description>US Secretary of State Rubio said there was &quot;a little bit of movement&quot; in negotiations to end the Iran war. Meanwhile, four European nations called on Israel to stop the expansion of West Bank settlements.</description>
-  <dc:date>2026-05-22T15:10:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77258282</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf">
-  <title>South Africa xenophobia response under fire</title>
-  <link>https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-rdf</link>
-  <description>South Africa condemns xenophobic violence when it erupts, but critics say prevention is weak, arrests are limited and political rhetoric sometimes fuels tensions instead of easing them.</description>
-  <dc:date>2026-05-22T14:28:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77265909</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/us-bourbon-bets-big-on-india-s-growing-market/a-77265868?maca=en-rss-en-all-1573-rdf">
   <title>US bourbon bets big on India&apos;s growing market</title>

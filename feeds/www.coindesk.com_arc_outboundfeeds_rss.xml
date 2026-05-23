@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 23 May 2026 13:10:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 15:23:59 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,23 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally]]></title>
+      <link>https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e7f712e4315b851a9891037df6c9d2989d66a087-1378x772.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="/video/why-michael-van-de-poppe-sees-100-for-hype" type="video/*" medium="video"/>
+      <guid isPermaLink="false">5ac274e0-cbc8-4ec0-a5c1-7250d937ea6b</guid>
+      <pubDate>Sat, 23 May 2026 14:19:18 +0000</pubDate>
+      <description><![CDATA[Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.]]></description>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Media Network Interview]]></category>
+      <category domain="tag"><![CDATA[Hyperliquid]]></category>
+      <category domain="tag"><![CDATA[Altcoins]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Clarity Act could spark a boom in crypto ‘yield-as-a-service’]]></title>
       <link>https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service</link>
@@ -381,23 +398,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/34139f60560a22206cdf54a59b67c582f710189a-4856x3216.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">011544f1-4c8a-4b13-ad5a-9cd287ff8688</guid>
-      <pubDate>Fri, 22 May 2026 05:14:46 +0000</pubDate>
-      <description><![CDATA[Polymarket has gone dark in India and as per local media reports, Kalshi could be next. ]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Prediction Markets]]></category>
-      <category domain="tag"><![CDATA[Polymarket]]></category>
-      <category domain="tag"><![CDATA[Kalshi]]></category>
-      <category domain="tag"><![CDATA[India]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

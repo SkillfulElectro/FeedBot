@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 23 May 2026 20:06:46 +0000</lastBuildDate>
-    <pubDate>Sat, 23 May 2026 19:58:26 +0000</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 21:24:23 +0000</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 21:06:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html" rel="standout"></atom:link>
       <description>The Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”</description>
       <dc:creator>Catie Edmondson</dc:creator>
-      <pubDate>Sat, 23 May 2026 18:08:41 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 20:45:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
@@ -300,6 +300,18 @@
       <media:description>President Vladimir V. Putin of Russia in Moscow this month.</media:description>
     </item>
     <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/23/world/middleeast/heres-the-latest.html" rel="standout"></atom:link>
+      <description>President Trump provided few details on social media about a memorandum of understanding being negotiated between the United States and Iran.</description>
+      <dc:creator>Aaron Boxerman and Tyler Pager</dc:creator>
+      <pubDate>Sat, 23 May 2026 21:06:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+    </item>
+    <item>
       <title>Iran and U.S. Officials Signal Progress as Cease-Fire Hangs in Balance</title>
       <link>https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html</guid>
@@ -434,15 +446,20 @@
       <atom:link href="https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html" rel="standout"></atom:link>
       <description>Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.</description>
       <dc:creator>Euan Ward, Elian Peltier and Adam Rasgon</dc:creator>
-      <pubDate>Sat, 23 May 2026 01:27:47 +0000</pubDate>
+      <pubDate>Sat, 23 May 2026 01:27:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Munir, Syed Asim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-iran-talks-photo-pczv/22int-iran-talks-photo-pczv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>People walking through an intersection in Tehran beneath a billboard showing the former supreme leader, Ayatollah Ali Khamenei, earlier this month. He was killed in February, and succeeded by his son.</media:description>
@@ -455,16 +472,13 @@
       <description>President Trump said he would send 5,000 troops to Poland, part of a back-and-forth that has left European leaders reeling.</description>
       <dc:creator>Jeanna Smialek</dc:creator>
       <pubDate>Fri, 22 May 2026 21:43:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutte, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-poland-troops-01-jcph/22int-poland-troops-01-jcph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Omar Marques/Getty Images</media:credit>
       <media:description>U.S. Army soldiers before a live-fire exercise in Drawsko Pomorskie, Poland, last year.</media:description>
@@ -519,15 +533,11 @@
       <dc:creator>Saif Hasnat and John Yoon</dc:creator>
       <pubDate>Fri, 22 May 2026 10:12:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Children&#39;s Fund</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dhaka (Bangladesh)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22xp-bangladesh-measles-lhkv/22xp-bangladesh-measles-lhkv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Salahuddin Ahmed/Agence France-Presse — Getty Images</media:credit>
       <media:description>The health authorities in Bangladesh have confirmed more than 8,000 cases of measles in the outbreak.</media:description>
@@ -640,15 +650,16 @@
       <description>The fugitive, Senator Ronald dela Rosa, had sought refuge in the country’s Senate last week, eventually giving government agents the slip.</description>
       <dc:creator>Sui-Lee Wee</dc:creator>
       <pubDate>Fri, 22 May 2026 08:35:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">dela Rosa, Ronald</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vigilantes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manila (Philippines)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Rodrigo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duterte, Sara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-philippines-manhunt-01-bmqv/22int-philippines-manhunt-01-bmqv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eloisa Lopez/Reuters</media:credit>
       <media:description>Senator Ronald “Bato” dela Rosa answering questions at the Philippine Senate on May 13. He fled the building early the following day.</media:description>
@@ -1139,25 +1150,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/20/multimedia/2int-cuba-reax-02-alt-kbjw/2int-cuba-reax-02-alt-kbjw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lisette Poole González for The New York Times</media:credit>
       <media:description>A furniture workshop in Havana carries reminders that the Castro family has been part of Cuba’s ruling elite for more than 65 years.</media:description>
-    </item>
-    <item>
-      <title>Autocracy’s ‘Loyal Losers’</title>
-      <link>https://www.nytimes.com/2026/05/20/world/autocracy-cuba-castro-iran-ahmadinejad.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/20/world/autocracy-cuba-castro-iran-ahmadinejad.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/20/world/autocracy-cuba-castro-iran-ahmadinejad.html" rel="standout"></atom:link>
-      <description>Even the most capable autocrats need help hanging on to power. Mediocre officials are often best for the job, according to new research.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 21 May 2026 05:01:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Raul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadinejad, Mahmoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/multimedia/21int-theworld-loyal-losers-03-pkzq-promo/21int-theworld-loyal-losers-03-pkzq-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Guttenfelder/The New York Times</media:credit>
     </item>
   </channel>
 </rss>

@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-23T20:07:02Z</dc:date>
+  <dc:date>2026-05-23T21:27:39Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cheap-attack-drones-break-through-israel-s-iron-dome/a-77235132?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-tells-green-card-seekers-to-apply-from-abroad/a-77270868?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-dozens-dead-in-coal-mine-blast-state-media/a-77270811?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kevin-warsh-trump-ally-at-the-federal-reserve/a-77248236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-dying-dream-of-the-dead-to-be-at-peace-with-life/a-77197682?maca=en-rss-en-all-1573-rdf"/>
@@ -162,6 +162,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-rdf">
+  <title>Serbia: Police clash with protesters urging early elections</title>
+  <link>https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-rdf</link>
+  <description>Officers fired teargas and stun grenades as tens of thousands rallied against President Aleksandar Vucic&apos;s government. The demonstration went ahead despite the state rail operator canceling trains to and from Belgrade.</description>
+  <dc:date>2026-05-23T20:22:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77274618</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-all-1573-rdf">
   <title>Thousands rally in Madrid to demand Sanchez&apos;s resignation</title>
   <link>https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-all-1573-rdf</link>
@@ -332,15 +341,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77270811</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-rdf">
-  <title>SpaceX launches biggest Starship rocket yet in test flight</title>
-  <link>https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-rdf</link>
-  <description>SpaceX&apos;s 12th Starship test flight took place just two days after Elon Musk announced that he was taking the company public.</description>
-  <dc:date>2026-05-23T01:18:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77270730</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/kevin-warsh-trump-ally-at-the-federal-reserve/a-77248236?maca=en-rss-en-all-1573-rdf">
   <title>Kevin Warsh: Trump ally at the Federal Reserve?</title>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 23 May 2026 10:24:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:10:19 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,25 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Clarity Act could spark a boom in crypto ‘yield-as-a-service’]]></title>
+      <link>https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/822b54f142ab14b2c15954a87529a4bed9d926aa-5107x3405.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">3a5de869-f65c-4d17-a5a8-8d8d3a12001c</guid>
+      <pubDate>Sat, 23 May 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[The bill’s restrictions on yield-bearing crypto products may push the industry away from passive "hold-to-earn" models and toward AI-driven, compliant yield infrastructure, according to STBL Chief Commercial Officer Joe Vollono.]]></description>
+      <dc:creator>Will Canny</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Clarity Act]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="tag"><![CDATA[stablecoin yield]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="tag"><![CDATA[STBL]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks]]></title>
       <link>https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks</link>
@@ -379,21 +398,6 @@
       <category domain="tag"><![CDATA[Polymarket]]></category>
       <category domain="tag"><![CDATA[Kalshi]]></category>
       <category domain="tag"><![CDATA[India]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Satoshi’s 1.1 million bitcoin and millions more can be saved from quantum attack, says expert]]></title>
-      <link>https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d6fe7e9fcbbd5f8330335bf3b990fa1f61a5ebd9-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">bd8b8918-e20c-420d-a56e-d7b610503df7</guid>
-      <pubDate>Thu, 21 May 2026 19:10:03 +0000</pubDate>
-      <description><![CDATA[Researchers at the privacy-centric blockchain startup say their multi-layer quantum defense will feature a soft fork to freeze and protect dormant BTC.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[quantum computing]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

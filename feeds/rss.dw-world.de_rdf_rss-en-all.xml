@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-24T15:42:57Z</dc:date>
+  <dc:date>2026-05-24T17:05:39Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/madrid-protestors-target-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cheap-attack-drones-break-through-israel-s-iron-dome/a-77235132?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/couple-remanded-in-custody-after-boys-found-abandoned-by-road-in-portugal/a-77274217?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/in-iran-internet-access-becomes-a-luxury-for-the-few/a-77231518?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/madrid-protestors-target-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-rdf">
+  <title>Madrid protestors target rising rents and housing shortage</title>
+  <link>https://www.dw.com/en/madrid-protestors-target-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-rdf</link>
+  <description>Housing has long ranked among voters&apos; top concerns in Spain, where demand has risen due to tourism and immigration-driven population growth.</description>
+  <dc:date>2026-05-24T16:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77280884</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf">
+  <title>Turkish police evict ousted CHP leaders from party HQ</title>
+  <link>https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf</link>
+  <description>Police forced their way into the opposition party&apos;s headquarters, ending a standoff between ousted CHP leader Ozgur Ozel and supporters of court-appointed Kemal Kilicdaroglu.</description>
+  <dc:date>2026-05-24T15:46:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77280112</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-rdf">
   <title>Germany plans to address growing use of date-rape drugs</title>
   <link>https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-rdf</link>
@@ -320,24 +338,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77274217</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-all-1573-rdf">
-  <title>US, Iran strike upbeat tone as Hormuz deal takes shape</title>
-  <link>https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-all-1573-rdf</link>
-  <description>US President Donald Trump flagged progress in talks with Iran, Tehran has warned that major gaps still stand in the way of dialing down the conflict.</description>
-  <dc:date>2026-05-23T16:28:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77274080</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/in-iran-internet-access-becomes-a-luxury-for-the-few/a-77231518?maca=en-rss-en-all-1573-rdf">
-  <title>In Iran, internet access becomes a luxury for the few</title>
-  <link>https://www.dw.com/en/in-iran-internet-access-becomes-a-luxury-for-the-few/a-77231518?maca=en-rss-en-all-1573-rdf</link>
-  <description>Despite the ongoing internet blockade in Iran, access to &quot;Internet-Pro&quot; is available to select groups for a fee. Access to information and communication is increasingly becoming a luxury.</description>
-  <dc:date>2026-05-23T16:22:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77231518</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf">
   <title>What is Pentecost?</title>

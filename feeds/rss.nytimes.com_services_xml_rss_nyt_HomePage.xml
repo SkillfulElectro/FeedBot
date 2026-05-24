@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 24 May 2026 15:43:05 +0000</lastBuildDate>
-    <pubDate>Sun, 24 May 2026 15:42:25 +0000</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 17:01:56 +0000</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 16:58:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -89,6 +89,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/world/24int-india-rubio-top-art/24int-india-rubio-top-art-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adnan Abidi/Reuters</media:credit>
       <media:description>Secretary of State Marco Rubio, at a news conference on Sunday in New Delhi, said the relationship between India and the United States “has not lost any momentum.”</media:description>
@@ -111,27 +112,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22sci-psychiatry-critics-stillpromo-wpck/22sci-psychiatry-critics-stillpromo-wpck-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service</title>
-      <link>https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html" rel="standout"></atom:link>
-      <description>A gunman known to the U.S. Secret Service opened fire near the White House and was shot and killed by federal officers. President Trump was in the White House at the time.</description>
-      <dc:creator>Campbell Robertson, Chelsia Rose Marcius and Clarence Williams</dc:creator>
-      <pubDate>Sun, 24 May 2026 11:31:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Best, Nasire (d 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/23/multimedia/23xp-shooting-qjfk/23xp-shooting-qjfk-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Roberto Schmidt/Getty Images</media:credit>
-      <media:description>Gunfire broke out near 17th Street and Pennsylvania Avenue, at the northwestern corner of the White House grounds.</media:description>
     </item>
     <item>
       <title>Trump Endorsement Shakes John Cornyn in Texas Senate Runoff Against Ken Paxton</title>
@@ -185,6 +165,68 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/2026-05-22-congress-absences-index/2026-05-22-congress-absences-index-mediumSquareAt3X-v3.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>UK Institute Is Hunting for Dangers Lurking in AI</title>
+      <link>https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html" rel="standout"></atom:link>
+      <description>The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.</description>
+      <dc:creator>Adam Satariano and Paul Mozur</dc:creator>
+      <pubDate>Sun, 24 May 2026 09:01:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/00biz-ai-safety-1-03-chlm/00biz-ai-safety-1-03-chlm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeremie Souteyrat for The New York Times</media:credit>
+      <media:description>Along Parliament Square in London is the home of the A.I. Security Institute, which employs weapons inspectors, epidemiologists and code breakers to probe the technology’s risks.</media:description>
+    </item>
+    <item>
+      <title>One Job That Is Growing in the A.I. Era? Cybersecurity Experts.</title>
+      <link>https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html" rel="standout"></atom:link>
+      <description>Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Sun, 24 May 2026 09:01:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LinkedIn Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Glassdoor Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/21/business/00cyber-hire/00cyber-hire-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Stolle</media:credit>
+    </item>
+    <item>
+      <title>A.I. Bots Told Scientists How to Make Biological Weapons</title>
+      <link>https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html" rel="standout"></atom:link>
+      <description>Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.</description>
+      <dc:creator>Gabriel J.X. Dance</dc:creator>
+      <pubDate>Mon, 04 May 2026 15:07:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Esvelt, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Relman, David A</category>
     </item>
     <item>
       <title>They Started I.V.F., Then Split. Now Who Gets Custody of the Embryos?</title>
@@ -261,22 +303,26 @@
       <media:credit>Scott Kowalchyk/CBS</media:credit>
     </item>
     <item>
-      <title>At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan</title>
-      <link>https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html" rel="standout"></atom:link>
-      <description>The explosion was so powerful that several nearby buildings were damaged and a resident 15 miles away was jolted awake by the blast. A separatist group claimed responsibility.</description>
-      <dc:creator>Zia ur-Rehman</dc:creator>
-      <pubDate>Sun, 24 May 2026 13:06:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baluchistan (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quetta (Pakistan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharif, Shahbaz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-balochistan-attack-01-hfgq/24int-balochistan-attack-01-hfgq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Banaras Khan/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A Pakistani soldier aiming his weapon after an explosion struck a passenger train in Quetta, Pakistan, on Sunday.</media:description>
+      <title>How a Curious FIFA Deal Gave Fox a Huge Bargain for World Cup Broadcast Rights</title>
+      <link>https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/24/world/europe/fifa-world-cup-fox-broadcast-rights.html" rel="standout"></atom:link>
+      <description>A decision to stave off litigation between Fox and FIFA turned into a bonanza worth hundreds of millions of dollars in discounted World Cup rights to the broadcaster.</description>
+      <dc:creator>Tariq Panja</dc:creator>
+      <pubDate>Sun, 24 May 2026 11:34:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox Broadcasting Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ESPN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2022 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-worldcup-fox-bclp/24int-worldcup-fox-bclp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Buholzer/EPA, via Shutterstock</media:credit>
+      <media:description>FIFA headquarters in Zurich in 2024.</media:description>
     </item>
     <item>
       <title>Kyiv, Ukraine, Hit in Russian Missile Attack</title>
@@ -285,7 +331,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html" rel="standout"></atom:link>
       <description>Buildings rattled in the Ukrainian capital for hours early Sunday. Russia launched an Oreshnik intermediate-range ballistic missile for only the third time in the war.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Sun, 24 May 2026 15:42:25 +0000</pubDate>
+      <pubDate>Sun, 24 May 2026 15:42:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
@@ -295,33 +341,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-ukraine-sub-gwbk/24int-ukraine-sub-gwbk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
       <media:description>The widespread Russian missile attack on Sunday left entire city blocks in Kyiv ablaze. </media:description>
     </item>
     <item>
-      <title>New York’s Rape Laws Leave Out Many Victims Who Drank Willingly</title>
-      <link>https://www.nytimes.com/2026/05/24/nyregion/new-york-rape-laws.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/nyregion/new-york-rape-laws.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/24/nyregion/new-york-rape-laws.html" rel="standout"></atom:link>
-      <description>Prosecutors say accusers who chose to drink or get high have a “very high burden” of proving they were physically helpless and unable to consent. There is a push to change the law.</description>
-      <dc:creator>Maria Cramer and Olivia Bensimon</dc:creator>
-      <pubDate>Sun, 24 May 2026 15:13:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bederow, Mark A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clark, Darcel D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dinowitz, Jeffrey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Heastie, Carl E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Latrice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24met-sex-assault-01-qpmf/24met-sex-assault-01-qpmf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bethany Mollenkof for The New York Times</media:credit>
-      <media:description>Leslie Hunt said she was raped in October 2015 when she went out with a co-worker for drinks. She woke up in a Brooklyn hospital.</media:description>
+      <title>What to Know About the White House Shooting on Memorial Day Weekend</title>
+      <link>https://www.nytimes.com/2026/05/24/us/white-house-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/us/white-house-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/24/us/white-house-shooting.html" rel="standout"></atom:link>
+      <description>Shots were fired near the northwestern corner of the White House complex, while President Trump was inside the building. The Secret Service returned fire, killing the gunman.</description>
+      <dc:creator>Campbell Robertson and Chelsia Rose Marcius</dc:creator>
+      <pubDate>Sun, 24 May 2026 16:18:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Correspondents&#39; Dinner Shooting (April 25, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorial Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Best, Nasire (d 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24nat-wwk-wh-shooter-ctlv/24nat-wwk-wh-shooter-ctlv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greg Kendall-Ball/The New York Times</media:credit>
+      <media:description>Shots were fired at the northwestern corner of the White House grounds.</media:description>
     </item>
   </channel>
 </rss>

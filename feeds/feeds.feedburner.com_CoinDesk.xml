@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 24 May 2026 17:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:35:05 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto and the Fed: State of Crypto ]]></title>
+      <link>https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">2bf94496-3e09-4f5d-b44a-2196b9810b24</guid>
+      <pubDate>Sun, 24 May 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[This past week saw incremental, but potentially important steps.]]></description>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Newsletters]]></category>
+      <category domain="tag"><![CDATA[State of Crypto]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report]]></title>
       <link>https://www.coindesk.com/business/2026/05/22/ledn</link>
@@ -392,20 +407,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">99832b70-94ef-4daf-a73b-35b9ed9ead53</guid>
-      <pubDate>Fri, 22 May 2026 09:39:55 +0000</pubDate>
-      <description><![CDATA[Blockchain investigator ZachXBT has highlighted a suspected security breach involving Polymarket, the world’s largest decentralized prediction market platform.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Polymarket]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

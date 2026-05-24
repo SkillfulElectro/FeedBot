@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-24T10:56:35Z</dc:date>
+  <dc:date>2026-05-24T12:04:51Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-uses-hypersonic-oreshnik-missile-in-kyiv-attack/a-77277443?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/deadly-blast-hits-train-in-pakistan-s-balochistan/a-77278584?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/philippines-20-feared-trapped-after-building-collapse/a-77277732?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/in-iran-internet-access-becomes-a-luxury-for-the-few/a-77231518?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-bans-israel-minister-ben-gvir-after-flotilla-video/a-77273641?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-rdf"/>
@@ -142,7 +143,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/will-eu-bring-in-a-windfall-tax-on-oil-companies/a-76920556?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/football-afghan-women-s-team-recognized-in-blow-to-taliban/a-76979827?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/2026-goethe-medal-meet-the-recipients/a-76982863?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/extreme-weather-and-green-energy-on-the-rise-in-europe/a-76962870?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-entrepreneurs-betting-on-post-maduro-venezuela/a-76968518?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-rdf">
+  <title>Cyprus votes amid resentment over corruption, living costs</title>
+  <link>https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-rdf</link>
+  <description>Cyprus has begun voting in a parliamentary election that could shift the political balance amid public discontent.</description>
+  <dc:date>2026-05-24T11:46:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77279514</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-all-1573-rdf">
+  <title>New Chinese surveillance leaves foreigners nowhere to hide</title>
+  <link>https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Chinese cybersecurity expert has revealed to DW details of China&apos;s new high-tech policing. From ski resort facial recognition to seats on a train, the system can track anyone and compile a &quot;holistic profile.&quot;</description>
+  <dc:date>2026-05-24T11:36:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77246713</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/russia-uses-hypersonic-oreshnik-missile-in-kyiv-attack/a-77277443?maca=en-rss-en-all-1573-rdf">
   <title>Russia uses hypersonic Oreshnik missile in Kyiv attack</title>
   <link>https://www.dw.com/en/russia-uses-hypersonic-oreshnik-missile-in-kyiv-attack/a-77277443?maca=en-rss-en-all-1573-rdf</link>
@@ -329,15 +347,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77213765</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-all-1573-rdf">
-  <title>Thailand revives bill to clear the air of toxic smog</title>
-  <link>https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-all-1573-rdf</link>
-  <description>Seasonal smog is a major public health problem in Thailand. Long-delayed legislation aims to stop air pollution before it starts, but enforcement could present a problem.</description>
-  <dc:date>2026-05-23T11:57:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77239344</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf">
   <title>Germany: Record numbers take German passport in 2025</title>
@@ -1337,15 +1346,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76979827</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/2026-goethe-medal-meet-the-recipients/a-76982863?maca=en-rss-en-all-1573-rdf">
-  <title>2026 Goethe Medal: Meet the recipients</title>
-  <link>https://www.dw.com/en/2026-goethe-medal-meet-the-recipients/a-76982863?maca=en-rss-en-all-1573-rdf</link>
-  <description>Though they work in different fields and countries, what unites them is their focus on a Europe in transition: Arvo Pärt, Anita Raja and Prodromos Tsinikoris have been awarded the 2026 Goethe Medal.</description>
-  <dc:date>2026-04-29T13:17:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>76982863</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/extreme-weather-and-green-energy-on-the-rise-in-europe/a-76962870?maca=en-rss-en-all-1573-rdf">
   <title>Extreme weather and green energy on the rise in Europe</title>

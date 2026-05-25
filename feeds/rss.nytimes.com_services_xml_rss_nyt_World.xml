@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 25 May 2026 15:48:26 +0000</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 15:16:18 +0000</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 17:41:39 +0000</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 17:03:01 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/05/25/world/iran-war-trump" rel="standout"></atom:link>
       <description>President Trump gave conflicting signals over how much progress had been made in the talks. Both the United States and Iran suggested that a breakthrough was not imminent.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 25 May 2026 15:16:18 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 17:01:42 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/-25mideast-promo-0945EST/25mideast-header--glfc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
     </item>
@@ -93,13 +93,36 @@
       <media:credit>Tyler Hicks/The New York Times</media:credit>
     </item>
     <item>
+      <title>Cambodia’s Leader Pardons Top Opposition Politician Kem Sokha</title>
+      <link>https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/25/world/asia/cambodia-pardon-kem-sokha.html" rel="standout"></atom:link>
+      <description>The decision to release Kem Sokha is being seen as a likely attempt to recalibrate frayed ties with Western countries.</description>
+      <dc:creator>Sun Narin and Sui-Lee Wee</dc:creator>
+      <pubDate>Mon, 25 May 2026 16:40:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambodia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kem Sokha</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hun Sen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hun Manet (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambodia National Rescue Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambodian People&#39;s Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/26/multimedia/26int-cambodia-politician-photo-cmhv/26int-cambodia-politician-photo-cmhv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tang Chhin Sothy/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Kem Sokha, the leading opposition leader in Cambodia, arriving for the verdict in his trial in Phnom Penh in 2023.</media:description>
+    </item>
+    <item>
       <title>How Wine, Truffles and Honey Could Help Europe Fight Wildfires</title>
       <link>https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html" rel="standout"></atom:link>
       <description>Countries are learning that the finer things in life sometimes have a serendipitous side benefit.</description>
       <dc:creator>Jeanna Smialek</dc:creator>
-      <pubDate>Mon, 25 May 2026 04:01:17 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 16:12:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
@@ -137,7 +160,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html" rel="standout"></atom:link>
       <description>The deadly virus has spread alarmingly in Congo for months. Only now is the response taking shape.</description>
       <dc:creator>Declan Walsh and Arlette Bashizi</dc:creator>
-      <pubDate>Mon, 25 May 2026 12:24:35 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 16:04:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bunia (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
@@ -145,6 +168,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-ebola-response-vzmj/24int-ebola-response-vzmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Disinfecting the public market on Saturday in Bunia, in the Democratic Republic of Congo’s northeast, as part of the response to the Ebola virus’s resurgence.</media:description>
     </item>
@@ -283,30 +307,6 @@
       <media:description>Iranians waving flags last month at a government-organized demonstration in Tehran, the capital.</media:description>
     </item>
     <item>
-      <title>Fate of War in Lebanon Rests Mostly With Outside Powers</title>
-      <link>https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html" rel="standout"></atom:link>
-      <description>A U.S.-Iran peace deal could calm the conflict in Lebanon between Israel and Hezbollah. But that will depend mainly on what the United States, Iran and Israel decide.</description>
-      <dc:creator>Christina Goldbaum</dc:creator>
-      <pubDate>Sun, 24 May 2026 16:29:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-Lebanon-Deal-001-qwkj/24int-Lebanon-Deal-001-qwkj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Berehulak/The New York Times</media:credit>
-      <media:description>A building hit by an Israeli strike, as seen through a broken window at the Hiram Hospital in Tyre, Lebanon, on Saturday.</media:description>
-    </item>
-    <item>
       <title>Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal</title>
       <link>https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</guid>
@@ -360,8 +360,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/25/world/iran-war-trump/heres-the-latest</guid>
       <atom:link href="https://www.nytimes.com/live/2026/05/25/world/iran-war-trump/heres-the-latest" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Aaron Boxerman, Tyler Pager, Sanam Mahoozi and Farnaz Fassihi</dc:creator>
-      <pubDate>Mon, 25 May 2026 13:49:56 +0000</pubDate>
+      <dc:creator>Aaron Boxerman, Tyler Pager, Sanam Mahoozi, Farnaz Fassihi and Adam Rasgon</dc:creator>
+      <pubDate>Mon, 25 May 2026 16:53:59 +0000</pubDate>
     </item>
     <item>
       <title>One of Madagascar’s Oldest Sacred Trees Is Slowly Dying</title>
@@ -502,6 +502,30 @@
       <media:description>Secretary of State Marco Rubio, at a news conference on Sunday in New Delhi, said the relationship between India and the United States “has not lost any momentum.”</media:description>
     </item>
     <item>
+      <title>Fate of War in Lebanon Rests Mostly With Outside Powers</title>
+      <link>https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html" rel="standout"></atom:link>
+      <description>A U.S.-Iran peace deal could calm the conflict in Lebanon between Israel and Hezbollah. But that will depend mainly on what the United States, Iran and Israel decide.</description>
+      <dc:creator>Christina Goldbaum</dc:creator>
+      <pubDate>Sun, 24 May 2026 16:29:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-Lebanon-Deal-001-qwkj/24int-Lebanon-Deal-001-qwkj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Berehulak/The New York Times</media:credit>
+      <media:description>A building hit by an Israeli strike, as seen through a broken window at the Hiram Hospital in Tyre, Lebanon, on Saturday.</media:description>
+    </item>
+    <item>
       <title>At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan</title>
       <link>https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html</guid>
@@ -558,7 +582,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html" rel="standout"></atom:link>
       <description>Iran and the United States appeared to be negotiating on a deal to end the war, but talks could take days. And both sides have offered conflicting accounts of the emerging agreement.</description>
       <dc:creator>Yan Zhuang, Amelia Nierenberg and Ephrat Livni</dc:creator>
-      <pubDate>Mon, 25 May 2026 14:11:56 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 16:42:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
@@ -1152,31 +1176,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-uk-andrew-tglv/22int-uk-andrew-tglv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>Andrew Mountbatten-Windsor, formerly known as Prince Andrew, attending a service at St. George’s Chapel, Windsor Castle, last year.</media:description>
-    </item>
-    <item>
-      <title>New Taliban Decree on Divorce Formalizes Child Marriage in Afghanistan, U.N. Warns</title>
-      <link>https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/22/world/asia/taliban-child-marriage-afghanistan.html" rel="standout"></atom:link>
-      <description>A new Afghan law requires girls to wait until puberty before seeking to get out of a marriage. It also requires mediation for women seeking to escape an abusive husband.</description>
-      <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Fri, 22 May 2026 10:37:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Marriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shariah (Islamic Law)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-taliban-decree-bjgv/22int-taliban-decree-bjgv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kiana Hayeri for The New York Times</media:credit>
-      <media:description>A pharmacy in Kabul, Afghanistan, on Tuesday. The Taliban government has imposed some of the world’s toughest restrictions on women and girls.</media:description>
     </item>
   </channel>
 </rss>

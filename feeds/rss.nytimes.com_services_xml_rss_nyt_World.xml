@@ -3,25 +3,25 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 25 May 2026 17:41:39 +0000</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 17:03:01 +0000</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 19:42:41 +0000</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 19:37:42 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Iran War Live Updates: Top Iranian Negotiators Arrive in Qatar for Talks on Peace Deal</title>
+      <title>Iran War Live Updates: Negotiations to End the War Resume in Qatar</title>
       <link>https://www.nytimes.com/live/2026/05/25/world/iran-war-trump</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/25/world/iran-war-trump</guid>
       <atom:link href="https://www.nytimes.com/live/2026/05/25/world/iran-war-trump" rel="standout"></atom:link>
-      <description>President Trump gave conflicting signals over how much progress had been made in the talks. Both the United States and Iran suggested that a breakthrough was not imminent.</description>
+      <description>Top Iranian officials arrived in Doha. President Trump gave conflicting signals over how much progress had been made. Prime Minister Benjamin Netanyahu said Israel intends to intensify attacks against Hezbollah, Iran’s ally, in Lebanon.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 25 May 2026 17:01:42 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:32:50 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/-25mideast-promo-0945EST/25mideast-header--glfc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
     </item>
@@ -39,6 +39,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Encyclicals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIII</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-encyclical-HFO-01-ktvm/25int-pope-encyclical-HFO-01-ktvm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alberto Pizzoli/Agence France-Presse — Getty Images</media:credit>
       <media:description>Pope Leo XIV at the presentation of his first encyclical letter, “Magnifica Humanitas,” at the Vatican on Monday. In it, he outlined his desire to protect human dignity and agency in an age of artificial intelligence.</media:description>
@@ -134,6 +135,26 @@
       <media:credit>Samuel Aranda for The New York Times</media:credit>
     </item>
     <item>
+      <title>‘A Dangerous Bluff’: Carney Likens Alberta Referendum to Brexit</title>
+      <link>https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/25/world/canada/mark-carney-alberta-referendum-brexit.html" rel="standout"></atom:link>
+      <description>The Canadian prime minister, who was the governor of the Bank of England when Britain voted to leave the European Union, said the Alberta referendum on separating from Canada could backfire.</description>
+      <dc:creator>Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Mon, 25 May 2026 19:33:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/25int-carney-alberta-brexit-photo-qmbz/25int-carney-alberta-brexit-photo-qmbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ethan Cairns/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Prime Minister Mark Carney of Canada said of Brexit, “They’re still, 10 years, later trying to undo what people didn’t think they were voting for.” </media:description>
+    </item>
+    <item>
       <title>In Ukraine, a Divisive 20th-Century Hero Comes Home</title>
       <link>https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/europe/ukraine-melnyk-nationalist-collaborator.html</guid>
@@ -160,7 +181,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/24/world/africa/ebola-virus-congo-response.html" rel="standout"></atom:link>
       <description>The deadly virus has spread alarmingly in Congo for months. Only now is the response taking shape.</description>
       <dc:creator>Declan Walsh and Arlette Bashizi</dc:creator>
-      <pubDate>Mon, 25 May 2026 16:04:25 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 18:10:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bunia (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
@@ -190,6 +211,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John XXIII</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIII</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul VI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/25int-pope-explainer-kmfp/25int-pope-explainer-kmfp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yara Nardi/Reuters</media:credit>
       <media:description>Pope Leo has made artificial intelligence a central theme of his first year as pontiff.</media:description>
@@ -283,30 +305,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
     </item>
     <item>
-      <title>Iran Projects Victory in Potential Deal With Washington</title>
-      <link>https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html" rel="standout"></atom:link>
-      <description>Iran’s leaders argue that the possible preliminary agreement has not extracted any major concessions.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Sun, 24 May 2026 16:26:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vaez, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-iran-assess-004rr-lqjb/24int-iran-assess-004rr-lqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>Iranians waving flags last month at a government-organized demonstration in Tehran, the capital.</media:description>
-    </item>
-    <item>
       <title>Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal</title>
       <link>https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html</guid>
@@ -330,7 +328,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/25/weather/uk-heat-wave-may-weather-record.html" rel="standout"></atom:link>
       <description>Forecasters warned that temperatures could climb to the highest level ever recorded in the month of May, reaching 35 degrees Celsius (95 degrees Fahrenheit) in some areas of England.</description>
       <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Mon, 25 May 2026 14:47:05 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 17:50:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
@@ -361,7 +359,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/05/25/world/iran-war-trump/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Aaron Boxerman, Tyler Pager, Sanam Mahoozi, Farnaz Fassihi and Adam Rasgon</dc:creator>
-      <pubDate>Mon, 25 May 2026 16:53:59 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:32:49 +0000</pubDate>
     </item>
     <item>
       <title>One of Madagascar’s Oldest Sacred Trees Is Slowly Dying</title>
@@ -394,6 +392,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qassem, Naim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24mideast-hezbollah-rubio-clhb/24mideast-hezbollah-rubio-clhb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Berehulak/The New York Times</media:credit>
       <media:description>A building hit by an Israeli strike in Tyre, Lebanon, on Saturday.</media:description>
@@ -452,6 +451,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24mideast-rubio-pgzm/24mideast-rubio-pgzm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>Secretary of State Marco Rubio said nuclear talks with Iran may take place.</media:description>
@@ -502,6 +503,30 @@
       <media:description>Secretary of State Marco Rubio, at a news conference on Sunday in New Delhi, said the relationship between India and the United States “has not lost any momentum.”</media:description>
     </item>
     <item>
+      <title>Iran Projects Victory in Potential Deal With Washington</title>
+      <link>https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html" rel="standout"></atom:link>
+      <description>Iran’s leaders argue that the possible preliminary agreement has not extracted any major concessions.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Sun, 24 May 2026 16:26:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vaez, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24int-iran-assess-004rr-lqjb/24int-iran-assess-004rr-lqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Iranians waving flags last month at a government-organized demonstration in Tehran, the capital.</media:description>
+    </item>
+    <item>
       <title>Fate of War in Lebanon Rests Mostly With Outside Powers</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/middleeast/lebanon-hezbollah-us-iran-israel.html</guid>
@@ -545,13 +570,13 @@
       <media:description>A Pakistani soldier aiming his weapon after an explosion struck a passenger train in Quetta, Pakistan, on Sunday.</media:description>
     </item>
     <item>
-      <title>Israeli Leader Says He and Trump Agree On Blocking an Iranian Nuclear Weapon</title>
+      <title>Israeli Leader Says He and Trump Agree on Blocking an Iranian Nuclear Weapon</title>
       <link>https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html" rel="standout"></atom:link>
       <description>Analysts said Israel was worried that a potential agreement would not significantly degrade Iran’s nuclear and missile capabilities.</description>
       <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Sun, 24 May 2026 19:04:04 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 18:32:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
@@ -609,9 +634,8 @@
       <dc:creator>Adam Satariano and Paul Mozur</dc:creator>
       <pubDate>Sun, 24 May 2026 09:01:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AI Security Institute (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
@@ -620,6 +644,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sunak, Rishi (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/14/multimedia/00biz-ai-safety-1-03-chlm/00biz-ai-safety-1-03-chlm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jeremie Souteyrat for The New York Times</media:credit>
       <media:description>Along Parliament Square in London is the home of the A.I. Security Institute, which employs weapons inspectors, epidemiologists and code breakers to probe the technology’s risks.</media:description>
@@ -635,6 +660,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/26/multimedia/26xp-guardians-02-clmw/26xp-guardians-02-clmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alice Zoo for The New York Times</media:credit>
       <media:description>Once a boutique hotel, The Kings Arms Hotel in London is now a guardianship property.</media:description>
@@ -1160,22 +1186,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-poland-troops-01-jcph/22int-poland-troops-01-jcph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Omar Marques/Getty Images</media:credit>
       <media:description>U.S. Army soldiers before a live-fire exercise in Drawsko Pomorskie, Poland, last year.</media:description>
-    </item>
-    <item>
-      <title>Police Investigation of Former Prince Andrew Examines Reports of Sexual Misconduct</title>
-      <link>https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/22/world/europe/police-investigating-former-prince-andrew-britain.html" rel="standout"></atom:link>
-      <description>A British police force said it was assessing a report that a woman had been taken to an address in Windsor in 2010 for sexual purposes. No charges have been filed.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 22 May 2026 12:48:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrew, Duke of York</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuffre, Virginia Roberts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/22/multimedia/22int-uk-andrew-tglv/22int-uk-andrew-tglv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
-      <media:description>Andrew Mountbatten-Windsor, formerly known as Prince Andrew, attending a service at St. George’s Chapel, Windsor Castle, last year.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 25 May 2026 19:41:58 +0000</lastBuildDate>
-    <pubDate>Mon, 25 May 2026 19:37:42 +0000</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 21:09:22 +0000</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 21:05:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -244,6 +244,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle Age (Demographic)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Costco Wholesale Corporation</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/24/multimedia/24biz-Costco-Curb-03-bhtp/24biz-Costco-Curb-03-bhtp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:description>At a time when people are lonely and disconnected, the Costco I skate at is a place where a bunch of 40- and 50-year-olds gather around low-stakes terrain, reconnecting.</media:description>
     </item>
@@ -254,15 +255,16 @@
       <atom:link href="https://www.nytimes.com/2026/05/25/us/chemical-tank-garden-grove.html" rel="standout"></atom:link>
       <description>Evacuation orders remained in place for more than 40,000 residents around Garden Grove, Calif., the location of an industrial site containing an unstable tank of toxic chemical.</description>
       <dc:creator>Christina Morales and Shawn Hubler</dc:creator>
-      <pubDate>Mon, 25 May 2026 18:34:03 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 20:06:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Garden Grove (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GKN Aerospace</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Explosions (Accidental)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orange County (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Orange County Fire Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Garden Grove (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GKN Aerospace</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/25nat-oc-tank-NEW-mvbp/25nat-oc-tank-NEW-mvbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Apu Gomes/Getty Images</media:credit>
       <media:description>An aerial view of water being sprayed onto a tank at GKN Aerospace in Garden Grove, Calif., on Saturday.</media:description>
@@ -335,7 +337,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/25/nyregion/knicks-watch-party-garden.html" rel="standout"></atom:link>
       <description>The police say that celebrations outside of Madison Square Garden have gotten out of control. Fans and insiders say the chaos has been driven by social media influencers.</description>
       <dc:creator>Jonah E. Bromwich, Chelsia Rose Marcius and Debra Kamin</dc:creator>
-      <pubDate>Mon, 25 May 2026 19:26:22 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 19:26:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Knicks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
@@ -449,9 +451,9 @@
     </item>
     <item>
       <title>New Waterside Getaways for the Summer</title>
-      <link>https://www.nytimes.com/2026/05/25/travel/new-summer-retreats-and-hotels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/travel/new-summer-retreats-and-hotels.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/25/travel/new-summer-retreats-and-hotels.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/05/25/travel/summer-beach-getaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/travel/summer-beach-getaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/25/travel/summer-beach-getaways.html" rel="standout"></atom:link>
       <description>From the Hamptons to Majorca, here are six getaways that invite you to eat, drink, lounge and enjoy idyllic surroundings.</description>
       <dc:creator>Stephanie Rosenbloom</dc:creator>
       <pubDate>Mon, 25 May 2026 09:01:44 +0000</pubDate>
@@ -463,6 +465,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamptons (NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montauk (NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+    </item>
+    <item>
+      <title>How to Be Old</title>
+      <link>https://www.nytimes.com/2026/05/25/opinion/aging-advice.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/opinion/aging-advice.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/25/opinion/aging-advice.html" rel="standout"></atom:link>
+      <description>My advice for how to keep living.</description>
+      <dc:creator>Roger Rosenblatt</dc:creator>
+      <pubDate>Mon, 25 May 2026 14:38:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
     </item>
     <item>
       <title>Iran Is Trolling Us and We’re Not Doing Anything About It</title>
@@ -479,36 +493,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-    </item>
-    <item>
-      <title>How to Be Old</title>
-      <link>https://www.nytimes.com/2026/05/25/opinion/aging-advice.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/opinion/aging-advice.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/25/opinion/aging-advice.html" rel="standout"></atom:link>
-      <description>My advice for how to keep living.</description>
-      <dc:creator>Roger Rosenblatt</dc:creator>
-      <pubDate>Mon, 25 May 2026 14:38:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-    </item>
-    <item>
-      <title>A Poem for Memorial Day</title>
-      <link>https://www.nytimes.com/2026/05/25/briefing/a-poem-for-memorial-day.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/25/briefing/a-poem-for-memorial-day.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/25/briefing/a-poem-for-memorial-day.html" rel="standout"></atom:link>
-      <description>We remember those who gave their lives in service to the United States.</description>
-      <dc:creator>Sam Sifton</dc:creator>
-      <pubDate>Mon, 25 May 2026 13:09:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorial Day</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arlington National Cemetery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunbar, Paul Laurence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/25themorning-nl-memorial-day-top/25themorning-nl-memorial-day-top-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rod Lamkey, Jr./Associated Press</media:credit>
-      <media:description>In Arlington National Cemetery last week.</media:description>
     </item>
     <item>
       <title>Gov. Sherrill Demands Access to ICE Facility as Hunger Strike Widens</title>
@@ -549,7 +533,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/25int-carney-alberta-brexit-photo-qmbz/25int-carney-alberta-brexit-photo-qmbz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ethan Cairns/The Canadian Press, via Associated Press</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada said of Brexit, “They’re still, 10 years, later trying to undo what people didn’t think they were voting for.” </media:description>
+      <media:description>Prime Minister Mark Carney of Canada said of Brexit, “They’re still, 10 years later, trying to undo what people didn’t think they were voting for.” </media:description>
     </item>
     <item>
       <title>One of Madagascar’s Oldest Sacred Trees Is Slowly Dying</title>
@@ -572,7 +556,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/25/world/americas/cuba-blackouts-fire-energy-oil.html" rel="standout"></atom:link>
       <description>The U.S. oil blockade has left millions without cooking gas. In Santiago de Cuba, the cradle of the Cuban revolution, apartment tower residents resort to charcoal and firewood.</description>
       <dc:creator>Ed Augustin and Lisette Poole González</dc:creator>
-      <pubDate>Mon, 25 May 2026 12:18:48 +0000</pubDate>
+      <pubDate>Mon, 25 May 2026 21:05:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
@@ -585,6 +569,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Raul</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santiago de Cuba (Cuba)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/25int-cuba-towers01-photo-kcmf/25int-cuba-towers01-photo-kcmf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Outside one of five 18 story apartment towers in Santiago de Cuba this month.</media:description>
     </item>

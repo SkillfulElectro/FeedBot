@@ -7,11 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-26T00:07:59Z</dc:date>
+  <dc:date>2026-05-26T04:44:15Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/senegal-appoints-economist-as-new-pm-after-sonko-s-sacking/a-77290692?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-military-says-it-launched-new-strikes-on-southern-iran/live-77284965?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/scotland-former-snp-executive-admits-embezzling-party-funds/a-77288456?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/afghanistan-s-crisis-deepens-hidden-violence-against-women/a-77285438?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-spacex-s-ipo-fund-life-on-mars-and-a-trillionaire/a-77236838?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/cuba-receives-china-rice-shipment-amid-us-threats-blackouts/a-77281770?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/china-mine-blast-search-and-investigation-continue/a-77280984?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/displaced-ukrainians-risk-home-seizure-under-russian-law/a-77233460?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-all-1573-rdf"/>
@@ -159,10 +159,19 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-rdf">
-  <title>Middle East: Netanyahu vows to increase Lebanon strikes</title>
-  <link>https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-rdf</link>
-  <description>Israeli Prime Minister Benjamin Netanyahu is under pressure due to ongoing Hezbollah drone attacks on northern Israel. Netanyahu said he ordered the military to increase strikes against Hezbollah. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/senegal-appoints-economist-as-new-pm-after-sonko-s-sacking/a-77290692?maca=en-rss-en-all-1573-rdf">
+  <title>Senegal appoints economist as new PM after Sonko&apos;s sacking</title>
+  <link>https://www.dw.com/en/senegal-appoints-economist-as-new-pm-after-sonko-s-sacking/a-77290692?maca=en-rss-en-all-1573-rdf</link>
+  <description>Senegal&apos;s president has named senior economist Lo as new prime minister days after sacking his predecessor. The move comes as the country grapples with crippling debt and an internal crisis in the ruling party.</description>
+  <dc:date>2026-05-26T00:25:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77290692</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/us-military-says-it-launched-new-strikes-on-southern-iran/live-77284965?maca=en-rss-en-all-1573-rdf">
+  <title>US military says it launched new strikes on southern Iran</title>
+  <link>https://www.dw.com/en/us-military-says-it-launched-new-strikes-on-southern-iran/live-77284965?maca=en-rss-en-all-1573-rdf</link>
+  <description>The US military&apos;s Central Command said it had carried out “self-defense” strikes in southern Iran. Meanwhile, Israeli PM Netanyahu said he ordered the military to increase strikes against Hezbollah. DW has more.</description>
   <dc:date>2026-05-25T17:32:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -329,15 +338,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77280884</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf">
-  <title>Turkish police evict ousted CHP leaders from party HQ</title>
-  <link>https://www.dw.com/en/turkish-police-evict-ousted-chp-leaders-from-party-hq/a-77280112?maca=en-rss-en-all-1573-rdf</link>
-  <description>Police forced their way into the opposition party&apos;s headquarters, ending a standoff between ousted CHP leader Ozgur Ozel and supporters of court-appointed Kemal Kilicdaroglu.</description>
-  <dc:date>2026-05-24T15:46:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77280112</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-rdf">
   <title>Germany plans to address growing use of date-rape drugs</title>

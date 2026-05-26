@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 26 May 2026 18:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:35:06 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Joe Lubin-backed Ethereum treasury firm SharpLink to join the Russel  indexes]]></title>
+      <link>https://www.coindesk.com/business/2026/05/26/joe-lubin-backed-ethereum-treasury-firm-sharplink-to-join-the-russel-indexes</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a7f6e584b6a4e8cc825bca016eddec6558ca3e64-7962x4479.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">1d0d0fc3-c8d1-4d96-9a3d-f9f3178a30b1</guid>
+      <pubDate>Tue, 26 May 2026 19:03:39 +0000</pubDate>
+      <description><![CDATA[The inclusion could attract fresh passive inflows from index-tracking funds, while the firm's stock tanked 95% from its peak over the past year.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Ethereum News]]></category>
+      <category domain="tag"><![CDATA[Digital Asset Treasury]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[UK sanctions Huobi and ruble stablecoin issuer in crackdown on Russia crypto networks]]></title>
       <link>https://www.coindesk.com/business/2026/05/26/uk-sanctions-huobi-and-ruble-stablecoin-issuer-in-crackdown-on-russia-crypto-networks</link>
@@ -108,15 +123,16 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live markets: bitcoin on sidelines as markets surge on Iran peace hopes]]></title>
+      <title><![CDATA[Live markets: bitcoin leads crypto slide even as tech sector closes sharply higher]]></title>
       <link>https://www.coindesk.com/markets/2026/05/26/live-markets-bitcoin-on-sidelines-as-markets-surge-on-iran-peace-hopes</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7d8da4a19eaa50a97cdd695e2cd25d78327c5b9d-1920x1325.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">85a59ecb-a7b8-48d4-b207-4d46499b6a82</guid>
       <pubDate>Tue, 26 May 2026 14:43:53 +0000</pubDate>
-      <description><![CDATA[Oil prices and bond yields have opened the week sharply lower following President Trump's weekend announcement of an imminent Middle East agreement.]]></description>
+      <description><![CDATA[Oil prices and bond yields opened the week sharply lower following President Trump's weekend announcement of an imminent Middle East agreement.]]></description>
       <dc:creator>Stephen Alpher</dc:creator>
       <dc:creator>Olivier Acuna</dc:creator>
       <dc:creator>Helene Braun</dc:creator>
+      <dc:creator>Krisztian Sandor</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -367,21 +383,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/25/near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15-jump</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ac1bb8762b7799c9bae9ba0099d3d70637a23e04-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <media:content url="/video/why-michael-van-de-poppe-sees-100-for-hype" type="video/*" medium="video"/>
-      <guid isPermaLink="false">10283bcd-956a-4a31-bcf8-35f3d177f936</guid>
-      <pubDate>Mon, 25 May 2026 17:38:39 +0000</pubDate>
-      <description><![CDATA[The rally is fueled by NEAR Intents, the cross-chain system that has processed over $19 billion in volume and generated $32 million in fees.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

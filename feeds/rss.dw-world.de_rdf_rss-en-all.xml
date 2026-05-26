@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-26T16:25:35Z</dc:date>
+  <dc:date>2026-05-26T18:43:06Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-data-show-partial-restoration-of-internet-connectivity/live-77292206?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-eu-germany-summon-russian-envoys-after-moscow-tells-diplomats-to-leave-kyiv/a-77300543?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/scientists-discover-new-little-blue-octopus-in-galapagos-islands/a-77300108?maca=en-rss-en-all-1573-rdf"/>
@@ -21,7 +22,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/putin-offers-debt-relief-to-new-recruits-for-ukraine-war/a-77292937?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/belgium-train-collides-with-school-bus-several-dead/a-77296681?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/how-berlin-s-jewish-hospital-survived-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/where-are-us-forces-stationed-in-europe/a-77270063?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/even-trump-can-t-stop-the-advance-of-wind-power/a-77248308?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/sonny-rollins-one-of-jazz-s-last-living-greats-dies-at-95/a-77292938?maca=en-rss-en-all-1573-rdf"/>
@@ -161,6 +161,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf">
+  <title>How did Berlin&apos;s Jewish Hospital and hundreds of its patients survive the Holocaust?</title>
+  <link>https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf</link>
+  <description>When Red Army troops entered Berlin&apos;s Jewish Hospital in 1945, they were astonished to discover hundreds of Jews living just a couple of miles away from Hitler&apos;s bunker.</description>
+  <dc:date>2026-05-26T16:49:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77283508</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-data-show-partial-restoration-of-internet-connectivity/live-77292206?maca=en-rss-en-all-1573-rdf">
   <title>Iran: Data show partial restoration of internet connectivity</title>
   <link>https://www.dw.com/en/iran-data-show-partial-restoration-of-internet-connectivity/live-77292206?maca=en-rss-en-all-1573-rdf</link>
@@ -251,15 +260,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77296681</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/how-berlin-s-jewish-hospital-survived-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf">
-  <title>How Berlin&apos;s Jewish Hospital survived the Holocaust</title>
-  <link>https://www.dw.com/en/how-berlin-s-jewish-hospital-survived-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf</link>
-  <description>When Red Army troops entered Berlin&apos;s Jewish Hospital in 1945, they were astonished to discover hundreds of Jews living just a couple of miles away from Hitler&apos;s bunker.</description>
-  <dc:date>2026-05-26T10:20:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77283508</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/where-are-us-forces-stationed-in-europe/a-77270063?maca=en-rss-en-all-1573-rdf">
   <title>Where are US forces stationed in Europe?</title>
   <link>https://www.dw.com/en/where-are-us-forces-stationed-in-europe/a-77270063?maca=en-rss-en-all-1573-rdf</link>
@@ -317,7 +317,7 @@
  <item rdf:about="https://www.dw.com/en/india-news-quad-nations-to-surveil-indo-pacific-waters/live-77291437?maca=en-rss-en-all-1573-rdf">
   <title>India news: Quad nations to surveil Indo-Pacific waters</title>
   <link>https://www.dw.com/en/india-news-quad-nations-to-surveil-indo-pacific-waters/live-77291437?maca=en-rss-en-all-1573-rdf</link>
-  <description>The US, India, Japan and Australia have agreed to jointly surveil maritime operations in the Indo-Pacific to assert domiance over the region. Meanwhile, Indian politicians mark 12 years of Modi as PM. DW has more.</description>
+  <description>The US, India, Japan and Australia have agreed to jointly surveil maritime operations in the Indo-Pacific to assert domiance over the region. Meanwhile, Indian politicians mark 12 years of Modi as PM.</description>
   <dc:date>2026-05-26T07:02:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>

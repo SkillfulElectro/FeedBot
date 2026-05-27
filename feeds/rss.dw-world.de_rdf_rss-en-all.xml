@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-27T18:28:52Z</dc:date>
+  <dc:date>2026-05-27T20:35:24Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-urges-middle-east-states-to-sign-abraham-accords/a-77319844?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-uganda-closes-border-with-dr-congo-as-virus-spreads/a-77320417?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/south-africa-300-ghanaians-leave-amid-xenophobic-tensions/a-77319838?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/license-to-play-the-new-james-bond-video-game/a-77302275?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-economy-minister-eyes-resources-in-china-visit/live-77308383?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-alleged-leftist-militant-found-guilty-of-robbery/a-77296279?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/cuba-calls-for-global-solidarity-amid-fears-of-us-aggression/a-77308666?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-german-gym-fighting-the-far-right-with-mma/a-77291434?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-eu-germany-summon-russian-envoys-after-moscow-tells-diplomats-to-leave-kyiv/a-77300543?maca=en-rss-en-all-1573-rdf"/>
@@ -98,7 +99,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-housing-crisis-hits-immigrants-hardest/a-77171138?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iconic-german-musician-udo-lindenberg-turns-80/a-77149458?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/asteroid-2026-jh2-no-need-to-worry-about-it-hitting-earth/a-70375872?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fifa-got-greedy-―-why-football-fans-in-india-may-not-be-able-to-watch-world-cup-games-on-tv-this-year/a-77131796?maca=en-rss-en-all-1573-rdf"/>
@@ -161,6 +161,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-all-1573-rdf">
+  <title>FIFA World Cup: New York and New Jersey prosecutors probe &apos;sky-high&apos; ticket prices</title>
+  <link>https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-all-1573-rdf</link>
+  <description>US prosecutors have subpoenaed FIFA over expensive World Cup tickets, saying that the event was &quot;not an invitation to exploit our residents and visitors.&quot;</description>
+  <dc:date>2026-05-27T18:38:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77319846</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/trump-urges-middle-east-states-to-sign-abraham-accords/a-77319844?maca=en-rss-en-all-1573-rdf">
+  <title>Trump urges Middle East states to sign Abraham Accords</title>
+  <link>https://www.dw.com/en/trump-urges-middle-east-states-to-sign-abraham-accords/a-77319844?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Donald Trump has urged more Middle Eastern countries to join the Abraham Accords that aim to normalize relations with Israel. What does the agreement entail?</description>
+  <dc:date>2026-05-27T18:32:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77319844</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: Trump says US will &apos;watch over&apos; Strait of Hormuz</title>
   <link>https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-rdf</link>
@@ -322,15 +340,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77296279</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/cuba-calls-for-global-solidarity-amid-fears-of-us-aggression/a-77308666?maca=en-rss-en-all-1573-rdf">
-  <title>Cuba calls for global solidarity amid fears of US aggression</title>
-  <link>https://www.dw.com/en/cuba-calls-for-global-solidarity-amid-fears-of-us-aggression/a-77308666?maca=en-rss-en-all-1573-rdf</link>
-  <description>Foreign Minister Bruno Rodriguez warned the UN Security Council that US sanctions were pushing the island toward a &quot;humanitarian catastrophe&quot; as tensions with Washington escalate.</description>
-  <dc:date>2026-05-27T07:49:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77308666</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/the-german-gym-fighting-the-far-right-with-mma/a-77291434?maca=en-rss-en-all-1573-rdf">
   <title>The German gym fighting the far right with MMA</title>
@@ -943,15 +952,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77171724</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Chancellor Merz says he wouldn&apos;t advise his kids to go to the US</title>
-  <link>https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-rdf</link>
-  <description>Chancellor Friedrich Merz said he wouldn&apos;t currently advise young Germans like his children to move to the US to study or work. He cited &quot;the social climate that has suddenly developed.&quot;</description>
-  <dc:date>2026-05-15T17:03:00Z</dc:date>
-  <dc:subject>Germany</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77168830</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/iconic-german-musician-udo-lindenberg-turns-80/a-77149458?maca=en-rss-en-all-1573-rdf">
   <title>Iconic German musician Udo Lindenberg turns 80</title>

@@ -7,10 +7,14 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-27T15:52:39Z</dc:date>
+  <dc:date>2026-05-27T18:28:52Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ebola-uganda-closes-border-with-dr-congo-as-virus-spreads/a-77320417?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/south-africa-300-ghanaians-leave-amid-xenophobic-tensions/a-77319838?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/philippines-new-inquiry-launched-into-duterte-era-drug-war/a-77317760?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-enlargement-is-the-bloc-ready-to-welcome-new-members/a-77319025?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-leadership-dispute-engulfs-opposition-chp/a-77317144?maca=en-rss-en-all-1573-rdf"/>
@@ -25,12 +29,8 @@
     <rdf:li rdf:resource="https://www.dw.com/en/license-to-play-the-new-james-bond-video-game/a-77302275?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-economy-minister-eyes-resources-in-china-visit/live-77308383?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-alleged-leftist-militant-found-guilty-of-robbery/a-77296279?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-israel-says-hamas-armed-wing-chief-killed/live-77308741?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/cuba-calls-for-global-solidarity-amid-fears-of-us-aggression/a-77308666?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-german-gym-fighting-the-far-right-with-mma/a-77291434?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-planning-to-halt-immigration-at-sanctuary-city-airports/a-77307771?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-eu-germany-summon-russian-envoys-after-moscow-tells-diplomats-to-leave-kyiv/a-77300543?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ferrari-unveils-its-first-all-electric-car-the-4-door-luce/a-77297459?maca=en-rss-en-all-1573-rdf"/>
@@ -161,6 +161,42 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-rdf">
+  <title>Iran war: Trump says US will &apos;watch over&apos; Strait of Hormuz</title>
+  <link>https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Donald Trump said the vital Strait of Hormuz &quot;must be open to everyone&quot; and &quot;no one can control it.&quot; He made a threat to Oman, which is negotiating with Iran to control the vital waterway. DW has more.</description>
+  <dc:date>2026-05-27T18:10:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77308741</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ebola-uganda-closes-border-with-dr-congo-as-virus-spreads/a-77320417?maca=en-rss-en-all-1573-rdf">
+  <title>Ebola: Uganda closes border with DR Congo as virus spreads</title>
+  <link>https://www.dw.com/en/ebola-uganda-closes-border-with-dr-congo-as-virus-spreads/a-77320417?maca=en-rss-en-all-1573-rdf</link>
+  <description>Uganda has shut its border &quot;with immediate effect,&quot; despite warnings by the WHO that the move could backfire and cause the disease to spread.</description>
+  <dc:date>2026-05-27T18:09:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77320417</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/south-africa-300-ghanaians-leave-amid-xenophobic-tensions/a-77319838?maca=en-rss-en-all-1573-rdf">
+  <title>South Africa: 300 Ghanaians leave amid xenophobic tensions</title>
+  <link>https://www.dw.com/en/south-africa-300-ghanaians-leave-amid-xenophobic-tensions/a-77319838?maca=en-rss-en-all-1573-rdf</link>
+  <description>Hundreds of Ghanaians are leaving South Africa on special repatriation flights as anti-immigration protests and violence against foreigners escalate in the richer African nation.</description>
+  <dc:date>2026-05-27T17:45:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77319838</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-all-1573-rdf">
+  <title>Germany: No recovery in sight for the economy</title>
+  <link>https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-all-1573-rdf</link>
+  <description>The war in Iran has dashed hopes for economic growth. Germany&apos;s pension and healthcare systems are also feeling the strain.</description>
+  <dc:date>2026-05-27T16:19:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77319954</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/philippines-new-inquiry-launched-into-duterte-era-drug-war/a-77317760?maca=en-rss-en-all-1573-rdf">
   <title>Philippines: New inquiry launched into Duterte-era drug war</title>
   <link>https://www.dw.com/en/philippines-new-inquiry-launched-into-duterte-era-drug-war/a-77317760?maca=en-rss-en-all-1573-rdf</link>
@@ -287,15 +323,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77296279</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/middle-east-israel-says-hamas-armed-wing-chief-killed/live-77308741?maca=en-rss-en-all-1573-rdf">
-  <title>Middle East: Israel says Hamas&apos; armed wing chief killed</title>
-  <link>https://www.dw.com/en/middle-east-israel-says-hamas-armed-wing-chief-killed/live-77308741?maca=en-rss-en-all-1573-rdf</link>
-  <description>Israel&apos;s military said Mohammad Odeh, head of the militant group&apos;s armed wing, was killed in strikes in Gaza — just days after his predecessor was also killed. DW has more.</description>
-  <dc:date>2026-05-27T08:09:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77308741</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/cuba-calls-for-global-solidarity-amid-fears-of-us-aggression/a-77308666?maca=en-rss-en-all-1573-rdf">
   <title>Cuba calls for global solidarity amid fears of US aggression</title>
   <link>https://www.dw.com/en/cuba-calls-for-global-solidarity-amid-fears-of-us-aggression/a-77308666?maca=en-rss-en-all-1573-rdf</link>
@@ -313,33 +340,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77291434</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-planning-to-halt-immigration-at-sanctuary-city-airports/a-77307771?maca=en-rss-en-all-1573-rdf">
-  <title>US planning to halt immigration at &apos;sanctuary city&apos; airports</title>
-  <link>https://www.dw.com/en/us-planning-to-halt-immigration-at-sanctuary-city-airports/a-77307771?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Trump administration&apos;s plans would target cities in Democratic-run states that have not cooperated with its immigration clampdown. Millions of foreign tourists are set to arrive in June for the FIFA World Cup.</description>
-  <dc:date>2026-05-27T06:33:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77307771</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-all-1573-rdf">
-  <title>Iran medicine shortages worsened by war</title>
-  <link>https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-all-1573-rdf</link>
-  <description>Amid a fragile ceasefire with the US and Israel, Iranians are finding it harder to access essential medicines as imports and payment systems are disrupted.</description>
-  <dc:date>2026-05-27T05:59:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77297190</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043?maca=en-rss-en-all-1573-rdf">
-  <title>Samsung avoids strike as workers approve massive bonus deal</title>
-  <link>https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043?maca=en-rss-en-all-1573-rdf</link>
-  <description>Amid booming demand for AI chips, the government-backed deal will make more than 60% of the South Korean tech giant&apos;s workforce eligible for bonuses of about $370,000 this year.</description>
-  <dc:date>2026-05-27T04:26:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77307043</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/how-did-berlin-s-jewish-hospital-and-hundreds-of-its-patients-survive-the-holocaust/a-77283508?maca=en-rss-en-all-1573-rdf">
   <title>How did Berlin&apos;s Jewish Hospital and hundreds of its patients survive the Holocaust?</title>

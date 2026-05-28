@@ -7,13 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-28T16:55:38Z</dc:date>
+  <dc:date>2026-05-28T19:38:18Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/buffalo-with-trump-coiffure-spared-slaughter-moved-to-zoo/a-77337193?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-fines-temu-€200m-over-unsafe-toys-non-compliant-products/a-77336877?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-moves-to-symbolically-repeal-slavery-legislation/a-77332888?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/hormuz-suez-panama-why-one-can-t-charge-shipping-fees/a-77325707?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/the-suez-and-panama-canals-charge-tolls-why-is-iran-s-hormuz-fee-triggering-global-outrage/a-77325707?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/earth-on-track-for-record-heat-over-next-5-years-un-report/a-77334533?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-who-is-economy-minister-katherina-reiche/a-77334326?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/crises-in-amhara-tigray-cloud-ethiopia-s-election-2026/a-77233448?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/us-former-cia-officer-charged-with-stealing-gold-bars-from-government/a-77326438?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-ebola-cases-in-congo-what-you-need-to-know/a-77325922?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-oil-shortages-threaten-global-energy-security/a-77313462?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-health-care-staff-protest-plan-for-major-cuts/live-77322235?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/kenya-deadly-fire-breaks-out-at-girls-boarding-school/a-77322221?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-no-recovery-in-sight-for-the-economy/a-77319954?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-enlargement-is-the-bloc-ready-to-welcome-new-members/a-77319025?maca=en-rss-en-all-1573-rdf"/>
@@ -160,6 +160,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/buffalo-with-trump-coiffure-spared-slaughter-moved-to-zoo/a-77337193?maca=en-rss-en-all-1573-rdf">
+  <title>Buffalo with &apos;Trump&apos; coiffure spared slaughter, moved to zoo</title>
+  <link>https://www.dw.com/en/buffalo-with-trump-coiffure-spared-slaughter-moved-to-zoo/a-77337193?maca=en-rss-en-all-1573-rdf</link>
+  <description>A Bangladeshi buffalo&apos;s resemblance to the current US president has saved it from slaughter and earned it celebrity status.</description>
+  <dc:date>2026-05-28T17:40:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77337193</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-rdf">
+  <title>Iran, US reportedly agree to deal, pending Trump approval</title>
+  <link>https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-rdf</link>
+  <description>US media reported that American and Iranian negotiators have agreed to resume nuclear talks and allow shipping in the Strait of Hormuz. Meanwhile, Israel has launched strikes across Lebanon. DW has the latest.</description>
+  <dc:date>2026-05-28T17:27:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77321432</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/eu-fines-temu-€200m-over-unsafe-toys-non-compliant-products/a-77336877?maca=en-rss-en-all-1573-rdf">
   <title>EU fines Temu €200M over unsafe toys, non-compliant products</title>
   <link>https://www.dw.com/en/eu-fines-temu-€200m-over-unsafe-toys-non-compliant-products/a-77336877?maca=en-rss-en-all-1573-rdf</link>
@@ -178,9 +196,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77332888</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/hormuz-suez-panama-why-one-can-t-charge-shipping-fees/a-77325707?maca=en-rss-en-all-1573-rdf">
-  <title>Hormuz, Suez, Panama: Why one can&apos;t charge shipping fees</title>
-  <link>https://www.dw.com/en/hormuz-suez-panama-why-one-can-t-charge-shipping-fees/a-77325707?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/the-suez-and-panama-canals-charge-tolls-why-is-iran-s-hormuz-fee-triggering-global-outrage/a-77325707?maca=en-rss-en-all-1573-rdf">
+  <title>The Suez and Panama canals charge tolls. Why is Iran’s Hormuz fee triggering global outrage?</title>
+  <link>https://www.dw.com/en/the-suez-and-panama-canals-charge-tolls-why-is-iran-s-hormuz-fee-triggering-global-outrage/a-77325707?maca=en-rss-en-all-1573-rdf</link>
   <description>Iran has been widely condemned for demanding up to $2 million per transit through the Strait of Hormuz. DW explores the reasons why Egypt can charge for the Suez Canal and Panama for its waterway, but not Tehran.</description>
   <dc:date>2026-05-28T15:35:00Z</dc:date>
   <dc:subject>Business</dc:subject>
@@ -321,24 +339,6 @@
   <dc:subject>Business</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77313462</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-health-care-staff-protest-plan-for-major-cuts/live-77322235?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Health care staff protest plan for major cuts</title>
-  <link>https://www.dw.com/en/germany-news-health-care-staff-protest-plan-for-major-cuts/live-77322235?maca=en-rss-en-all-1573-rdf</link>
-  <description>Medical staff in Germany are protesting proposed cuts that ministers say are necessary to stop spiraling costs. Meanwhile, a World War II bomb meant thousands were evacuated from their homes. DW has more.</description>
-  <dc:date>2026-05-28T06:23:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77322235</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/kenya-deadly-fire-breaks-out-at-girls-boarding-school/a-77322221?maca=en-rss-en-all-1573-rdf">
-  <title>Kenya: Deadly fire breaks out at girls&apos; boarding school</title>
-  <link>https://www.dw.com/en/kenya-deadly-fire-breaks-out-at-girls-boarding-school/a-77322221?maca=en-rss-en-all-1573-rdf</link>
-  <description>At least 16 students were killed and 73 injured at a girls&apos; boarding school in central Kenya, authorities said.</description>
-  <dc:date>2026-05-28T06:04:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77322221</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-all-1573-rdf">
   <title>FIFA World Cup: New York and New Jersey prosecutors probe &apos;sky-high&apos; ticket prices</title>

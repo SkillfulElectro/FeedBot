@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-28T21:57:54Z</dc:date>
+  <dc:date>2026-05-28T23:24:44Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-vance-says-deal-close-but-not-there-yet/live-77338255?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/who-chief-arrives-in-congo-amid-ebola-outbreak/a-77338236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/austria-taylor-swift-concert-plot-suspect-sentenced-to-15-years/a-77338187?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/buffalo-with-trump-coiffure-spared-slaughter-moved-to-zoo/a-77337193?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/a-look-inside-japan-s-largest-prison-for-women/a-77329790?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-siddaramaiah-steps-down-as-karnataka-cm/live-77322597?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ukraine-eu-s-kallas-warns-against-russian-mediator-trap/live-77326509?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-former-cia-officer-charged-with-stealing-gold-bars-from-government/a-77326438?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/new-ebola-cases-in-congo-what-you-need-to-know/a-77325922?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-oil-shortages-threaten-global-energy-security/a-77313462?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-all-1573-rdf"/>
@@ -161,6 +162,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/iran-war-vance-says-deal-close-but-not-there-yet/live-77338255?maca=en-rss-en-all-1573-rdf">
+  <title>Iran war: Vance says deal close but &apos;not there yet&apos;</title>
+  <link>https://www.dw.com/en/iran-war-vance-says-deal-close-but-not-there-yet/live-77338255?maca=en-rss-en-all-1573-rdf</link>
+  <description>Vice President JD Vance said the US and Iran made progress on a deal but were &quot;not there yet.&quot; Earlier media reports said negotiators reached an agreement, pending approval from President Donald Trump. DW has the latest.</description>
+  <dc:date>2026-05-28T23:01:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77338255</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/who-chief-arrives-in-congo-amid-ebola-outbreak/a-77338236?maca=en-rss-en-all-1573-rdf">
+  <title>WHO chief arrives in Congo amid Ebola outbreak</title>
+  <link>https://www.dw.com/en/who-chief-arrives-in-congo-amid-ebola-outbreak/a-77338236?maca=en-rss-en-all-1573-rdf</link>
+  <description>The head of the World Health Organization vowed to &quot;overcome this outbreak&quot; as he traveled for the epicenter of Ebola infections in eastern Congo.</description>
+  <dc:date>2026-05-28T22:41:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77338236</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/austria-taylor-swift-concert-plot-suspect-sentenced-to-15-years/a-77338187?maca=en-rss-en-all-1573-rdf">
   <title>Austria: Taylor Swift concert plot suspect sentenced to 15 years</title>
   <link>https://www.dw.com/en/austria-taylor-swift-concert-plot-suspect-sentenced-to-15-years/a-77338187?maca=en-rss-en-all-1573-rdf</link>
@@ -182,7 +201,7 @@
  <item rdf:about="https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-rdf">
   <title>Iran, US reportedly agree to deal, pending Trump approval</title>
   <link>https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-rdf</link>
-  <description>US media reported that American and Iranian negotiators have agreed to resume nuclear talks and allow shipping in the Strait of Hormuz. Meanwhile, Israel has launched strikes across Lebanon. DW has the latest.</description>
+  <description>US media reported that American and Iranian negotiators have agreed to resume nuclear talks and allow shipping in the Strait of Hormuz. Meanwhile, Israel has launched strikes across Lebanon.</description>
   <dc:date>2026-05-28T17:27:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -317,20 +336,11 @@
  <item rdf:about="https://www.dw.com/en/ukraine-eu-s-kallas-warns-against-russian-mediator-trap/live-77326509?maca=en-rss-en-all-1573-rdf">
   <title>Ukraine: EU&apos;s Kallas warns against Russian mediator &apos;trap&apos;</title>
   <link>https://www.dw.com/en/ukraine-eu-s-kallas-warns-against-russian-mediator-trap/live-77326509?maca=en-rss-en-all-1573-rdf</link>
-  <description>The European Union&apos;s top diplomat, Kaja Kallas, has warned member states against falling into a Russian &quot;trap&quot; in future negotiations on Ukraine as the bloc&apos;s foreign ministers meet in Cyprus. DW has more.</description>
+  <description>The European Union&apos;s top diplomat, Kaja Kallas, has warned member states against falling into a Russian &quot;trap&quot; in future negotiations on Ukraine as the bloc&apos;s foreign ministers meet in Cyprus.</description>
   <dc:date>2026-05-28T10:17:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77326509</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-former-cia-officer-charged-with-stealing-gold-bars-from-government/a-77326438?maca=en-rss-en-all-1573-rdf">
-  <title>US: Former CIA officer charged with stealing gold bars from government</title>
-  <link>https://www.dw.com/en/us-former-cia-officer-charged-with-stealing-gold-bars-from-government/a-77326438?maca=en-rss-en-all-1573-rdf</link>
-  <description>A former CIA official with top secret-level clearance is accused of stealing gold bars worth millions from the US government and stashing them in his home. Investigators also seized foreign currency and luxury watches.</description>
-  <dc:date>2026-05-28T09:50:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77326438</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/new-ebola-cases-in-congo-what-you-need-to-know/a-77325922?maca=en-rss-en-all-1573-rdf">
   <title>New Ebola cases in Congo: What you need to know</title>

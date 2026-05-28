@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_=1780005371" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 28 May 2026 21:56:11 +0000</lastBuildDate>
-    <pubDate>Thu, 28 May 2026 21:53:57 +0000</pubDate>
+    <lastBuildDate>Thu, 28 May 2026 23:21:36 +0000</lastBuildDate>
+    <pubDate>Thu, 28 May 2026 23:16:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal" rel="standout"></atom:link>
       <description>President Trump has not signed off on the emerging framework, according to U.S. officials. But it could set the table for extending the cease-fire and more substantive negotiations.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 28 May 2026 21:47:53 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 23:16:49 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/28/multimedia/28mideast-live-header-5pm-hgtq/28mideast-live-header-5pm-hgtq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Majid Saeedi/Getty Images</media:credit>
       <media:description>A ship anchored in the Strait of Hormuz, near Larak Island, Iran, this month.</media:description>
@@ -146,7 +146,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html" rel="standout"></atom:link>
       <description>Speaking in New York, the Canadian prime minister called for a new relationship between Canada and United States.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Thu, 28 May 2026 19:36:43 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 22:24:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -307,6 +307,33 @@
       <media:description>At the Grand Bazaar in Tehran this month. For a quarter of a year, most Iranians were only able to access a “domestic internet” of government-approved apps and websites.</media:description>
     </item>
     <item>
+      <title>A Draft U.S.-Iran Plan Is Said to Be on the Table. Here’s What to Know.</title>
+      <link>https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/28/world/middleeast/iran-us-agreement-plan.html" rel="standout"></atom:link>
+      <description>U.S. and Iranian officials say they are closing in on the terms of a preliminary agreement. Yet sticking points, particularly over the Strait of Hormuz, remain.</description>
+      <dc:creator>Erika Solomon and Farnaz Fassihi</dc:creator>
+      <pubDate>Thu, 28 May 2026 22:10:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uranium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/28/multimedia/00int-iran-deal-01-jqfw/00int-iran-deal-01-jqfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>A billboard in Tehran depicting the closure of the Strait of Hormuz in May.</media:description>
+    </item>
+    <item>
       <title>Israel to Cut Ties With U.N. Chief Over Its Inclusion on Sexual Violence Blacklist</title>
       <link>https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/28/world/middleeast/israel-un-abuse-report.html</guid>
@@ -442,13 +469,13 @@
       <media:description>Francesca Albanese, the U.N.’s special rapporteur for the Israeli-occupied West Bank and Gaza, in March.</media:description>
     </item>
     <item>
-      <title>U.S. and Iran Move Toward Arrangement to Reopen the Strait of Hormuz</title>
+      <title>U.S. and Iran Move Toward Agreement to Reopen the Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html</guid>
       <atom:link href="https://www.nytimes.com/2026/05/28/world/middleeast/us-iran-war-strait.html" rel="standout"></atom:link>
-      <description>President Trump has yet to sign off on an emerging agreement that would extend the cease-fire while they negotiate nuclear and other issues.</description>
-      <dc:creator>Maggie Haberman, Jonathan Swan and Tyler Pager</dc:creator>
-      <pubDate>Thu, 28 May 2026 18:59:00 +0000</pubDate>
+      <description>President Trump has yet to sign off on an extension of the cease-fire that would allow the two sides to negotiate nuclear and other issues.</description>
+      <dc:creator>Maggie Haberman, Jonathan Swan, Tyler Pager and David E. Sanger</dc:creator>
+      <pubDate>Thu, 28 May 2026 22:34:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
@@ -490,7 +517,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Maggie Haberman, Jonathan Swan, Tyler Pager, Eric Schmitt and Alan Yuhas</dc:creator>
-      <pubDate>Thu, 28 May 2026 21:47:51 +0000</pubDate>
+      <pubDate>Thu, 28 May 2026 23:00:18 +0000</pubDate>
     </item>
     <item>
       <title>U.S. Strikes Military Sites in Iran for Second Time in 3 Days</title>
@@ -1052,47 +1079,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/26/multimedia/26mideast-us-strikes-fhtq/26mideast-us-strikes-fhtq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>The Strait of Hormuz off the coast of Musandam, Oman, on Monday.</media:description>
-    </item>
-    <item>
-      <title>A Spring Heat Wave Is Breaking Records in the U.K., Spain and France</title>
-      <link>https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/26/world/europe/europe-heatwave-uk-spain-france.html" rel="standout"></atom:link>
-      <description>Authorities in Britain and France warned that “unprecedented” temperatures — at a time when few expected them — could persist. Climate change has made heat waves more frequent and more intense.</description>
-      <dc:creator>Lynsey Chutel and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Tue, 26 May 2026 21:33:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Met Office (United Kingdom)</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Edinburgh (Scotland)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/26/multimedia/26int-europe-heat-caino-vqfl/26int-europe-heat-caino-vqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Taylor/Reuters</media:credit>
-      <media:description>Temperatures in London climbed to 34.8 degrees Celsius, or nearly 95 degrees Fahrenheit, on Monday.</media:description>
-    </item>
-    <item>
-      <title>Paris School Worker Tried on Assault Charges in Widespread Child Abuse Inquiry</title>
-      <link>https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/26/world/europe/child-abuse-trial-school-paris.html" rel="standout"></atom:link>
-      <description>The 36-year-old, named in the French news media as David G., is among more than 70 employees at schools in the capital who have been recently suspended or fired over allegations of sexual abuse and other misconduct.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Wed, 27 May 2026 03:07:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/26/multimedia/26int-france-abuse-vwlq/26int-france-abuse-vwlq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Simon Wohlfahrt/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Demonstrators gathered outside court in Paris on Tuesday to protest allegations of sexual abuse in schools.</media:description>
     </item>
   </channel>
 </rss>

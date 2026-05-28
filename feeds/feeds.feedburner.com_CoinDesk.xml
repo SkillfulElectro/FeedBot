@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 28 May 2026 20:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 22:08:07 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Calamos bets protected Bitcoin ETFs can outlast crypto market swings]]></title>
+      <link>https://www.coindesk.com/coindesk-news/2026/05/28/calamos-bets-protected-bitcoin-etfs-can-outlast-crypto-market-swings</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3e122c11f3af7ae63f9dd46ee331ad25ceeee3fc-1796x1000.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="/video/bitcoin-etfs-bleed-1b-as-capital-rotates-into-hype-sol-xrp" type="video/*" medium="video"/>
+      <guid isPermaLink="false">6be2e1bc-fb1b-4e53-8686-3ddd7331f6ae</guid>
+      <pubDate>Thu, 28 May 2026 22:03:42 +0000</pubDate>
+      <description><![CDATA[As more than $1 billion exited spot Bitcoin ETFs last week, Calamos says investors are rotating into Bitcoin products with built-in downside protection.]]></description>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-news"><![CDATA[CoinDesk News]]></category>
+      <category domain="tag"><![CDATA[Media Network Interview]]></category>
+      <category domain="tag"><![CDATA[ETFs]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Crypto trading firm FalconX confidentially files with SEC for IPO, hires bankers]]></title>
       <link>https://www.coindesk.com/business/2026/05/28/crypto-trading-firm-falconx-confidentially-files-with-sec-for-ipo-hires-bankers</link>
@@ -387,21 +403,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto slides on Hormuz airstrikes as $897 million in long liquidations pile up]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/28/crypto-slides-on-hormuz-airstrikes-as-usd897-million-in-long-liquidations-pile-up</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4e6cecfad8f5fe84fd41fba2940f4a96e5fd0e86-1874x1058.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">c39ffd91-d3be-4c77-8959-ea98cde4be66</guid>
-      <pubDate>Thu, 28 May 2026 10:44:52 +0000</pubDate>
-      <description><![CDATA[BTC dropped to its lowest since April 13 and ETH broke below $2,000 as U.S. airstrikes stoked inflation concerns, wiping out nearly $900 million in leveraged longs.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

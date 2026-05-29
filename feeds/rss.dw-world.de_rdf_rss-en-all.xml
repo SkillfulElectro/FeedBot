@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-29T22:14:58Z</dc:date>
+  <dc:date>2026-05-29T23:49:47Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf"/>
@@ -29,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/experts-germany-s-progress-on-climate-goals-insufficient/a-77306041?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kenya-court-blocks-us-plan-for-ebola-quarantine-facility/a-77341442?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-climate-activists-target-tank-factory/live-77340490?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-top-court-allows-vinesh-phogat-s-asiad-entry/live-77339242?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/superbug-crisis-how-drugs-that-cure-you-end-up-in-rivers-soils/a-77172236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-moves-to-symbolically-repeal-slavery-legislation/a-77332888?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/suez-panama-canals-charge-for-transit-why-can-t-hormuz/a-77325707?maca=en-rss-en-all-1573-rdf"/>
@@ -161,6 +162,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf">
+  <title>US: Judge rules Trump name must be removed from Kennedy Center</title>
+  <link>https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf</link>
+  <description>Trump criticized the ruling, saying the judge &quot;should be ashamed of himself,&quot; but will hand the venue over to Congress.</description>
+  <dc:date>2026-05-29T22:55:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77352605</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-rdf">
+  <title>Ghana approves law criminalizing LGBTQ promotion activities</title>
+  <link>https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ghana&apos;s parliament passed one of the most repressive anti-LGBTQ laws in Africa. The law imposes prison terms on individuals who promote LGBTQ activities.</description>
+  <dc:date>2026-05-29T22:41:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77352654</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf">
   <title>Laos: First villager rescued from flooded cave</title>
   <link>https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf</link>
@@ -322,15 +341,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77340490</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-top-court-allows-vinesh-phogat-s-asiad-entry/live-77339242?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Top court allows Vinesh Phogat&apos;s Asiad entry</title>
-  <link>https://www.dw.com/en/india-news-top-court-allows-vinesh-phogat-s-asiad-entry/live-77339242?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Supreme Court of India has cleared the way for Indian wrestler Vinesh Phogat to compete in the Asian Games trials. Meanwhile, the Karnataka governor has accepted Siddaramaiah&apos;s resignation.</description>
-  <dc:date>2026-05-29T08:39:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77339242</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/superbug-crisis-how-drugs-that-cure-you-end-up-in-rivers-soils/a-77172236?maca=en-rss-en-all-1573-rdf">
   <title>Superbug crisis: How drugs that cure you end up in rivers, soils</title>

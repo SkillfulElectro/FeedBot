@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-29T20:29:32Z</dc:date>
+  <dc:date>2026-05-29T22:14:58Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-halts-trump-s-anti-weaponization-fund/a-77351158?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-climate-activists-target-tank-factory/live-77340490?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-top-court-allows-vinesh-phogat-s-asiad-entry/live-77339242?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/superbug-crisis-how-drugs-that-cure-you-end-up-in-rivers-soils/a-77172236?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/civilians-in-lebanon-hit-hardest-as-israel-targets-hezbollah/a-77332295?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-moves-to-symbolically-repeal-slavery-legislation/a-77332888?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/suez-panama-canals-charge-for-transit-why-can-t-hormuz/a-77325707?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/reiche-brings-energy-sector-ties-to-german-economy-ministry/a-77334326?maca=en-rss-en-all-1573-rdf"/>
@@ -161,6 +161,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf">
+  <title>Laos: First villager rescued from flooded cave</title>
+  <link>https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf</link>
+  <description>Seven villagers entered the cave last week and became trapped inside by flash flooding that blocked their way out. Five of them were found two days ago alive and in good health.</description>
+  <dc:date>2026-05-29T20:31:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77352441</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf">
   <title>Romania&apos;s political crisis deepens</title>
   <link>https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf</link>
@@ -331,15 +340,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77172236</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/civilians-in-lebanon-hit-hardest-as-israel-targets-hezbollah/a-77332295?maca=en-rss-en-all-1573-rdf">
-  <title>Civilians in Lebanon hit hardest as Israel targets Hezbollah</title>
-  <link>https://www.dw.com/en/civilians-in-lebanon-hit-hardest-as-israel-targets-hezbollah/a-77332295?maca=en-rss-en-all-1573-rdf</link>
-  <description>As Israel expands military operations in Lebanon and Hezbollah digs in, peace hopes for the upcoming direct talks between Israel and Lebanon in Washington are fading. Is the country heading for a humanitarian collapse?</description>
-  <dc:date>2026-05-29T05:29:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77332295</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/france-moves-to-symbolically-repeal-slavery-legislation/a-77332888?maca=en-rss-en-all-1573-rdf">
   <title>France moves to symbolically repeal slavery legislation</title>

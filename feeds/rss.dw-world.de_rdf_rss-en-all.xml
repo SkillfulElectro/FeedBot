@@ -7,13 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-30T09:20:20Z</dc:date>
+  <dc:date>2026-05-30T10:57:50Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-myanmar-president-arrives-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-rdf"/>
@@ -21,7 +23,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/top-us-and-cuban-generals-meet-at-guantanamo-bay/a-77352669?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-halts-trump-s-anti-weaponization-fund/a-77351158?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/fuel-hikes-is-ride-hailing-becoming-a-luxury-in-lagos/a-77299355?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kai-havertz-arsenal-and-germany-s-man-for-the-big-moment/a-77308660?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-deepens-taiwan-ties-amid-china-tensions/a-77344690?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pigeons-livers-may-enable-magnetic-navigation-when-the-sun-doesn-t-shine-study-finds/a-77341403?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf">
+  <title>Laos: Five people rescued from flooded cave</title>
+  <link>https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf</link>
+  <description>Seven people who entered the cave last week were trapped inside by flash flooding that blocked their way. Five of them found some days ago have been freed after rescuers pumped water out of the cave system.</description>
+  <dc:date>2026-05-30T09:34:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77352441</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf">
+  <title>Russia recalls Armenia ambassador over EU ties</title>
+  <link>https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf</link>
+  <description>It comes a day after Putin warned Armenia against seeking EU membership and alluded to the &quot;Ukrainian scenario.&quot; Yerevan historically has strong ties to Moscow but has pivoted to the West in recent years.</description>
+  <dc:date>2026-05-30T09:27:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77354081</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf">
   <title>Malta votes in snap parliamentary election</title>
   <link>https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf</link>
@@ -177,9 +195,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77353393</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Myanmar president arrives in Delhi to boost ties</title>
-  <link>https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/india-news-myanmar-president-arrives-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Myanmar president arrives to boost ties</title>
+  <link>https://www.dw.com/en/india-news-myanmar-president-arrives-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf</link>
   <description>Myanmar President Min Aung Hlaing is on a five-day visit to India, where he will hold talks with Prime Minister Narendra Modi. Meanwhile, Karnataka is readying itself for a Cabinet change. Follow DW for more.</description>
   <dc:date>2026-05-30T07:42:00Z</dc:date>
   <dc:subject>News</dc:subject>
@@ -248,15 +266,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77352654</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf">
-  <title>Laos: First villager rescued from flooded cave</title>
-  <link>https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf</link>
-  <description>Seven villagers entered the cave last week and became trapped inside by flash flooding that blocked their way out. Five of them were found two days ago alive and in good health.</description>
-  <dc:date>2026-05-29T20:31:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77352441</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf">
   <title>Romania&apos;s political crisis deepens</title>
@@ -329,15 +338,6 @@
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77262996</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/fuel-hikes-is-ride-hailing-becoming-a-luxury-in-lagos/a-77299355?maca=en-rss-en-all-1573-rdf">
-  <title>Fuel hikes: Is ride-hailing becoming a luxury in Lagos?</title>
-  <link>https://www.dw.com/en/fuel-hikes-is-ride-hailing-becoming-a-luxury-in-lagos/a-77299355?maca=en-rss-en-all-1573-rdf</link>
-  <description>Rising fares and fuel costs are reshaping how ride‑hailing is used in Lagos. While some commuters rely on it more than ever, others are cutting back, switching apps or turning to cheaper transport.</description>
-  <dc:date>2026-05-29T14:49:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77299355</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/kai-havertz-arsenal-and-germany-s-man-for-the-big-moment/a-77308660?maca=en-rss-en-all-1573-rdf">
   <title>Kai Havertz: Arsenal and Germany&apos;s man for the big moment</title>

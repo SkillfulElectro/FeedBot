@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-30T10:57:50Z</dc:date>
+  <dc:date>2026-05-30T12:10:34Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf"/>
@@ -144,7 +145,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/how-rosalia-became-a-global-pop-force/a-77052783?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-hantavirus/a-77047777?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-sea-that-is-vanishing-in-real-time/a-76813409?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/from-india-to-iran-how-hitler-redefined-aryan-for-the-nazis/a-77046616?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/why-saudi-arabia-is-withdrawing-from-sport/a-77032858?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/women-s-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-rdf">
+  <title>What Hungary must do to receive EU funds frozen under Orban</title>
+  <link>https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-rdf</link>
+  <description>Prime Minister Peter Magyar and European Commission President Ursula von der Leyen announced a deal that could free up over €16 billion in EU funds for Hungary. Now, Magyar&apos;s new government needs to deliver.</description>
+  <dc:date>2026-05-30T11:11:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77354206</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf">
   <title>Laos: Five people rescued from flooded cave</title>
   <link>https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf</link>
@@ -171,7 +180,7 @@
  <item rdf:about="https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf">
   <title>Russia recalls Armenia ambassador over EU ties</title>
   <link>https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf</link>
-  <description>It comes a day after Putin warned Armenia against seeking EU membership and alluded to the &quot;Ukrainian scenario.&quot; Yerevan historically has strong ties to Moscow but has pivoted to the West in recent years.</description>
+  <description>The recall comes a day after Putin warned Armenia against seeking EU membership and alluded to the &quot;Ukrainian scenario.&quot; Armenia historically has strong ties with Russia but has pivoted toward the West in recent years.</description>
   <dc:date>2026-05-30T09:27:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -1355,15 +1364,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>76813409</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/from-india-to-iran-how-hitler-redefined-aryan-for-the-nazis/a-77046616?maca=en-rss-en-all-1573-rdf">
-  <title>From India to Iran: How Hitler redefined &apos;Aryan&apos; for the Nazis</title>
-  <link>https://www.dw.com/en/from-india-to-iran-how-hitler-redefined-aryan-for-the-nazis/a-77046616?maca=en-rss-en-all-1573-rdf</link>
-  <description>According to Nazi ideology, an ideal &quot;Aryan&quot; was blond, blue-eyed with athletic features. The term is still tied to Nazi Germany, but its origin lies elsewhere.</description>
-  <dc:date>2026-05-05T08:56:00Z</dc:date>
-  <dc:subject>Culture</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77046616</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-all-1573-rdf">
   <title>Dubai&apos;s image as a financial hub faces its biggest test yet</title>

@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-30T18:39:58Z</dc:date>
+  <dc:date>2026-05-30T20:11:12Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-all-1573-rdf"/>
@@ -87,7 +88,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/will-germany-s-aviation-tax-cut-lower-ticket-prices/a-75022175?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-reaches-out-to-gulf-states-over-iran-war/a-77249238?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/turkey-dw-s-alican-uludag-released-but-trial-continues/a-77247916?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-2026-world-cup-squad-announcement-neuer-returns/a-77212854?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/extreme-climate-scenario-fades-but-warming-continues/a-77238401?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-rdf">
+  <title>Turkey: Ousted CHP leader draws thousands for Ankara rally</title>
+  <link>https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-rdf</link>
+  <description>The opposition party and its supporters say a court ruling that ousted Ozgur Ozel is politically motivated to ensure he can&apos;t challenge President Recep Tayyip Erdogan in the 2028 election.</description>
+  <dc:date>2026-05-30T18:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77359342</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-rdf">
   <title>Film funding bill to support blockbusters made in Germany</title>
   <link>https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-rdf</link>
@@ -225,7 +234,7 @@
  <item rdf:about="https://www.dw.com/en/germany-news-alpine-pass-reopened-after-large-protest/live-77353393?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Alpine pass reopened after large protest</title>
   <link>https://www.dw.com/en/germany-news-alpine-pass-reopened-after-large-protest/live-77353393?maca=en-rss-en-all-1573-rdf</link>
-  <description>Thousands of people took part in the blockade of Brenner Pass, an Austrian road linking Germany and Italy, demanding less traffic. And a German minister is looking to crack down on screen time for kids. DW has more.</description>
+  <description>Thousands of people took part in the blockade of Brenner Pass, an Austrian road linking Germany and Italy. Meanwhile, a German minister is looking to crack down on screen time for children. DW has more.</description>
   <dc:date>2026-05-30T08:04:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -842,15 +851,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77249238</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/turkey-dw-s-alican-uludag-released-but-trial-continues/a-77247916?maca=en-rss-en-all-1573-rdf">
-  <title>Turkey: DW&apos;s Alican Uludag released, but trial continues</title>
-  <link>https://www.dw.com/en/turkey-dw-s-alican-uludag-released-but-trial-continues/a-77247916?maca=en-rss-en-all-1573-rdf</link>
-  <description>A Turkish court has allowed DW reporter Alican Uludag to leave detention as his contentious trial opens. He is accused of having &quot;insulted&quot; President Recep Tayyip Erdogan, which in Turkey can carry a jail sentence.</description>
-  <dc:date>2026-05-21T13:45:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77247916</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-2026-world-cup-squad-announcement-neuer-returns/a-77212854?maca=en-rss-en-all-1573-rdf">
   <title>Germany 2026 World Cup squad announcement: Neuer returns</title>

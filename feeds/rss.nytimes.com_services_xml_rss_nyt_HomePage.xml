@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 30 May 2026 20:10:32 +0000</lastBuildDate>
-    <pubDate>Sat, 30 May 2026 19:50:08 +0000</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 21:29:22 +0000</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 21:25:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -121,13 +121,14 @@
       <description>The wife of Graham Platner, the Democratic candidate in Maine, told the campaign he had sent sexual messages to other women.</description>
       <dc:creator>Katie Glueck and Lisa Lerer</dc:creator>
       <pubDate>Sat, 30 May 2026 18:59:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mills, Janet T (1947- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/30/multimedia/30Pol-Platner-topart-glkt/30Pol-Platner-topart-glkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sophie Park for The New York Times</media:credit>
       <media:description>Graham Platner, the Democratic candidate for Senate in Maine, during a campaign event in April. </media:description>
@@ -204,12 +205,19 @@
       <atom:link href="https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html" rel="standout"></atom:link>
       <description>A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections.</description>
       <dc:creator>Declan Walsh and Arlette Bashizi</dc:creator>
-      <pubDate>Sat, 30 May 2026 16:15:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <pubDate>Sat, 30 May 2026 16:15:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongbwalu (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Care Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/30/multimedia/30int-ebola-epicenter-promo-lczg/30int-ebola-epicenter-promo-lczg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
     </item>
@@ -277,7 +285,7 @@
       <atom:link href="https://www.nytimes.com/2026/05/30/world/middleeast/iran-mens-soccer-team-world-cup.html" rel="standout"></atom:link>
       <description>The Iranian soccer players, still awaiting visas to the U.S., are practicing in Turkey and making backup plans.</description>
       <dc:creator>Tariq Panja</dc:creator>
-      <pubDate>Sat, 30 May 2026 19:50:08 +0000</pubDate>
+      <pubDate>Sat, 30 May 2026 20:12:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
@@ -294,70 +302,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/05/31/multimedia/31int-worldcup-iran-camp-new-top-pjtm/31int-worldcup-iran-camp-new-top-pjtm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Umit Bektas/Reuters</media:credit>
       <media:description>Members of Iran’s national soccer team practicing in Antalya, Turkey, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>The Russian Drone That Hit Romania Also Hit European Confidence</title>
-      <link>https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html" rel="standout"></atom:link>
-      <description>The failure to protect NATO territory further increased anxiety about alliance solidarity, Russia’s intentions and Washington’s commitment to collective defense.</description>
-      <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Sat, 30 May 2026 17:01:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/30/multimedia/30int-europe-romania-assess-ftkz/30int-europe-romania-assess-ftkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andreea Campeanu for The New York Times</media:credit>
-      <media:description>Residents near a building that was struck by Russian drone in Galati, eastern Romania, on Friday.</media:description>
-    </item>
-    <item>
-      <title>A Big Bang, a Fire and Panic as War Enters Romanian Homes</title>
-      <link>https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/30/world/europe/romania-drone-russia-ukraine.html" rel="standout"></atom:link>
-      <description>When a drone crashed into an apartment building in eastern Romania, residents were reminded that the Russia-Ukraine war makes for a dangerous neighbor.</description>
-      <dc:creator>Andreea Campeanu and Andrew Higgins</dc:creator>
-      <pubDate>Sat, 30 May 2026 19:10:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dan, Nicusor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medvedev, Dmitri A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Danube River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/30/multimedia/30int-romania-scene-vqwg/30int-romania-scene-vqwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andreea Campeanu for The New York Times</media:credit>
-      <media:description>A temporary cover for a hole in the roof of a building in Galati, Romania, on Saturday, after a Russian drone slammed into a residential block on Friday.</media:description>
-    </item>
-    <item>
-      <title>How Ukraine’s Street Style Is Shaped by the War</title>
-      <link>https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/28/world/europe/ukraine-war-street-style-fashion-military.html" rel="standout"></atom:link>
-      <description>In Kyiv, military-inspired fashion can be seen everywhere. Soldiers and civilians alike say it’s a show of solidarity, not a fad.</description>
-      <dc:creator>Daria Mitiuk and Brendan Hoffman</dc:creator>
-      <pubDate>Thu, 28 May 2026 13:30:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="">street style</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/13/multimedia/00int-ukraine-clothes-02-promo/00int-ukraine-clothes-02-mght-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
     <item>
       <title>Want to ‘Optimize’ Your Happiness? This Happiness Expert Says: Don’t.</title>
@@ -384,25 +328,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/07/magazine/07mag-interview-santos-03/07mag-interview-santos-03-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Philip Montgomery for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Making Motherhood and a Long Tennis Career Possible</title>
-      <link>https://www.nytimes.com/2026/05/30/business/tennis-wta-in-vitro-fertilization.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/30/business/tennis-wta-in-vitro-fertilization.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/30/business/tennis-wta-in-vitro-fertilization.html" rel="standout"></atom:link>
-      <description>Tennis is a solitary sport, but with new fertility benefits, a sisterhood of egg freezers is emerging in locker rooms and players’ lounges.</description>
-      <dc:creator>Tania Ganguli</dc:creator>
-      <pubDate>Sat, 30 May 2026 09:00:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egg Donation and Freezing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s Tennis Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Linette, Magda (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sharapova, Maria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stephens, Sloane</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/31/multimedia/00biz-tennis-fertility-01-czkv/00biz-tennis-fertility-01-czkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matthew Avignone for The New York Times</media:credit>
-      <media:description>“I have found this absolutely newfound admiration for women that go through those cycles over and over,” Magda Linette said.</media:description>
     </item>
     <item>
       <title>How to Legalize Starter Homes</title>
@@ -461,42 +386,25 @@
       <media:credit>Illustration by The New York Times; photo by Andrew Caballero-Reynolds/Getty</media:credit>
     </item>
     <item>
-      <title>Among Mamdani’s Priorities, Economic Development Seems Low on the List</title>
-      <link>https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/29/nyregion/mamdani-edc-economy-nyc.html" rel="standout"></atom:link>
-      <description>Mayor Zohran Mamdani has not filled the vacant role of president of the Economic Development Corporation, deepening concern over his attention to the New York City economy.</description>
-      <dc:creator>Dana Rubinstein, Sally Goldenberg, Jeffery C. Mays and Emma Goldberg</dc:creator>
-      <pubDate>Sat, 30 May 2026 03:10:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Economic Development Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/30/multimedia/30met-mamdani-edc1-wjzf/30met-mamdani-edc1-wjzf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani’s team has considered at least 10 people as they look to hire a president of the city’s Economic Development Corporation. </media:description>
-    </item>
-    <item>
-      <title>Colombia’s Elections Are a Crucial Test for the Left in Latin America</title>
-      <link>https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/05/30/world/americas/colombia-election-latin-america-left.html" rel="standout"></atom:link>
-      <description>Colombia’s leftist candidate for president leads in polls, but his main rival — a far-right outsider who calls himself “The Tiger” — has gained momentum.</description>
-      <dc:creator>Annie Correal</dc:creator>
-      <pubDate>Sat, 30 May 2026 19:08:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Crisis Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petro, Gustavo</category>
+      <title>The Russian Drone That Hit Romania Also Hit European Confidence</title>
+      <link>https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/05/30/world/europe/europe-nato-russia-anxiety.html" rel="standout"></atom:link>
+      <description>The failure to protect NATO territory further increased anxiety about alliance solidarity, Russia’s intentions and Washington’s commitment to collective defense.</description>
+      <dc:creator>Steven Erlanger</dc:creator>
+      <pubDate>Sat, 30 May 2026 17:01:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/30/multimedia/30int-colombia-election01-photo-kbjg/30int-colombia-election01-photo-kbjg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Abelardo De La Espriella, a far-right candidate for president of Colombia, closed his campaign in the city of Medellín.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/30/multimedia/30int-europe-romania-assess-ftkz/30int-europe-romania-assess-ftkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andreea Campeanu for The New York Times</media:credit>
+      <media:description>Residents near a building that was struck by Russian drone in Galati, eastern Romania, on Friday.</media:description>
     </item>
     <item>
       <title>In a Quiet Corner of America, Greyhound Racing Hangs On. For Now.</title>

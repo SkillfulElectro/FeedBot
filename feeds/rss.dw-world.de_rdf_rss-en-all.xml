@@ -7,10 +7,13 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-30T06:48:35Z</dc:date>
+  <dc:date>2026-05-30T09:20:20Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/fuel-hikes-is-ride-hailing-becoming-a-luxury-in-lagos/a-77299355?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kai-havertz-arsenal-and-germany-s-man-for-the-big-moment/a-77308660?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-oman-stuck-between-trump-and-tehran/a-77345795?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-deepens-taiwan-ties-amid-china-tensions/a-77344690?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/pigeons-livers-may-enable-magnetic-navigation-when-the-sun-doesn-t-shine-study-finds/a-77341403?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/superbug-crisis-how-drugs-that-cure-you-end-up-in-rivers-soils/a-77172236?maca=en-rss-en-all-1573-rdf"/>
@@ -158,10 +159,37 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf">
+  <title>Malta votes in snap parliamentary election</title>
+  <link>https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf</link>
+  <description>Voting is underway in Malta&apos;s parliamentary election. Opinion polls show Prime Minister Robert Abela on course for reelection in the shadow of the Middle East crisis.</description>
+  <dc:date>2026-05-30T08:40:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77353620</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Chaos possible as demo blocks Alpine pass</title>
+  <link>https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf</link>
+  <description>A demonstration is planned at a major pass through the Alps, with huge traffic disruption possible. And a German minister is looking to crack down on screen time for kids. DW has more.</description>
+  <dc:date>2026-05-30T08:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77353393</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Myanmar president arrives in Delhi to boost ties</title>
+  <link>https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf</link>
+  <description>Myanmar President Min Aung Hlaing is on a five-day visit to India, where he will hold talks with Prime Minister Narendra Modi. Meanwhile, Karnataka is readying itself for a Cabinet change. Follow DW for more.</description>
+  <dc:date>2026-05-30T07:42:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77353482</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: US says ready to resume war if no deal reached</title>
   <link>https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf</link>
-  <description>The United States says it is &quot;more than capable&quot; of resuming a war with Iran after President Donald Trump said a touted peace deal must include his red lines. Iran has denied there is a final agreement. DW has more.</description>
+  <description>The United States is &quot;more than capable&quot; of resuming a war with Iran after President Donald Trump said a touted peace deal must include his red lines. Iran has denied that there is a final agreement. DW has more.</description>
   <dc:date>2026-05-30T06:35:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -319,24 +347,6 @@
   <dc:subject>Sports</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77308660</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692?maca=en-rss-en-all-1573-rdf">
-  <title>South Korea pushes nuclear-powered submarine plan</title>
-  <link>https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692?maca=en-rss-en-all-1573-rdf</link>
-  <description>Seoul&apos;s plans for nuclear-powered vessels come as regional rivals ramp up undersea capabilities, raising concerns over a widening military buildup.</description>
-  <dc:date>2026-05-29T13:34:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77348692</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-war-oman-stuck-between-trump-and-tehran/a-77345795?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: Oman stuck between Trump and Tehran</title>
-  <link>https://www.dw.com/en/iran-war-oman-stuck-between-trump-and-tehran/a-77345795?maca=en-rss-en-all-1573-rdf</link>
-  <description>Oman is one of the most important mediators between Washington and Tehran. So why did Donald Trump threaten the sultanate with a military strike?</description>
-  <dc:date>2026-05-29T12:11:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77345795</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-deepens-taiwan-ties-amid-china-tensions/a-77344690?maca=en-rss-en-all-1573-rdf">
   <title>Germany deepens Taiwan ties amid China tensions</title>

@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-30T21:34:18Z</dc:date>
+  <dc:date>2026-05-30T23:00:25Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/france-police-detain-many-after-psg-champions-league-win/a-77360699?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/psg-s-team-of-talents-retain-champions-league-title/a-77360206?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kai-havertz-arsenal-and-germany-s-man-for-the-big-moment/a-77308660?maca=en-rss-en-all-1573-rdf"/>
@@ -82,7 +83,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/kevin-warsh-trump-ally-at-the-federal-reserve/a-77248236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/the-dying-dream-of-the-dead-to-be-at-peace-with-life/a-77197682?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/what-happened-to-jailed-belarus-dissident-raman-pratasevich/a-77250853?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-the-cannes-2026-films-reflect-a-world-in-conflict/a-77248443?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dw-exclusive-germany-s-far-right-afd-vows-to-make-history/a-77252189?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-rdf">
+  <title>Trump says he&apos;ll replace artists who backed out of concert with himself</title>
+  <link>https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-rdf</link>
+  <description>US President Donald Trump called the artists who canceled on the 250th anniversary event &quot;third rate,&quot; and said he would headline the event himself.</description>
+  <dc:date>2026-05-30T22:53:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77360698</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/france-police-detain-many-after-psg-champions-league-win/a-77360699?maca=en-rss-en-all-1573-rdf">
+  <title>France: Police detain many after PSG Champions League win</title>
+  <link>https://www.dw.com/en/france-police-detain-many-after-psg-champions-league-win/a-77360699?maca=en-rss-en-all-1573-rdf</link>
+  <description>Soccer fans flooded the famed Champs-Elysees and riots took place in the French capital after Paris Saint-Germain won the Champions League final.</description>
+  <dc:date>2026-05-30T22:33:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77360699</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/psg-s-team-of-talents-retain-champions-league-title/a-77360206?maca=en-rss-en-all-1573-rdf">
   <title>PSG&apos;s team of talents retain Champions League title</title>
   <link>https://www.dw.com/en/psg-s-team-of-talents-retain-champions-league-title/a-77360206?maca=en-rss-en-all-1573-rdf</link>
@@ -329,15 +347,6 @@
   <dc:subject>World</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77351943</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf">
-  <title>Romania: Russian drone strikes Galati apartment building</title>
-  <link>https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf</link>
-  <description>Romania accused Russia of a &quot;grave and irresponsible escalation&quot; after a Russian drone entered its airspace. German Chancellor Merz said &quot;we need a strong NATO presence on the eastern flank&quot; after the incident.</description>
-  <dc:date>2026-05-29T17:27:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77338487</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-all-1573-rdf">
   <title>EU unblocks €16 billion in Hungary assistance as Magyar promises reforms</title>
@@ -797,15 +806,6 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77197682</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/what-happened-to-jailed-belarus-dissident-raman-pratasevich/a-77250853?maca=en-rss-en-all-1573-rdf">
-  <title>What happened to jailed Belarus dissident Raman Pratasevich?</title>
-  <link>https://www.dw.com/en/what-happened-to-jailed-belarus-dissident-raman-pratasevich/a-77250853?maca=en-rss-en-all-1573-rdf</link>
-  <description>In 2021, Belarus diverted a Ryanair plane to seize opposition journalist Raman Pratasevich. What has happened to him since, and why is he now seemingly supporting the Belarusian regime?</description>
-  <dc:date>2026-05-22T10:41:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77250853</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/how-the-cannes-2026-films-reflect-a-world-in-conflict/a-77248443?maca=en-rss-en-all-1573-rdf">
   <title>How the Cannes 2026 films reflect a world in conflict</title>

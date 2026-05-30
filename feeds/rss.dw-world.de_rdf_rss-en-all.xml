@@ -7,15 +7,17 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-30T12:10:34Z</dc:date>
+  <dc:date>2026-05-30T14:14:13Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-large-demonstration-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-myanmar-president-arrives-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-halts-trump-s-anti-weaponization-fund/a-77351158?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/netherlands-allows-kanye-west-to-perform-despite-protests/a-77350753?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kai-havertz-arsenal-and-germany-s-man-for-the-big-moment/a-77308660?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-deepens-taiwan-ties-amid-china-tensions/a-77344690?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201?maca=en-rss-en-all-1573-rdf">
+  <title>WHO chief visits Ebola epicenter in eastern DR Congo</title>
+  <link>https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201?maca=en-rss-en-all-1573-rdf</link>
+  <description>The World Health Organization&apos;s Tedros Adhanom Ghebreyesus said he wanted to discuss the response to the outbreak with local communities in Ituri province. DR Congo has recorded over 1,000 suspected cases since mid-May.</description>
+  <dc:date>2026-05-30T12:47:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77355201</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-all-1573-rdf">
+  <title>Germany: Vaping becoming more popular among young people</title>
+  <link>https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-all-1573-rdf</link>
+  <description>A recent study shows that e-cigarettes are becoming increasingly popular among young people in Germany, with even elementary school kids picking up vapes. Health experts are alarmed.</description>
+  <dc:date>2026-05-30T12:25:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77340236</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-rdf">
   <title>What Hungary must do to receive EU funds frozen under Orban</title>
   <link>https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-rdf</link>
@@ -195,10 +213,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77353620</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Chaos possible as demo blocks Alpine pass</title>
-  <link>https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf</link>
-  <description>A demonstration is planned at a major pass through the Alps, with huge traffic disruption possible. And a German minister is looking to crack down on screen time for kids. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/germany-news-large-demonstration-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Large demonstration blocks Alpine pass</title>
+  <link>https://www.dw.com/en/germany-news-large-demonstration-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-rdf</link>
+  <description>A demonstration is being staged at a major pass through the Alps in protest at the volume of traffic. And a German minister is looking to crack down on screen time for kids. DW has more.</description>
   <dc:date>2026-05-30T08:04:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -216,7 +234,7 @@
  <item rdf:about="https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: US says ready to resume war if no deal reached</title>
   <link>https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf</link>
-  <description>The United States is &quot;more than capable&quot; of resuming a war with Iran after President Donald Trump said a touted peace deal must include his red lines. Iran has denied that there is a final agreement. DW has more.</description>
+  <description>The United States is &quot;more than capable&quot; of resuming the war with Iran, US Defense Secretary Pete Hegseth said as a permanent ceasefire remains out of reach. DW has more.</description>
   <dc:date>2026-05-30T06:35:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -320,24 +338,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77350753</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-all-1573-rdf">
-  <title>Ethiopia election 2026: Tigray excluded and on edge</title>
-  <link>https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-all-1573-rdf</link>
-  <description>As Ethiopia is heading to the polls, the Tigray region won&apos;t be participating in the vote for the second time, with tensions simmering on. Prime Minister Abiy Ahmed and his Prosperity Party meanwhile are expected to win.</description>
-  <dc:date>2026-05-29T15:31:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77346844</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-rdf">
-  <title>Iran war: US to lift naval blockade of ports, Trump says</title>
-  <link>https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-rdf</link>
-  <description>US President Donald Trump left a meeting with top advisers without announcing a &quot;final determination&quot; on a deal with Iran.</description>
-  <dc:date>2026-05-29T15:19:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77338255</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf">
   <title>What makes a vanity project? A history of building for power</title>

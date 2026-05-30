@@ -7,15 +7,17 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-30T03:40:43Z</dc:date>
+  <dc:date>2026-05-30T06:48:35Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/shangri-la-dialogue-hegseth-says-no-state-including-china-must-dominate-asia/a-77353001?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/top-us-and-cuban-generals-meet-at-guantanamo-bay/a-77352669?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/laos-first-villager-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-rdf"/>
@@ -103,7 +105,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/elversberg-bundesliga-newcomers-from-tiny-town-make-history/a-77194483?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/ebola-in-africa-why-it-s-a-constant-threat/a-71524627?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/german-singer-heino-pushes-back-against-the-far-right-afd/a-77173665?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-and-japan-test-hydrogen-future-with-bmw-toyota-cars/a-77182456?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-rdf"/>
@@ -157,10 +158,28 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf">
+  <title>Iran war: US says ready to resume war if no deal reached</title>
+  <link>https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-rdf</link>
+  <description>The United States says it is &quot;more than capable&quot; of resuming a war with Iran after President Donald Trump said a touted peace deal must include his red lines. Iran has denied there is a final agreement. DW has more.</description>
+  <dc:date>2026-05-30T06:35:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77353339</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf">
+  <title>International aid cuts complicate Congo&apos;s Ebola epidemic</title>
+  <link>https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf</link>
+  <description>The scaling back of development aid has contributed to the inability to contain the Ebola outbreak in the Democratic Republic of Congo. German organizations are calling for a major spending boost to help stop the spread.</description>
+  <dc:date>2026-05-30T05:29:00Z</dc:date>
+  <dc:subject>Science</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77320865</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-rdf">
   <title>Three Latvian mountaineers die on North America&apos;s tallest peak</title>
   <link>https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-rdf</link>
-  <description>Three climbers fell to their deaths near a perilous pass on Mount McKinley in the United States&apos; Denali National Park and Preserve. One mountaineer was rescued.</description>
+  <description>Three climbers fell to their deaths near a perilous pass on Mount McKinley in the US&apos;s Denali National Park and Preserve. One mountaineer was rescued.</description>
   <dc:date>2026-05-30T02:50:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -169,7 +188,7 @@
  <item rdf:about="https://www.dw.com/en/shangri-la-dialogue-hegseth-says-no-state-including-china-must-dominate-asia/a-77353001?maca=en-rss-en-all-1573-rdf">
   <title>Shangri-La Dialogue: Hegseth says &apos;no state, including China,&apos; must dominate Asia</title>
   <link>https://www.dw.com/en/shangri-la-dialogue-hegseth-says-no-state-including-china-must-dominate-asia/a-77353001?maca=en-rss-en-all-1573-rdf</link>
-  <description>US Secretary of Defense Pete Hegseth expressed alarm about China&apos;s military buildup in Asia. He also said the US expects its Asian allies and partners to increase defense spending to 3.5% of their GDPs.</description>
+  <description>US Defense Secretary of Pete Hegseth expressed alarm about China&apos;s military buildup in Asia. He also said the United States expects its allies and partners in Asia to increase defense spending to 3.5% of their GDP.</description>
   <dc:date>2026-05-30T02:36:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -193,10 +212,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77352605</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-rdf">
-  <title>Ghana approves law criminalizing LGBTQ promotion activities</title>
-  <link>https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ghana&apos;s parliament passed one of the most repressive anti-LGBTQ laws in Africa. The law imposes prison terms on individuals who promote LGBTQ activities.</description>
+ <item rdf:about="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf">
+  <title>Ghana approves law criminalizing LGBTQ+ activities, advocacy</title>
+  <link>https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf</link>
+  <description>Ghana&apos;s Parliament passed one of the most repressive anti-LGBTQ+ laws in Africa. The law imposes prison terms on individuals who &quot;promote&quot; LGBTQ+ activities.</description>
   <dc:date>2026-05-29T22:41:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -268,7 +287,7 @@
  <item rdf:about="https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-rdf">
   <title>Iran war: US to lift naval blockade of ports, Trump says</title>
   <link>https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-rdf</link>
-  <description>US President Donald Trump also said he is going to make a &quot;final determination&quot; on a deal with Iran during a meeting in the White House Situation Room. DW has more.</description>
+  <description>US President Donald Trump left a meeting with top advisers without announcing a &quot;final determination&quot; on a deal with Iran.</description>
   <dc:date>2026-05-29T15:19:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -277,7 +296,7 @@
  <item rdf:about="https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf">
   <title>What makes a vanity project? A history of building for power</title>
   <link>https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf</link>
-  <description>As Donald Trump proposes costly redesigns for Washington D.C., the questions arise: When do grand projects serve the public — and when do they serve the leader?</description>
+  <description>As Donald Trump proposes costly redesigns for Washington, DC, the question arises: When do grand projects serve the public — and when do they serve the leader?</description>
   <dc:date>2026-05-29T14:50:00Z</dc:date>
   <dc:subject>Culture</dc:subject>
   <dc:language>en</dc:language>
@@ -984,15 +1003,6 @@
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77173665</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf">
-  <title>Tiger escapes enclosure near Leipzig, one person injured</title>
-  <link>https://www.dw.com/en/tiger-escapes-enclosure-near-leipzig-one-person-injured/a-77189049?maca=en-rss-en-all-1573-rdf</link>
-  <description>An escaped tiger has injured a 73-year-old man near Leipzig, with police saying they shot the animal. German media reported the tiger was owned by a controversial performer.</description>
-  <dc:date>2026-05-17T12:30:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77189049</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-and-japan-test-hydrogen-future-with-bmw-toyota-cars/a-77182456?maca=en-rss-en-all-1573-rdf">
   <title>Germany and Japan test hydrogen future with BMW, Toyota cars</title>

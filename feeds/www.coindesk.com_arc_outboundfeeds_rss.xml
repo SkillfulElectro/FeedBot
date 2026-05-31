@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 30 May 2026 23:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 04:31:55 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions]]></title>
+      <link>https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/92e1b9587d9046ddc71662c77ea0332e9f8a8771-3840x2160.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">2cef015d-5cb1-4307-a4a7-55520d3899ad</guid>
+      <pubDate>Sun, 31 May 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[A draft XRPL amendment notes that flash loan attacks are "structurally impossible" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots]]></title>
       <link>https://www.coindesk.com/business/2026/05/30/sec-sues-texas-man-over-usd12-3-million-alleged-crypto-scheme-built-on-fake-ai-trading-bots</link>
@@ -371,21 +384,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Hack]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[OKX Ventures buys $53 million stake in Korea's Coinone exchange ]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/29/okx-ventures-buys-usd53-million-stake-in-korea-s-coinone-exchange</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2a5375a52db6596c0f51e89041e53f604c35310b-4240x2832.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">edbed18d-9c6b-4df3-9a18-c47cbb6497ff</guid>
-      <pubDate>Fri, 29 May 2026 06:07:27 +0000</pubDate>
-      <description><![CDATA[The crypto exchange's investment arm and Korea Investment & Securities will each invest 80 billion won ($53 million) as Coinone pushes into stablecoins and tokenized securities.]]></description>
-      <dc:creator>Sam Reynolds</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[mergers and acquisitions]]></category>
-      <category domain="tag"><![CDATA[South Korea]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

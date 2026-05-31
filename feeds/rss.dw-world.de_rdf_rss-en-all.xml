@@ -7,10 +7,12 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-31T00:10:53Z</dc:date>
+  <dc:date>2026-05-31T05:03:43Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/france-police-detain-many-after-psg-champions-league-win/a-77360699?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/psg-s-team-of-talents-retain-champions-league-title/a-77360206?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/shangri-la-dialogue-hegseth-says-no-state-including-china-must-dominate-asia/a-77353001?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/top-us-and-cuban-generals-meet-at-guantanamo-bay/a-77352669?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-rdf"/>
@@ -158,6 +158,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-all-1573-rdf">
+  <title>Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike</title>
+  <link>https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-all-1573-rdf</link>
+  <description>Russia claims that a Ukrainian drone struck the Zaporizhzhia nuclear plant. Ukraine has denied the accusation. The International Atomic Energy Agency has sought to examine the facility.</description>
+  <dc:date>2026-05-31T03:04:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77361296</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-all-1573-rdf">
+  <title>Venezuela opposition candidate Gonzalez urges new elections</title>
+  <link>https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-all-1573-rdf</link>
+  <description>Venezuelan former opposition candidate Edmundo Gonzalez Urrutia called for fresh presidential elections in Venezuela. The push comes around five months after US forces captured former President Nicolas Maduro.</description>
+  <dc:date>2026-05-31T00:11:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77361030</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-rdf">
   <title>Trump says he&apos;ll replace artists who backed out of concert with himself</title>
   <link>https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-rdf</link>
@@ -188,7 +206,7 @@
  <item rdf:about="https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-rdf">
   <title>Turkey: Ousted CHP leader draws thousands for Ankara rally</title>
   <link>https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-rdf</link>
-  <description>The opposition party and its supporters say a court ruling that ousted Ozgur Ozel is politically motivated to ensure he can&apos;t challenge President Recep Tayyip Erdogan in the 2028 election.</description>
+  <description>The opposition party and its supporters say a court ruling that ousted Ozgur Ozel is politically motivated to ensure that he can&apos;t challenge President Recep Tayyip Erdogan in the 2028 election.</description>
   <dc:date>2026-05-30T18:53:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -319,24 +337,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77352669</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf">
-  <title>US: Judge rules Trump name must be removed from Kennedy Center</title>
-  <link>https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-rdf</link>
-  <description>Trump criticized the ruling, saying the judge &quot;should be ashamed of himself,&quot; but will hand the venue over to Congress.</description>
-  <dc:date>2026-05-29T22:55:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77352605</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf">
-  <title>Ghana approves law criminalizing LGBTQ+ activities, advocacy</title>
-  <link>https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-activities-advocacy/a-77352654?maca=en-rss-en-all-1573-rdf</link>
-  <description>Ghana&apos;s Parliament passed one of the most repressive anti-LGBTQ+ laws in Africa. The law imposes prison terms on individuals who &quot;promote&quot; LGBTQ+ activities.</description>
-  <dc:date>2026-05-29T22:41:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77352654</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf">
   <title>Romania&apos;s political crisis deepens</title>

@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-31T17:09:19Z</dc:date>
+  <dc:date>2026-05-31T18:44:46Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-s-thriving-alevi-community/a-77337130?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/myanmar-dozens-dead-in-explosives-storage-blast-in-rebel-controlled-area/a-77366022?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/colombia-polls-open-in-tight-presidential-election/a-77365446?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +160,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/germany-s-thriving-alevi-community/a-77337130?maca=en-rss-en-all-1573-rdf">
+  <title>Germany’s thriving Alevi community</title>
+  <link>https://www.dw.com/en/germany-s-thriving-alevi-community/a-77337130?maca=en-rss-en-all-1573-rdf</link>
+  <description>The Alevis make up the fourth largest religious community in Germany today. What are the main tenets of their faith? And how are they preserving their unique culture?</description>
+  <dc:date>2026-05-31T18:19:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77337130</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299?maca=en-rss-en-all-1573-rdf">
   <title>Shangri-La conference: Asia-Pacific on path to rearmament</title>
   <link>https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299?maca=en-rss-en-all-1573-rdf</link>

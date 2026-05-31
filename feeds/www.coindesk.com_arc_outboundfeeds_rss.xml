@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 31 May 2026 15:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 17:02:03 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[How Stellar became part of DTCC's tokenization push for Wall Street securities onchain]]></title>
+      <link>https://www.coindesk.com/business/2026/05/31/how-stellar-became-part-of-dtcc-s-tokenization-push-for-wall-street-securities-onchain</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c483d1bbc6feaf8de534a3ff1a80e953f61c0893-2500x1890.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">429d97a2-9fdd-4ac8-bd54-3ab18406047b</guid>
+      <pubDate>Sun, 31 May 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Wall Street's clearing giant chose a public blockchain with compliance tools built for regulated assets, Stellar Development Foundation CEO Denelle Dixon said.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[The institutional edge: moomoo targets Wall Street-grade trading tools for retail crypto investors]]></title>
       <link>https://www.coindesk.com/business/2026/05/28/the-institutional-edge-moomoo-pushes-to-offer-wall-street-grade-crypto-tools-to-retail-investors</link>
@@ -370,24 +384,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Kalshi follows CFTC in suing Minnesota over law criminalizing prediction markets]]></title>
-      <link>https://www.coindesk.com/policy/2026/05/29/kalshi-follows-cftc-in-suing-minnesota-over-law-criminalizing-prediction-markets</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4afe5178ad72b19c48d5ffdaed6618244b1c462c-3072x2304.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">d5165f4b-8595-4139-b7c4-e39c405a52ae</guid>
-      <pubDate>Fri, 29 May 2026 09:59:39 +0000</pubDate>
-      <description><![CDATA[The Governor of Minnesota signed into law a measure that, starting Aug. 1, makes it a crime to advertise and operate prediction market platforms across the state.
-]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Prediction Markets]]></category>
-      <category domain="tag"><![CDATA[CFTC]]></category>
-      <category domain="tag"><![CDATA[Kalshi]]></category>
-      <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

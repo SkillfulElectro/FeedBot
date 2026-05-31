@@ -7,12 +7,15 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-31T08:26:37Z</dc:date>
+  <dc:date>2026-05-31T10:31:15Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/japan-shrugs-off-china-s-new-militarism-label/a-77362050?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/brazil-is-set-to-cut-in-on-china-s-rare-earths-dominance/a-77344696?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/goodbye-norma-jeane-how-marilyn-monroe-changed-hollywood/a-77342887?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/meteor-explodes-over-united-states-triggering-sonic-boom/a-77361548?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-toughens-terms-for-potential-deal-reports/live-77353339?maca=en-rss-en-all-1573-rdf"/>
@@ -29,8 +32,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-myanmar-president-arrives-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/eu-unblocks-€16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-all-1573-rdf"/>
@@ -78,7 +79,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/kevin-warsh-trump-ally-at-the-federal-reserve/a-77248236?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-all-1573-rdf"/>
@@ -159,6 +159,24 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/japan-shrugs-off-china-s-new-militarism-label/a-77362050?maca=en-rss-en-all-1573-rdf">
+  <title>Japan shrugs off China&apos;s &apos;new militarism&apos; label</title>
+  <link>https://www.dw.com/en/japan-shrugs-off-china-s-new-militarism-label/a-77362050?maca=en-rss-en-all-1573-rdf</link>
+  <description>Defense Minister Shinjiro Koizumi has strongly rejected China&apos;s claim that Japan is moving toward “new militarism.” He accused Beijing of rapidly arming itself.</description>
+  <dc:date>2026-05-31T09:07:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77362050</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/brazil-is-set-to-cut-in-on-china-s-rare-earths-dominance/a-77344696?maca=en-rss-en-all-1573-rdf">
+  <title>Brazil is set to cut in on China&apos;s rare earths dominance</title>
+  <link>https://www.dw.com/en/brazil-is-set-to-cut-in-on-china-s-rare-earths-dominance/a-77344696?maca=en-rss-en-all-1573-rdf</link>
+  <description>Brazil is seeing increasing demand for its vast reserves of rare earth elements. Global mining giants are betting on Brazil as the next powerhouse for critical magnetic metals and an alternative to China&apos;s dominance.</description>
+  <dc:date>2026-05-31T08:36:00Z</dc:date>
+  <dc:subject>World</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77344696</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547?maca=en-rss-en-all-1573-rdf">
   <title>Swing Youth: In Nazi Germany, jazz was an act of defiance</title>
   <link>https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547?maca=en-rss-en-all-1573-rdf</link>
@@ -176,6 +194,15 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77361781</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf">
+  <title>Germany news: Most expect AfD state premier after elections</title>
+  <link>https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf</link>
+  <description>Most people in Germany expect a premier from the far-right AfD to lead at least one state after elections in the autumn, a survey has found. The Brenner Pass linking Austria and Italy has reopened. DW has more.</description>
+  <dc:date>2026-05-31T07:54:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77353393</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/goodbye-norma-jeane-how-marilyn-monroe-changed-hollywood/a-77342887?maca=en-rss-en-all-1573-rdf">
   <title>Goodbye, Norma Jeane: How Marilyn Monroe changed Hollywood</title>
@@ -320,24 +347,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77353620</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf">
-  <title>Germany news: Most expect AfD state premier after elections</title>
-  <link>https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf</link>
-  <description>Most people in Germany expect a premier from the far-right AfD to lead at least one state after elections in the autumn, a survey has found. The Brenner Pass linking Austria and Italy has reopened. DW has more.</description>
-  <dc:date>2026-05-30T08:04:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77353393</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/india-news-myanmar-president-arrives-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Myanmar president arrives to boost ties</title>
-  <link>https://www.dw.com/en/india-news-myanmar-president-arrives-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-rdf</link>
-  <description>Myanmar President Min Aung Hlaing is on a five-day visit to India, where he will hold talks with Prime Minister Narendra Modi. Meanwhile, Karnataka is readying itself for a Cabinet change. Follow DW for more.</description>
-  <dc:date>2026-05-30T07:42:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77353482</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-rdf">
   <title>International aid cuts complicate Congo&apos;s Ebola epidemic</title>
@@ -761,15 +770,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77271372</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf">
-  <title>Czechia: Uproar over Sudeten German gathering in Brno</title>
-  <link>https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-rdf</link>
-  <description>The first gathering of Sudeten Germans in Czechia since World War II is happening this weekend, despite a political backlash that has exposed tensions over one of Central Europe&apos;s most painful historical legacies.</description>
-  <dc:date>2026-05-23T06:38:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77209816</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-rdf">
   <title>Germany&apos;s &apos;rapid militarization&apos; threatens basic rights</title>

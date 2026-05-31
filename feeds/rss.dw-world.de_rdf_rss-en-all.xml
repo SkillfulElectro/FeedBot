@@ -7,15 +7,16 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-05-31T10:31:15Z</dc:date>
+  <dc:date>2026-05-31T12:12:56Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
-    <rdf:li rdf:resource="https://www.dw.com/en/japan-shrugs-off-china-s-new-militarism-label/a-77362050?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/malta-s-labour-party-wins-historic-fourth-term-preliminary-results/a-77362880?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/japan-and-china-trade-accusations-at-shangri-la-dialogue/a-77362050?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/brazil-is-set-to-cut-in-on-china-s-rare-earths-dominance/a-77344696?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/goodbye-norma-jeane-how-marilyn-monroe-changed-hollywood/a-77342887?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/meteor-explodes-over-united-states-triggering-sonic-boom/a-77361548?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-war-trump-toughens-terms-for-potential-deal-reports/live-77353339?maca=en-rss-en-all-1573-rdf"/>
@@ -76,7 +77,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/displaced-ukrainians-risk-home-seizure-under-russian-law/a-77233460?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-rdf"/>
@@ -159,10 +159,19 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
- <item rdf:about="https://www.dw.com/en/japan-shrugs-off-china-s-new-militarism-label/a-77362050?maca=en-rss-en-all-1573-rdf">
-  <title>Japan shrugs off China&apos;s &apos;new militarism&apos; label</title>
-  <link>https://www.dw.com/en/japan-shrugs-off-china-s-new-militarism-label/a-77362050?maca=en-rss-en-all-1573-rdf</link>
-  <description>Defense Minister Shinjiro Koizumi has strongly rejected China&apos;s claim that Japan is moving toward “new militarism.” He accused Beijing of rapidly arming itself.</description>
+ <item rdf:about="https://www.dw.com/en/malta-s-labour-party-wins-historic-fourth-term-preliminary-results/a-77362880?maca=en-rss-en-all-1573-rdf">
+  <title>Malta&apos;s Labour Party wins historic fourth term: preliminary results</title>
+  <link>https://www.dw.com/en/malta-s-labour-party-wins-historic-fourth-term-preliminary-results/a-77362880?maca=en-rss-en-all-1573-rdf</link>
+  <description>Prime Minister Robert Abela, who campaigned on the strength of the economy, had been widely expected to win the vote.</description>
+  <dc:date>2026-05-31T10:51:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77362880</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/japan-and-china-trade-accusations-at-shangri-la-dialogue/a-77362050?maca=en-rss-en-all-1573-rdf">
+  <title>Japan and China trade accusations at Shangri-La Dialogue</title>
+  <link>https://www.dw.com/en/japan-and-china-trade-accusations-at-shangri-la-dialogue/a-77362050?maca=en-rss-en-all-1573-rdf</link>
+  <description>Defense Minister Shinjiro Koizumi has strongly rejected China&apos;s claim that Japan is moving toward “neo-militarism.” He accused Beijing of rapidly arming itself.</description>
   <dc:date>2026-05-31T09:07:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -186,15 +195,6 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77143547</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf">
-  <title>India news: BrahMos missile deal signed with Vietnam</title>
-  <link>https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf</link>
-  <description>India&apos;s defense secretary says a deal has been signed to ‌supply Vietnam with BrahMos supersonic cruise missiles. Meanwhile, retail inflation could hit Indians hard soon. Follow DW for more.</description>
-  <dc:date>2026-05-31T07:54:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77361781</dwsyn:contentID>
- </item>
  <item rdf:about="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Most expect AfD state premier after elections</title>
   <link>https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf</link>
@@ -203,6 +203,15 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77353393</dwsyn:contentID>
+ </item>
+ <item rdf:about="https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf">
+  <title>India news: BrahMos missile deal signed with Vietnam</title>
+  <link>https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-rdf</link>
+  <description>India&apos;s defense secretary says a deal has been signed to ‌supply Vietnam with BrahMos supersonic cruise missiles. Meanwhile, retail inflation could hit Indians hard soon. Follow DW for more.</description>
+  <dc:date>2026-05-31T07:54:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77361781</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/goodbye-norma-jeane-how-marilyn-monroe-changed-hollywood/a-77342887?maca=en-rss-en-all-1573-rdf">
   <title>Goodbye, Norma Jeane: How Marilyn Monroe changed Hollywood</title>
@@ -288,7 +297,7 @@
  <item rdf:about="https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-rdf">
   <title>Film funding bill to support blockbusters made in Germany</title>
   <link>https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-rdf</link>
-  <description>The German government wants to attract more filmmakers and make the country a &apos;global player&apos; in on-screen entertainment. A new bill would require media companies to make mandatory investments in the film industry.</description>
+  <description>The German government wants to attract more filmmakers and make the country a &quot;global player&quot; in on-screen entertainment. A new bill would require media companies to make mandatory investments in the film industry.</description>
   <dc:date>2026-05-30T14:32:00Z</dc:date>
   <dc:subject>Germany</dc:subject>
   <dc:language>en</dc:language>
@@ -743,15 +752,6 @@
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77274618</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf">
-  <title>Cyprus election expected to shake up national politics</title>
-  <link>https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-rdf</link>
-  <description>Cyprus goes to the polls to elect a new parliament on Sunday. The vote is expected to reshape the country&apos;s political landscape, weaken traditional parties and accelerate the rise of new anti-establishment movements.</description>
-  <dc:date>2026-05-23T19:22:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77260976</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf">
   <title>What is Pentecost?</title>

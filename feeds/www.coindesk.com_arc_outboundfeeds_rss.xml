@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 01 Jun 2026 13:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:48:20 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Japan's ruling party supports crypto ETF trading, yen-based stablecoins]]></title>
+      <link>https://www.coindesk.com/policy/2026/06/01/japan-s-ruling-party-supports-crypto-etf-trading-yen-based-stablecoins</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6dfa527e7f18058c20f81771f1d1dc674ff71efc-1280x826.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">dce58611-43e4-42c7-ac09-ac32a96c380e</guid>
+      <pubDate>Mon, 01 Jun 2026 13:38:04 +0000</pubDate>
+      <description><![CDATA[Japan's ruling Liberal Democratic Party said the country should create a legal framework for trading crypto ETFs in a proposal to the finance minister. ]]></description>
+      <dc:creator>Jamie Crawley</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Japan]]></category>
+      <category domain="tag"><![CDATA[ETFs]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[CoinDesk 20 performance update: Stellar (XLM) surges 14.1% over weekend ]]></title>
       <link>https://www.coindesk.com/coindesk-indices/2026/06/01/coindesk-20-performance-update-stellar-xlm-surges-14-1-over-weekend</link>
@@ -77,6 +93,20 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin remains under pressure as ETF outflows, higher oil prices weigh on crypto markets]]></title>
+      <link>https://www.coindesk.com/daybook-us/2026/06/01/bitcoin-remains-under-pressure-as-etf-outflows-higher-oil-prices-weigh-on-crypto-markets</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b991a4e1a084bd16a54e58f7aced3889bd333665-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">1540d2d0-f13e-4482-a1df-ba0deb6a59a3</guid>
+      <pubDate>Mon, 01 Jun 2026 11:15:00 +0000</pubDate>
+      <description><![CDATA[Your day-ahead look for June 1, 2026]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
@@ -350,36 +380,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[SEC]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[U.S. says it seized about $1 billion in Iranian crypto as pressure campaign expands]]></title>
-      <link>https://www.coindesk.com/business/2026/05/30/u-s-says-it-seized-about-usd1-billion-in-iranian-crypto-as-pressure-campaign-expands</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/65bd684b67415bb4f57438bede69bae09f26621d-5031x3354.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">3af965d9-9af7-42eb-bce8-fff89376b604</guid>
-      <pubDate>Sat, 30 May 2026 15:50:37 +0000</pubDate>
-      <description><![CDATA[The seizure, falling under "Operation Economic Fury," aims to restrict Iran's access to overseas revenue, banking networks, and crypto infrastructure.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Iran]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain]]></title>
-      <link>https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/128d9f398bbe864f843d89bdca5e598792f16885-1280x960.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">854306da-43c6-42c7-b877-597fb0965f5e</guid>
-      <pubDate>Sat, 30 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[CertiK CEO and co-founder Ronghui Gu says April was the worst month for DeFi in four years with exploits on 27 out of 30 days. ]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="tag"><![CDATA[Hack]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

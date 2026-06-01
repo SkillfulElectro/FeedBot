@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 01 Jun 2026 01:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 06:05:37 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,59 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[XRP drops to $1.32 as sellers overpower exchange outflows]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/01/xrp-drops-to-usd1-32-as-sellers-overpower-exchange-outflows</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c0d7298ddd363d8e14bc0b0450f6110f07886020-1192x732.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">55fc42ae-22a2-42cb-bb38-99c84cd73156</guid>
+      <pubDate>Mon, 01 Jun 2026 05:41:31 +0000</pubDate>
+      <description><![CDATA[XRP hit a 15-week low before stabilizing, with traders watching whether the latest washout turns into a base or another leg lower.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[XRP News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Three Sui mainnet halts in 48 hours traced to an upgrade bug by developers]]></title>
+      <link>https://www.coindesk.com/tech/2026/06/01/three-sui-mainnet-halts-in-48-hours-traced-to-an-upgrade-bug-by-developers</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">dcc9cff0-5280-416b-a9a7-36974abdff20</guid>
+      <pubDate>Mon, 01 Jun 2026 05:38:50 +0000</pubDate>
+      <description><![CDATA[The Sui Foundation's post-mortem published Sunday traces all three outages to interactions between a new address-balance feature shipped in the v1.72 release and the network's existing gas and consensus logic. ]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin extends slide as spot ETF outflows hit a record while Wall Street rips on AI]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/01/bitcoin-extends-slide-as-spot-etf-outflows-hit-a-record-while-wall-street-rips-on-ai</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f49d4c68e25542b032d598eca35cddf2b90b900e-3840x2160.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b7a552ac-6a73-4f3c-9e57-25420fa10227</guid>
+      <pubDate>Mon, 01 Jun 2026 05:11:40 +0000</pubDate>
+      <description><![CDATA[U.S. spot bitcoin ETFs lost $2.97 billion across 10 trading days through Friday, the longest outflow streak on record. Oil's bounce on the stalled Iran deal added pressure even as global equities hit new highs on the Nvidia and SoftBank AI trade.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Aave overhauls listing standards after $230 Million rsETH exploit exposed bridge risks]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/01/aave-overhauls-listing-standards-after-usd230-million-rseth-exploit-exposed-bridge-risks</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b1d6ea7b7aec491803836b0fa81e4742ba3b8285-1280x854.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">843b2403-3b86-47b8-97eb-7026500c31a3</guid>
+      <pubDate>Mon, 01 Jun 2026 05:04:17 +0000</pubDate>
+      <description><![CDATA[An official postmortem traced the exploit to a LayerZero bridge verification failure and outlined a sweeping overhaul of Aave's asset-listing standards as DeFi risks shift beyond smart contract bugs.]]></description>
+      <dc:creator>Sam Reynolds</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Coinbase makes a major play for India’s booming $3 billion crypto market with local currency launch]]></title>
       <link>https://www.coindesk.com/markets/2026/05/31/coinbase-makes-a-major-play-for-india-s-booming-usd3-billion-crypto-market-with-local-currency-launch</link>
@@ -324,69 +377,6 @@
       <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
       <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="https://www.coindesk.com/">Opinion</category>
-    </item>
-    <item>
-      <title><![CDATA[U.S. CFTC opens crypto 'perp' door with first approvals at Kalshi, Coinbase]]></title>
-      <link>https://www.coindesk.com/policy/2026/05/28/u-s-cftc-opens-crypto-perp-door-with-approval-of-first-regulated-firm</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/5b447737cbb37b580c1293c8d94722780d032652-4928x2772.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">c51bb95d-02a8-4d9d-8ac6-d31b5b02e03f</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[The Commodity Futures Trading Commission has now established a stance on how regulated U.S. firms can engage in crypto perpetual futures contracts.]]></description>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[Regulation]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[CoinDesk 20 performance update: Bittensor (TAO) drops 4%, leading index lower ]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/05/29/coindesk-20-performance-update-bittensor-tao-drops-4-leading-index-lower</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/fa0ae6a4b05445ebbad70b972e8b8936a05ce3fb-640x480.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">c1219902-a9a0-4636-9deb-84e2e7014710</guid>
-      <pubDate>Fri, 29 May 2026 13:15:09 +0000</pubDate>
-      <description><![CDATA[Internet Computer (ICP), down 3.8%, was also an underperformer.]]></description>
-      <dc:creator>CoinDesk Indices</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk 20]]></category>
-      <category domain="tag"><![CDATA[charts]]></category>
-      <category domain="tag"><![CDATA[Prices]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Paxos wins SEC approval to clear U.S. stocks on blockchain]]></title>
-      <link>https://www.coindesk.com/policy/2026/05/29/paxos-is-first-blockchain-firm-to-provide-settlement-and-clearing-services-following-sec-approval</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9eb0094bdb1885e34e3b59ebf859d2001168b315-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">a9446791-36e1-4c22-a901-3116b034e84d</guid>
-      <pubDate>Fri, 29 May 2026 12:28:24 +0000</pubDate>
-      <description><![CDATA[Paxos new license positions it alongside legacy giants such as DTCC and makes it a compelling, more efficient alternative for traditional finance giants than legacy competitors.
-]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="tag"><![CDATA[SEC]]></category>
-      <category domain="tag"><![CDATA[Web3]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Hyperliquid bigger than NASDAQ, says ICE CEO Jeffrey Sprecher]]></title>
-      <link>https://www.coindesk.com/markets/2026/05/29/ice-ceo-calls-hyperliquid-bigger-than-nasdaq-says-he-s-met-its-founders</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/fe40a8bc86378b21cc13a4982e5041c0a41305c0-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">eb0f1ca9-c508-4069-a61c-60ea7dffae55</guid>
-      <pubDate>Fri, 29 May 2026 12:05:09 +0000</pubDate>
-      <description><![CDATA[Sprecher saluted Hyperliquid's team, signaling deeper engagement between Wall Street incumbents and crypto-native rails.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

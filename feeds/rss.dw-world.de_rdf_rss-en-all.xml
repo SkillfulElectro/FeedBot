@@ -7,10 +7,11 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-06-01T18:23:40Z</dc:date>
+  <dc:date>2026-06-01T19:07:26Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/serena-williams-confirms-return-to-professional-tennis/a-77381627?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/baden-württemberg-restricts-smoking-in-public-spaces/a-77380997?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/uk-wins-court-case-over-canceled-plan-to-deport-asylum-seekers-to-rwanda/a-77379092?maca=en-rss-en-all-1573-rdf"/>
@@ -30,7 +31,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/ethiopia-votes-as-ruling-party-eyes-landslide-win/a-77369637?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/iran-halts-talks-with-us-complicating-peace-efforts-tasnim-says/live-77369317?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/dna-had-one-rule-bacteria-didn-t-get-the-memo/a-77341009?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/nicaragua-indigenous-leader-brooklyn-rivera-dies-in-detention/a-77369132?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/how-the-alevi-community-came-to-thrive-in-germany/a-77337130?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/space-race-why-portugal-is-reaching-for-the-stars/a-77303795?maca=en-rss-en-all-1573-rdf"/>
@@ -160,6 +160,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/serena-williams-confirms-return-to-professional-tennis/a-77381627?maca=en-rss-en-all-1573-rdf">
+  <title>Serena Williams confirms return to professional tennis</title>
+  <link>https://www.dw.com/en/serena-williams-confirms-return-to-professional-tennis/a-77381627?maca=en-rss-en-all-1573-rdf</link>
+  <description>The tennis icon will play doubles tennis at a grass court tournament this month, marking an expected return to the sport.</description>
+  <dc:date>2026-06-01T18:39:00Z</dc:date>
+  <dc:subject>News</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77381627</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-all-1573-rdf">
   <title>Refugees and migration: Is Europe closing its doors?</title>
   <link>https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-all-1573-rdf</link>
@@ -330,15 +339,6 @@
   <dc:subject>Science</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77341009</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/nicaragua-indigenous-leader-brooklyn-rivera-dies-in-detention/a-77369132?maca=en-rss-en-all-1573-rdf">
-  <title>Nicaragua: Indigenous leader Brooklyn Rivera dies in detention</title>
-  <link>https://www.dw.com/en/nicaragua-indigenous-leader-brooklyn-rivera-dies-in-detention/a-77369132?maca=en-rss-en-all-1573-rdf</link>
-  <description>The Indigenous leader and former lawmaker had been detained by Nicaragua&apos;s authoritarian government in 2023 on undisclosed charges.</description>
-  <dc:date>2026-06-01T03:54:00Z</dc:date>
-  <dc:subject>News</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77369132</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-rdf">
   <title>Germany news: Most expect AfD state premier after elections</title>

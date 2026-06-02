@@ -7,18 +7,19 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFequency>4</sy:updateFequency>
   <sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
-  <dc:date>2026-06-02T10:58:06Z</dc:date>
+  <dc:date>2026-06-02T12:44:10Z</dc:date>
   <image rdf:resource="https://rss.dw.com/images/DW-L-RGB_whitebg.png"/>
   <items>
    <rdf:Seq>
+    <rdf:li rdf:resource="https://www.dw.com/en/germany-seeks-a-seat-on-the-un-security-council/a-77386458?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/taiwan-s-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/legendary-warrior-women-the-history-of-the-amazons/a-77385284?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/european-parliament-committee-votes-to-scrap-us-tariffs/a-77387567?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall/live-77386529?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall-again/live-77386529?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/who-owns-the-billions-in-germany-s-forgotten-accounts/a-77167930?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-poverty-rises-to-new-high-charity-group-says/live-77386205?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/israel-lebanon-conflict-why-military-pressure-isn-t-enough/a-77385437?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/india-news-mamata-banerjee-presses-ahead-with-protest-amid-turmoil-in-tmc/live-77385100?maca=en-rss-en-all-1573-rdf"/>
+    <rdf:li rdf:resource="https://www.dw.com/en/india-news-mamata-banerjee-vows-to-fight-or-die-at-protest-in-kolkata/live-77385100?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/most-new-german-citizens-keep-original-nationality-survey/a-77385235?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/russia-launches-major-missile-attack-on-ukraine-several-killed/a-77384025?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/denmark-s-frederiksen-secures-third-term-as-prime-minister/a-77383696?maca=en-rss-en-all-1573-rdf"/>
@@ -87,7 +88,6 @@
     <rdf:li rdf:resource="https://www.dw.com/en/germany-news-more-than-1-900-missing-children/live-77272115?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/blinded-by-the-light-pollution-cities-seek-to-restore-night/a-77279415?maca=en-rss-en-all-1573-rdf"/>
-    <rdf:li rdf:resource="https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-all-1573-rdf"/>
     <rdf:li rdf:resource="https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-rdf"/>
@@ -164,6 +164,15 @@
   <title>DW</title>
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
  </image>
+ <item rdf:about="https://www.dw.com/en/germany-seeks-a-seat-on-the-un-security-council/a-77386458?maca=en-rss-en-all-1573-rdf">
+  <title>Germany seeks a seat on the UN Security Council</title>
+  <link>https://www.dw.com/en/germany-seeks-a-seat-on-the-un-security-council/a-77386458?maca=en-rss-en-all-1573-rdf</link>
+  <description>On Wednesday, the United Nations will hold elections for several seats on the UN Security Council. Germany&apos;s government is campaigning vigorously for a seat.</description>
+  <dc:date>2026-06-02T11:10:00Z</dc:date>
+  <dc:subject>Germany</dc:subject>
+  <dc:language>en</dc:language>
+  <dwsyn:contentID>77386458</dwsyn:contentID>
+ </item>
  <item rdf:about="https://www.dw.com/en/taiwan-s-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453?maca=en-rss-en-all-1573-rdf">
   <title>Taiwan&apos;s Lai: Status quo is key to secure tech supply chains</title>
   <link>https://www.dw.com/en/taiwan-s-lai-status-quo-is-key-to-secure-tech-supply-chains/a-77386453?maca=en-rss-en-all-1573-rdf</link>
@@ -191,9 +200,9 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77387567</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall/live-77386529?maca=en-rss-en-all-1573-rdf">
-  <title>Middle East updates: US-Iran talks appear to stall</title>
-  <link>https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall/live-77386529?maca=en-rss-en-all-1573-rdf</link>
+ <item rdf:about="https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall-again/live-77386529?maca=en-rss-en-all-1573-rdf">
+  <title>Middle East updates: US-Iran talks appear to stall again</title>
+  <link>https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall-again/live-77386529?maca=en-rss-en-all-1573-rdf</link>
   <description>An Iranian military official says &quot;war is inevitable&quot; because Tehran won&apos;t surrender. Also, reports of strikes between Israel and Hezbollah continue after President Donald Trump said &quot;shooting will stop.&quot; DW has more.</description>
   <dc:date>2026-06-02T09:30:00Z</dc:date>
   <dc:subject>News</dc:subject>
@@ -227,10 +236,10 @@
   <dc:language>en</dc:language>
   <dwsyn:contentID>77385437</dwsyn:contentID>
  </item>
- <item rdf:about="https://www.dw.com/en/india-news-mamata-banerjee-presses-ahead-with-protest-amid-turmoil-in-tmc/live-77385100?maca=en-rss-en-all-1573-rdf">
-  <title>India news: Mamata Banerjee presses ahead with protest amid turmoil in TMC</title>
-  <link>https://www.dw.com/en/india-news-mamata-banerjee-presses-ahead-with-protest-amid-turmoil-in-tmc/live-77385100?maca=en-rss-en-all-1573-rdf</link>
-  <description>Mamata Banerjee said she would proceed with a sit-in protest in Kolkata, amid escalating tensions within the TMC. DW has more.</description>
+ <item rdf:about="https://www.dw.com/en/india-news-mamata-banerjee-vows-to-fight-or-die-at-protest-in-kolkata/live-77385100?maca=en-rss-en-all-1573-rdf">
+  <title>India news: Mamata Banerjee vows to &apos;fight or die&apos; at protest in Kolkata</title>
+  <link>https://www.dw.com/en/india-news-mamata-banerjee-vows-to-fight-or-die-at-protest-in-kolkata/live-77385100?maca=en-rss-en-all-1573-rdf</link>
+  <description>Banerjee accused the BJP-led state government of targeting TMC leaders and forcibly evicting hawkers. DW has more.</description>
   <dc:date>2026-06-02T07:46:00Z</dc:date>
   <dc:subject>News</dc:subject>
   <dc:language>en</dc:language>
@@ -847,15 +856,6 @@
   <dc:subject>Environment</dc:subject>
   <dc:language>en</dc:language>
   <dwsyn:contentID>77279415</dwsyn:contentID>
- </item>
- <item rdf:about="https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-all-1573-rdf">
-  <title>Why are Europe&apos;s biggest defense projects in trouble?</title>
-  <link>https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-all-1573-rdf</link>
-  <description>Disputes over leadership, military priorities and industrial control are threatening to fracture Europe&apos;s €100 billion fighter jet project — with tensions now spilling into a Franco-German tank project as well.</description>
-  <dc:date>2026-05-25T04:46:00Z</dc:date>
-  <dc:subject>World</dc:subject>
-  <dc:language>en</dc:language>
-  <dwsyn:contentID>77263797</dwsyn:contentID>
  </item>
  <item rdf:about="https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-rdf">
   <title>Germany plans to address growing use of date-rape drugs</title>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 02 Jun 2026 20:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 21:54:52 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. sanctions Iranian crypto exchanges in ongoing war against the country]]></title>
+      <link>https://www.coindesk.com/policy/2026/06/02/u-s-sanctions-iranian-crypto-exchanges-in-ongoing-war-against-country</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/310bdf8529bb53107853c4e61afd0c549ae10e17-4348x2737.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">027ab4ce-9b65-4297-b811-90a44a833c89</guid>
+      <pubDate>Tue, 02 Jun 2026 21:49:30 +0000</pubDate>
+      <description><![CDATA[OFAC said it was blacklisting Nobitex and three other Iranian exchanges, as well as a few executives, citing links to terror and other crimes. ]]></description>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Coinbase backs Ethena ahead of savings product launch for exchange's 100 million users]]></title>
       <link>https://www.coindesk.com/business/2026/06/02/coinbase-backs-ethena-ahead-of-savings-product-launch-for-exchange-s-100-million-users</link>
@@ -229,7 +242,7 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live markets: bitcoin's plunge continues, putting February $60,000 low back in play]]></title>
+      <title><![CDATA[Live markets: bitcoin loses $67,000 level in Tuesday plunge, putting February's lows back in play]]></title>
       <link>https://www.coindesk.com/markets/2026/06/02/live-markets-bitcoin-s-plunge-continues-putting-february-usd60-000-low-back-in-play</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/12b18d3c2474bb9720395e6d763a5878168ee717-1280x724.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">795bd7c8-fb07-4356-a746-e7d23b198459</guid>
@@ -382,20 +395,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments]]></title>
-      <link>https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/851bf518d1c7c246ebda21aa88212b221d25f46f-4032x3024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">fddcb119-a064-42a0-9007-3b0005c2d295</guid>
-      <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[MGUSD, issued by Stripe's Bridge, will power services across MoneyGram's global network as stablecoins gain traction in cross-border payments.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

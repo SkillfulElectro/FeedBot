@@ -3,32 +3,70 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1780527866523" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 20:34:10 +0000</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 20:33:17 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:04:26 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 22:42:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Out of Time to Delay, House to Vote on Trump’s Power to Continue War in Iran</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html" rel="standout"></atom:link>
-      <description>A measure to direct the president to halt U.S. engagement in Iran had been on track to pass in late May, but Republican leaders postponed action. They have run out of time to delay the vote.</description>
-      <dc:creator>Robert Jimison and Megan Mineiro</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 14:17:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-warpowers-hvmf/03dc-warpowers-hvmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <title>The House Votes to End the Iran War</title>
+      <link>https://www.nytimes.com/2026/06/03/briefing/house-iran-war-powers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/briefing/house-iran-war-powers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/briefing/house-iran-war-powers.html" rel="standout"></atom:link>
+      <description>Also, the N.B.A. finals tips off. Here’s the latest at the end of Wednesday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 22:15:27 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03evening-nl-iran-war/03evening-nl-iran-war-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The U.S. Capitol in Washington in May.</media:description>
+    </item>
+    <item>
+      <title>G.O.P. Revives Immigration Bill, Weighing Ban on Trump’s Fund</title>
+      <link>https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html" rel="standout"></atom:link>
+      <description>Several Republicans suggested they would insist on adding a measure to bar the president from creating a fund to pay people who claim to be victims of government persecution.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 20:56:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cassidy, Bill (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-cong-fgqj/03dc-cong-fgqj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>A vote on Wednesday set the stage for a lengthy vote-a-thon that could culminate in passage of the immigration enforcement bill on Thursday.</media:description>
+    </item>
+    <item>
+      <title>‘I Love It’: Trump Is Still in Favor of $1.8 Billion Payout Fund</title>
+      <link>https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html" rel="standout"></atom:link>
+      <description>Todd Blanche, the acting attorney general, said on Tuesday that the administration was “not moving forward with the fund, period,” after the plan drew bipartisan backlash.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 22:32:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-fund-wkgc/03dc-fund-wkgc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump on Wednesday in the Oval Office. In one of his first official acts of his second term, Mr. Trump issued a grant of clemency to the hundreds charged in connection with the Capitol attack.</media:description>
     </item>
     <item>
       <title>‘Infuriated’ Former Judges Take on Trump</title>
@@ -52,6 +90,81 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03thedocket-nl-01-bcjf/03thedocket-nl-01-bcjf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump at the White House last month.</media:description>
+    </item>
+    <item>
+      <title>Park Service Awards No-Bid Contract to Cover Bridge Statues in Gold</title>
+      <link>https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html" rel="standout"></atom:link>
+      <description>Originally estimated to cost $2.4 million, the government will now spend $5 million to restore the bronzes in time for Independence Day.</description>
+      <dc:creator>David A. Fahrenthold</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 21:21:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/us/dc-statues/dc-statues-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jared Soares for The New York Times</media:credit>
+      <media:description>Workers built scaffolding around one of the two The Arts of Peace statues near the Lincoln Memorial for a restoration project in Washington.</media:description>
+    </item>
+    <item>
+      <title>House Advances New Sanctions on Russia and Aid to Ukraine</title>
+      <link>https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html" rel="standout"></atom:link>
+      <description>After G.O.P. leaders blocked additional aid to Ukraine, six Republicans and an independent joined Democrats to force the measure to the floor against the wishes of the speaker.</description>
+      <dc:creator>Robert Jimison</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 22:42:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03cong-ukraine-wjpb/03cong-ukraine-wjpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Damage from Russian strikes in Ukraine’s Donetsk region in February. The House took up legislation that aims to target Russia’s oil and gas sector, its primary source of wartime revenue.</media:description>
+    </item>
+    <item>
+      <title>SpaceX IPO to Be Largest Ever at $135 Share Price</title>
+      <link>https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html" rel="standout"></atom:link>
+      <description>The $135 share price means Elon Musk’s rocket maker is poised to exceed the 2019 initial public offering of Saudi Aramco in both valuation and money raised.</description>
+      <dc:creator>Ryan Mac</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 22:04:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/02/multimedia/00Biz-SpaceX-Range-ktfb/00Biz-SpaceX-Range-ktfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Gay/Associated Press</media:credit>
+      <media:description>SpaceX’s Starship rocket lifted off last month during a test flight from Starbase in Texas.</media:description>
+    </item>
+    <item>
+      <title>How Taylor Swift Writes a Song, In Her Own Words</title>
+      <link>https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html" rel="standout"></atom:link>
+      <description>The artist shares stories behind some of her biggest hits, her love of a “rant bridge” and how life in the public eye informs the stories she tells in her songs.</description>
+      <pubDate>Sat, 02 May 2026 02:17:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Reputation (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="">americansongwriters2026</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt</category>
     </item>
     <item>
       <title>The Narrow Path to a Democratic Senate Runs Through Very Red States</title>
@@ -110,9 +223,9 @@
       <link>https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html" rel="standout"></atom:link>
-      <description>The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor is merely a pretext for protectionism.</description>
+      <description>The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor laws is merely a pretext for protectionism.</description>
       <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 19:49:28 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 22:42:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Labor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
@@ -123,21 +236,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-tariffs-1-wpbh/03dc-tariffs-1-wpbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Roslan Rahman/Agence France-Presse — Getty Images</media:credit>
       <media:description>On Tuesday, the Trump administration announced a tariff of 10 percent to 12.5 percent on 59 countries and the 27-member European Union.</media:description>
-    </item>
-    <item>
-      <title>How Taylor Swift Writes a Song, In Her Own Words</title>
-      <link>https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/04/28/magazine/taylor-swift-songwriting-process-interview.html" rel="standout"></atom:link>
-      <description>The artist shares stories behind some of her biggest hits, her love of a “rant bridge” and how life in the public eye informs the stories she tells in her songs.</description>
-      <pubDate>Sat, 02 May 2026 02:17:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Reputation (Album)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="">americansongwriters2026</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-paywall-exempt</category>
     </item>
     <item>
       <title>Bari Weiss Speaks on Scott Pelley’s ’60 Minutes’ Firing: ‘That’s the Path That He Chose’</title>
@@ -275,7 +373,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/03/nyregion/knicks-courtside-madison-square-garden.html" rel="standout"></atom:link>
       <description>Prime tickets on the floor for the N.B.A. Finals are coveted and very hard to get. The No. 1 requirement: You must love the Knicks.</description>
       <dc:creator>Sarah Maslin Nir</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 07:00:21 +0000</pubDate>
+      <pubDate>Wed, 03 Jun 2026 21:59:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
@@ -329,6 +427,37 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03trav-revolution-charleston-01-vblk/03trav-revolution-charleston-01-vblk-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
     <item>
+      <title>Musk and Trump Slashed Aid. Now We Lack Tools to Tackle Ebola.</title>
+      <link>https://www.nytimes.com/2026/06/03/opinion/ebola-disease-trump-musk-usaid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/opinion/ebola-disease-trump-musk-usaid.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/opinion/ebola-disease-trump-musk-usaid.html" rel="standout"></atom:link>
+      <description>The fecklessness of Washington leaders contrasts with the courage of doctors, nurses and aid workers in places like Congo.</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 21:03:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Physicians for Human Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/03kristof-wjpb/03kristof-wjpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arlette Bashizi for The New York Times</media:credit>
+    </item>
+    <item>
       <title>I Went to Lebanon and Found Something Strangely Hopeful</title>
       <link>https://www.nytimes.com/2026/06/03/opinion/lebanon-israel-iran-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/opinion/lebanon-israel-iran-war.html</guid>
@@ -348,45 +477,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03polgreen-promo-jzbf/03polgreen-promo-jzbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>William Keo for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Why No Kings Isn’t Working</title>
-      <link>https://www.nytimes.com/2026/06/03/opinion/american-dream-politics-negativity.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/opinion/american-dream-politics-negativity.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/opinion/american-dream-politics-negativity.html" rel="standout"></atom:link>
-      <description>A case for mourning the American dream.</description>
-      <dc:creator>Nadja Spiegelman, Tressie McMillan Cottom, Brock Colyar and Vishakha Darbha</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 20:22:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paralysis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thunberg, Greta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/06/03/opinion/03opinions-nihilism-image/03opinions-nihilism-image-mediumSquareAt3X.jpg" width="1200"></media:content>
-      <media:credit>Illustration by The New York Times; photo by Mario Tama/Getty</media:credit>
     </item>
     <item>
       <title>At Interlochen, Where Jeffrey Epstein’s Shadow Still Lingers</title>

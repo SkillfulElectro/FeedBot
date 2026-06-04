@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1780570001654" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 10:46:41 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 10:34:07 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:01:07 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 13:58:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/republicans-trump-fund-iran-war-elections.html" rel="standout"></atom:link>
       <description>The president’s unilateral and retributive style of governing is starting to hit a wall in both chambers of Congress.</description>
       <dc:creator>Katie Rogers</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 01:43:12 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 12:02:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -47,9 +47,15 @@
       <description>A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.</description>
       <dc:creator>Robert Jimison and Megan Mineiro</dc:creator>
       <pubDate>Thu, 04 Jun 2026 07:40:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Emergency Powers (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-warpowers-hvmf/03dc-warpowers-hvmf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
@@ -62,7 +68,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/iran-war-powers-trump-republicans.html" rel="standout"></atom:link>
       <description>Four Republicans from different ideological factions crossed party lines to vote with Democrats in favor of reining in the president’s power to wage war unilaterally.</description>
       <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:42:07 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 00:42:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrett, Tom (1981- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fitzpatrick, Brian K (1973- )</category>
@@ -77,12 +83,13 @@
       <atom:link href="https://www.nytimes.com/2026/06/04/podcasts/the-headlines/trump-iran-spacex-ipo.html" rel="standout"></atom:link>
       <description>Plus, could streetlights be making your allergies worse?</description>
       <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Robert Jimison and Harry Stevens</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 10:00:09 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 10:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04theheadlines-capitol-pmjl/04theheadlines-capitol-pmjl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Capitol Hill in May. The vote on the war in Iran on Wednesday was the latest reflection of divisions between Republicans in Congress and President Trump on a range of issues.</media:description>
@@ -94,7 +101,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html" rel="standout"></atom:link>
       <description>The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.</description>
       <dc:creator>Adam Rasgon and Natan Odenheimer</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 10:25:35 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 10:25:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fiber Optics</category>
@@ -157,7 +164,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/04/us/social-media-schools.html" rel="standout"></atom:link>
       <description>Internal documents show how tech giants grabbed children’s attention throughout the day, a strategy that schools say has undermined education.</description>
       <dc:creator>Jennifer Valentino-DeVries</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 09:00:12 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 13:34:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
@@ -222,13 +229,74 @@
       <media:description>SpaceX’s Starship rocket lifted off last month during a test flight from Starbase in Texas.</media:description>
     </item>
     <item>
+      <title>Inside SpaceX’s Rockets-to-Riches I.P.O. Plan</title>
+      <link>https://www.nytimes.com/2026/06/04/business/dealbook/spacex-ipo-record.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/business/dealbook/spacex-ipo-record.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/business/dealbook/spacex-ipo-record.html" rel="standout"></atom:link>
+      <description>The latest prospectus by Elon Musk’s company underscores its confidence in its planned market debut. But skeptics see reasons for concern.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Lauren Hirsch</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 12:26:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dimon, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04db-spacex-fhvb/04db-spacex-fhvb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Steve Nesius/Reuters</media:credit>
+      <media:description>SpaceX appears confident that its expected I.P.O. will soar.</media:description>
+    </item>
+    <item>
+      <title>Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56</title>
+      <link>https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html" rel="standout"></atom:link>
+      <description>Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.</description>
+      <dc:creator>Amelia Nierenberg and Ségolène Le Stradic</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 13:54:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Satrapi, Marjane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Persepolis (Book)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04int-satrapi-dead-lhmq/04int-satrapi-dead-lhmq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christophe Petit Tesson/EPA, via Shutterstock</media:credit>
+      <media:description>Marjane Satrapi in 2023. She was one of the best-known exponents of a form of graphic novel that combined political history and memoir.</media:description>
+    </item>
+    <item>
+      <title>The U.S.-Qatar Domination of Gas Left the World Dangerously Exposed</title>
+      <link>https://www.nytimes.com/2026/06/04/business/gas-supply-usa-qatar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/business/gas-supply-usa-qatar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/business/gas-supply-usa-qatar.html" rel="standout"></atom:link>
+      <description>Before the war, the global market for liquefied natural gas was increasingly commanded by just two countries, one of which has now been hobbled.</description>
+      <dc:creator>River Akira Davis</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:02:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Doha (Qatar)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/00biz-lng-duopoly-01-ljgw/00biz-lng-duopoly-01-ljgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Picture Alliance, via Getty Images</media:credit>
+      <media:description>The liquefied natural gas production facility in Qatar’s Ras Laffan Industrial City before the war. Iranian attacks have crippled its production, and the damage will take years to repair.</media:description>
+    </item>
+    <item>
       <title>Sherrill Says Immigration Officials Won’t Let Her Visit Detention Center</title>
       <link>https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/03/nyregion/nj-governor-sherrill-delaney-hall.html" rel="standout"></atom:link>
       <description>The governor said the Department of Homeland Security’s actions at Delaney Hall raise “serious questions.”</description>
       <dc:creator>Tracey Tully</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 03:40:31 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 13:25:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
@@ -251,25 +319,6 @@
       <media:description>Gov. Mikie Sherrill of New Jersey and Senator Andy Kim, right, have expressed concerns about conditions at the Delaney Hall immigration detention center.</media:description>
     </item>
     <item>
-      <title>Marjane Satrapi, Author of ‘Persepolis,’ Dies at 56</title>
-      <link>https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html" rel="standout"></atom:link>
-      <description>Her graphic novel series, published in English in 2003, followed an Iranian girl through the Islamic revolution and the Iran-Iraq War. The work helped millions relate to Iranians.</description>
-      <dc:creator>Amelia Nierenberg and Ségolène Le Stradic</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 09:58:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Satrapi, Marjane</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Persepolis (Book)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04int-satrapi-dead-lhmq/04int-satrapi-dead-lhmq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christophe Petit Tesson/EPA, via Shutterstock</media:credit>
-      <media:description>Marjane Satrapi was one of the best-known exponents of a form of graphic novel that combined political history and memoir.</media:description>
-    </item>
-    <item>
       <title>E.U. Steps Up Ocean Monitoring as Trump Administration Backs Away</title>
       <link>https://www.nytimes.com/2026/06/03/climate/trump-ocean-monitor-european-union.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/climate/trump-ocean-monitor-european-union.html</guid>
@@ -288,26 +337,19 @@
       <media:description>The European plan to invest roughly $107 million comes as the U.S. has said it would dismantle a sprawling network of sensors.</media:description>
     </item>
     <item>
-      <title>Bari Weiss Speaks on Scott Pelley’s ’60 Minutes’ Firing: ‘That’s the Path That He Chose’</title>
-      <link>https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html" rel="standout"></atom:link>
-      <description>In her first public comments on the firing, Ms. Weiss, the CBS News editor in chief, said that the longtime correspondent had “broken” the trust in the newsroom.</description>
-      <dc:creator>Michael M. Grynbaum and Benjamin Mullin</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 18:02:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS News</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alfonsi, Sharyn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bilton, Nick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelley, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Anderson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiss, Bari</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03biz-cbs-bari2-jgtq/03biz-cbs-bari2-jgtq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Noam Galai/Getty Images</media:credit>
-      <media:description>“Despite our attempts to engage with Scott Pelley and to find a way back, unfortunately we weren’t able to do so, and so we had to part ways,” Bari Weiss, the CBS News editor in chief, said on Wednesday.</media:description>
+      <title>Priest’s Ebola Death Stirs Fear and Doubt in Congolese Town</title>
+      <link>https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/world/africa/ebola-congo-funeral-photo.html" rel="standout"></atom:link>
+      <description>Priest’s Ebola Death Stirs Fear an Doubt in Congolese Town</description>
+      <dc:creator>Arlette Bashizi</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 13:15:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongbwalu (Congo, Democratic Republic of)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04int-ebola-oneimage-promo-jwmh/04int-ebola-oneimage-promo-jwmh-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>Arlette Bashizi for The New York Times</media:credit>
     </item>
     <item>
       <title>Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup</title>
@@ -341,7 +383,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html" rel="standout"></atom:link>
       <description>A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.</description>
       <dc:creator>Luis Ferré-Sadurní and Annie Correal</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 09:03:43 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 13:49:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
@@ -353,26 +395,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/00int-worlcup-colombia01-photo-lgwv/00int-worlcup-colombia01-photo-lgwv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>Supporters of Abelardo De La Espriella wearing national soccer jerseys at a rally in Medellín on May 24.</media:description>
-    </item>
-    <item>
-      <title>Pace Gallery Cuts 50 Artists and 50 Staff Amid Art Market Challenges</title>
-      <link>https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/arts/design/pace-gallery-artist-cuts.html" rel="standout"></atom:link>
-      <description>A challenging art market is forcing even an established player to contract.</description>
-      <dc:creator>Robin Pogrebin</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 02:47:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pace Gallery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Glimcher, Marc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Glimcher, Arne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brancusi, Constantin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pendleton, Adam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Kiki</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04cul-pace-cuts-pwfv/04cul-pace-cuts-pwfv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Clement Pascal for The New York Times</media:credit>
-      <media:description>“The whole art gallery art system became too big, too commercial, too impersonal and too corporate,” Marc Glimcher, the chief executive of Pace Gallery, said.</media:description>
     </item>
     <item>
       <title>The Small-Business Owners Managing Whole Armies of A.I. Employees</title>
@@ -487,11 +509,28 @@
       <atom:link href="https://www.nytimes.com/2026/06/04/opinion/father-son-relationship-balding.html" rel="standout"></atom:link>
       <description>You spend your whole childhood trying to look different from your dad, only to wake up and see his forehead in the mirror.</description>
       <dc:creator>Sameh Alaa</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 10:13:02 +0000</pubDate>
+      <pubDate>Thu, 04 Jun 2026 10:13:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
+    </item>
+    <item>
+      <title>Look Closely</title>
+      <link>https://www.nytimes.com/2026/06/04/briefing/immigration-protest-photography.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/briefing/immigration-protest-photography.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/briefing/immigration-protest-photography.html" rel="standout"></atom:link>
+      <description>Seeing protests through a camera lens.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 11:54:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04themorning-nl-Delaney-tbpm/04themorning-nl-Delaney-tbpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban for The New York Times</media:credit>
+      <media:description>Near Delaney Hall in Newark.</media:description>
     </item>
     <item>
       <title>Late Night Reacts to Another Reality Star Wooing Voters</title>

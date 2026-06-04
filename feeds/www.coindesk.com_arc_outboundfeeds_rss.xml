@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 03 Jun 2026 22:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 01:37:06 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin tanks below $63,000 for the first time since February as price selloff deepens]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cb6d33254ef21db0874c8ef23c8e1d19c29f9be3-2935x1108.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">8a8750e3-f3f4-4b30-8d77-d9bc1c892e7e</guid>
+      <pubDate>Thu, 04 Jun 2026 01:30:53 +0000</pubDate>
+      <description><![CDATA[The selloff has triggered demand for protective options plays, pushing the fear gauge higher.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[SpaceX targets record $75 billion IPO as bitcoin treasury and liquidity risks draw focus]]></title>
       <link>https://www.coindesk.com/markets/2026/06/03/spacex-targets-record-usd75-billion-ipo-as-bitcoin-treasury-and-liquidity-risks-draw-focus</link>
@@ -378,21 +392,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Ledger]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[DeFi won't win over big banks until it fixes its hacking problem, executives say]]></title>
-      <link>https://www.coindesk.com/business/2026/06/02/defi-won-t-win-over-big-banks-until-it-fixes-its-hacking-problem-executives-say</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/381172546a9072b0defb0e4377f7c325a74c6445-1017x572.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">362f1d65-c6a2-49c0-a41f-07bb53b744a6</guid>
-      <pubDate>Wed, 03 Jun 2026 09:12:54 +0000</pubDate>
-      <description><![CDATA[Lenders are particularly interested in blockchain's back-office applications, but security failures are blocking wider adoption.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="tag"><![CDATA[Trade Finance]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

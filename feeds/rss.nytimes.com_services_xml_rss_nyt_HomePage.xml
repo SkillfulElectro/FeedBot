@@ -3,33 +3,17 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1780570001654" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 07:05:48 +0000</lastBuildDate>
-    <pubDate>Thu, 04 Jun 2026 07:05:15 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 10:46:41 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2026 10:34:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html" rel="standout"></atom:link>
-      <description>A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.</description>
-      <dc:creator>Robert Jimison and Megan Mineiro</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 23:21:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-warpowers-hvmf/03dc-warpowers-hvmf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The vote on Wednesday was the latest reflection of divisions between Republicans in Congress and President Trump on a range of issues as their interests diverge in the run-up to the midterm congressional elections.</media:description>
-    </item>
     <item>
       <title>Republicans Begin to Test the Limits of Trump’s Power by Flexing Their Own</title>
       <link>https://www.nytimes.com/2026/06/03/us/politics/republicans-trump-fund-iran-war-elections.html</link>
@@ -56,6 +40,22 @@
       <media:description>President Trump departing the White House in May. On Wednesday, four House Republicans sided with Democrats to demand Mr. Trump withdraw U.S. forces from the conflict with Iran.</media:description>
     </item>
     <item>
+      <title>House Passes Iran War Powers Resolution in Bipartisan Rebuke to Trump</title>
+      <link>https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html" rel="standout"></atom:link>
+      <description>A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.</description>
+      <dc:creator>Robert Jimison and Megan Mineiro</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 07:40:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-warpowers-hvmf/03dc-warpowers-hvmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>The vote on Wednesday was the latest reflection of divisions between Republicans in Congress and President Trump on a range of issues as their interests diverge in the run-up to the midterm congressional elections.</media:description>
+    </item>
+    <item>
       <title>Massie, 3 Other House Republicans Broke From Trump on Iran War Powers Vote</title>
       <link>https://www.nytimes.com/2026/06/03/us/politics/iran-war-powers-trump-republicans.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/iran-war-powers-trump-republicans.html</guid>
@@ -71,128 +71,133 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
     </item>
     <item>
-      <title>House Advances New Sanctions on Russia and Aid to Ukraine</title>
-      <link>https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html" rel="standout"></atom:link>
-      <description>After G.O.P. leaders blocked additional aid to Ukraine, six Republicans and an independent joined Democrats to force the measure to the floor against the wishes of the speaker.</description>
-      <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 00:55:49 +0000</pubDate>
+      <title>G.O.P. Defectors Break With Trump Over War, and SpaceX Set for Largest I.P.O. Ever</title>
+      <link>https://www.nytimes.com/2026/06/04/podcasts/the-headlines/trump-iran-spacex-ipo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/podcasts/the-headlines/trump-iran-spacex-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/podcasts/the-headlines/trump-iran-spacex-ipo.html" rel="standout"></atom:link>
+      <description>Plus, could streetlights be making your allergies worse?</description>
+      <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Robert Jimison and Harry Stevens</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 10:00:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03cong-ukraine-wjpb/03cong-ukraine-wjpb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Damage from Russian strikes in Ukraine’s Donetsk region in February. The House took up legislation that aims to target Russia’s oil and gas sector, its primary source of wartime revenue.</media:description>
-    </item>
-    <item>
-      <title>G.O.P. Revives Immigration Bill, Weighing Ban on Trump’s Fund</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/republicans-immigration-bill-trump-fund.html" rel="standout"></atom:link>
-      <description>Several Republicans suggested they would insist on adding a measure to bar the president from creating a fund to pay people who claim to be victims of government persecution.</description>
-      <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 23:06:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cassidy, Bill (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-cong-fgqj/03dc-cong-fgqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Demetrius Freeman for The New York Times</media:credit>
-      <media:description>A vote on Wednesday set the stage for a lengthy vote-a-thon that could culminate in passage of the immigration enforcement bill on Thursday.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04theheadlines-capitol-pmjl/04theheadlines-capitol-pmjl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Capitol Hill in May. The vote on the war in Iran on Wednesday was the latest reflection of divisions between Republicans in Congress and President Trump on a range of issues.</media:description>
     </item>
     <item>
-      <title>‘I Love It’: Trump Is Still in Favor of $1.8 Billion Payout Fund</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/trump-fund.html" rel="standout"></atom:link>
-      <description>Todd Blanche, the acting attorney general, said on Tuesday that the administration was “not moving forward with the fund, period,” after the plan drew bipartisan backlash.</description>
-      <dc:creator>Luke Broadwater</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 22:32:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Weaponization Fund (Trump v IRS)</category>
+      <title>Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses</title>
+      <link>https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html" rel="standout"></atom:link>
+      <description>The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.</description>
+      <dc:creator>Adam Rasgon and Natan Odenheimer</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 10:25:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fiber Optics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Manar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04int-israel-hezbollah-drones01-photo-zlfm/04int-israel-hezbollah-drones01-photo-zlfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jalaa Marey/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli soldiers reacting to drones near the Israel-Lebanon border on Monday.</media:description>
+    </item>
+    <item>
+      <title>Why Los Angeles Mayor Karen Bass Has to Fight for Her Job</title>
+      <link>https://www.nytimes.com/2026/06/03/us/elections/karen-bass-la-mayor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/elections/karen-bass-la-mayor.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/us/elections/karen-bass-la-mayor.html" rel="standout"></atom:link>
+      <description>Ms. Bass, a Democrat, has had a roller-coaster first term. She now faces the first runoff since 2005 for an incumbent mayor in the city.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 02:08:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-fund-wkgc/03dc-fund-wkgc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump on Wednesday in the Oval Office. In one of his first official acts of his second term, Mr. Trump issued a grant of clemency to the hundreds charged in connection with the Capitol attack.</media:description>
-    </item>
-    <item>
-      <title>‘Infuriated’ Former Judges Take on Trump</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/the-docket-former-judges-filings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/the-docket-former-judges-filings.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/the-docket-former-judges-filings.html" rel="standout"></atom:link>
-      <description>Critics say it is unseemly for retired judges to trade on the prestige of their former positions.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 20:19:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Weaponization Fund (Trump v IRS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koh, Harold Hongju</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03thedocket-nl-01-bcjf/03thedocket-nl-01-bcjf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump at the White House last month.</media:description>
-    </item>
-    <item>
-      <title>Park Service Awards No-Bid Contract to Cover Bridge Statues in Gold</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html" rel="standout"></atom:link>
-      <description>Originally estimated to cost $2.4 million, the government will now spend $5 million to restore the bronzes in time for Independence Day.</description>
-      <dc:creator>David A. Fahrenthold</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 21:21:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/us/dc-statues/dc-statues-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jared Soares for The New York Times</media:credit>
-      <media:description>Workers built scaffolding around one of the two The Arts of Peace statues near the Lincoln Memorial for a restoration project in Washington.</media:description>
-    </item>
-    <item>
-      <title>We Interrupt This Knicks Victory for a Political Ad Starring Mamdani</title>
-      <link>https://www.nytimes.com/2026/06/03/nyregion/mamdani-knicks-ad-campaign.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/nyregion/mamdani-knicks-ad-campaign.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/nyregion/mamdani-knicks-ad-campaign.html" rel="standout"></atom:link>
-      <description>Mayor Zohran Mamdani lent his political star power to an unusual TV ad promoting three Democrats running for House seats in New York City.</description>
-      <dc:creator>Benjamin Oreskes</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 03:19:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Avila Chevalier, Darializa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lander, Brad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valdez, Claire (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Knicks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, Karen Ruth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pratt, Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raman, Nithya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03midterms-bass-assess1-cjtf/03midterms-bass-assess1-cjtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+      <media:description>Mayor Karen Bass, center, campaigning at a community center in Plaza de Valle in Los Angeles, last month.</media:description>
+    </item>
+    <item>
+      <title>The Democrats’ Big Decision: Black Representation or More Blue Seats?</title>
+      <link>https://www.nytimes.com/2026/06/04/us/politics/democrats-black-representation-redistricting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/us/politics/democrats-black-representation-redistricting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/us/politics/democrats-black-representation-redistricting.html" rel="standout"></atom:link>
+      <description>As Republicans break up majority-Black House districts, Democrats must decide whether to preserve seats concentrated in urban areas or push them into white suburbs to target G.O.P. seats.</description>
+      <dc:creator>Clyde McGrady</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:01:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clyburn, James E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03nat-black-representation-1-hmwz/03nat-black-representation-1-hmwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Will Crooks for The New York Times</media:credit>
+      <media:description>Representative James Clyburn addressing the crowd at his annual fish fry alongside Representative Ro Khanna of California, second from left, and Governor Andy Beshear of Kentucky in Columbia, S.C., on Friday.</media:description>
+    </item>
+    <item>
+      <title>‘Teachers Are Going to Hate It’: How Social Media Apps Hooked Teens at School</title>
+      <link>https://www.nytimes.com/2026/06/04/us/social-media-schools.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/us/social-media-schools.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/us/social-media-schools.html" rel="standout"></atom:link>
+      <description>Internal documents show how tech giants grabbed children’s attention throughout the day, a strategy that schools say has undermined education.</description>
+      <dc:creator>Jennifer Valentino-DeVries</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parent-Teacher Associations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screen Time (Device)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/07/multimedia/00inv-phones-schools-gctv/00inv-phones-schools-gctv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yana Paskova for The New York Times</media:credit>
+      <media:description>Social media companies’ push to reach students has often overshadowed concerns from parents and teachers.</media:description>
+    </item>
+    <item>
+      <title>Nathan Lane and Laurie Metcalf on Their Tony-Nominated ‘Death of a Salesman’</title>
+      <link>https://www.nytimes.com/2026/06/04/theater/lane-metcalf-mantello-death-of-a-salesman-broadway.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/theater/lane-metcalf-mantello-death-of-a-salesman-broadway.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/theater/lane-metcalf-mantello-death-of-a-salesman-broadway.html" rel="standout"></atom:link>
+      <description>The stars Nathan Lane and Laurie Metcalf talk with the show’s director, Joe Mantello, about the exhilaration of collaborating and the trap of sentimentality.</description>
+      <dc:creator>Erik Piepenburg</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:02:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Winter Garden Theater (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lane, Nathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mantello, Joe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Metcalf, Laurie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Death of a Salesman (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tony Awards (Theater Awards)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04cul-tonys-salesman1-cmfj/04cul-tonys-salesman1-cmfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ye Fan for The New York Times</media:credit>
+      <media:description>From left, Nathan Lane, Joe Mantello and Laurie Metcalf in Lane’s dressing room at the Winter Garden Theater in Manhattan after a recent performance of “Death of a Salesman.”</media:description>
     </item>
     <item>
       <title>SpaceX IPO to Be Largest Ever at $135 Share Price</title>
@@ -215,102 +220,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/02/multimedia/00Biz-SpaceX-Range-ktfb/00Biz-SpaceX-Range-ktfb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Gay/Associated Press</media:credit>
       <media:description>SpaceX’s Starship rocket lifted off last month during a test flight from Starbase in Texas.</media:description>
-    </item>
-    <item>
-      <title>Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup</title>
-      <link>https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html" rel="standout"></atom:link>
-      <description>Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week.</description>
-      <dc:creator>Tariq Panja</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 04:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tijuana (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mehdi Taj</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/02/multimedia/00int-worldcup-iran-hpcz/00int-worldcup-iran-hpcz-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>Mehdi Taj being interviewed by a reporter in Tehran last month. Mr. Taj said mixed messages from Washington had created confusion over Iran’s participation in the World Cup.</media:description>
-    </item>
-    <item>
-      <title>Bari Weiss Speaks on Scott Pelley’s ’60 Minutes’ Firing: ‘That’s the Path That He Chose’</title>
-      <link>https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html" rel="standout"></atom:link>
-      <description>In her first public comments on the firing, Ms. Weiss, the CBS News editor in chief, said that the longtime correspondent had “broken” the trust in the newsroom.</description>
-      <dc:creator>Michael M. Grynbaum and Benjamin Mullin</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 18:02:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS News</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alfonsi, Sharyn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bilton, Nick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelley, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Anderson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiss, Bari</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03biz-cbs-bari2-jgtq/03biz-cbs-bari2-jgtq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Noam Galai/Getty Images</media:credit>
-      <media:description>“Despite our attempts to engage with Scott Pelley and to find a way back, unfortunately we weren’t able to do so, and so we had to part ways,” Bari Weiss, the CBS News editor in chief, said on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>In Alabama Ruling, Supreme Court Signals Limited Role for Federal Courts in Redistricting Fights</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/supreme-court-voting-rights-alabama.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/supreme-court-voting-rights-alabama.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/supreme-court-voting-rights-alabama.html" rel="standout"></atom:link>
-      <description>In an emergency ruling on Tuesday night, the court’s conservative majority gave a first glimpse into congressional district battles under a weakened Voting Rights Act.</description>
-      <dc:creator>Abbie VanSickle</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 22:26:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Figures, Shomari</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-scotus-voting-mpqw/03dc-scotus-voting-mpqw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The Supreme Court’s emergency Alabama ruling provided a look into how it may handle congressional district battles going forward.</media:description>
-    </item>
-    <item>
-      <title>With His New Museum, Obama Offers a Trip to a Parallel America</title>
-      <link>https://www.nytimes.com/2026/06/04/us/politics/obama-museum-parallel-trip.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/us/politics/obama-museum-parallel-trip.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/04/us/politics/obama-museum-parallel-trip.html" rel="standout"></atom:link>
-      <description>The presidential center that opens this month seems out of step with the zeitgeist of the moment and produces emotional reactions among the discontented of the Trump era.</description>
-      <dc:creator>Peter Baker and Jamie Kelter Davis</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 05:01:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Ladies (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Michelle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jarrett, Valerie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
     </item>
     <item>
       <title>Sherrill Says Immigration Officials Won’t Let Her Visit Detention Center</title>
@@ -342,47 +251,108 @@
       <media:description>Gov. Mikie Sherrill of New Jersey and Senator Andy Kim, right, have expressed concerns about conditions at the Delaney Hall immigration detention center.</media:description>
     </item>
     <item>
-      <title>Louisiana ICE Facility Mistreated Immigrants, Federal Investigators Say</title>
-      <link>https://www.nytimes.com/2026/06/03/us/politics/louisiana-ice-facility-mistreated-immigrants.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/us/politics/louisiana-ice-facility-mistreated-immigrants.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/us/politics/louisiana-ice-facility-mistreated-immigrants.html" rel="standout"></atom:link>
-      <description>A report by the Department of Homeland Security’s internal watchdog described officers putting one man in a chokehold and stabbing another with a pen.</description>
-      <dc:creator>Hamed Aleaziz and Nicholas Nehamas</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 23:40:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inspectors General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LaSalle Management Co LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03dc-ice-detention-01-jvbc/03dc-ice-detention-01-jvbc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gerald Herbert/Associated Press</media:credit>
-      <media:description>The Winn Correctional Center, an ICE detention facility in Winnfield, La. Multiple instances of mistreatment were documented at the correctional center last year.</media:description>
+      <title>Marjane Satrapi, Author of ‘Persepolis,’ Dies at 56</title>
+      <link>https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html" rel="standout"></atom:link>
+      <description>Her graphic novel series, published in English in 2003, followed an Iranian girl through the Islamic revolution and the Iran-Iraq War. The work helped millions relate to Iranians.</description>
+      <dc:creator>Amelia Nierenberg and Ségolène Le Stradic</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:58:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Satrapi, Marjane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Persepolis (Book)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04int-satrapi-dead-lhmq/04int-satrapi-dead-lhmq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christophe Petit Tesson/EPA, via Shutterstock</media:credit>
+      <media:description>Marjane Satrapi was one of the best-known exponents of a form of graphic novel that combined political history and memoir.</media:description>
     </item>
     <item>
-      <title>Four Immigrant Workers Burned to Death in Italy</title>
-      <link>https://www.nytimes.com/2026/06/03/world/europe/italy-migrants-burned.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/world/europe/italy-migrants-burned.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/world/europe/italy-migrants-burned.html" rel="standout"></atom:link>
-      <description>The immigrants had been working as fruit pickers in southern Italy, the authorities said, apparently as part of a system of criminal labor trafficking.</description>
-      <dc:creator>Ephrat Livni and Josephine de La Bruyère</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 20:19:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Calabria (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meloni, Giorgia (1977- )</category>
-      <media:content height="923" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03int-italy-migrants-2-qwbp/03int-italy-migrants-2-qwbp-mediumSquareAt3X.jpg" width="923"></media:content>
-      <media:description>Surveillance footage showed two people dousing a van with fuel and blocking the doors as the vehicle and its passengers burned in Calabria, Italy, on Monday.</media:description>
+      <title>E.U. Steps Up Ocean Monitoring as Trump Administration Backs Away</title>
+      <link>https://www.nytimes.com/2026/06/03/climate/trump-ocean-monitor-european-union.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/climate/trump-ocean-monitor-european-union.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/climate/trump-ocean-monitor-european-union.html" rel="standout"></atom:link>
+      <description>Days after the U.S. said it would kill a network of ocean monitors, European officials pledged to invest more in their version, calling it a “necessity.”</description>
+      <dc:creator>Chico Harlan</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 22:01:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Science Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brussels (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/03/climate/03CLI-OCEAN-MONITORS/03CLI-OCEAN-MONITORS-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Marta Masdeu Navarro/Shutterstock</media:credit>
+      <media:description>The European plan to invest roughly $107 million comes as the U.S. has said it would dismantle a sprawling network of sensors.</media:description>
+    </item>
+    <item>
+      <title>Bari Weiss Speaks on Scott Pelley’s ’60 Minutes’ Firing: ‘That’s the Path That He Chose’</title>
+      <link>https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html" rel="standout"></atom:link>
+      <description>In her first public comments on the firing, Ms. Weiss, the CBS News editor in chief, said that the longtime correspondent had “broken” the trust in the newsroom.</description>
+      <dc:creator>Michael M. Grynbaum and Benjamin Mullin</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 18:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alfonsi, Sharyn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bilton, Nick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelley, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Anderson</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiss, Bari</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03biz-cbs-bari2-jgtq/03biz-cbs-bari2-jgtq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Noam Galai/Getty Images</media:credit>
+      <media:description>“Despite our attempts to engage with Scott Pelley and to find a way back, unfortunately we weren’t able to do so, and so we had to part ways,” Bari Weiss, the CBS News editor in chief, said on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup</title>
+      <link>https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html" rel="standout"></atom:link>
+      <description>Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week.</description>
+      <dc:creator>Tariq Panja</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 04:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tijuana (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mehdi Taj</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/02/multimedia/00int-worldcup-iran-hpcz/00int-worldcup-iran-hpcz-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Mehdi Taj being interviewed by a reporter in Tehran last month. Mr. Taj said mixed messages from Washington had created confusion over Iran’s participation in the World Cup.</media:description>
+    </item>
+    <item>
+      <title>Colombia’s Yellow World Cup Jersey, Once a Symbol of Unity, Becomes a Political Statement</title>
+      <link>https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/world/americas/colombia-world-cup-jersey-politics.html" rel="standout"></atom:link>
+      <description>A presidential candidate endorsed by President Trump has been accused by some Colombians of co-opting their beloved national team’s yellow soccer jersey.</description>
+      <dc:creator>Luis Ferré-Sadurní and Annie Correal</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:03:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cepeda, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bogota (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/00int-worlcup-colombia01-photo-lgwv/00int-worlcup-colombia01-photo-lgwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Supporters of Abelardo De La Espriella wearing national soccer jerseys at a rally in Medellín on May 24.</media:description>
     </item>
     <item>
       <title>Pace Gallery Cuts 50 Artists and 50 Staff Amid Art Market Challenges</title>
@@ -405,53 +375,123 @@
       <media:description>“The whole art gallery art system became too big, too commercial, too impersonal and too corporate,” Marc Glimcher, the chief executive of Pace Gallery, said.</media:description>
     </item>
     <item>
-      <title>The Strait of Hormuz Is Blocked. The World Is Adjusting.</title>
-      <link>https://www.nytimes.com/2026/06/04/opinion/strait-of-hormuz-oil-iran-war-energy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/opinion/strait-of-hormuz-oil-iran-war-energy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/04/opinion/strait-of-hormuz-oil-iran-war-energy.html" rel="standout"></atom:link>
-      <description>The longer we go without oil from the Persian Gulf, the less we’ll need it.</description>
-      <dc:creator>Christopher Smart</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 05:52:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/04smart-qwkf/04smart-qwkf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aleksey Kondratyev for The New York Times</media:credit>
+      <title>The Small-Business Owners Managing Whole Armies of A.I. Employees</title>
+      <link>https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/magazine/ai-agents-openclaw-small-business.html" rel="standout"></atom:link>
+      <description>When you turn A.I. agents loose on your finances, email and customers, what could possibly go wrong?</description>
+      <dc:creator>Clive Thompson</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:00:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenClaw (MyClaw) (Artificial Intelligence Co)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
     </item>
     <item>
-      <title>Ebola Shows Why Humanitarian Aid Matters</title>
-      <link>https://www.nytimes.com/2026/06/03/opinion/ebola-disease-trump-musk-usaid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/opinion/ebola-disease-trump-musk-usaid.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/opinion/ebola-disease-trump-musk-usaid.html" rel="standout"></atom:link>
-      <description>The fecklessness of Washington leaders contrasts with the courage of doctors, nurses and aid workers in places like Congo.</description>
-      <dc:creator>Nicholas Kristof</dc:creator>
-      <pubDate>Wed, 03 Jun 2026 23:44:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <title>Should You Outsource Your Morning Routine to a Chatbot?</title>
+      <link>https://www.nytimes.com/2026/06/04/magazine/ai-chatbot-morning-routine-videos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/magazine/ai-chatbot-morning-routine-videos.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/magazine/ai-chatbot-morning-routine-videos.html" rel="standout"></atom:link>
+      <description>A.I. wants to help you start the day. Its suggestions? Drink coffee and get dressed.</description>
+      <dc:creator>Sophie Haigney</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:03:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Habits and Routines (Behavior)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+    </item>
+    <item>
+      <title>Songwriter David Baerwald Shares an Unspeakable Family Secret in ‘The Fire Agent’</title>
+      <link>https://www.nytimes.com/2026/06/03/style/david-baerwald-the-fire-agent.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/style/david-baerwald-the-fire-agent.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/03/style/david-baerwald-the-fire-agent.html" rel="standout"></atom:link>
+      <description>In “The Fire Agent,” the musician David Baerwald bases his debut novel on the shadowy life of his German-Jewish grandfather: an aristocrat, a soldier, a Buddhist and a spy.</description>
+      <dc:creator>Celia McGee and Landon Speers</dc:creator>
+      <pubDate>Wed, 03 Jun 2026 17:08:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Fire Agent (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baerwald, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baerwald, Ernst</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/02ST-BAERWALD-02-kjcf/02ST-BAERWALD-02-kjcf-mediumSquareAt3X.jpg" width="1800"></media:content>
+    </item>
+    <item>
+      <title>Book Review: ‘The Fire Agent,’ by David Baerwald</title>
+      <link>https://www.nytimes.com/2026/06/02/books/review/david-baerwald-fire-agent.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/02/books/review/david-baerwald-fire-agent.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/02/books/review/david-baerwald-fire-agent.html" rel="standout"></atom:link>
+      <description>“The Fire Agent,” by David Baerwald, is a historical novel that spans two continents and world wars.</description>
+      <dc:creator>Dan Fesperman</dc:creator>
+      <pubDate>Tue, 02 Jun 2026 09:00:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Fire Agent (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baerwald, David</category>
+    </item>
+    <item>
+      <title>With His New Museum, Obama Offers a Trip to a Parallel America</title>
+      <link>https://www.nytimes.com/2026/06/04/us/politics/obama-museum-parallel-trip.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/us/politics/obama-museum-parallel-trip.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/us/politics/obama-museum-parallel-trip.html" rel="standout"></atom:link>
+      <description>The presidential center that opens this month seems out of step with the zeitgeist of the moment and produces emotional reactions among the discontented of the Trump era.</description>
+      <dc:creator>Peter Baker and Jamie Kelter Davis</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 05:01:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Ladies (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Physicians for Human Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Michelle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jarrett, Valerie</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/03kristof-wjpb/03kristof-wjpb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arlette Bashizi for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+    </item>
+    <item>
+      <title>Melinda French Gates: Women, We Deserve Better Than This</title>
+      <link>https://www.nytimes.com/2026/06/04/opinion/menopause-women-health-care.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/opinion/menopause-women-health-care.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/opinion/menopause-women-health-care.html" rel="standout"></atom:link>
+      <description>Too many women walk out of their doctors’ office with no diagnosis, no treatment and no plan.</description>
+      <dc:creator>Melinda French Gates</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 09:48:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Menopause</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Grow, Hair, Grow</title>
+      <link>https://www.nytimes.com/2026/06/04/opinion/father-son-relationship-balding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/opinion/father-son-relationship-balding.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/opinion/father-son-relationship-balding.html" rel="standout"></atom:link>
+      <description>You spend your whole childhood trying to look different from your dad, only to wake up and see his forehead in the mirror.</description>
+      <dc:creator>Sameh Alaa</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 10:13:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
     </item>
     <item>
       <title>Late Night Reacts to Another Reality Star Wooing Voters</title>
@@ -471,23 +511,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
     </item>
     <item>
-      <title>Flesh-Eating Pest Confirmed in U.S. Cattle</title>
-      <link>https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/03/business/new-world-screwworm-texas.html" rel="standout"></atom:link>
-      <description>The New World screwworm was found in a calf in South Texas, the Agriculture Department said, the first case in the country since the 1960s.</description>
-      <dc:creator>Kevin Draper</dc:creator>
-      <pubDate>Thu, 04 Jun 2026 02:14:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screwworm Fly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cattle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1769" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/03biz-screwworm-zwql/03biz-screwworm-zwql-mediumSquareAt3X.jpg" width="1771"></media:content>
-      <media:credit>Daniel Becerril/Reuters</media:credit>
-      <media:description>The New World screwworm fly has been moving north since it was detected at the Guatemalan-Mexican border in 2024. </media:description>
+      <title>Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up</title>
+      <link>https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html" rel="standout"></atom:link>
+      <description>As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.</description>
+      <dc:creator>Megan Specia and Paulo Nunes Dos Santos</dc:creator>
+      <pubDate>Thu, 04 Jun 2026 10:34:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Irish Sea</category>
     </item>
   </channel>
 </rss>

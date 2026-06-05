@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 05 Jun 2026 01:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 05:44:08 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/13d8f81b29c8f61787a21c02e9d14ae660f3f312-2936x1195.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b45f1c40-b417-4208-bbb3-ecdc39d674a1</guid>
+      <pubDate>Fri, 05 Jun 2026 05:43:07 +0000</pubDate>
+      <description><![CDATA[Shielded Labs revealed that the bug could have helped an attacker print unlimited counterfeit tokens. That could have damaged trust in the token's supply and its value. ]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Privacy]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward]]></title>
       <link>https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward</link>
@@ -377,23 +392,6 @@
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="tag"><![CDATA[Markets]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live markets: Bitcoin selloff stalls as key indicator signals oversold conditions]]></title>
-      <link>https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8b7d0623147cff85d540fc99cb3a31bea034953a-1440x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">60385807-bc6b-48bc-95e6-8dd3ae6680a3</guid>
-      <pubDate>Thu, 04 Jun 2026 02:11:08 +0000</pubDate>
-      <description><![CDATA[Bitcoin rebounded to $64,000 after a sharp selloff, with the move reflecting a typical bounce from oversold conditions rather than a confirmed trend reversal.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>Sam Reynolds</dc:creator>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
     </item>
   </channel>
 </rss>

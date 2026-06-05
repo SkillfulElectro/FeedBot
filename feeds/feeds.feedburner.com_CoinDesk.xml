@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 05 Jun 2026 13:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:19:47 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -51,7 +51,22 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: bitcoin below $62,000 as blowout jobs data, Zcash bug keeps pressure on crypto]]></title>
+      <title><![CDATA[Bearish zcash bets hit record high as privacy token's price crashes]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/05/bearish-zcash-bets-hit-record-high-as-privacy-token-s-price-crashes</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b1d6ea7b7aec491803836b0fa81e4742ba3b8285-1280x854.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">39aac4a1-8afc-4f78-bc0b-8fe8fa3be7a2</guid>
+      <pubDate>Fri, 05 Jun 2026 12:54:02 +0000</pubDate>
+      <description><![CDATA[Liquidations were small relative to the size of the decline, pointing to spot selling rather than a leverage cascade, while open interest in ZEC futures climbed to a record high in token terms as traders crowded into the slide from the short side.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Privacy]]></category>
+      <category domain="tag"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto]]></title>
       <link>https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/bce0f33371330b08e2ce67dd4abee833c362a946-8000x4500.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">b4a4e3b5-8138-41b9-8187-6370d4fa1249</guid>
@@ -59,6 +74,8 @@
       <description><![CDATA[Zcash plummeted 40% after Shielded Labs revealed a major bug that went undetected for 4 years.]]></description>
       <dc:creator>Stephen Alpher</dc:creator>
       <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
+      <dc:creator>Krisztian Sandor</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
@@ -380,24 +397,6 @@
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="tag"><![CDATA[Live News]]></category>
       <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[Moomoo expands into prediction markets through Kalshi partnership]]></title>
-      <link>https://www.coindesk.com/business/2026/06/04/moomoo-expands-into-prediction-markets-through-kalshi-partnership</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c3ac40e216e0a2276cfec64adeb74b4e08399884-1919x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">db0b9262-a450-40a0-ab48-74497d9f97b1</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
-      <description><![CDATA[Retail trading platform moomoo has partnered with Kalshi to offer CFTC-regulated event contracts tied to economic data, elections and major sporting events directly within its app.]]></description>
-      <dc:creator>Will Canny</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Moomoo ]]></category>
-      <category domain="tag"><![CDATA[Kalshi]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="tag"><![CDATA[Prediction Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 06 Jun 2026 09:41:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 11:48:17 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[ Are retail traders selling their bitcoin to buy the SpaceX IPO?]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/97bf2e29eb3c1b7bbc38861e392cdd3baacfcacf-1919x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7ce5446f-0166-4ab8-b48c-e31afad78f78</guid>
+      <pubDate>Sat, 06 Jun 2026 09:45:15 +0000</pubDate>
+      <description><![CDATA[Exchange flows and stablecoin movements through this week's sell-off show no wall of money leaving crypto for cash. Exchanges such as Robinhood and Coinbase will not publicly reporting their figures until July.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Researcher who found Zcash's bug with AI adds Monero to his audit queue]]></title>
       <link>https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue</link>
@@ -368,21 +381,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Zcash plummets 38% as Shielded Labs reveals a major bug that went undetected for four years]]></title>
-      <link>https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/13d8f81b29c8f61787a21c02e9d14ae660f3f312-2936x1195.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">b45f1c40-b417-4208-bbb3-ecdc39d674a1</guid>
-      <pubDate>Fri, 05 Jun 2026 05:43:07 +0000</pubDate>
-      <description><![CDATA[Shielded Labs revealed that the bug could have helped an attacker print unlimited counterfeit tokens. That could have damaged trust in the token's supply and its value. ]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Privacy]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

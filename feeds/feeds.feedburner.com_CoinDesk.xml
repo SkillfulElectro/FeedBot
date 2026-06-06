@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 06 Jun 2026 08:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:41:02 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Researcher who found Zcash's bug with AI adds Monero to his audit queue]]></title>
+      <link>https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7047e671eea6f453ca346d496694058b20398ac1-1900x1268.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">0d594406-1453-4642-a2ff-7adb03cb4d7a</guid>
+      <pubDate>Sat, 06 Jun 2026 09:38:00 +0000</pubDate>
+      <description><![CDATA[Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it]]></title>
       <link>https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it</link>
@@ -370,21 +383,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Privacy]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto Clarity Act in spotlight for bad-actor provisions as Senate process grinds forward]]></title>
-      <link>https://www.coindesk.com/policy/2026/06/04/crypto-clarity-act-in-spotlight-for-bad-actor-provisions-as-senate-process-grinds-forward</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/fdf7f5a1bfc3ea1d7708ef0c24ddb8c1297cbb2f-3480x1958.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">19a141e4-f7d6-45a1-8096-321fce2ec716</guid>
-      <pubDate>Thu, 04 Jun 2026 19:41:14 +0000</pubDate>
-      <description><![CDATA[The industry has been trying to make a case this week the Clarity Act provides law enforcement strong tools to combat illicit finance involving cryptocurrency.]]></description>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Clarity Act]]></category>
-      <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 06 Jun 2026 16:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:31:45 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Meta is paying creators in Stablecoins. Spending them is someone else's problem]]></title>
+      <link>https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cfaf9c075207a73ff2c9f56502c1b48c8c1fc2dc-3754x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">8ca1a47d-74e0-47e7-b676-58e3ea60bba3</guid>
+      <pubDate>Sat, 06 Jun 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency. 
+]]></description>
+      <dc:creator>Tim Joslyn</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[America’s largest banks are building a new digital currency network to stop a massive deposit drain]]></title>
       <link>https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain</link>
@@ -368,21 +383,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto's worst week since July 2024 deepens as bitcoin, ether near critical price levels]]></title>
-      <link>https://www.coindesk.com/markets/2026/06/05/crypto-s-worst-week-since-july-2024-deepens-as-bitcoin-ether-near-critical-price-levels</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/47adb4004c9e79e924fd78840ef1db92a5eb7fe9-1864x1042.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">fa9de0e7-15bc-422f-bc9a-6e67978474f7</guid>
-      <pubDate>Fri, 05 Jun 2026 10:39:16 +0000</pubDate>
-      <description><![CDATA[Crypto is on course for its worst week since July 2024, with the ether price approaching a critical support as a zcash exploit and AI capital rotation pile on the pressure.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <dc:creator>Saksham Diwan</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

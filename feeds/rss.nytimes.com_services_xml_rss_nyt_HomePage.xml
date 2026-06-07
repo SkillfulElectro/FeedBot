@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 15:51:23 +0000</lastBuildDate>
-    <pubDate>Sun, 07 Jun 2026 15:45:17 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Jun 2026 17:17:40 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Jun 2026 17:10:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/07/us/trump-news" rel="standout"></atom:link>
       <description></description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 07 Jun 2026 15:45:17 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 17:10:35 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/07/multimedia/live-blog-20260607-trump-news-header-cqzv-copy/live-blog-20260607-trump-news-header-cqzv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>President Tump boarding Air Force One on Friday.</media:description>
@@ -77,19 +77,40 @@
       <description>A judge sided with jazz performer Chuck Redd, who canceled a 2025 holiday concert after President Trump’s name was added to the building.</description>
       <dc:creator>Mark Walker</dc:creator>
       <pubDate>Sun, 07 Jun 2026 02:53:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redd, Chuck (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jazz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redd, Chuck (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Organizational</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/06/multimedia/06xp-lawsuit-wltf/06xp-lawsuit-wltf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>A judge threw out a lawsuit filed by the John F. Kennedy Center against a jazz musician who canceled a Christmas Eve performance.</media:description>
+    </item>
+    <item>
+      <title>Iranians Sink Into Despair Facing War Deaths and Skyrocketing Inflation</title>
+      <link>https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html" rel="standout"></atom:link>
+      <description>An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Sun, 07 Jun 2026 15:58:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadinejad, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/07/multimedia/07int-iran-disillusion-chwp/07int-iran-disillusion-chwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Tehran in April. Daily life in Iran, already difficult, has grown harder in the months since the war began, with rampant inflation, civilian deaths and damaged infrastructure. </media:description>
     </item>
     <item>
       <title>Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.</title>
@@ -108,45 +129,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/05/multimedia/05iran-promise-hjqk/05iran-promise-hjqk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump has said the main reason he went to war on Feb. 28 was to prevent Iran from acquiring a nuclear weapon. </media:description>
-    </item>
-    <item>
-      <title>Israel Bombs Beirut Outskirts as Fighting With Hezbollah Escalates</title>
-      <link>https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html" rel="standout"></atom:link>
-      <description>The Trump administration has pushed for a cease-fire, bringing Israeli and Lebanese officials together for talks in Washington. But so far, Hezbollah has rejected the truce.</description>
-      <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Sun, 07 Jun 2026 15:26:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dahiya (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/07/multimedia/07int-israel-beirut-qzfh/07int-israel-beirut-qzfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hassan Ammar/Associated Press</media:credit>
-      <media:description>Rescue workers are seen on Sunday at a damaged building in a neighborhood on the southern outskirts of Beirut, a longtime Hezbollah stronghold.</media:description>
-    </item>
-    <item>
-      <title>Arab Gunman Kills One in Attack on Central Israel</title>
-      <link>https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html" rel="standout"></atom:link>
-      <description>The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility.</description>
-      <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Sun, 07 Jun 2026 14:12:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/07/multimedia/07int-israel-shooting-bgmz/07int-israel-shooting-bgmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Israeli security forces in Kochav Yair, Israel, on Sunday, after a shooting.</media:description>
     </item>
     <item>
       <title>Scott Pelley on the Bari Weiss Era and His Last Days at ‘60 Minutes’</title>
@@ -216,29 +198,6 @@
       <media:description>The candidates for governor in South Carolina went to extraordinary lengths to garner President Trump’s endorsement.</media:description>
     </item>
     <item>
-      <title>The Bidens Return With New Book and South Dakota Speech Targeting Trump</title>
-      <link>https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/06/us/politics/biden-speech-sioux-falls-trump.html" rel="standout"></atom:link>
-      <description>The re-emergence of the former first family has been fraught for some Democrats who just want to move on.</description>
-      <dc:creator>Shawn McCreesh</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 16:15:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Ladies (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Jill Tracy Jacobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Hunter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sioux Falls (SD)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Dakota</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/06/multimedia/06dc-biden-joe-hpvt/06dc-biden-joe-hpvt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matt Kelley/Associated Press</media:credit>
-      <media:description>Former President Joseph R. Biden Jr. at a South Carolina Democratic Party rally in February.</media:description>
-    </item>
-    <item>
       <title>Christine Hunsicker, CaaStle CEO, Confessed to Fraud. The Board Let Her Stay in Charge.</title>
       <link>https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html</guid>
@@ -268,22 +227,13 @@
       <atom:link href="https://www.nytimes.com/2026/06/06/theater/tony-awards-2026-pink.html" rel="standout"></atom:link>
       <description>This year’s annual celebration of the best on Broadway is being hosted by Pink.</description>
       <dc:creator>Michael Paulson</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 13:54:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <pubDate>Sat, 06 Jun 2026 13:54:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tony Awards (Theater Awards)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dahl, Roald</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dion, Celine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lane, Nathan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lithgow, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pasek, Benj</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Justin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pink (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruffin, Amber</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Neil Patrick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benanti, Laura</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burgess, Tituss</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/06/multimedia/06cul-what--jmwb/06cul-what--jmwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sara Krulwich/The New York Times</media:credit>
       <media:description>The CBS telecast of the Tonys introduces the latest plays and musicals to a television audience of several million.</media:description>
@@ -322,44 +272,43 @@
       <media:description>Pink will host he 79th Tony Awards at Radio City Hall. The ceremony, which will be broadcast live on CBS and is available to stream on Paramount+, begins at 8 p.m. Eastern.</media:description>
     </item>
     <item>
-      <title>Americans Love Soccer Stars Who Aren’t Made in America</title>
-      <link>https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/07/arts/world-cup-united-states-soccer-pele-beckham-messi.html" rel="standout"></atom:link>
-      <description>The United States has gone wild over foreign-born players on several occasions. Now the largest World Cup ever is arriving.</description>
-      <dc:creator>Emmanuel Morgan</dc:creator>
-      <pubDate>Sun, 07 Jun 2026 09:00:08 +0000</pubDate>
+      <title>Seattle’s Incredibly Loud Street Preachers Eagerly Await the World Cup</title>
+      <link>https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/07/us/seattle-street-preachers-world-cup.html" rel="standout"></atom:link>
+      <description>Long the bane of Mariners and Seahawks fans, evangelical ministers with large speakers are preparing for the “incredible opportunity” of screaming the word of God at 750,000 soccer fans.</description>
+      <dc:creator>Anna Griffin</dc:creator>
+      <pubDate>Sun, 07 Jun 2026 09:01:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ministers (Protestant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Noise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Inter Miami (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Galaxy (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Cosmos (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beckham, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Messi, Lionel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pele (1940- )</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/07/multimedia/07cul-worldcup-waves-01-wjhq/07cul-worldcup-waves-01-wjhq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Megan Briggs/Getty Images</media:credit>
-      <media:description>The Argentine star Lionel Messi is about to play in his sixth World Cup. His pink Inter Miami jersey became a hot item when he began playing in the United States in 2023.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Seattle Mariners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Seattle Seahawks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seattle (Wash)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/07/multimedia/07nat-worldcup-preachers-01-vmfz/07nat-worldcup-preachers-01-vmfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Grant Hindsley for The New York Times</media:credit>
+      <media:description>Ron Cardiel, a preacher, calls it a “no-escape mentality to hearing the word of God,” evangelizing through loudspeakers to captive audiences on lines in Seattle.</media:description>
     </item>
     <item>
-      <title>Ahead of World Cup, Two Generations of Haitian Players Unite</title>
-      <link>https://www.nytimes.com/2026/06/06/us/ahead-of-world-cup-two-generations-of-haitian-players-unite.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/06/us/ahead-of-world-cup-two-generations-of-haitian-players-unite.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/06/us/ahead-of-world-cup-two-generations-of-haitian-players-unite.html" rel="standout"></atom:link>
-      <description>A player from Haiti’s 1974 World Cup team, the last to qualify for the tournament, met with the co-captain of this year’s squad in South Florida.</description>
-      <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Sat, 06 Jun 2026 23:39:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Haitian-Americans</category>
+      <title>Mexico City’s Airport Got a $500 Million Renovation for the 2026 World Cup. Was It Enough?</title>
+      <link>https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/07/world/americas/mexico-city-benito-juarez-airport-world-cup.html" rel="standout"></atom:link>
+      <description>The nearly 100-year-old airport has undergone a rapid $500 million renovation. But experts say it’s not enough.</description>
+      <dc:creator>James Wagner and Luis Antonio Rojas</dc:creator>
+      <pubDate>Sun, 07 Jun 2026 14:58:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Curacao</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/06/multimedia/06nat-worldcup-haiti-01-lftj/06nat-worldcup-haiti-01-lftj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Scott McIntyre for The New York Times</media:credit>
-      <media:description>Ricardo Adé, Haitian professional soccer player for the country’s national team, right, greets former Haitian national team player Ernst Jean-Baptiste at a restaurant in Miami, Fla., on Saturday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez Obrador, Andres Manuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Felipe Angeles International Airport (Zumpango, Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/01/multimedia/00int-worldcup-mexico-airports01-photo-qwpf/00int-worldcup-mexico-airports01-photo-qwpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Construction near passenger areas and a giant replica of the World Cup trophy last month at Benito Juárez International Airport in Mexico City.</media:description>
     </item>
     <item>
       <title>What Steven Spielberg Taught Me About Fear, Catharsis, and Being Human</title>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 07 Jun 2026 16:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 17:48:12 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows]]></title>
+      <link>https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/49ac93ccbf9bcc916ad8632cdc9797b8d1ba129a-3771x2121.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">92a719b9-e1c0-4a66-8cd2-2afd5ab8e72c</guid>
+      <pubDate>Sun, 07 Jun 2026 17:41:57 +0000</pubDate>
+      <description><![CDATA[The firm's executive chairman posted a familiar chart with Strategy's previous BTC purchases writing "a good time to add more dots."]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[MicroStrategy]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin near $60,000 today vs February: Institutional sentiment has flipped]]></title>
       <link>https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different</link>
@@ -363,23 +378,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[CoinDesk 20 performance update: Bitcoin (BTC) price drops 2.8% as index declines]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/06/05/coindesk-20-performance-update-bitcoin-btc-price-drops-2-8-as-index-declines</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/16355edaa611b6d435ee70523c9372a4a3bf199a-640x480.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">84b4cf55-82fc-4b92-8231-5dcaa2a2e4fa</guid>
-      <pubDate>Fri, 05 Jun 2026 13:10:39 +0000</pubDate>
-      <description><![CDATA[All twenty constituents in the CoinDesk 20 index were trading lower since yesterday.  ]]></description>
-      <dc:creator>CoinDesk Indices</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk 20]]></category>
-      <category domain="tag"><![CDATA[charts]]></category>
-      <category domain="tag"><![CDATA[Prices]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

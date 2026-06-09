@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 09 Jun 2026 19:51:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 21:13:00 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto tax bills a work-in-progress as U.S. House lawmakers pose concerns]]></title>
+      <link>https://www.coindesk.com/policy/2026/06/09/crypto-tax-bills-a-work-in-progress-as-u-s-house-lawmakers-pose-concerns</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/976ce7e305132fada910cfe9bc3b0d8254ad588b-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a7175e86-6fa3-4617-bcba-2df943bf0e16</guid>
+      <pubDate>Tue, 09 Jun 2026 21:06:01 +0000</pubDate>
+      <description><![CDATA[The effort to push several tax bills is meant to be bipartisan, but the parties may not be comfortable with all details of the seven bills weighed by the panel.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Tax]]></category>
+      <category domain="tag"><![CDATA[Mining]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Securitize CEO says tokenized stocks could unlock a $5 trillion crypto market]]></title>
       <link>https://www.coindesk.com/business/2026/06/09/securitize-ceo-says-tokenized-stocks-could-unlock-a-usd5-trillion-crypto-market</link>
@@ -170,7 +186,7 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin drifts back to $61,000, after two straight up days amid equities selloff]]></title>
+      <title><![CDATA[Live updates: Bitcoin narrows early losses, returns to $62,000 as Nasdaq bounces to close down 1%]]></title>
       <link>https://www.coindesk.com/tech/2026/06/09/live-updates-bitcoin-drifts-back-to-usd62-500-putting-damper-on-hope-for-two-straight-up-days</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a6176b74f7f4db363cb6c5d02b4cb29ef60079db-3000x2078.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">ce3812b3-c366-4cc0-8858-b162b84cc8ff</guid>
@@ -374,24 +390,6 @@
       <category domain="tag"><![CDATA[Hyperliquid]]></category>
       <category domain="tag"><![CDATA[Derivatives]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live updates: Bitcoin tops $63,000 as Strategy adds $100 million BTC in latest purchase]]></title>
-      <link>https://www.coindesk.com/business/2026/06/08/live-updates-bitcoin-above-usd63-400-as-strategy-adds-usd100-million-btc-in-latest-purchase</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a57323d92b3fa599df2ee442af800248477423c0-6000x3376.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">a5b2a6f8-0fc1-4f1d-b545-fb5adea05ae4</guid>
-      <pubDate>Mon, 08 Jun 2026 17:04:38 +0000</pubDate>
-      <description><![CDATA[Meanwhile, Strive bought 32 bitcoin, the same number Strategy dumped last week.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <dc:creator>Helene Braun</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
     </item>
   </channel>
 </rss>

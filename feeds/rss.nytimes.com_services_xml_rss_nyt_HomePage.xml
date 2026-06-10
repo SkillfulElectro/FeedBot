@@ -3,91 +3,108 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1781048831514" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 09 Jun 2026 23:47:16 +0000</lastBuildDate>
-    <pubDate>Tue, 09 Jun 2026 23:27:57 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 04:00:16 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 03:05:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>U.S. and Iran Zero In on Four Nuclear Issues in Talks</title>
-      <link>https://www.nytimes.com/2026/06/09/us/politics/iran-nuclear-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/iran-nuclear-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/iran-nuclear-deal.html" rel="standout"></atom:link>
-      <description>With the cease-fire proving tenuous, negotiations between the two nations are in flux, but have advanced to outline potential paths forward on difficult questions about Iran’s nuclear program.</description>
-      <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 17:18:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oak Ridge National Laboratory</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09dc-trump-nuclear-jbkq/09dc-trump-nuclear-jbkq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>Tehran this week. Hard-liners in Iran could derail what American officials have described as the hazy outlines of an accord.</media:description>
-    </item>
-    <item>
-      <title>Netanyahu’s Bow to Trump’s Iran Pressure Spurs New Criticism</title>
-      <link>https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html" rel="standout"></atom:link>
-      <description>Opponents attacked Prime Minister Benjamin Netanyahu for halting strikes against Iran after a call with President Trump, saying that he was letting the United States make Israel’s decisions.</description>
-      <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 13:23:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dahiya (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1531" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09mideast-netanyahu-criticism-wghb/09mideast-netanyahu-criticism-wghb-mediumSquareAt3X.jpg" width="1531"></media:content>
-      <media:credit>Ronen Zvulun/Reuters</media:credit>
-      <media:description>Prime Minister Benjamin Netanyahu of Israel at the Knesset, Israel’s parliament, last week.</media:description>
-    </item>
-    <item>
-      <title>The U.S. Strikes Iran After Trump Vowed to Retaliate</title>
-      <link>https://www.nytimes.com/2026/06/09/briefing/united-states-iran-strikes-maine-primary-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/briefing/united-states-iran-strikes-maine-primary-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/briefing/united-states-iran-strikes-maine-primary-election.html" rel="standout"></atom:link>
-      <description>Also, meet NASA’s Artemis III crew. Here’s the latest at the end of Tuesday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 22:00:36 +0000</pubDate>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10int-theworld-trump-fcjw/10int-theworld-trump-fcjw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>The Strait of Hormuz last week.</media:description>
-    </item>
-    <item>
-      <title>A Timeline of Donald Trump and Lindsey Graham’s Relationship Before the South Carolina Primary</title>
-      <link>https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/08/us/politics/trump-graham-relationship-timeline-primary.html" rel="standout"></atom:link>
-      <description>Once one of President Trump’s fiercest critics, the South Carolina senator has dramatically shifted his posture over the years. Will it pay off on Tuesday in his primary?</description>
-      <dc:creator>Bayliss Wagner and Meg Felling</dc:creator>
-      <pubDate>Mon, 08 Jun 2026 23:24:17 +0000</pubDate>
+      <title>Steve Hilton Wins Second Spot in California Governor Race, Beating Tom Steyer</title>
+      <link>https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html" rel="standout"></atom:link>
+      <description>Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra, a Democrat, in the general election. Tom Steyer, another Democrat, will not advance.</description>
+      <dc:creator>Laurel Rosenhall</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 00:47:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hilton, Steve (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/02/multimedia/02hfo-nat-ca-governor1/02hfo-nat-ca-governor1-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+      <media:description>Xavier Becerra, left, and Steve Hilton.</media:description>
+    </item>
+    <item>
+      <title>Sanders-Backed Progressive Advances in California Swing District Against Valadao</title>
+      <link>https://www.nytimes.com/2026/06/09/us/politics/bains-villegas-california-democrats-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/bains-villegas-california-democrats-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/bains-villegas-california-democrats-primary.html" rel="standout"></atom:link>
+      <description>Randy Villegas will face the incumbent, David Valadao, a Republican who has survived numerous challenges in a competitive district.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 01:02:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valadao, David G</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/02/multimedia/02hfo-pol-ca22-villegas-bvcj/02hfo-pol-ca22-villegas-bvcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jon Kopaloff/Getty Images For Connor Treacy</media:credit>
+      <media:description>Randy Villegas, a progressive backed by Senator Bernie Sanders of Vermont, defeated Dr. Jasmeet Bains in the Democratic primary in California’s 22nd Congressional District. He will face Representative David Valadao, the Republican incumbent.</media:description>
+    </item>
+    <item>
+      <title>Rep. Kevin Kiley, Independent, to Face Richard Pan in California House Race</title>
+      <link>https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html" rel="standout"></atom:link>
+      <description>Mr. Kiley dropped his Republican affiliation earlier this year. The newly drawn Sixth Congressional District is widely considered to be favorable for Democrats.</description>
+      <dc:creator>Jennifer Medina</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 00:04:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiley, Kevin (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Richard Pan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thien Ho</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/02/us/02hfo-pol-ca6-pan2/02hfo-pol-ca6-pan2-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times, Rich Pedroncelli/Associated Press</media:credit>
+      <media:description>Representative Kevin Kiley and Richard Pan will compete in November.</media:description>
+    </item>
+    <item>
+      <title>Lindsey Graham Wins Republican Senate Primary in South Carolina</title>
+      <link>https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/south-carolina-senate-graham-lynch.html" rel="standout"></atom:link>
+      <description>Mr. Graham, a four-term incumbent, is the favorite to win the general election in a solidly Republican state.</description>
+      <dc:creator>Patricia Mazzei</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 01:46:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/08/us/08pol-graham-trump-timeline/08pol-graham-trump-timeline-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross/The New York Times, Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Senator Lindsey Graham of South Carolina, left, and President Trump.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <media:content height="1118" medium="image" url="https://static01.nyt.com/images/2026/06/08/multimedia/HFO-09pol-sc-senate-SWAP-vtwh-copy/HFO-09pol-sc-senate-SWAP-vtwh-mediumSquareAt3X.jpg" width="1119"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>Senator Lindsey Graham, Republican of South Carolina, in Washington in February.</media:description>
+    </item>
+    <item>
+      <title>Navy Admiral Fired by Hegseth Advances to Runoff to Replace Mace</title>
+      <link>https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html" rel="standout"></atom:link>
+      <description>Nancy Lacore would face a tough fall election in a district drawn in 2021 to be more Republican. She is seeking to replace Representative Nancy Mace, who ran unsuccessfully for governor instead of running for re-election.</description>
+      <dc:creator>Nick Corasaniti and Bayliss Wagner</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 00:55:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lacore, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mace, Nancy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09hfo-pol-sc1-dems-fzwj/09hfo-pol-sc1-dems-fzwj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Shawn Thew/EPA, via Shutterstock</media:credit>
+      <media:description>Nancy Lacore, a former U.S. Navy admiral, is seeking a congressional seat in South Carolina after Defense Secretary Pete Hegseth fired her last year.</media:description>
     </item>
     <item>
       <title>Pro-Israel Group Pushes for Haley Stevens in Michigan Senate Race</title>
@@ -112,33 +129,13 @@
       <media:description>Representative Haley Stevens of Michigan has been a vocal supporter of Israel in the past.</media:description>
     </item>
     <item>
-      <title>House Passes G.O.P.’s $70 Billion Immigration Bill</title>
-      <link>https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html" rel="standout"></atom:link>
-      <description>The vote gave final passage to Republicans’ megabill to fund immigration enforcement through the remainder of President Trump’s term, clearing it for his signature.</description>
-      <dc:creator>Catie Edmondson</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 22:11:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/us/immigration-funding-promo-2026-06-08-ice-cbp-funding-update/immigration-funding-promo-2026-06-08-ice-cbp-funding-update-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ashley Wu/The New York Times</media:credit>
-    </item>
-    <item>
       <title>Blanche Was Once Seen as Tempering Trump’s Tactics. Now He’s All In.</title>
       <link>https://www.nytimes.com/2026/06/09/us/politics/blanche-trump-justice-department-retribution.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/blanche-trump-justice-department-retribution.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/blanche-trump-justice-department-retribution.html" rel="standout"></atom:link>
       <description>The ascendancy of Todd Blanche shows how the practices that were initially deemed out of bounds even in President Trump’s Justice Department seem to be the order of the day.</description>
       <dc:creator>Glenn Thrush</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 20:44:13 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 01:32:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
@@ -156,6 +153,86 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09dc-blanche01-photo-tgzm/09dc-blanche01-photo-tgzm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>Todd Blanche, the acting attorney general, during a cabinet meeting at the White House in May.</media:description>
+    </item>
+    <item>
+      <title>House Passes G.O.P.’s $70 Billion Immigration Bill</title>
+      <link>https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html" rel="standout"></atom:link>
+      <description>The vote gave final passage to Republicans’ megabill to fund immigration enforcement through the remainder of President Trump’s term, clearing it for his signature.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Tue, 09 Jun 2026 22:11:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/us/immigration-funding-promo-2026-06-08-ice-cbp-funding-update/immigration-funding-promo-2026-06-08-ice-cbp-funding-update-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ashley Wu/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>House defies Johnson and passes Democratic-led labor bill</title>
+      <link>https://www.nytimes.com/2026/06/09/us/politics/house-passes-union-contract-bill-bucking-republican-leaders.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/house-passes-union-contract-bill-bucking-republican-leaders.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/house-passes-union-contract-bill-bucking-republican-leaders.html" rel="standout"></atom:link>
+      <description>Twenty G.O.P lawmakers broke with Speaker Mike Johnson and joined Democrats in backing a bill to amend the National Labor Relations Act.</description>
+      <dc:creator>Olivia Diaz</dc:creator>
+      <pubDate>Tue, 09 Jun 2026 23:30:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Mike (1972- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09dc-labor-gqhz/09dc-labor-gqhz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>The vote on Tuesday was the latest reflection of Speaker Mike Johnson’s weak hold on his narrow majority. </media:description>
+    </item>
+    <item>
+      <title>Hannah Neeleman’s Ballerina Farm Store Draws Crowds in Utah</title>
+      <link>https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html" rel="standout"></atom:link>
+      <description>Tourists are flocking to Midway, Utah. The Ballerina Farm Store, from the influencer whose brand revolves around motherhood and farm life, is a reason.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 01:41:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ballerina Farm LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neeleman, Hannah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midway (Utah)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mormons (Church of Jesus Christ of Latter-Day Saints)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/18/multimedia/18nat-tradwife-town-1b-fbzv/18nat-tradwife-town-1b-fbzv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kim Raff for The New York Times</media:credit>
+      <media:description>A group of friends filmed themselves before downing turmeric ginger shots outside the Ballerina Farm Store in Midway, Utah.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Sharp Turn on China: Embracing It as a Peer Power</title>
+      <link>https://www.nytimes.com/2026/06/09/us/politics/trump-china-taiwan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/trump-china-taiwan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/trump-china-taiwan.html" rel="standout"></atom:link>
+      <description>President Trump’s warming with Xi Jinping of China, a leader he admires, has ignited anxieties in Washington and across Asia.</description>
+      <dc:creator>Edward Wong</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 02:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09dc-trump-china-jwbh/09dc-trump-china-jwbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>The U.S. and Chinese governments rolled out a new phrase, “constructive strategic stability,” during President Trump’s meeting in Beijing last month with the leader of China, Xi Jinping.</media:description>
     </item>
     <item>
       <title>In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive?</title>
@@ -198,9 +275,9 @@
       <link>https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html" rel="standout"></atom:link>
-      <description>The flaw, which Meta said it had fixed, allowed anyone to take over Instagram accounts using a bug in the company’s new artificial intelligence software.</description>
+      <description>The flaw, which Meta said it had fixed, allowed anyone to take over accounts using a bug in the company’s new artificial intelligence software.</description>
       <dc:creator>Mike Isaac and Eli Tan</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 21:13:15 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 23:51:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -218,35 +295,13 @@
       <media:description>Of the 34,000 accounts, 20,000 were breached, giving hackers access to the account holders’ email addresses, phone numbers, birth dates and other personal data.</media:description>
     </item>
     <item>
-      <title>Hannah Neeleman’s Ballerina Farm Store Draws Crowds in Utah</title>
-      <link>https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html" rel="standout"></atom:link>
-      <description>Tourists are flocking to Midway, Utah. The Ballerina Farm Store, from the influencer whose brand revolves around motherhood and farm life, is a reason.</description>
-      <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 23:27:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ballerina Farm LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neeleman, Hannah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midway (Utah)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mormons (Church of Jesus Christ of Latter-Day Saints)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/18/multimedia/18nat-tradwife-town-1b-fbzv/18nat-tradwife-town-1b-fbzv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kim Raff for The New York Times</media:credit>
-      <media:description>A group of friends filmed themselves before downing turmeric ginger shots outside the Ballerina Farm Store in Midway, Utah.</media:description>
-    </item>
-    <item>
       <title>Meet the NASA Astronauts in the Artemis III 4-Person Crew</title>
       <link>https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/09/science/space/artemis-iii-astronauts-nasa-crew.html" rel="standout"></atom:link>
       <description>NASA’s next mission in its effort to return humans to the moon will be led by an all-male crew. Three of them have extensive experience in space, while the other was a backup on Artemis II.</description>
       <dc:creator>Katrina Miller, K. R. Callaway and Kenneth Chang</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 21:24:24 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 21:24:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artemis Program</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
@@ -295,31 +350,13 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09nat-california-swimmer-02-wmlh/09nat-california-swimmer-02-wmlh-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
     <item>
-      <title>Bill Gates Said to Have Hired Ex-House Oversight Chief to Advise on Epstein Testimony</title>
-      <link>https://www.nytimes.com/2026/06/09/us/politics/bill-gates-jeffrey-epstein-oversight-committee-lawyer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/us/politics/bill-gates-jeffrey-epstein-oversight-committee-lawyer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/us/politics/bill-gates-jeffrey-epstein-oversight-committee-lawyer.html" rel="standout"></atom:link>
-      <description>Bill Gates, the Microsoft co-founder, has retained Jake Greenberg, the former top investigative counsel to the House Oversight Committee.</description>
-      <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 15:24:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Oversight and Government Reform</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comer, James R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DLA Piper</category>
-      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09dc-gates-fwgq/09dc-gates-fwgq-mediumSquareAt3X.jpg" width="1365"></media:content>
-      <media:credit>Calla Kessler for The New York Times</media:credit>
-      <media:description>Bill Gates has been preparing to testify privately in the House Oversight Committee’s investigation of Jeffrey Epstein.</media:description>
-    </item>
-    <item>
       <title>Paramount CEO David Ellison Pledges Editorial Independence for ‘60 Minutes’</title>
       <link>https://www.nytimes.com/2026/06/09/business/media/60-minutes-david-ellison-paramount.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/business/media/60-minutes-david-ellison-paramount.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/09/business/media/60-minutes-david-ellison-paramount.html" rel="standout"></atom:link>
       <description>David Ellison told Ms. Stahl, one of three remaining correspondents for the news program, that he would respect the show’s editorial decisions after a tumultuous stretch.</description>
       <dc:creator>Benjamin Mullin and Michael M. Grynbaum</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 19:17:37 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 19:17:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
@@ -332,87 +369,17 @@
       <media:credit>Caroline Brehman/Reuters</media:credit>
     </item>
     <item>
-      <title>He Gave It All to Help the Knicks Win in 1973. He’s Still in Pain Today.</title>
-      <link>https://www.nytimes.com/2026/06/09/nyregion/knicks-nba-finals-earl-monroe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/nyregion/knicks-nba-finals-earl-monroe.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/nyregion/knicks-nba-finals-earl-monroe.html" rel="standout"></atom:link>
-      <description>Earl “the Pearl” Monroe was part of the last championship team. Now 81, he has thoughts on what really matters.</description>
-      <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 07:00:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Monroe, Earl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">NBA Championship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Charter Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Earl Monroe New Renaissance Basketball School</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Seventies</category>
-      <media:content height="1339" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09met-knicks-monroe-01-ljgt/09met-knicks-monroe-01-ljgt-mediumSquareAt3X.jpg" width="1337"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>In the deciding game of the 1973 N.B.A. championship, Earl Monroe drives past a Laker. The Knicks won their second title that night, May 10, 1973.</media:description>
-    </item>
-    <item>
-      <title>Billionaires’ Billions Are Increasing Faster Than Ever</title>
-      <link>https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html" rel="standout"></atom:link>
-      <description>Elon Musk’s potential new status as a trillionaire demonstrates in real time why there has been such a rapid rise in the concentration of wealth at the top.</description>
-      <dc:creator>Patricia Cohen</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 19:08:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zucman, Gabriel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1433" medium="image" url="https://static01.nyt.com/images/2026/06/10/business/00global-billionaires/00global-billionaires-mediumSquareAt3X.jpg" width="1433"></media:content>
-      <media:credit>Nicolas Ortega</media:credit>
-    </item>
-    <item>
-      <title>Infantino’s Yearslong Effort to Woo Trump for the World Cup</title>
-      <link>https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/world/europe/world-cup-infantino-trump.html" rel="standout"></atom:link>
-      <description>Gianni Infantino, the FIFA president, has unabashedly courted the president’s favor. Soccer officials privately ask, who really benefits?</description>
-      <dc:creator>Tariq Panja and Rebecca R. Ruiz</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 14:56:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Club World Cup 2025 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blatter, Sepp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/03/multimedia/00int-worldcup-trump-infantino01-photo-mcvp/00int-worldcup-trump-infantino01-photo-mcvp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>President Trump with Gianni Infantino, FIFA’s president, at the White House in 2019.</media:description>
-    </item>
-    <item>
-      <title>Somali Referee Says His World Cup Dream Is Dashed After U.S. Denies Entry</title>
-      <link>https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/09/world/africa/somali-referee-world-cup-us-entry-omar-artan.html" rel="standout"></atom:link>
-      <description>“I had the right papers and everything,” Omar Abdulkadir Artan said in his first interview since he was turned back. He would have been the first Somali to referee a game in the tournament.</description>
-      <dc:creator>Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Tue, 09 Jun 2026 22:14:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09int-worldcup-somalia-referee-mlvh/09int-worldcup-somalia-referee-mlvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khaled Desouki/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Omar Abdulkadir Artan, right, during an Africa Cup of Nations match in Morocco last year.</media:description>
+      <title>How Talking to the ‘Chat’ Crossed Over Into Real Life</title>
+      <link>https://www.nytimes.com/2026/06/09/magazine/chat-genz-twitch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/09/magazine/chat-genz-twitch.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/09/magazine/chat-genz-twitch.html" rel="standout"></atom:link>
+      <description>It’s a word ripped from Twitch streams, but it functions as a Greek chorus for an online, isolated generation.</description>
+      <dc:creator>Barrett Swanson</dc:creator>
+      <pubDate>Tue, 09 Jun 2026 09:01:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitch Interactive Inc</category>
     </item>
     <item>
       <title>F.D.A. Clears Sunscreen Ingredient Long Used in Europe and Asia</title>

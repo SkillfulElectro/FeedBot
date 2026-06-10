@@ -3,17 +3,37 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 21:34:13 +0000</lastBuildDate>
-    <pubDate>Wed, 10 Jun 2026 21:29:26 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 23:26:27 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 22:57:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed</title>
+      <link>https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html" rel="standout"></atom:link>
+      <description>A U.S. military official said the president’s seemingly dramatic announcement on Wednesday referred to a previously reported effort to shepherd commercial vessels through the Strait of Hormuz.</description>
+      <dc:creator>Eric Schmitt and Jonathan Swan</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 20:52:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10mideast-trump-oil-tfzj/10mideast-trump-oil-tfzj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Vessels in the Strait of Hormuz, seen from Oman on Wednesday.</media:description>
+    </item>
     <item>
       <title>FISA Surveillance Law May Expire After Trump Picks Bill Pulte for Intel Post</title>
       <link>https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html</link>
@@ -21,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html" rel="standout"></atom:link>
       <description>Republicans are struggling to extend a powerful surveillance authority set to lapse this weekend after President Trump alienated lawmakers with his choice of acting spy chief.</description>
       <dc:creator>Dustin Volz and Robert Jimison</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 18:43:54 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 22:02:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
@@ -63,7 +83,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/10/business/economy/trump-inflation-iran-war.html" rel="standout"></atom:link>
       <description>As inflation outpaces workers’ wages, the Trump administration insists that its agenda is working.</description>
       <dc:creator>Tony Romm</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 17:08:44 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 21:48:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
@@ -76,24 +96,25 @@
       <media:description>Speaking at a bill signing on Wednesday, President Trump predicted that inflation would recede quickly, once the Iran conflict concludes.“ It’s going to come down like a rock.”</media:description>
     </item>
     <item>
-      <title>Trump’s ‘Secret Mission’ to Ferry Oil Past Iran Was Widely Disclosed</title>
-      <link>https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/10/world/middleeast/trump-oil-iran-strait-hormuz.html" rel="standout"></atom:link>
-      <description>A U.S. military official said the president’s seemingly dramatic announcement on Wednesday referred to a previously reported effort to shepherd commercial vessels through the Strait of Hormuz.</description>
-      <dc:creator>Eric Schmitt and Jonathan Swan</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 20:52:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <title>Trump Muses About Government Taking a Piece of A.I. Companies</title>
+      <link>https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html" rel="standout"></atom:link>
+      <description>President Trump touched on what is an increasingly hot topic in Washington: how average Americans can get a piece of the tech industry’s A.I. windfall.</description>
+      <dc:creator>Tripp Mickle, Ana Swanson and Cecilia Kang</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 22:07:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sovereign Wealth Funds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10mideast-trump-oil-tfzj/10mideast-trump-oil-tfzj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>Vessels in the Strait of Hormuz, seen from Oman on Wednesday.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/AI-FUND-Trump-sub-mkhl/AI-FUND-Trump-sub-mkhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump, shown here in the Oval Office on Wednesday, has not been shy about the government’s taking a stake in companies.</media:description>
     </item>
     <item>
       <title>SpaceX’s IPO Could Turn 4,400 Employees Into Millionaires</title>
@@ -138,44 +159,16 @@
       <media:description>Antonio Gracias, left, and Elon Musk at a political event in Green Bay, Wis., last spring. Mr. Gracias and his private equity firm control a $65 billion stake in SpaceX.</media:description>
     </item>
     <item>
-      <title>SpaceX IPO: What You Need to Know</title>
-      <link>https://www.nytimes.com/2026/06/10/business/spacex-ipo-what-to-know.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/business/spacex-ipo-what-to-know.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/10/business/spacex-ipo-what-to-know.html" rel="standout"></atom:link>
-      <description>As the company prepares for its stock market debut, here’s what the initial public offering means for banks, Elon Musk and everyday investors.</description>
-      <dc:creator>Aruni Soni</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 09:02:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nasdaq Composite Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09biz-spacex-ipo-wtk-qwbg/09biz-spacex-ipo-wtk-qwbg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gabriel V. Cárdenas for The New York Times</media:credit>
-      <media:description>Shares of SpaceX are expected to start trading on Friday.</media:description>
-    </item>
-    <item>
-      <title>Investors Feed A.I. Firms’ Voracious Appetite for New Money</title>
-      <link>https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html" rel="standout"></atom:link>
-      <description>In the race to dominate the artificial intelligence industry, companies like SpaceX and Alphabet are borrowing cash and raising equity from investors at the fastest pace in decades.</description>
-      <dc:creator>Joe Rennison, Lauren Hirsch and Maureen Farrell</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 17:25:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Six</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abel, Gregory E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/00biz-spacex-markets-tcjm/00biz-spacex-markets-tcjm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joe Raedle/Getty Images</media:credit>
-      <media:description>The amount of cash needed for A.I. development is thought to be so enormous that already cash-rich companies are looking for more money. </media:description>
+      <title>The U.S. Strikes Iran Again</title>
+      <link>https://www.nytimes.com/2026/06/10/briefing/inflation-rises-us-iran-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/briefing/inflation-rises-us-iran-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/briefing/inflation-rises-us-iran-strikes.html" rel="standout"></atom:link>
+      <description>Also, inflation jumps for a third-straight month. Here’s the latest at the end of Wednesday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 22:13:35 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10evening-nl-iran-wpmt/10evening-nl-iran-wpmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Enghelab Square in Tehran on Monday.</media:description>
     </item>
     <item>
       <title>Inside Trump’s White House, the Epstein Files Caused a Freakout</title>
@@ -227,7 +220,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/10/business/bill-gates-epstein-testimony.html" rel="standout"></atom:link>
       <description>The billionaire philanthropist testified on Wednesday in a closed-door congressional hearing about the Justice Department’s investigation of Jeffrey Epstein.</description>
       <dc:creator>Matthew Goldstein</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 19:48:46 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 22:15:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
@@ -279,7 +272,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/10/nyregion/mamdani-knicks-ticket-garden.html" rel="standout"></atom:link>
       <description>Mayor Zohran Mamdani paid roughly $1,000 for a standing-room-only ticket to Game 3 of the N.B.A. finals, using access to house tickets not available to regular fans.</description>
       <dc:creator>Dana Rubinstein and Benjamin Oreskes</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 21:24:42 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 22:21:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
@@ -293,6 +286,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10met-mamdani-tickets-01-jmzl/10met-mamdani-tickets-01-jmzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban for The New York Times</media:credit>
       <media:description>Mayor Zohran Mamdani attended the Knicks’ Game 3 loss in the N.B.A. finals with some former colleagues in the State Legislature.</media:description>
+    </item>
+    <item>
+      <title>Victor Wembanyama, the Knicks’ Biggest Foe and New York’s Biggest Tourist</title>
+      <link>https://www.nytimes.com/2026/06/10/nyregion/wemby-drawing-park-visiting-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/nyregion/wemby-drawing-park-visiting-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/nyregion/wemby-drawing-park-visiting-nyc.html" rel="standout"></atom:link>
+      <description>Mr. Wembanyama has had to keep a low-profile while in New York to try and win the N.B.A. finals, but on visits there, he has always resisted hiding in hotel rooms and private cars.</description>
+      <dc:creator>Tania Ganguli</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 22:46:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">NBA Championship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Knicks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Antonio Spurs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gramercy Park (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wembanyama, Victor</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10met-knicks-wemby-01-qzgk/10met-knicks-wemby-01-qzgk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Al Bello/Getty Images</media:credit>
+      <media:description>On visits to New York City, Victor Wembanyama has played chess in Washington Park, taken the subway and drawn in Gramercy Park.</media:description>
     </item>
     <item>
       <title>Mace Defeat Heralds an Exodus of Rabble-Rousers From Congress</title>
@@ -313,25 +328,41 @@
       <media:description>Representative Nancy Mace, Republican of South Carolina, at the Capitol earlier this year. </media:description>
     </item>
     <item>
-      <title>Why Complete Election Results in Maine Could Take More Than a Week</title>
-      <link>https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/10/us/politics/maine-slow-vote-count.html" rel="standout"></atom:link>
-      <description>Winners in the Republican and Democratic primary races for governor and in a Democratic congressional primary have not yet been determined.</description>
-      <dc:creator>Nick Corasaniti</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 19:05:03 +0000</pubDate>
+      <title>Maine Senate Race Heats Up as Trump Attacks Platner</title>
+      <link>https://www.nytimes.com/2026/06/10/us/politics/maine-senate-graham-platner-susan-collins.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/us/politics/maine-senate-graham-platner-susan-collins.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/us/politics/maine-senate-graham-platner-susan-collins.html" rel="standout"></atom:link>
+      <description>With Graham Platner now the Democratic nominee against Senator Susan Collins, signs of how hostile the race will be have quickly emerged.</description>
+      <dc:creator>Lisa Lerer and Bayliss Wagner</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 21:37:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldacci, Joe (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bellows, Shenna</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wood, Jordan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10pol-maine-slow-count-jzhc/10pol-maine-slow-count-jzhc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/us/10platner-general/10platner-general-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Sophie Park for The New York Times, Michael A. McCoy for The New York Times</media:credit>
+      <media:description>Graham Platner and Senator Susan Collins are beginning what is expected to be a hugely expensive and contentious general election in Maine.</media:description>
+    </item>
+    <item>
+      <title>Graham Platner Tucked in His Shirt on Primary Night</title>
+      <link>https://www.nytimes.com/2026/06/10/style/graham-platner-primary-style.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/style/graham-platner-primary-style.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/style/graham-platner-primary-style.html" rel="standout"></atom:link>
+      <description>On election night, the Democratic candidate from Maine wore a button-up, a deviation from the candidate’s unvarnished image.</description>
+      <dc:creator>Jacob Gallagher</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 20:38:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <media:content height="1079" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10PLATNER-IMAGE-hjtv/10PLATNER-IMAGE-hjtv-mediumSquareAt3X.jpg" width="1079"></media:content>
       <media:credit>Sophie Park for The New York Times</media:credit>
-      <media:description>Voting in Belfast, Maine, on Tuesday. Arielle Greenberg, left, wore a hand-sewn skirt that she said she made from an American flag.</media:description>
+      <media:description>Graham Platner, and his tucked-in dress shirt, on Tuesday night. </media:description>
     </item>
     <item>
       <title>7 Revolutionary-Era Bars That Are as Old as America</title>
@@ -443,7 +474,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/10/arts/design/ai-gemini-thrift-store-painting-sale.html" rel="standout"></atom:link>
       <description>When a son got curious about the origins of a painting his mother bought at a secondhand shop decades ago, Google Gemini had some intriguing thoughts.</description>
       <dc:creator>Malia Mendez</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 19:59:14 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 19:59:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -461,7 +492,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/10/world/australia/australia-social-media-ban-under-16.html" rel="standout"></atom:link>
       <description>Six months in, many teens are already back on platforms they were supposed to be blocked from. The ban’s benefits may fall to the next generation.</description>
       <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 21:00:11 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 21:52:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
@@ -497,39 +528,104 @@
       <media:description>Using a smartphone in Sydney, Australia, last year. In December, the country banned social media for those under 16. </media:description>
     </item>
     <item>
-      <title>Trump Officials Say ICE Won’t Raid World Cup Games, but Fans Are Worried</title>
-      <link>https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/10/us/world-cup-ice-immigration-enforcement.html" rel="standout"></atom:link>
-      <description>Federal agents are there for security, not immigration enforcement, officials say. But trust is fragile after the administration’s recent crackdowns.</description>
-      <dc:creator>Tim Arango and Jesus Jiménez</dc:creator>
-      <pubDate>Wed, 10 Jun 2026 18:53:56 +0000</pubDate>
+      <title>Canada Moves to Ban Social Media Use for Youth Under 16</title>
+      <link>https://www.nytimes.com/2026/06/10/world/canada/social-meda-kids-legislation-carney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/world/canada/social-meda-kids-legislation-carney.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/world/canada/social-meda-kids-legislation-carney.html" rel="standout"></atom:link>
+      <description>The country’s previous attempt to get tech companies to shelter young users failed amid heavy criticism from civil liberty groups.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 22:43:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Ottawa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/world/10int-canada-online/10int-canada-online-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fred Thornhill/Reuters</media:credit>
+      <media:description>People holding up cellphones at a concert in Toronto.</media:description>
+    </item>
+    <item>
+      <title>FIFA President Tells World Cup Critics to ‘Chill’ About Concerns</title>
+      <link>https://www.nytimes.com/2026/06/10/world/europe/fifa-president-world-cup.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/world/europe/fifa-president-world-cup.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/world/europe/fifa-president-world-cup.html" rel="standout"></atom:link>
+      <description>With the World Cup facing growing crises, Gianni Infantino, the FIFA president, struck a defiant tone on the eve of the competition’s start.</description>
+      <dc:creator>Tariq Panja</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 22:16:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles County Sheriff&#39;s Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Immigration Coalition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Texas Civil Rights Project</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Awawdeh, Murad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Homan, Thomas D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noem, Kristi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles County (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10-int-worldcup-infantino-zfck/10-int-worldcup-infantino-zfck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carl Recine/Getty Images</media:credit>
+      <media:description>FIFA is trying its best, Gianni Infantino said during a news conference on Wednesday, but “we don’t control everything.”</media:description>
+    </item>
+    <item>
+      <title>A ‘Sultry’ Shift: Heat Creeps Into the Northeast</title>
+      <link>https://www.nytimes.com/2026/06/10/weather/heat-wave-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/weather/heat-wave-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/weather/heat-wave-us.html" rel="standout"></atom:link>
+      <description>Soupy, hot weather will settle into the Northeast on Thursday and Friday, bringing with it the threat of dangerous storms.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 21:33:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10wea-heatwave-qjfw/10wea-heatwave-qjfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis for The New York Times</media:credit>
+      <media:description>A security guard in New York cooling down during a hot day last summer. This week will bring the year’s first widespread dose of summerlike heat and humidity to the city.</media:description>
+    </item>
+    <item>
+      <title>Storms Knock Out Power for Hundreds of Thousands in the Midwest</title>
+      <link>https://www.nytimes.com/2026/06/10/weather/storms-illinois-wisconsin-tornado-power-outages.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/weather/storms-illinois-wisconsin-tornado-power-outages.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/weather/storms-illinois-wisconsin-tornado-power-outages.html" rel="standout"></atom:link>
+      <description>Forecasters warned that destructive storms were expected across the region into Wednesday night.</description>
+      <dc:creator>Nazaneen Ghaffar</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 22:57:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/09/weather/2026-06-09-storms-index-promo/2026-06-09-storms-index-promo-mediumSquareAt3X-v39.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Unusually Warm Weather in Bay Area Prompts Heat Alert and Wildfire Concerns</title>
+      <link>https://www.nytimes.com/2026/06/10/weather/san-francisco-heat-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/10/weather/san-francisco-heat-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/10/weather/san-francisco-heat-fire.html" rel="standout"></atom:link>
+      <description>High temperatures across the San Francisco Bay Area will reach into the 90s on Thursday, forecasters said.</description>
+      <dc:creator>Mark Walker</dc:creator>
+      <pubDate>Wed, 10 Jun 2026 22:54:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Bay (San Francisco, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10nat-worldcup-ice-01-gtfk/10nat-worldcup-ice-01-gtfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mario Tama/Getty Images</media:credit>
-      <media:description>Federal agents outside of Dodger Stadium in Los Angeles last June during the Trump administration’s immigration enforcement surge, which has stirred anxiety.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1535" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/00xp-heat-vcjt/00xp-heat-vcjt-mediumSquareAt3X.jpg" width="1535"></media:content>
+      <media:credit>Lea Suzuki/San Francisco Chronicle, via Associated Press</media:credit>
+      <media:description>Some parts of the Bay Area could reach close to 100 degrees on Thursday, the National Weather Service said. </media:description>
     </item>
     <item>
       <title>Spencer Pratt’s Defeat Isn’t Just About Los Angeles</title>

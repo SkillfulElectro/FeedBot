@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 12 Jun 2026 10:58:37 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jun 2026 10:44:07 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:15:37 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 14:12:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -24,9 +24,9 @@
       <pubDate>Fri, 12 Jun 2026 04:01:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/podcasts/the-headlines/spacex-ipo-washington-vandalism.html" rel="standout"></atom:link>
       <description>Plus, the Friday news quiz.</description>
       <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart and Maureen Farrell</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 10:00:11 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 12:06:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
@@ -52,18 +52,66 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12theheadlines-spacex-ghvm/12theheadlines-spacex-ghvm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
       <media:description>SpaceX, Elon Musk’s rocket company, will soon end up in index funds after rule changes by Nasdaq and other index providers.</media:description>
     </item>
     <item>
-      <title>Neither Peace Nor War: Iran Conflict Leaves World in Dangerous Limbo</title>
+      <title>How SpaceX’s IPO Compares With Saudi Aramco, Uber and Others</title>
+      <link>https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html" rel="standout"></atom:link>
+      <description>The previous record was set over six years ago. But SpaceX, whose stock begins trading on Friday, is on track to raise tens of billions of dollars more.</description>
+      <dc:creator>Jacqueline Gu</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 09:08:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/2026-06-09-spacex-ipo-index/2026-06-09-spacex-ipo-index-mediumSquareAt3X-v3.png" width="1000"></media:content>
+      <media:credit>Jacqueline Gu</media:credit>
+    </item>
+    <item>
+      <title>SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact</title>
+      <link>https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html" rel="standout"></atom:link>
+      <description>Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s richest man in it all.</description>
+      <dc:creator>Megan DiTrolio</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 21:28:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12-insider-IPO-mkph/12-insider-IPO-mkph-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Gay/Associated Press</media:credit>
+      <media:description>Elon Musk’s rocket maker SpaceX set a price of $135 a share, which would value it at $1.77 trillion.</media:description>
+    </item>
+    <item>
+      <title>A Dangerous Limbo Leaves Iran, and the World, Between Peace and War</title>
       <link>https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html" rel="standout"></atom:link>
       <description>Since announcing a nominal cease-fire two months ago, Iran, Israel and the U.S. have remained locked in low-intensity violence that has become a new normal.</description>
       <dc:creator>Mark Landler and Anton Troianovski</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 09:05:31 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 12:30:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -112,7 +160,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/business/strait-hormuz-ships-iran.html" rel="standout"></atom:link>
       <description>With more than 500 ships still stranded in the Persian Gulf, pressure on the shipowners and sailors is growing by the day.</description>
       <dc:creator>Jenny Gross</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 09:25:43 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 13:07:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Persian Gulf War</category>
@@ -131,73 +179,13 @@
       <media:description>Supplies of fresh food and water have been running low for the roughly 11,000 sailors stuck on hundreds of ships anchored in the Persian Gulf.</media:description>
     </item>
     <item>
-      <title>How SpaceX’s IPO Compares With Saudi Aramco, Uber and Others</title>
-      <link>https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/business/spacex-biggest-ipos-elon-musk.html" rel="standout"></atom:link>
-      <description>The previous record was set over six years ago. But SpaceX, whose stock begins trading on Friday, is on track to raise tens of billions of dollars more.</description>
-      <dc:creator>Jacqueline Gu</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 09:08:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/2026-06-09-spacex-ipo-index/2026-06-09-spacex-ipo-index-mediumSquareAt3X.png" width="1000"></media:content>
-      <media:credit>Jacqueline Gu</media:credit>
-    </item>
-    <item>
-      <title>SpaceX IPO: How Our Reporters Assess the Sky-High Valuation and Potential Economic Impact</title>
-      <link>https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/11/insider/spacex-ipo-coverage-facts-price.html" rel="standout"></atom:link>
-      <description>Two Times tech reporters and their editor talk about assessing the sky-high valuation of the rocket and satellite maker, the potential economic impact of its public debut and the role of the world’s richest man in it all.</description>
-      <dc:creator>Megan DiTrolio</dc:creator>
-      <pubDate>Thu, 11 Jun 2026 21:28:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12-insider-IPO-mkph/12-insider-IPO-mkph-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Gay/Associated Press</media:credit>
-      <media:description>Elon Musk’s rocket maker SpaceX set a price of $135 a share, which would value it at $1.77 trillion.</media:description>
-    </item>
-    <item>
-      <title>A Trillionaire?</title>
-      <link>https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html" rel="standout"></atom:link>
-      <description>SpaceX is expected to make Elon Musk even richer when its stock begins trading today.</description>
-      <dc:creator>Sam Sifton</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 10:35:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-    </item>
-    <item>
       <title>Kennedy Center Appeals Order to Remove Trump’s Name</title>
       <link>https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html" rel="standout"></atom:link>
       <description>One day before a deadline to take the president’s name off its facade, the arts institution appealed a federal judge’s ruling that also temporarily blocked it from closing.</description>
       <dc:creator>Julia Jacobs</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 01:40:16 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 13:42:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
@@ -216,8 +204,8 @@
       <description>At least five have declined to participate, the latest sign that the national 250th birthday celebration has become a fragmented and partisan affair as the president seeks his imprint.</description>
       <dc:creator>Eileen Sullivan</dc:creator>
       <pubDate>Fri, 12 Jun 2026 00:45:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Freedom 250 (Nonprofit)</category>
@@ -226,6 +214,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/11dc-fair-photo-qjml/11dc-fair-photo-qjml-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>Construction on the National Mall in preparation for the Great American State Fair.</media:description>
@@ -237,15 +226,17 @@
       <atom:link href="https://www.nytimes.com/2026/06/11/us/trump-los-angeles-homeless.html" rel="standout"></atom:link>
       <description>The Trump administration cited misspending among the reasons for blocking funds to the Los Angeles Homeless Services Authority. Mayor Karen Bass warned that “people will lose their lives.”</description>
       <dc:creator>Jill Cowan</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 02:05:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <pubDate>Fri, 12 Jun 2026 02:05:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Public and Subsidized Housing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, Karen Ruth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Housing and Urban Development Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/11nat-la-homeless-vkcl/11nat-la-homeless-vkcl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>Scott Turner, the housing secretary, said his agency would not fund what he called the “corrupt failure” of Los Angeles’s homelessness efforts.</media:description>
@@ -257,7 +248,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/us/cesar-chavez-dolores-huerta-united-farm-workers-sexual-abuse.html" rel="standout"></atom:link>
       <description>Many of the women who helped lead the fight for Latino civil rights say they were quietly waging their own battles with harassment, misogyny and sexual assault inside the powerful United Farm Workers union.</description>
       <dc:creator>Sarah Hurtes and Manny Fernandez</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 09:00:19 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 11:48:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
@@ -281,7 +272,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html" rel="standout"></atom:link>
       <description>His colorful figurative paintings were both conservative and iconoclastic, defying the dominant abstract schools of the mid-20th century.</description>
       <dc:creator>Holland Cotter</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 10:44:07 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 13:19:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
@@ -311,7 +302,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/arts/design/david-hockney-ipad-iphone-photocopier-fax.html" rel="standout"></atom:link>
       <description>Polaroids and photocopiers also gave the artist possibilities for creating in forms vastly different from his paintings.</description>
       <dc:creator>Alex Marshall</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 10:19:53 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 13:44:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
@@ -320,6 +311,27 @@
       <media:content height="1758" medium="image" url="https://static01.nyt.com/images/2025/10/22/arts/00cul-hockney-tech-HFO-04/00cul-hockney-tech-HFO-04-mediumSquareAt3X.jpg" width="1758"></media:content>
       <media:credit>David Hockney; Photo credit: Richard Schmidt</media:credit>
       <media:description>“Mulholland Drive, June 1986,” a homemade print from a photocopier.</media:description>
+    </item>
+    <item>
+      <title>After Senate Loss, Cornyn Predicts ‘Miserable’ Final Two Years for Trump</title>
+      <link>https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html" rel="standout"></atom:link>
+      <description>In his first extensive interview since his defeat by a Trump-backed challenger, the Texas Republican said the Senate was in for a “bumpy ride” as he and others flex new political freedom.</description>
+      <dc:creator>Carl Hulse</dc:creator>
+      <pubDate>Thu, 11 Jun 2026 16:47:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/11dc-cornyn-jtgz/11dc-cornyn-jtgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>“There’s never going to be good enough for him, other than 100 percent, you know, slavish adherence to whatever he wants,” Senator John Cornyn said of President Trump. “But obviously that’s not what the senator’s role is supposed to be.”</media:description>
     </item>
     <item>
       <title>Frisco Mayor’s Race Tests Anti-Muslim Politics in Texas</title>
@@ -341,77 +353,16 @@
       <media:description>Campaign signs in support of candidate Rod Vilhauer in Frisco, Texas.</media:description>
     </item>
     <item>
-      <title>The A.I. Proxy Fight Roiling the Race for a New York House Seat</title>
-      <link>https://www.nytimes.com/2026/06/12/nyregion/ai-money-bores-lasher-primary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/nyregion/ai-money-bores-lasher-primary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/nyregion/ai-money-bores-lasher-primary.html" rel="standout"></atom:link>
-      <description>Groups tied to OpenAI, Anthropic and other industry players have spent $16 million trying to pick the next member of Congress from Manhattan.</description>
-      <dc:creator>Nicholas Fandos</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 07:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bores, Alex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lasher, Micah C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palantir Technologies</category>
-    </item>
-    <item>
-      <title>New York Primary Elections: What to Know and How to Vote</title>
-      <link>https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/nyregion/new-york-primary-elections-how-when-vote.html" rel="standout"></atom:link>
-      <description>Several closely watched races are taking place in New York City and beyond. Nine days of early voting will precede Primary Day on June 23.</description>
-      <dc:creator>Claire Fahy</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 07:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Comptrollers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Avila Chevalier, Darializa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bores, Alex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conway, George T III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DiNapoli, Thomas P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Espaillat, Adriano D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldman, Daniel S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goyle, Raj</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lander, Brad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lasher, Micah C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawler, Mike (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reynoso, Antonio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schlossberg, Jack (1993- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valdez, Claire (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warshaw, Drew</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Westchester County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12met-primaries-ny-wtk-zpbk/12met-primaries-ny-wtk-zpbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Among this year’s primary elections are several competitive races between Democrats in New York City.</media:description>
-    </item>
-    <item>
       <title>Excitement and Frustration Mix as the World Cup Comes to America</title>
       <link>https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/12/us/world-cup-united-states-anxiety.html" rel="standout"></atom:link>
       <description>Astronomical ticket prices, soaring security costs and concern over traffic and transit snarls is mixed with pride in host cities and excitement over the U.S. team.</description>
       <dc:creator>Jesus Jiménez</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 09:00:36 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 11:50:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Hotel and Lodging Assn</category>
@@ -508,7 +459,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/nyregion/knicks-superstitions-playoffs.html" rel="standout"></atom:link>
       <description>Some Knicks fans have predicted series sweeps. Others, conditioned by decades of failure, pay more heed to jinxes and superstitious rituals.</description>
       <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 07:00:11 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 13:17:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Myrie, Zellnor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Superstitions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">NBA Championship</category>
@@ -527,7 +478,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/nyregion/knicks-finals-new-york.html" rel="standout"></atom:link>
       <description>Decades of bottled-up hopes and frustrations have created a frenzy around the New York Knicks that has brought out the worst in some fans.</description>
       <dc:creator>Maria Cramer and Maia Coleman</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 07:00:11 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 11:35:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Knicks</category>
@@ -559,7 +510,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/11/movies/disclosure-day-review-steven-spielberg.html" rel="standout"></atom:link>
       <description>In a fast-paced sci-fi fantasy, infused with epic intentions and starring Emily Blunt, Josh O’Connor and Colman Domingo, the filmmaker brings the rest of us home.</description>
       <dc:creator>Manohla Dargis</dc:creator>
-      <pubDate>Thu, 11 Jun 2026 09:04:41 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 14:02:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Disclosure Day (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spielberg, Steven</category>
@@ -571,7 +522,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/opinion/elon-musk-spacex-starbase-texas.html" rel="standout"></atom:link>
       <description>The SpaceX I.P.O. will enable its founder to build — and scale — his peculiar vision of society.</description>
       <dc:creator>Amy Gamerman and Tam Stockton</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 09:01:03 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 13:08:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Planned Cities and Communities</category>
@@ -589,13 +540,13 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/10gamerman-top-art-fqvg/10gamerman-top-art-fqvg-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
     <item>
-      <title>‘Yes’ Is a Scathing Portrait of Israeli Depravity. Why Are European Leftists Boycotting It?</title>
+      <title>Some Leftists Are Boycotting This Film. Everyone Should Watch It.</title>
       <link>https://www.nytimes.com/2026/06/12/opinion/yes-israel-film-boycott.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/opinion/yes-israel-film-boycott.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/12/opinion/yes-israel-film-boycott.html" rel="standout"></atom:link>
       <description>The inanity of the leftists who’d censor such a film shouldn’t distract us from the right-wing nightmare it reveals.</description>
       <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 09:05:37 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 12:53:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Yes (2025) (Movie)</category>
@@ -609,6 +560,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/opinion/12goldberg/12goldberg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Illustration by The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A Trillionaire?</title>
+      <link>https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/briefing/a-trillionaire.html" rel="standout"></atom:link>
+      <description>SpaceX is expected to make Elon Musk even richer when its stock begins trading today.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 11:24:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
     </item>
     <item>
       <title>Late Night Prepares for Trump’s U.F.C. Birthday Fight at the White House</title>
@@ -627,21 +591,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lydic, Desi (1981- )</category>
     </item>
     <item>
-      <title>Princess Bha of Thailand, Second in Line to the Throne, Dies at 47</title>
-      <link>https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html" rel="standout"></atom:link>
-      <description>Ever since she collapsed in a park three and a half years ago, speculation has swirled in Thailand about who could become the next monarch.</description>
-      <dc:creator>Sui-Lee Wee</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 02:36:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipangkorn Rasmijoti, Prince of Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vajiralongkorn (1952- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2023/01/17/multimedia/00hfothailand-princess2-qplt-copy/00hfothailand-princess2-qplt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rungroj Yongrit/EPA, via Shutterstock</media:credit>
-      <media:description>Princess Bha of Thailand greeting royalists during a public appearance in Bangkok in 2020.</media:description>
+      <title>Anti-Immigrant Riots after Belfast Stabbing Leave City on Edge</title>
+      <link>https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/world/europe/belfast-stabbing-riots-anti-immigrant.html" rel="standout"></atom:link>
+      <description>In two nights of violence in Northern Ireland after a brutal stabbing, people were targeted because of their skin color, the authorities said.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 12:40:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Service of Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belfast (Northern Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1649" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12uk-belfast-mood-01-fkbw/12uk-belfast-mood-01-fkbw-mediumSquareAt3X.jpg" width="1649"></media:content>
+      <media:credit>Peter Morrison/Associated Press</media:credit>
+      <media:description>Attempting to clear protesters in Belfast, Northern Ireland, on Wednesday evening.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 12 Jun 2026 21:46:12 +0000</lastBuildDate>
-    <pubDate>Fri, 12 Jun 2026 21:39:10 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 23:15:49 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 23:04:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html" rel="standout"></atom:link>
       <description>The $111 billion deal would unite two major movie studios and put CNN under the same roof as CBS News.</description>
       <dc:creator>Lauren Hirsch, David McCabe and Benjamin Mullin</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 21:30:41 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 22:52:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -34,7 +34,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12BIZ-PARAMOUNT-1-kqmh/12BIZ-PARAMOUNT-1-kqmh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mark Abramson for The New York Times</media:credit>
-      <media:description>A merger of Paramount and Warner Bros. Discovery would include the Warner Bros. production studio, above, in Burbank, Calif.</media:description>
+      <media:description>A merger of Paramount and Warner Bros. Discovery would include the Warner Bros. movie studio, above, in Burbank, Calif.</media:description>
+    </item>
+    <item>
+      <title>Elon Musk Becomes the World’s First Trillionaire</title>
+      <link>https://www.nytimes.com/2026/06/12/briefing/elon-musk-spacex-us-iran-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/briefing/elon-musk-spacex-us-iran-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/briefing/elon-musk-spacex-us-iran-deal.html" rel="standout"></atom:link>
+      <description>Also, officials say a U.S.-Iran cease-fire appears within reach.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 21:46:25 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12EVENING-NL-SPACEX-tmvf/12EVENING-NL-SPACEX-tmvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeenah Moon/Reuters</media:credit>
     </item>
     <item>
       <title>As Speculation Swirls About the Emerging Iran Deal, Here’s What We Know</title>
@@ -62,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html" rel="standout"></atom:link>
       <description>Elon Musk said he had initially given SpaceX less than a 10 percent chance of succeeding. His rocket company has come a long way.</description>
       <dc:creator>Ryan Mac, Kenneth Chang and Kirsten Grind</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 20:48:06 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 20:48:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
@@ -116,6 +127,24 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
+      <title>What the SpaceX I.P.O. Means for OpenAI and Anthropic</title>
+      <link>https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html" rel="standout"></atom:link>
+      <description>Strong investor interest in SpaceX could be good news for the A.I. rivals, which have signaled that they, too, intend to go public this year.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 22:40:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+    </item>
+    <item>
       <title>Judge Declines to Halt UFC Fight at the White House on Trump’s Birthday</title>
       <link>https://www.nytimes.com/2026/06/12/us/politics/trump-ufc-cage-lawsuit.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/us/politics/trump-ufc-cage-lawsuit.html</guid>
@@ -161,50 +190,6 @@
       <media:description>Speaker Mike Johnson said that not extending the law, known as Section 702 of the Foreign Intelligence Surveillance Act, risked “a serious calamity on our shores.”</media:description>
     </item>
     <item>
-      <title>David Hockney, Who Restored the Human Form to Art, Dies at 88</title>
-      <link>https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html" rel="standout"></atom:link>
-      <description>His colorful figurative paintings were both conservative and iconoclastic, defying the dominant abstract schools of the mid-20th century.</description>
-      <dc:creator>Holland Cotter</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 13:19:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
-    </item>
-    <item>
-      <title>Framing David Hockney’s Greatest Art</title>
-      <link>https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html" rel="standout"></atom:link>
-      <description>Whether in Los Angeles, in his native England or traveling the world, the artist always reinvented the world he saw, with psychological insight.</description>
-      <dc:creator>Holland Cotter</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 20:56:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-    </item>
-    <item>
-      <title>David Hockney’s Sense of Style Never Wavered</title>
-      <link>https://www.nytimes.com/2026/06/12/fashion/hockney-style-color.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/fashion/hockney-style-color.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/fashion/hockney-style-color.html" rel="standout"></atom:link>
-      <description>The painter David Hockney’s clothes roared with mirth and maximalism.</description>
-      <dc:creator>Jacob Gallagher</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 14:34:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Color</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12-HOCKNEY-STYLE-2-hkmc/12-HOCKNEY-STYLE-2-hkmc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nathanael Turner for The New York Times</media:credit>
-      <media:description>Color, so integral to David Hockney’s paintings, was part of his outfits as well.</media:description>
-    </item>
-    <item>
       <title>Scientists Race to Test Treatments as Ebola Outbreak Widens</title>
       <link>https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/health/ebola-treatment-bundibugyo-virus.html</guid>
@@ -226,30 +211,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12dc-ebola-treatment01-photo-cgpf/12dc-ebola-treatment01-photo-cgpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
       <media:description>A health worker in the town of Mongbwalu, Democratic Republic of Congo, collecting medication for patients suspected of having Bundibugyo virus last month.</media:description>
-    </item>
-    <item>
-      <title>Inside Cesar Chavez’s Labor Union, Women Faced a Culture of Sexual Abuse</title>
-      <link>https://www.nytimes.com/2026/06/12/us/cesar-chavez-dolores-huerta-united-farm-workers-sexual-abuse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/us/cesar-chavez-dolores-huerta-united-farm-workers-sexual-abuse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/us/cesar-chavez-dolores-huerta-united-farm-workers-sexual-abuse.html" rel="standout"></atom:link>
-      <description>Many of the women who helped lead the fight for Latino civil rights say they were quietly waging their own battles with harassment, misogyny and sexual assault inside the powerful United Farm Workers union.</description>
-      <dc:creator>Sarah Hurtes and Manny Fernandez</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 11:48:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Farm Workers of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Cesar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huerta, Dolores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Romero, Teresa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/29/multimedia/00nat-chavez-culture-promo-vkfh/00nat-chavez-culture-promo-vkfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cayce Clifford for The New York Times</media:credit>
     </item>
     <item>
       <title>Rick Jackson, Georgia Governor Candidate, Is Also a Film Producer Battling the IRS</title>
@@ -333,22 +294,33 @@
       <media:description>Republicans argue that the Senate campaign by Dan J. Sullivan, right, was planned by Democrats to confuse voters and hurt Senator Dan S. Sullivan, left, a second-term lawmaker. </media:description>
     </item>
     <item>
-      <title>To Defeat Democrats, Texas Governor Embraces the Hard Right</title>
-      <link>https://www.nytimes.com/2026/06/12/us/greg-abbott-texas-governor-hard-right.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/us/greg-abbott-texas-governor-hard-right.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/us/greg-abbott-texas-governor-hard-right.html" rel="standout"></atom:link>
-      <description>After years of keeping his distance, Gov. Greg Abbott is set to address Texas Republicans’ activist-led convention as hard-line conservatives gain influence within the party.</description>
-      <dc:creator>Lauren McGaughy</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 20:51:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12nat-texas-republicans-2bb-pbck/12nat-texas-republicans-2bb-pbck-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Antranik Tavitian for The New York Times</media:credit>
-      <media:description>Governor Greg Abbott addressed the Republican Party of Texas convention in Houston on Friday.</media:description>
+      <title>David Hockney, Who Restored the Human Form to Art, Dies at 88</title>
+      <link>https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html" rel="standout"></atom:link>
+      <description>His colorful figurative paintings were both conservative and iconoclastic, defying the dominant abstract schools of the mid-20th century.</description>
+      <dc:creator>Holland Cotter</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 22:23:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+    </item>
+    <item>
+      <title>Framing David Hockney’s Greatest Art</title>
+      <link>https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/arts/design/david-hockney-partworks-photostack.html" rel="standout"></atom:link>
+      <description>Whether in Los Angeles, in his native England or traveling the world, the artist always reinvented the world he saw, with psychological insight.</description>
+      <dc:creator>Holland Cotter</dc:creator>
+      <pubDate>Fri, 12 Jun 2026 21:46:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hockney, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
     </item>
     <item>
       <title>Israel Is Building Army Base in Jenin, Flouting 1990s Pact With Palestinians</title>
@@ -388,23 +360,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malinowski, Tom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biss, Daniel (1977- )</category>
-    </item>
-    <item>
-      <title>Suspect in Fatal Shooting Is Dead After a Standoff in Midland, Texas, Officials Say</title>
-      <link>https://www.nytimes.com/2026/06/12/us/midland-texas-shooting-active-shooter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/us/midland-texas-shooting-active-shooter.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/12/us/midland-texas-shooting-active-shooter.html" rel="standout"></atom:link>
-      <description>The man was confirmed to be dead after he had barricaded himself in a building in Midland, following an earlier shooting on Friday that killed one person and injured 10 others.</description>
-      <dc:creator>Mack Liederman</dc:creator>
-      <pubDate>Fri, 12 Jun 2026 21:39:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midland (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1066" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12xp-texasshooting-swap-fjhb/12xp-texasshooting-swap-fjhb-mediumSquareAt3X.jpg" width="1066"></media:content>
-      <media:credit>KMID/KPEJ, via Associated Press</media:credit>
-      <media:description>Law enforcement officers responded to reports of an active shooter in Midland, Texas, on Friday.</media:description>
     </item>
     <item>
       <title>She Was Dying of Cancer. How Should She Live?</title>

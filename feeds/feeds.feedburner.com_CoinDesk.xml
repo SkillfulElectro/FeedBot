@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 13 Jun 2026 08:08:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 11:31:59 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC]]></title>
+      <link>https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3fdb04bd3eb1c1413ad0d70e8d1e464ee4866ad9-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9a8c9fc9-c84f-455b-a6b0-40b431ee5fd6</guid>
+      <pubDate>Sat, 13 Jun 2026 11:30:00 +0000</pubDate>
+      <description><![CDATA[The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Top cryptographers can't agree on Bitcoin's biggest quantum question]]></title>
       <link>https://www.coindesk.com/tech/2026/06/13/top-cryptographers-can-t-agree-on-bitcoin-s-biggest-quantum-question</link>
@@ -371,19 +384,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Ethereum News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin climbs back into the green as Trump signals an end to the Iran war]]></title>
-      <link>https://www.coindesk.com/markets/2026/06/12/bitcoin-climbs-back-into-the-green-as-trump-signals-an-end-to-the-iran-war</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6ff371ab9765f78e75b1f20ec18d05af8cc0fb85-4000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">7e67119f-5d58-4917-87ba-bbfd87247993</guid>
-      <pubDate>Fri, 12 Jun 2026 05:14:33 +0000</pubDate>
-      <description><![CDATA[A de-escalation in the Iran conflict pulled oil lower and sent global stocks higher, lifting crypto out of a wildly volatile seven days.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

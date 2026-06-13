@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 11:52:13 +0000</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 11:20:42 +0000</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 14:02:03 +0000</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 13:56:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html" rel="standout"></atom:link>
       <description>As Elon Musk became the world’s first trillionaire, workers are facing higher prices and fears of A.I.-driven job losses.</description>
       <dc:creator>Ben Casselman</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 11:05:13 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 12:28:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html" rel="standout"></atom:link>
       <description>Rampant enthusiasm is buoying tech shares to levels that defy gravity. Invest with caution, our columnist says.</description>
       <dc:creator>Jeff Sommer</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 09:01:42 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 09:01:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asset Allocation (Personal Finances)</category>
@@ -99,7 +99,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/12/us/politics/judge-national-parks-trump.html" rel="standout"></atom:link>
       <description>The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country.</description>
       <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 00:13:04 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 13:36:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
@@ -145,6 +145,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/13/multimedia/13xp-trendearagua-hcbv/13xp-trendearagua-hcbv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>President Trump said the operation had been conducted in close consultation with the new Venezuelan government.</media:description>
+    </item>
+    <item>
+      <title>Anthropic Blocks Foreigners From Using Mythos and Fable AI</title>
+      <link>https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/12/technology/anthropic-mythos-fable5-blocked.html" rel="standout"></atom:link>
+      <description>The company said on Friday night that the federal government had ordered limits on its Mythos and Fable 5 A.I. systems, citing national security concerns.</description>
+      <dc:creator>Cade Metz and Dustin Volz</dc:creator>
+      <pubDate>Sat, 13 Jun 2026 03:48:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/12/multimedia/12biz-anthropic-jbcp/12biz-anthropic-jbcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicolas Tucat/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Anthropic’s Mythos A.I. model has raised worries that it could be used to attack computer networks.</media:description>
     </item>
     <item>
       <title>With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure</title>
@@ -201,16 +220,16 @@
       <atom:link href="https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html" rel="standout"></atom:link>
       <description>Aid agencies are racing to help health workers in the Democratic Republic of Congo. The virus is known to have killed at least 140 people, but the true toll may be far higher.</description>
       <dc:creator>Lynsey Chutel, Amelia Nierenberg and Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 09:31:02 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 13:11:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/17int-ebola-WTK-fzpw/17int-ebola-WTK-fzpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/17int-ebola-WTK-01-tqlp/17int-ebola-WTK-01-tqlp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
-      <media:description>Disinfecting a path last month outside a hospital in Mongbwalu, a mining town at the center of the Ebola outbreak in the Democratic Republic of Congo.</media:description>
+      <media:description>Red Cross volunteers on Wednesday carrying the coffin of a woman who died of Ebola at Nyankunde Hospital in Ituri Province, Democratic Republic of Congo.</media:description>
     </item>
     <item>
       <title>New Yorkers Are Going on the Road With the Knicks for Game 5</title>
@@ -242,7 +261,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/13/nyregion/knicks-rangers-new-york-sports-1994.html" rel="standout"></atom:link>
       <description>In the spring of 1994, the World Cup arrived, the Knicks were great and so were the Rangers. And in the middle of it all, an infamous White Bronco chase.</description>
       <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 07:00:12 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 07:00:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">NBA Championship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stanley Cup</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
@@ -268,7 +287,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/13/magazine/seth-rogen-interview.html" rel="standout"></atom:link>
       <description>After three decades in the industry, the actor-writer-director-producer has figured a lot out. </description>
       <dc:creator>Lulu Garcia-Navarro</dc:creator>
-      <pubDate>Sat, 13 Jun 2026 09:15:06 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 13:56:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>

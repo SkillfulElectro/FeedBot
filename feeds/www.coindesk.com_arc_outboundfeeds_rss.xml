@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 14 Jun 2026 14:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:02:33 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet]]></title>
+      <link>https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c68e5ef90c1ff85aae1239dfd7e9249745d2de85-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">d56c2126-2b5e-4eb9-b4b9-39e98d230ebd</guid>
+      <pubDate>Sun, 14 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees.]]></description>
+      <dc:creator>Margaux Nijkerk</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Ethereum News]]></category>
+      <category domain="tag"><![CDATA[DEX]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[SEC's big swing to clear tokenization path isn't likely to get resilience of full rule]]></title>
       <link>https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule</link>
@@ -370,23 +386,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[XRP News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[CoinDesk 20 performance update: Ethereum (ETH) falls 1% as index trades lower]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/06/12/coindesk-20-performance-update-ethereum-eth-falls-1-as-index-trades-lower</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9f15d1510512028900ecbba53c587837289bc142-640x480.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">1437741e-850d-4986-859e-6203b11497d9</guid>
-      <pubDate>Fri, 12 Jun 2026 13:11:26 +0000</pubDate>
-      <description><![CDATA[Cronos (CRO), down 1.4% from Thursday, was also an underperformer. ]]></description>
-      <dc:creator>CoinDesk Indices</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk 20]]></category>
-      <category domain="tag"><![CDATA[charts]]></category>
-      <category domain="tag"><![CDATA[Prices]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -13,5 +13,6 @@
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US%3Aen": "503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=en-US&gl=US&ceid=US%3Aen",
   "https://www.reddit.com/r/worldnews/.rss": "500 Server Error: Internal Server Error for url: https://www.reddit.com/r/worldnews/.rss",
   "https://www.abc.net.au/news/feed/51120/rss.xml": "403 Client Error: Forbidden for url: https://www.abc.net.au/news/feed/51120/rss.xml",
-  "http://rss.dw-world.de/rdf/rss-en-all": "HTTPConnectionPool(host='rss.dw-world.de', port=80): Max retries exceeded with url: /rdf/rss-en-all (Caused by ConnectTimeoutError(<HTTPConnection(host='rss.dw-world.de', port=80) at 0x7fd31f44a300>, 'Connection to rss.dw-world.de timed out. (connect timeout=30)'))"
+  "http://rss.dw-world.de/rdf/rss-en-all": "HTTPConnectionPool(host='rss.dw-world.de', port=80): Max retries exceeded with url: /rdf/rss-en-all (Caused by ConnectTimeoutError(<HTTPConnection(host='rss.dw-world.de', port=80) at 0x7fd31f44a300>, 'Connection to rss.dw-world.de timed out. (connect timeout=30)'))",
+  "http://world.kbs.co.kr/rss/rss_news.htm?lang=e&id=In": "403 Client Error: Forbidden for url: http://world.kbs.co.kr/rss/rss_news.htm?lang=e&id=In"
 }

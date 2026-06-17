@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 23:02:03 +0000</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 22:58:54 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 01:57:24 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 01:19:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,8 +21,8 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/16/world/iran-war-trump-us-deal" rel="standout"></atom:link>
       <description>Iran’s foreign minister said new talks on nuclear arms and sanctions relief would start on Friday, right after an initial agreement is signed.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 16 Jun 2026 21:38:37 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/16/multimedia/16mideast-promo-5EST-zclt/16mideast-promo-5EST-zclt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Wed, 17 Jun 2026 01:15:32 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/16/multimedia/16mideast-live-promo-2100est-gvzt/16mideast-live-promo-2100est-gvzt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
     </item>
     <item>
@@ -273,6 +273,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ukrainian Orthodox Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/15/multimedia/15int-ukraine-attack-kzmg/15int-ukraine-attack-kzmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evgeniy Maloletka/Associated Press</media:credit>
       <media:description>A fire at the Dormition Cathedral in Kyiv, Ukraine, on Monday after a Russian attack.</media:description>
@@ -659,7 +662,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-unknowns2-mkcw/15mideast-unknowns2-mkcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>President Trump at Évian-les-Bains, France, for the Group of 7 summit, on Monday.</media:description>
@@ -671,11 +677,15 @@
       <atom:link href="https://www.nytimes.com/2026/06/15/world/middleeast/shipping-fees-tolls-strait-hormuz.html" rel="standout"></atom:link>
       <description>Charging a toll is illegal under international law, but some fees are allowed for services. It is not clear what services Iran would provide, but there were no fees charged before the war.</description>
       <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Mon, 15 Jun 2026 21:49:24 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 21:49:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tolls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/10/multimedia/15mideast-Strait-Fees/10mideast-trump-oil-tfzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Vessels in the Strait of Hormuz, seen from Oman on Wednesday.</media:description>
@@ -760,14 +770,17 @@
       <description>Alexandros Giotopoulos, 82, had been serving 17 life sentences for leading November 17, a leftist group blamed for a wave of bombings and assassinations.</description>
       <dc:creator>Niki Kitsantonis</dc:creator>
       <pubDate>Mon, 15 Jun 2026 19:35:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giotopoulos, Alexandros</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">November 17</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Seventies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">November 17</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giotopoulos, Alexandros</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koufodinas, Dimitris</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/15/multimedia/15greece-release-mzgf/15greece-release-mzgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yiorgos Karahalis/Reuters</media:credit>
       <media:description>Alexandros Giotopoulos during a court appearance in 2005. The November 17 group was active from 1975 to 2002.</media:description>
@@ -849,9 +862,13 @@
       <atom:link href="https://www.nytimes.com/2026/06/15/world/europe/france-lyhanna-protests.html" rel="standout"></atom:link>
       <description>Protests have erupted across France after authorities revealed that a man accused of kidnapping Lyhanna Rameau Bernard, a French schoolgirl found dead this month, had previously been flagged to law enforcement.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Mon, 15 Jun 2026 19:56:06 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 19:56:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rameau Bernard, Lyhanna (2014-26)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barella, Jerome</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Scouarnec, Joel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
@@ -893,17 +910,18 @@
       <dc:creator>Lara Jakes</dc:creator>
       <pubDate>Mon, 15 Jun 2026 14:50:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-three-reasons-hljq/15mideast-three-reasons-hljq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description> The preliminary deal between Iran and the U.S. could still come apart.</media:description>
@@ -961,7 +979,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-agreement-lebanon.html" rel="standout"></atom:link>
       <description>Iran claimed the deal would extend to fighting in Lebanon but no details of the agreement were made public and Israel said its forces would remain there.</description>
       <dc:creator>Christina Goldbaum</dc:creator>
-      <pubDate>Mon, 15 Jun 2026 17:33:15 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 01:11:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
@@ -972,6 +990,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-lebanon-qkbh/15mideast-lebanon-qkbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Berehulak/The New York Times</media:credit>
       <media:description>Emergency response workers and security personnel at the site of an Israeli airstrike, in southern Beirut, Lebanon, on Sunday.</media:description>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 18:58:16 +0000</lastBuildDate>
-    <pubDate>Fri, 19 Jun 2026 18:53:13 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:49:34 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 20:14:55 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,9 +21,9 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal" rel="standout"></atom:link>
       <description>The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 19 Jun 2026 18:48:52 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-promo-115EST-tmph/19mideast-promo-115EST-tmph-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mohammed Zaatari/Associated Press</media:credit>
+      <pubDate>Fri, 19 Jun 2026 20:14:55 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-promo-310EST-khbz/19mideast-promo-310EST-khbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adri Salido/Getty Images</media:credit>
     </item>
     <item>
       <title>‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.</title>
@@ -63,6 +63,24 @@
       <media:content height="1333" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/00int-mexico-censorship01a-photo-cfgv/00int-mexico-censorship01a-photo-cfgv-mediumSquareAt3X.jpg" width="1333"></media:content>
       <media:credit>Marian Carrasquero for The New York Times</media:credit>
       <media:description>Élfego Riveros, a reporter in Teocelo, Mexico, whose satirical spot for a community-run radio station resulted in five reporters being found guilty of gender-based political violence.</media:description>
+    </item>
+    <item>
+      <title>U.S. to End AIDS Funding for South Africa</title>
+      <link>https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html" rel="standout"></atom:link>
+      <description>According to an unsigned statement from the State Department, the U.S. will phase out support for H.I.V. prevention and treatment in South Africa.</description>
+      <dc:creator>Zimasa Matiwane</dc:creator>
+      <pubDate>Fri, 19 Jun 2026 19:07:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-safrica-pepfar-mwlv/19int-safrica-pepfar-mwlv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>A men’s health clinic in Johannesburg, South Africa, that closed last year after President Trump’s executive order slashed foreign aid.</media:description>
     </item>
     <item>
       <title>Burnham’s Stunning Victory in Makerfield Election May Trigger Starmer’s Last Stand</title>
@@ -154,7 +172,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/19/world/canada/frank-stronach-trial-guilty-sex-charges.html" rel="standout"></atom:link>
       <description>Mr. Stronach, 93, was found guilty of sexual assault and indecent assault in two cases and acquitted on three other charges.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Fri, 19 Jun 2026 17:23:06 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 19:04:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stronach, Frank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
@@ -264,25 +282,31 @@
       <media:description>Elvira S. Nabiullina, the governor of Russia’s central bank, spoke on Friday. The bank’s press office issued this photograph of the occasion.</media:description>
     </item>
     <item>
-      <title>Swiss Officials Say Iran Talks Are Off, for Now</title>
-      <link>https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html" rel="standout"></atom:link>
-      <description>The announcement raised immediate questions over the fate of the agreement President Trump signed this week, with key details left to be worked out.</description>
-      <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Fri, 19 Jun 2026 07:16:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <title>Lebanon Cease-Fire Bolsters U.S.-Iran Truce, After a Shaky Start</title>
+      <link>https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-ceasefire-iran-truce.html" rel="standout"></atom:link>
+      <description>Talks on a long-term peace deal were set to begin on Friday, but Iran pulled out, citing Israeli strikes in Lebanon. Hours later, diplomats say, Israel and Hezbollah agreed to halt fighting there.</description>
+      <dc:creator>Abdi Latif Dahir, Euan Ward, Adam Rasgon, Johnatan Reiss and Richard Pérez-Peña</dc:creator>
+      <pubDate>Fri, 19 Jun 2026 20:00:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Qassem, Naim</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/19int-Switzerland-talks/17dc-iran-deal-photo-bztf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>Pedestrians in Tehran on Monday. Talks on issues including Iran’s nuclear program have been postponed. </media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-mideast-ledeall-zhlw/19int-mideast-ledeall-zhlw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Guttenfelder/The New York Times</media:credit>
+      <media:description>Cleaning up after Israeli strikes in Touline, southern Lebanon, on Tuesday.</media:description>
     </item>
     <item>
       <title>Woman Receives 12-Year Sentence for 1978 Scalding Death of Stepdaughter, 5</title>
@@ -297,24 +321,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-    </item>
-    <item>
-      <title>U.S. to End AIDS Funding for South Africa</title>
-      <link>https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/19/world/africa/southafrica-aids-pepfar.html" rel="standout"></atom:link>
-      <description>According to an unsigned statement from the State Department, the U.S. will phase out support for H.I.V. prevention and treatment in South Africa.</description>
-      <dc:creator>Zimasa Matiwane</dc:creator>
-      <pubDate>Fri, 19 Jun 2026 18:53:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Africa</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-safrica-pepfar-mwlv/19int-safrica-pepfar-mwlv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joao Silva/The New York Times</media:credit>
-      <media:description>A men’s health clinic in Johannesburg, South Africa, that closed last year after President Trump’s executive order slashed foreign aid.</media:description>
     </item>
     <item>
       <title>How Cubans Are Living in the Dark</title>
@@ -386,7 +392,28 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Abdi Latif Dahir, Adam Rasgon, Johnatan Reiss and Euan Ward</dc:creator>
-      <pubDate>Fri, 19 Jun 2026 18:43:10 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 19:43:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Swiss Officials Say Iran Talks Are Off, for Now</title>
+      <link>https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/19/world/europe/switzerland-iran-talks.html" rel="standout"></atom:link>
+      <description>The announcement raised immediate questions over the fate of the agreement President Trump signed this week, with key details left to be worked out.</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Fri, 19 Jun 2026 07:16:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/19int-Switzerland-talks/17dc-iran-deal-photo-bztf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Pedestrians in Tehran on Monday. Talks on issues including Iran’s nuclear program have been postponed. </media:description>
     </item>
     <item>
       <title>What Does It All Mean? Once a Year, French Students Try to Explain.</title>
@@ -1116,26 +1143,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/17g7-iran-payouts-trump/17g7-school-strike-1-tbpz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>President Trump speaks on Iran during the closing of the G7 Summit in Evian-les-Bains, France.</media:description>
-    </item>
-    <item>
-      <title>Teenagers vs. Social Media Bans</title>
-      <link>https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/17/world/social-media-ban-iran-deal-congo-world-cup.html" rel="standout"></atom:link>
-      <description>Australia barred children from social media in December. Since then, young people have found plenty of ways to skirt the measure.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 18 Jun 2026 04:38:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uzbekistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/18/multimedia/18int-theworld-aus-social-media-01-qzck-promo/18int-theworld-aus-social-media-01-qzck-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matthew Abbott for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

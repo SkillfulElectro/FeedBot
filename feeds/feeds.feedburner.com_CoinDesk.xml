@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 19 Jun 2026 05:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:04:37 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -19,13 +19,56 @@
       <link>https://www.coindesk.com/</link>
     </image>
     <item>
-      <title><![CDATA[Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners]]></title>
+      <title><![CDATA[Digital credit market hit by huge selloff as Strive CEO blames leverage liquidations]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/19/digital-credit-market-hit-by-record-selloff-as-strive-ceo-blames-leverage-liquidations</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2688a309ccf027625e4bf19277b7e78cfc32859f-2123x1084.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a1a1aa8c-1211-4fab-8f56-6b309f959397</guid>
+      <pubDate>Fri, 19 Jun 2026 09:19:28 +0000</pubDate>
+      <description><![CDATA[Matt Cole says forced selling from leveraged investors pushed STRC and SATA sharply lower before both rebounded.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft found malware that hijacks crypto wallets and spreads through USB sticks]]></title>
+      <link>https://www.coindesk.com/tech/2026/06/19/microsoft-found-malware-that-hijacks-crypto-wallets-and-spreads-through-usb-sticks</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6dbc815339ea6045e80bb028a2a17bbb36af7d15-5184x3456.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">38573cf0-575b-4895-a360-cc5b1b815706</guid>
+      <pubDate>Fri, 19 Jun 2026 08:48:14 +0000</pubDate>
+      <description><![CDATA[The software intercepts shortcut files and directs them to install a worm that harvests private keys from the Windows clipboard and inserts its own destination wallet addresses when it detects a transfer.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Hack]]></category>
+      <category domain="tag"><![CDATA[Crime]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[XRP falls 3% after losing $1.15 support as breakout attempt fades]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/84ca8b253228dbf617f488fa7bd783c2b70ace05-1196x732.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">25ab13bd-3829-4afc-bb5e-de02154028b6</guid>
+      <pubDate>Fri, 19 Jun 2026 05:14:20 +0000</pubDate>
+      <description><![CDATA[Heavy selling pushed XRP back below a key support zone, reinforcing a downtrend that has repeatedly stalled rallies near $1.25.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Live markets: Bitcoin and precious metals remain under pressure]]></title>
       <link>https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8e7719760d84b5542b3a47e5e93368d3875db010-1024x759.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">9bc66de2-00f1-4e5c-a777-fbee8dbba5d5</guid>
       <pubDate>Fri, 19 Jun 2026 05:04:22 +0000</pubDate>
-      <description/>
+      <description><![CDATA[About 20% of miners are now unprofitable, and publicly traded miners sold more than 32,000 bitcoin in the first quarter to cover operating costs, more than they offloaded in all of 2025.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>Omkar Godbole</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -339,54 +382,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Next bull run will be slower, less volatile as investors' crypto appetite evolves, Bitwise CIO says]]></title>
-      <link>https://www.coindesk.com/markets/2026/06/17/next-bull-run-will-be-slower-less-volatile-as-investors-crypto-appetite-evolves-bitwise-cio-says</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a34f85098aeb0abf6143a6f966e3775d6f42fc8a-931x557.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">2549b336-724e-4cac-b304-6066f12179fc</guid>
-      <pubDate>Thu, 18 Jun 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[ Long-time bitcoin bull Matt Hougan told CoinDesk that during this bear market and with ‘doubts swirling’, investors have found ‘it easier to reach for something more tangible:’ stablecoins and tokenization.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[Bitwise]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[CME chief executive says company plans to sue CFTC after perpetual futures approval]]></title>
-      <link>https://www.coindesk.com/policy/2026/06/17/cme-chief-executive-says-company-plans-to-sue-cftc-after-perpetual-futures-approval</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/aa0afa99e5576ce542f2b557cda41f1493947b8d-5736x3824.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">b7e2ed86-e7fb-4e7f-8ec8-9c6eb0d2da53</guid>
-      <pubDate>Thu, 18 Jun 2026 03:44:30 +0000</pubDate>
-      <description><![CDATA[Kalshi's perpetual futures product did not meet the Dodd-Frank Act's definition of a "swap" and should not have been approved, Terrence Duffy said.]]></description>
-      <dc:creator>Nikhilesh De</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[CFTC]]></category>
-      <category domain="tag"><![CDATA[Kalshi]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Kentucky targets prediction markets, puts Trump-aligned state in potential clash with president's team]]></title>
-      <link>https://www.coindesk.com/policy/2026/06/17/kentucky-targets-prediction-markets-puts-red-state-in-potential-clash-with-trump-team</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9370413dda9d773b8fc13a5c0c929092c1390688-6720x4480.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">a0fe02b4-a423-43e7-8dc6-df8f2832f076</guid>
-      <pubDate>Wed, 17 Jun 2026 21:20:05 +0000</pubDate>
-      <description><![CDATA[President Donald Trump has taken the stance that states have no business with firms like Kalshi and Polymarket, and now a staunch GOP state is defying that view.]]></description>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Prediction Markets]]></category>
-      <category domain="tag"><![CDATA[Kalshi]]></category>
-      <category domain="tag"><![CDATA[Polymarket]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

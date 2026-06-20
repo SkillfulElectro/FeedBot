@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 20 Jun 2026 12:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:02:03 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3a6393eb4ae1f1db4ef1caec0023161c16707226-6000x3376.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">516a64f1-c03b-4575-9cd3-dd2cbf785998</guid>
+      <pubDate>Sat, 20 Jun 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="tag"><![CDATA[MicroStrategy]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Schwab to join prediction markets race with S&P 500 event-based options: WSJ]]></title>
       <link>https://www.coindesk.com/markets/2026/06/19/schwab-to-join-prediction-markets-race-with-s-and-p-500-event-based-options-wsj</link>
@@ -372,23 +387,6 @@
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live markets: price action turns panicky in Saylor's STRC as bitcoin drops below $63,000]]></title>
-      <link>https://www.coindesk.com/tech/2026/06/18/live-markets-bitcoin-and-ether-etfs-lost-usd111-million-combined-as-rate-cut-hopes-died</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d00d58cb37e792985dd1a2d7a5b976dca32d84c0-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">349ecc5e-641a-489e-89e6-a35fc07fe45c</guid>
-      <pubDate>Thu, 18 Jun 2026 06:02:19 +0000</pubDate>
-      <description><![CDATA[Total crypto market value has held steady near $2.26 trillion since Tuesday, with the recovery losing momentum after the Fed killed rate-cut hopes and spot ETFs swung back to outflows.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>Helene Braun</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
     </item>
   </channel>
 </rss>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 20:09:39 +0000</lastBuildDate>
-    <pubDate>Sun, 21 Jun 2026 19:51:37 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 21:50:44 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 21:07:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon" rel="standout"></atom:link>
       <description>Iranian negotiators insisted on an end to the war in Lebanon as a condition for further talks, state media reported. And President Trump renewed threats against Iran, even as Vice President JD Vance was hailing progress.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 21 Jun 2026 19:51:37 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2026 20:57:58 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/21/multimedia/21mideast-250-kmlj/21mideast-250-kmlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nathan Howard/Agence France-Presse, via Pool/Afp Via Getty Images</media:credit>
     </item>
@@ -302,6 +302,24 @@
       <media:description>Cape Verde’s veteran goalkeeper, Josimar José Évora Dias, after the team played to a scoreless tie with Spain on Monday.</media:description>
     </item>
     <item>
+      <title>The Man Trumpifying FIFA</title>
+      <link>https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/21/world/infantino-trump-fifa-iran-talks.html" rel="standout"></atom:link>
+      <description>Gianni Infantino, the FIFA president, has unabashedly courted the U.S. president’s favor.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 21 Jun 2026 21:07:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-theworld-nl-whpb/22int-theworld-nl-whpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>President Trump and Gianni Infantino at the White House in 2025. </media:description>
+    </item>
+    <item>
       <title>Uncertainty Remains Over the Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/21/world/middleeast/uncertainty-strait-hormuz-iran-us.html</guid>
@@ -400,7 +418,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/21/world/middleeast/israel-lebanon-hezbollah-fighting.html" rel="standout"></atom:link>
       <description>It was not clear whether the new directive would resolve the friction that led to deadly clashes on Friday and Saturday and threatened to derail a preliminary U.S.-Iran peace deal.</description>
       <dc:creator>Isabel Kershner and Christina Goldbaum</dc:creator>
-      <pubDate>Sun, 21 Jun 2026 15:56:40 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2026 20:57:56 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/21/multimedia/21mideast-israel-lebanon-wbhq/21mideast-israel-lebanon-wbhq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Guttenfelder/The New York Times</media:credit>
       <media:description>Damage from Israeli strike in Nabatieh, Lebanon, on Sunday.</media:description>
@@ -1099,25 +1117,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/19mideast-lebanon-attacks-hblz/19mideast-lebanon-attacks-hblz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jalaa Marey/Agence France-Presse — Getty Images</media:credit>
       <media:description>Smoke following Israeli bombardment in southern Lebanon on Friday.</media:description>
-    </item>
-    <item>
-      <title>‘Game Changer’? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.</title>
-      <link>https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html" rel="standout"></atom:link>
-      <description>The drone attack that sent plumes of smoke rising over Moscow intensified Ukrainian hopes of bringing the war to Russia.</description>
-      <dc:creator>Siobhán O’Grady</dc:creator>
-      <pubDate>Fri, 19 Jun 2026 17:37:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Group of Seven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/19int-ukraine-moscow-01-kwqg/19int-ukraine-moscow-01-kwqg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>via Reuters</media:credit>
-      <media:description>Smoke rising from an oil refinery in Moscow after a Ukrainian drone attack on Thursday, in an image obtained from social media.</media:description>
     </item>
   </channel>
 </rss>

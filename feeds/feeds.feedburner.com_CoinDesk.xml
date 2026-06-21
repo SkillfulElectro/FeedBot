@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 21 Jun 2026 17:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:32:14 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Are perps swaps? A quick look at that CME suit: State of Crypto ]]></title>
+      <link>https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d22b1e6fab9686661c3664c0636bcaea33ae8458-7463x4975.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">e8cfe2f1-0a07-4bfa-8807-c36d31eeaf2a</guid>
+      <pubDate>Sun, 21 Jun 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S. perpetual futures product. ]]></description>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Newsletters]]></category>
+      <category domain="tag"><![CDATA[State of Crypto]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit]]></title>
       <link>https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit</link>
@@ -369,20 +384,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Aster popped over 10% on radical 'buyback and burn' upgrade. But gains were short-lived]]></title>
-      <link>https://www.coindesk.com/markets/2026/06/18/aster-popped-over-10-on-radical-buyback-and-burn-upgrade-but-gains-were-short-lived</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/fd0f0843528e09c4049298ddfa15377313f69546-2919x1090.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">bfe57acc-1503-43d2-b14c-918c745759fc</guid>
-      <pubDate>Thu, 18 Jun 2026 11:02:57 +0000</pubDate>
-      <description><![CDATA[ASTER sees two-way volatility as bullish protocol-specific news meets hawkish Fed. ]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

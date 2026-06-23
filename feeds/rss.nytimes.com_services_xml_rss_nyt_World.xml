@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 16:08:05 +0000</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 16:03:17 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 18:21:04 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 18:20:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,9 +21,10 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon" rel="standout"></atom:link>
       <description>President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 16:03:17 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23mideast-promo1/23mideast-promo1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Tue, 23 Jun 2026 18:20:00 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23mideast-200/23mideast-header-wbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>The streets of Tehran earlier this month.</media:description>
     </item>
     <item>
       <title>‘A Terrible Inheritance’: Could Andy Burnham Succeed Where Starmer Failed?</title>
@@ -122,10 +123,64 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Delcy (1969- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/00venezuela-rodriguez-qgwc/00venezuela-rodriguez-qgwc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Todd Heisler/The New York Times</media:credit>
       <media:description>Delcy Rodríguez, the interim president of Venezuela, during a meeting with American officials in Caracas in April.</media:description>
+    </item>
+    <item>
+      <title>Britain Is Still Deep in the Shadow of Brexit</title>
+      <link>https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/23/world/europe/britain-brexit-legacy.html" rel="standout"></atom:link>
+      <description>Ten years after a slim majority voted to leave the European Union, the economic and political effects of that decision continue to disrupt the United Kingdom.</description>
+      <dc:creator>Michael D. Shear and Megan Specia</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 16:33:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23int-uk-brexit-assess-01-bhtf/23int-uk-brexit-assess-01-bhtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Ferguson for The New York Times</media:credit>
+      <media:description>A “Vote Leave” rally in London in June 2016. The proposal to separate from the European Union narrowly passed. </media:description>
+    </item>
+    <item>
+      <title>After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks</title>
+      <link>https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html" rel="standout"></atom:link>
+      <description>Tehran and Washington face myriad negotiating pitfalls. But both sides are exhausted and running out of options. They may finally need a deal.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 14:02:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23iran-strategy-01-klmj/23iran-strategy-01-klmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>In Tehran this month. Political analysts say both Iran and the United States now have a real need for progress.</media:description>
     </item>
     <item>
       <title>Those British Strawberries Are Being Picked by Central Asian Workers</title>
@@ -151,6 +206,34 @@
       <media:description>Shukrat Djuraev at Homefield Farm, in Kent, England, this month.</media:description>
     </item>
     <item>
+      <title>U.S. Warns of ‘Imminent’ Atrocities in El Obeid, Sudan</title>
+      <link>https://www.nytimes.com/2026/06/23/world/africa/sudan-war-rsf-atrocities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/africa/sudan-war-rsf-atrocities.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/23/world/africa/sudan-war-rsf-atrocities.html" rel="standout"></atom:link>
+      <description>A highway running through El Obeid links Darfur in west Sudan to the east, making it a strategically significant battleground.</description>
+      <dc:creator>Matthew Mpoke Bigg and Brian O. Otieno</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 16:28:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rapid Support Forces (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamdan, Mohamed (Hemeti)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Burhan, Abdel Fattah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darfur (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Fasher (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khartoum (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port Sudan (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23int-sudan-obeid-1-lgcp/23int-sudan-obeid-1-lgcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>El Tayeb Siddig/Reuters</media:credit>
+      <media:description>A camp for displaced persons in El Obeid, Sudan, in January. The crisis has forced around 14 million people from their homes.</media:description>
+    </item>
+    <item>
       <title>Soldier, Scholar and Symbol: Marc Bloch Is Elevated to France’s Panthéon</title>
       <link>https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/europe/marc-bloch-pantheon-france.html</guid>
@@ -160,13 +243,14 @@
       <pubDate>Tue, 23 Jun 2026 09:27:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pantheon (Paris, France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bloch, Marc (1886-1944)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marc Bloch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simonne Vidal</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simonne Vidal</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/world/23int-france-pantheon-2a/23int-france-pantheon-2a-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adnan Farzat/NurPhoto, via Getty Images</media:credit>
       <media:description>Portraits of Marc Bloch and his wife, Simonne Vidal, in Paris on Monday. Their caskets are set to be installed in France’s Panthéon on Tuesday.</media:description>
@@ -178,7 +262,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/23/world/europe/scotland-peter-murrell-nicola-sturgeon-scottish-national-party.html" rel="standout"></atom:link>
       <description>Peter Murrell, the husband of the former Scottish leader Nicola Sturgeon, was sentenced on Tuesday after he admitted to buying a bizarre range of items with the Scottish National Party’s money.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 14:22:47 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 16:18:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embezzlement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -197,9 +281,9 @@
       <link>https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/23/world/middleeast/iranian-singer-lashing-sentence.html" rel="standout"></atom:link>
-      <description>Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, dampening hopes for a more moderate postwar regime in Iran.</description>
+      <description>Parastoo Ahmadi and her band will also be barred from leaving the country or performing for two years, making clear to Iranians that their new leaders may be just as severe as those killed in the war.</description>
       <dc:creator>Zane Irwin and Shirin Hakim</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 11:54:30 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 17:09:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporal Punishment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
@@ -228,65 +312,38 @@
       <media:description>Fans of Jordan during the World Cup game against Algeria in Santa Clara, Calif., on Monday.</media:description>
     </item>
     <item>
-      <title>Keir Starmer Resigns as UK Prime Minister</title>
-      <link>https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html" rel="standout"></atom:link>
-      <description>His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 21:31:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Makerfield (England)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-uk-starmer-ledeall-mczf/22int-uk-starmer-ledeall-mczf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jaimi Joy/Reuters</media:credit>
-      <media:description>Prime Minister Keir Starmer outside 10 Downing Street in London where he announced his resignation on Monday. </media:description>
+      <title>U.N. Sets Plan to Evacuate Stranded Ships Out of Persian Gulf</title>
+      <link>https://www.nytimes.com/2026/06/23/world/middleeast/imo-persian-gulf-stranded-ships.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/middleeast/imo-persian-gulf-stranded-ships.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/23/world/middleeast/imo-persian-gulf-stranded-ships.html" rel="standout"></atom:link>
+      <description>The International Maritime Organization, working with multiple countries, said it has ensured that vessels can sail safely through the Strait of Hormuz after months of being idled.</description>
+      <dc:creator>Peter Eavis</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 17:25:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Maritime Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23mideast-IMO-ship-evac-vbfk/23mideast-IMO-ship-evac-vbfk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Hundreds of ships have been stranded in the Persian Gulf since the war began, waiting for safe passage through the Strait of Hormuz.</media:description>
     </item>
     <item>
-      <title>Cuba’s Fuel Crisis Brings Schools to a Standstill</title>
-      <link>https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html" rel="standout"></atom:link>
-      <description>The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade.</description>
-      <dc:creator>Ed Augustin and Frances Robles</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 14:29:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Havana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/18/multimedia/intxx-cuba-schools-01-fpwc/intxx-cuba-schools-01-fpwc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lisette Poole González for The New York Times</media:credit>
-      <media:description>Analeidis Arias Matos getting her son, Alejandro, ready for school last month in Santiago, Cuba.</media:description>
-    </item>
-    <item>
-      <title>Suspect and a Civilian Are Among Three Killed in Montreal Shooting</title>
-      <link>https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html" rel="standout"></atom:link>
-      <description>A police officer and a civilian also died in a gun battle that prompted a citywide shelter-in-place alert.</description>
-      <dc:creator>Norimitsu Onishi and Vjosa Isai</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 00:38:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-canada-shooting-zqjt/22int-canada-shooting-zqjt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
-      <media:description>A mother and daughter were reunited after the shooting in the Côte-des-Neiges neighborhood in Montreal.</media:description>
+      <title>Artist Pulls Work From London Museum After Clash Over Churchill’s Legacy</title>
+      <link>https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/23/arts/churchill-bengal-famine-national-portrait-gallery.html" rel="standout"></atom:link>
+      <description>A historian and others said that a video installation had incorrectly blamed Winston Churchill for a famine in colonial India.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 16:42:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cammock, Helen (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Winston Leonard Spencer</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23xp-churchill-2-lcmw/23xp-churchill-2-lcmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeremie Souteyrat for The New York Times</media:credit>
+      <media:description>The National Portrait Gallery in London. A video installation called “Persistence” was taken down this week after a historian criticized a reference to Winston Churchill.</media:description>
     </item>
     <item>
       <title>Israeli Soldiers Fatally Shoot 2 People in Southern Lebanon, Health Officials Say</title>
@@ -313,7 +370,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/23/business/iran-war-africa-farming.html" rel="standout"></atom:link>
       <description>A reopening of the Strait of Hormuz would do little to swiftly ease the pain inflicted by higher prices for fertilizer, food and fuel in Ivory Coast.</description>
       <dc:creator>Peter S. Goodman and Finbarr O’Reilly</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 14:38:36 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 17:59:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ivory Coast</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cocoa</category>
@@ -360,30 +417,6 @@
       <media:description>A satellite imagery taken on June 21, 2025, shows destroyed buildings at Isfahan nuclear site, Iran.</media:description>
     </item>
     <item>
-      <title>After Wars and False Starts, Cautious Optimism for U.S.-Iran Talks</title>
-      <link>https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/23/world/middleeast/united-states-iran-talks-optimism.html" rel="standout"></atom:link>
-      <description>Tehran and Washington face myriad negotiating pitfalls. But both sides are exhausted and running out of options. They may finally need a deal.</description>
-      <dc:creator>Erika Solomon</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 14:02:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23iran-strategy-01-klmj/23iran-strategy-01-klmj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>In Tehran this month. Political analysts say both Iran and the United States now have a real need for progress.</media:description>
-    </item>
-    <item>
       <title>40 People Drown in France Amid Scorching Temperatures</title>
       <link>https://www.nytimes.com/2026/06/23/world/europe/heat-wave-france-drowning-deaths.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/world/europe/heat-wave-france-drowning-deaths.html</guid>
@@ -395,6 +428,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23xp-drownings-kvfb/23xp-drownings-kvfb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
       <media:description>People trying to find respite in the shade in Toulouse, France, on Monday.</media:description>
@@ -427,7 +461,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Lara Jakes, Leo Sands and Nick Cumming-Bruce</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 13:25:46 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 17:53:32 +0000</pubDate>
     </item>
     <item>
       <title>China Takes Supercomputer Crown From U.S. For First Time Since 2017</title>
@@ -569,7 +603,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/22/world/asia/fire-lucknow-india-kills-14.html" rel="standout"></atom:link>
       <description>A blaze in a commercial building that housed a study center in a north Indian city killed at least a dozen people, most aged 16 to 18.</description>
       <dc:creator>Suhasini Raj and Mujib Mashal</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 18:26:33 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 18:12:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
@@ -577,6 +611,20 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-india-fire-czmw/22int-india-fire-czmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sumit Kumar/Associated Press</media:credit>
       <media:description>Firefighters work to extinguish a fire that broke out at a commercial building on Monday in Lucknow, India.</media:description>
+    </item>
+    <item>
+      <title>Suspect and a Civilian Are Among Three Killed in Montreal Shooting</title>
+      <link>https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/22/world/canada/montreal-shooting-manhunt-police.html" rel="standout"></atom:link>
+      <description>A police officer and a civilian also died in a gun battle that prompted a citywide shelter-in-place alert.</description>
+      <dc:creator>Norimitsu Onishi and Vjosa Isai</dc:creator>
+      <pubDate>Tue, 23 Jun 2026 00:38:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-canada-shooting-zqjt/22int-canada-shooting-zqjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nasuna Stuart-Ulin for The New York Times</media:credit>
+      <media:description>A mother and daughter were reunited after the shooting in the Côte-des-Neiges neighborhood in Montreal.</media:description>
     </item>
     <item>
       <title>Taliban and E.U. Officials to Discuss Afghan Deportees in Brussels</title>
@@ -601,13 +649,37 @@
       <media:description>Afghan forces at the border crossing to Pakistan in Spin Boldak, Afghanistan, in December. No E.U. member state recognizes the Taliban administration as Afghanistan’s legitimate authority.</media:description>
     </item>
     <item>
+      <title>Keir Starmer Resigns as UK Prime Minister</title>
+      <link>https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/22/world/europe/keir-starmer-andy-burnham-prime-minister-britain.html" rel="standout"></atom:link>
+      <description>His departure in the coming weeks clears a path for Andy Burnham, a popular Labour Party mayor, to become the country’s seventh prime minister in a decade.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Mon, 22 Jun 2026 21:31:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Makerfield (England)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-uk-starmer-ledeall-mczf/22int-uk-starmer-ledeall-mczf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jaimi Joy/Reuters</media:credit>
+      <media:description>Prime Minister Keir Starmer outside 10 Downing Street in London where he announced his resignation on Monday. </media:description>
+    </item>
+    <item>
       <title>What Is the ‘Heat Dome’ Causing Europe’s Record Temperatures?</title>
       <link>https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html" rel="standout"></atom:link>
       <description>Heat domes happen all over the world, and the one over Europe this week is locking in days of near-record highs across Britain, Spain and France.</description>
       <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 17:16:46 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 16:34:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -965,6 +1037,29 @@
       <media:description>Evacuees from Sloviansk and Kramatorsk, in the Donetsk region of Ukraine, waited to be processed at a transit hub in Lozova, Ukraine, last month.</media:description>
     </item>
     <item>
+      <title>Cuba’s Fuel Crisis Brings Schools to a Standstill</title>
+      <link>https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/22/world/americas/cuba-oil-gas-crisis-schools-education.html" rel="standout"></atom:link>
+      <description>The country’s already-struggling schools are ending the academic year early because of a crippling fuel shortage caused by the U.S. oil blockade.</description>
+      <dc:creator>Ed Augustin and Frances Robles</dc:creator>
+      <pubDate>Mon, 22 Jun 2026 14:29:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Havana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/18/multimedia/intxx-cuba-schools-01-fpwc/intxx-cuba-schools-01-fpwc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lisette Poole González for The New York Times</media:credit>
+      <media:description>Analeidis Arias Matos getting her son, Alejandro, ready for school last month in Santiago, Cuba.</media:description>
+    </item>
+    <item>
       <title>A Loophole Brings Cystic Fibrosis Patients a ‘Miracle Drug’ in Generic Form</title>
       <link>https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/health/cystic-fibrosis-drug-triko-trikafta.html</guid>
@@ -1004,81 +1099,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-Qatar-explosion-mfqb/22int-Qatar-explosion-mfqb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse, via AFPTV</media:credit>
       <media:description>A screen grab from a video showing flames at the Ras Laffan industrial zone in Qatar on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign/britain-starmer-pressure-to-resign</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign/britain-starmer-pressure-to-resign</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/06/22/world/uk-keir-starmer-resign/britain-starmer-pressure-to-resign" rel="standout"></atom:link>
-      <description>The prime minMr. Starmer insisted he would fight any leadership challenge,</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 17:11:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Makerfield (England)</category>
-    </item>
-    <item>
-      <title>Two Boys Arrested After Deadly School Shooting in the Philippines</title>
-      <link>https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html" rel="standout"></atom:link>
-      <description>Three people were killed and seven wounded after two teenagers opened fire at their school in Tacloban City, the police said.</description>
-      <dc:creator>Aie Balagtas See and Jason Gutierrez</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 13:42:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tacloban (Philippines)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Juvenile Delinquency</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/22/multimedia/22int-philippines-shooting-promo-sub/22int-philippines-shooting-promo-sub-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Noel Sianosa/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Does This Radio Host Really Know Everyone in Wales?</title>
-      <link>https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/22/world/europe/elis-james-wales-radio.html" rel="standout"></atom:link>
-      <description>Elis James thinks he has a friend in common with just about everyone else in Wales. Don’t believe him? Give him 60 seconds to prove it.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 14:08:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Elis (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Game Shows</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cardiff City (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/28/multimedia/00int-wales-gameshow-profile-01-cljf/00int-wales-gameshow-profile-01-cljf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Radio host and comedian Elis James has taken the Welsh penchant for chatting and being social to new heights.</media:description>
-    </item>
-    <item>
-      <title>Abelardo De La Espriella, Trump-Backed Rightist, Headed for Win in Colombia</title>
-      <link>https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/21/world/americas/colombia-election-de-la-espriella.html" rel="standout"></atom:link>
-      <description>A victory for Abelardo De La Espriella, a lawyer with no previous political experience, would be another win for the right in Latin America.</description>
-      <dc:creator>Annie Correal</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 16:58:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cepeda, Ivan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Restrepo, Jose Manuel (1970- )</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/21/multimedia/21int-colombia-delaespriella-mkfg/21int-colombia-delaespriella-mkfg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Supporters of Mr. De La Espriella in Barranquilla on Sunday.</media:description>
     </item>
   </channel>
 </rss>

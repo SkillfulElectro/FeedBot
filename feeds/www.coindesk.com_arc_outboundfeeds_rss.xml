@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 23 Jun 2026 21:56:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:59:54 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[AI chipmaker Cerebras down 11% after first public earnings report]]></title>
+      <link>https://www.coindesk.com/markets/2026/06/23/ai-chipmaker-cerebras-down-11-after-first-public-earnings-report</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7f73b0fb72eff17fc931d5c35efef4b87e3f56ab-2946x1938.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b7f415f1-96f1-40f2-a48d-c7f10694bd3d</guid>
+      <pubDate>Tue, 23 Jun 2026 22:58:44 +0000</pubDate>
+      <description><![CDATA[While revenue was up 92% from year-ago levels, the company forecasted a lower core gross margin next quarter.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Crypto critic Roubini joins tokenization boom with onchain 'Technodollar']]></title>
       <link>https://www.coindesk.com/business/2026/06/23/crypto-critic-roubini-joins-tokenization-boom-with-onchain-technodollar</link>
@@ -370,21 +384,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[quantum computing]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[U.S. Senate passes housing bill that carries four-year ban on a Fed CBDC]]></title>
-      <link>https://www.coindesk.com/policy/2026/06/22/u-s-senate-passes-housing-bill-that-carries-four-year-ban-on-a-fed-cbdc</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">719609be-ec67-4ea1-8579-236d07946cdf</guid>
-      <pubDate>Mon, 22 Jun 2026 23:01:15 +0000</pubDate>
-      <description><![CDATA[The idea of a U.S. central bank digital currency — though little more than a research topic at the Federal Reserve — may be getting formally blocked. ]]></description>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[CBDC]]></category>
-      <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

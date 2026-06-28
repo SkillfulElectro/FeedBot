@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 17:39:51 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Jun 2026 17:24:48 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 19:19:59 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 19:19:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -35,6 +35,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Eric F (1984- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/17/00int-kazakhstan-trump-video-94217-cover/00int-kazakhstan-trump-video-94217-cover-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sergey Ponomarev for The New York Times</media:credit>
     </item>
@@ -45,19 +46,18 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz" rel="standout"></atom:link>
       <description>President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 17:23:48 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-header-jvfz-promo/28mideast-header-jvfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Sun, 28 Jun 2026 19:05:51 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/28/multimedia/28mideast-200-fbgh/28mideast-200-fbgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>A billboard showing Iran’s flag in Tehran this month.</media:description>
     </item>
     <item>
-      <title>Venezuela Live Updates: Rescuers Battle Through Aftershocks in Search for Survivors</title>
+      <title>Venezuela Live Updates: Window to Find Survivors Is Closing as Rescuers Battle Through Aftershocks</title>
       <link>https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake</guid>
       <atom:link href="https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake" rel="standout"></atom:link>
       <description>More than three days after twin earthquakes devastated the Venezuelan coast, the rescue effort faced chaos and delays as the chances of finding survivors diminished.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 17:23:24 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 19:19:40 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/28/multimedia/28venez-200-tpwg/28venez-200-tpwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
     </item>
@@ -208,12 +208,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kazakhstan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/00int-kazakhstan-us-01-thqw/00int-kazakhstan-us-01-thqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sergey Ponomarev for The New York Times</media:credit>
       <media:description>Kazakhstan’s capital, Astana. </media:description>
     </item>
     <item>
-      <title>Heat Starts to Break in Western Europe, as Central Europe Begins to Broil</title>
+      <title>Heat Wave Starts to Break in Western Europe, as Central Europe Begins to Broil</title>
       <link>https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/28/world/europe/central-europe-heat-wave.html" rel="standout"></atom:link>
@@ -290,17 +291,57 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/18/multimedia/00intt-ebola-redcross-promo/00intt-ebola-redcross-21-pfmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait</title>
+      <link>https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html" rel="standout"></atom:link>
+      <description>Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Sun, 28 Jun 2026 19:09:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Maritime Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vaez, Ali</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29int-iran-attacks-assess-vqtg/29int-iran-attacks-assess-vqtg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Boats anchored off Oman’s northern Musandam Peninsula near the Strait of Hormuz on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Deep Under the Rubble, Rescuers Find an 11-Year-Old Boy Alive</title>
+      <link>https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/28/world/americas/deep-under-the-rubble-rescuers-find-an-11-year-old-boy-alive.html" rel="standout"></atom:link>
+      <description>A Colombian rescue team worked for six hours to recover the child, Moises, from under nearly 10 feet of rubble in La Guaira. His rescue was captured on video.</description>
+      <dc:creator>Anushka Patil</dc:creator>
+      <pubDate>Sun, 28 Jun 2026 18:50:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/06/28/28vid-venezuela-kid-rescue-67467-cover/28vid-venezuela-kid-rescue-67467-cover-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>Quito Firefighters, via Agence France-Presse</media:credit>
     </item>
     <item>
       <title>Dozens of Dogs Join Search for Venezuela Earthquake Survivors</title>
       <link>https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/28/world/americas/rescue-dogs-canine-units-earthquake-venezuela.html" rel="standout"></atom:link>
-      <description>Specially trained canines can pick up the scent of survivors beneath mounds of collapsed debris, indicating where clearance teams should begin digging.</description>
+      <description>Specially trained dogs can pick up the scent of survivors beneath mounds of collapsed debris, indicating where clearance teams should begin digging.</description>
       <dc:creator>Leo Sands</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 14:03:29 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 17:41:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
@@ -320,7 +361,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/06/28/world/venezuela-earthquake/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Isayen Herrera, María Victoria Fermín, Julie Turkewitz, Genevieve Glatsky, Fabiola Ferrero and Yan Zhuang</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 15:36:52 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 18:34:12 +0000</pubDate>
     </item>
     <item>
       <title>Here’s the latest.</title>
@@ -338,7 +379,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html" rel="standout"></atom:link>
       <description>María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.</description>
       <dc:creator>Tyler Pager</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 13:55:08 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 13:55:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machado, Maria Corina</category>
@@ -718,11 +759,12 @@
       <atom:link href="https://www.nytimes.com/video/world/africa/100000010952237/an-attack-on-ebolas-first-responders.html" rel="standout"></atom:link>
       <description>Our chief Africa correspondent, Declan Walsh, reports from a city where Red Cross workers carrying out burials in the Ebola outbreak have come under attack.</description>
       <dc:creator>Declan Walsh, Estelle Caswell, Coleman Lowndes, Thomas Vollkommer and Arlette Bashizi</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 14:39:11 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 18:50:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>At the Stadium and Far Away, Cape Verde Fans Embrace the Possible</title>

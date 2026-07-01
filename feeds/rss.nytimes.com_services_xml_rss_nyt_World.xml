@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 19:18:44 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 19:16:09 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:02:37 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 21:01:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -65,6 +65,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01int-iran-diplomacy-ctlj/01int-iran-diplomacy-ctlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Jacquelyn Martin</media:credit>
       <media:description>Jared Kushner and Steve Witkoff, advisers to President Trump, in Islamabad, Pakistan, in April. They met with Qatar’s prime minister on Tuesday to discuss the U.S.-Iran deal.</media:description>
@@ -132,9 +133,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Society of Saint Pius X</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01int-vatican-breakaway-01-qcbt/01int-vatican-breakaway-01-qcbt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cyril Zingaro/Keystone, via Associated Press</media:credit>
       <media:description>Alfonso de Galarreta, a bishop of the Society of Saint Pius X, center, consecrating four new bishops on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Celebrating the World Cup, the English Ask: Who Owns the Flag?</title>
+      <link>https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html" rel="standout"></atom:link>
+      <description>The national flag of England, a white banner with a bold red cross, has been displayed by soccer fans during the World Cup. But it has caused tension over whom, and what, it is meant to represent.</description>
+      <dc:creator>Megan Specia</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 20:55:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flags, Emblems and Insignia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
     </item>
     <item>
       <title>Trump Suggestion of a Syrian Crackdown on Hezbollah Confounds Many in Mideast</title>
@@ -166,7 +185,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/01/world/canada/quebec-trees-rights-canada-terrasse-vaudreuil.html" rel="standout"></atom:link>
       <description>Terrasse-Vaudreuil has adopted a resolution to protect trees, which its mayor called “indispensable allies,” as living beings.</description>
       <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 09:01:16 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 21:00:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
@@ -250,48 +269,42 @@
       <media:description>Yehor Holodryha, center, and classmates of Masha Polska dancing the waltz at their prom in Kyiv, Ukraine, in June.</media:description>
     </item>
     <item>
-      <title>After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan</title>
-      <link>https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html" rel="standout"></atom:link>
-      <description>Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.</description>
-      <dc:creator>Vivian Nereim, Farnaz Fassihi and Erika Solomon</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 19:33:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tolls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00int-Oman-Hormuz-01-fmgc/00int-Oman-Hormuz-01-fmgc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Elke Scholiers/Getty Images</media:credit>
-      <media:description>A cargo vessel anchored off the coast of Oman near Muscat last week.</media:description>
+      <title>Ukraine Takes the War to Russia</title>
+      <link>https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/world/ukraine-war-russia-putin-maduro-harry-kane.html" rel="standout"></atom:link>
+      <description>Kyiv’s aim is simple: Put enough pressure on President Vladimir Putin that he agrees to end the war. Will it work?</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 21:01:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-theworld-russia-ukraine-01-pwfg-promo/02int-theworld-russia-ukraine-01-pwfg-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>via Reuters</media:credit>
     </item>
     <item>
-      <title>Celebrating the World Cup, the English Ask: Who Owns the Flag?</title>
-      <link>https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/england-world-cup-flags.html" rel="standout"></atom:link>
-      <description>The national flag of England, a white banner with a bold red cross, has been displayed by soccer fans during the World Cup. But it has caused tension over whom, and what, it is meant to represent.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 19:15:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flags, Emblems and Insignia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <title>Sea Hawk Helicopter Makes Emergency Landing in Arabian Sea, Navy Says</title>
+      <link>https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/navy-helicopter-rescue-missing-person.html" rel="standout"></atom:link>
+      <description>Three crew members were rescued, though a fourth remained missing. There is no indication that the landing was caused by “hostile action,” the Navy said.</description>
+      <dc:creator>John S.W. MacDonald</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 19:23:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arabian Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1544" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01xp-navy-fbkv/01xp-navy-fbkv-mediumSquareAt3X.jpg" width="1544"></media:content>
+      <media:credit>Mass Communication Specialist Seaman Aaron Haro Gonzalez/U.S.Navy, via Associated Press</media:credit>
+      <media:description>A handout photo provided by the U.S. Navy showing an MH-60S Sea Hawk helicopter.</media:description>
     </item>
     <item>
       <title>3 People Die During World Cup Celebrations in Mexico City</title>
@@ -300,7 +313,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/01/world/americas/world-cup-mexico-city-crowd-deaths.html" rel="standout"></atom:link>
       <description>A man, 44, and two women, ages 19 and 48, died from asphyxiation, the authorities said, as crowds celebrated the Mexican team’s victory over Ecuador.</description>
       <dc:creator>Ali Watkins</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 18:43:23 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 20:27:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asphyxiation, Choking, and Suffocation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
@@ -309,9 +322,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico City (Mexico)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/1xp-mexico-bfjq/1xp-mexico-bfjq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/espanol/1xp-mexico-bfjq-ES-copy1/1xp-mexico-bfjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Armando Vega/Reuters</media:credit>
-      <media:description>Fans gathering near the Angel of Independence monument during the World Cup match between Mexico and Ecuador, in Mexico City on Tuesday.</media:description>
+      <media:description>Aficionados reunidos cerca del monumento al Ángel de la Independencia durante el partido del Mundial entre México y Ecuador, el martes en Ciudad de México.</media:description>
     </item>
     <item>
       <title>Unfamiliar With Bosnia and Herzegovina? What to Know Before It Faces the U.S.</title>
@@ -338,7 +351,7 @@
       <atom:link href="https://www.nytimes.com/video/world/americas/100000010968903/cuba-guyana-immigrants.html" rel="standout"></atom:link>
       <description>Guyana, a tiny, oil-rich, English-speaking South American country, has become a destination for Cubans fleeing desperate conditions. We traveled to the capital, Georgetown, to meet with migrant families and learn more about the lives they left behind.</description>
       <dc:creator>Mimi Dwyer, Alex Pena and Yasu Tsuji</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 09:43:36 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 20:14:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guyana</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Non-Agriculture)</category>
@@ -440,12 +453,13 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/americas/venezuela-maduro-killings-lawsuit.html" rel="standout"></atom:link>
       <description>Five families whose loved ones were killed during a deadly police campaign have sued the former Venezuelan leader in U.S. court in Brooklyn.</description>
       <dc:creator>Frances Robles</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 05:07:34 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 05:07:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/int30-venezuela-maduro-suit-SWAP-gbwl/int30-venezuela-maduro-suit-SWAP-gbwl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>A plaintiff photographed to disguise her identity. The lawsuit was filed using aliases to protect the families.</media:description>
@@ -486,6 +500,33 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30int-venezuela-machinery-fhkz/30int-venezuela-machinery-fhkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>A collapsed building in Catia La Mar, La Guaira state, Venezuela.</media:description>
+    </item>
+    <item>
+      <title>After U.S.-Iran War, Oman Is Said to Propose Strait of Hormuz Fee Plan</title>
+      <link>https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/world/middleeast/iran-war-oman-strait-hormuz-fee-ships.html" rel="standout"></atom:link>
+      <description>Under the proposal, Iran and Oman would collect payment for ships passing through the Strait of Hormuz, according to officials and diplomats with knowledge of the matter.</description>
+      <dc:creator>Vivian Nereim, Farnaz Fassihi and Erika Solomon</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 19:33:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tolls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00int-Oman-Hormuz-01-fmgc/00int-Oman-Hormuz-01-fmgc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Elke Scholiers/Getty Images</media:credit>
+      <media:description>A cargo vessel anchored off the coast of Oman near Muscat last week.</media:description>
     </item>
     <item>
       <title>The 1968 Pact on Shipping Routes in the Strait of Hormuz That Iran Is Rejecting</title>
@@ -592,9 +633,11 @@
       <dc:creator>Motoko Rich</dc:creator>
       <pubDate>Tue, 30 Jun 2026 14:11:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/00int-ITALY-SOCCER-qcwm/00int-ITALY-SOCCER-qcwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alessandro Grassani for The New York Times</media:credit>
       <media:description>At Campo de’ Fiori Square in Rome, restaurants and cafes set up televisions showing a World Cup match on June 17.</media:description>
@@ -654,7 +697,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/europe/norway-fans-viking-row-cheer.html" rel="standout"></atom:link>
       <description>Seas of red-clad Norwegian supporters are rowing shoulder to shoulder at stadiums, schools, even a nursing home. Not everyone is thrilled.</description>
       <dc:creator>Louise Krüger and Lynsey Chutel</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 14:45:53 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 14:45:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
@@ -977,43 +1020,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>In Japan’s ‘Little Brazil,’ a World Cup Showdown Tests Loyalties</title>
-      <link>https://www.nytimes.com/2026/06/29/world/asia/japan-brazil-world-cup-fans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/world/asia/japan-brazil-world-cup-fans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/world/asia/japan-brazil-world-cup-fans.html" rel="standout"></atom:link>
-      <description>More than 200,000 Brazilians live in Japan, after more than a century of migration between the countries. Many are of Japanese descent, so which team are they cheering on?</description>
-      <dc:creator>Javier C. Hernández</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 08:57:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29int-JAPAN-BRAZIL-WORLDCUP-promo-lzgp/29int-JAPAN-BRAZIL-WORLDCUP-promo-lzgp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Noriko Hayashi for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>At a Caracas Morgue, Families and Officials Try to Identify More Than 100 Victims</title>
-      <link>https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/28/world/americas/venezuela-earthquake-caracas-morgue.html" rel="standout"></atom:link>
-      <description>Identifying victims has proved to be difficult because many bodies were badly crushed beneath collapsed buildings.</description>
-      <dc:creator>Isayen Herrera and Genevieve Glatsky</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 21:56:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/28/multimedia/28venezuela-quake-morgue-hkbv/28venezuela-quake-morgue-hkbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
-      <media:description>A flyer of a missing family lays outside of the morgue of the Dr. José María Vargas Hospital on Friday.</media:description>
     </item>
   </channel>
 </rss>

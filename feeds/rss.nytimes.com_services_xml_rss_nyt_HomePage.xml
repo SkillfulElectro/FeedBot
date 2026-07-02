@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 04:40:27 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 04:11:09 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 08:08:32 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 07:09:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Russia Strikes Ukraine as Explosions Rock Capital of Kyiv</title>
+      <link>https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html" rel="standout"></atom:link>
+      <description>At least 13 people were killed in the assault, which began hours after President Volodymyr Zelensky of Ukraine warned that Russia was preparing another “massive strike” on Kyiv.</description>
+      <dc:creator>Cassandra Vinograd</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 06:27:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-ukraine-attack-lkzf/02int-ukraine-attack-lkzf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
+      <media:description>Rescuers on Thursday at an apartment building in Kyiv that was damaged in overnight Russian strikes.</media:description>
+    </item>
     <item>
       <title>Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big</title>
       <link>https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html</link>
@@ -79,26 +99,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-conflicts-wfkt/01dc-trump-conflicts-wfkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump’s financial investments have vastly escalated during this second term.</media:description>
-    </item>
-    <item>
-      <title>Russia Strikes Ukraine as Explosions Rock Capital of Kyiv</title>
-      <link>https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html" rel="standout"></atom:link>
-      <description>At least 10 people were killed in the assault, which began hours after President Volodymyr Zelensky of Ukraine warned that Russia was preparing another “massive strike” on Kyiv.</description>
-      <dc:creator>Cassandra Vinograd</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 04:11:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-ukraine-attack-lkzf/02int-ukraine-attack-lkzf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
-      <media:description>Rescuers on Thursday at an apartment building in Kyiv that was damaged in overnight Russian strikes.</media:description>
     </item>
     <item>
       <title>Promising Much to Many, Johnson Loses His Grip on the House</title>
@@ -272,6 +272,27 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-01-qctm/01dc-trump-01-qctm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump arrived on a train at the Theodore Roosevelt Presidential Library in North Dakota on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Immigrant Arrests Surge to 10,000 in 5 Days as ICE Clamps Down</title>
+      <link>https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html" rel="standout"></atom:link>
+      <description>The agency has doubled its daily arrest numbers without the fanfare of last year’s large urban operations, sowing fear in immigrant communities.</description>
+      <dc:creator>Hamed Aleaziz</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 05:31:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-immig-arrests01-photo-kvmh/01dc-immig-arrests01-photo-kvmh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael M. Santiago/Getty Images</media:credit>
+      <media:description>Immigration and Customs Enforcement agents patrolling a federal court building in New York last month.</media:description>
     </item>
     <item>
       <title>Trump Administration Delivers Lucrative Win for Its Kratom Allies</title>
@@ -498,6 +519,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
     </item>
     <item>
+      <title>The World Has Failed the Uyghurs</title>
+      <link>https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html" rel="standout"></atom:link>
+      <description>If the global community can’t stop China’s atrocities against the Uyghurs, it must help us keep our culture alive in exile.</description>
+      <dc:creator>Tahir Imin</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 05:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+    </item>
+    <item>
       <title>U.S.A.I.D. Cuts Killed People. That’s the Truth.</title>
       <link>https://www.nytimes.com/2026/07/01/opinion/usaid-elon-musk-doge.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/opinion/usaid-elon-musk-doge.html</guid>
@@ -527,28 +563,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/01kristof-cplz/01kristof-cplz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saidu Bah for The New York Times</media:credit>
       <media:description>Moriba Freeman’s pregnant daughter, Yamah Freeman, in yellow, bled to death en route to a hospital.</media:description>
-    </item>
-    <item>
-      <title>Is Kidmaxxing the Ultimate Status Symbol for Ultimate Wealth?</title>
-      <link>https://www.nytimes.com/2026/07/01/opinion/children-parents-billionaires-wealth-fathers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/opinion/children-parents-billionaires-wealth-fathers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/opinion/children-parents-billionaires-wealth-fathers.html" rel="standout"></atom:link>
-      <description>What drives these men to reproduce at an industrial scale?</description>
-      <dc:creator>Anna Louie Sussman</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 09:01:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surrogate Motherhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Insemination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">In Vitro Fertilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lindberg, Greg (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
     </item>
   </channel>
 </rss>

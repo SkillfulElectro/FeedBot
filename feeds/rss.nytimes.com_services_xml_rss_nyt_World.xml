@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 15:04:33 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 15:03:38 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 16:29:45 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 16:12:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -314,6 +314,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-denmark-us-fourth-of-july-01-vmbk/02int-denmark-us-fourth-of-july-01-vmbk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Charlotte de la Fuente for The New York Times</media:credit>
       <media:description>Festival volunteers show the American flag that will be raised on July 4 despite the absence of American officials this year.</media:description>
+    </item>
+    <item>
+      <title>The Funeral of Iran’s Supreme Leader, Ali Khamenei</title>
+      <link>https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/world/middleeast/the-funeral-of-irans-supreme-leader-ali-khamenei.html" rel="standout"></atom:link>
+      <description>Iran’s new leaders are commemorating Ayatollah Ali Khamenei, killed on the first day of the U.S.-Israeli war against the country, with a funeral unlike any other in recent history.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 16:12:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04int-Iran-Funeral-Photos-btlf/04int-Iran-Funeral-Photos-btlf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>Mourners on Saturday at the Grand Mosalla mosque complex in Tehran, Iran’s capital, during Ayatollah Ali Khamenei’s funeral.</media:description>
     </item>
     <item>
       <title>The funeral comes amid fraught, sluggish U.S.-Iran peace talks.</title>
@@ -1110,24 +1126,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02ukraine-russia-assess-pvfl/02ukraine-russia-assess-pvfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Danylo Antoniuk/Associated Press</media:credit>
       <media:description>A resident of Kyiv, Ukraine, inside her damaged apartment after a Russian attack on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Vatican Excommunicates Society of St. Pius X, in First Major Crisis for Pope Leo</title>
-      <link>https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html" rel="standout"></atom:link>
-      <description>The move against the Society of St. Pius X followed its defiance of Pope Leo XIV by consecrating new bishops against his wishes.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 20:41:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Society of Saint Pius X</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Excommunication</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-vatican-excommunication-01-twkf/02int-vatican-excommunication-01-twkf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Baz Ratner/Associated Press</media:credit>
-      <media:description>The bishops newly consecrated by the Society of St. Pius X, in defiance of the Vatican, in Écône, Switzerland, on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

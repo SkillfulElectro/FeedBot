@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 05 Jul 2026 17:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:32:30 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Clarity and Congress's summer break: State of Crypto ]]></title>
+      <link>https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/976ce7e305132fada910cfe9bc3b0d8254ad588b-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">db3162ef-e9ba-4563-8282-f39449fc1d09</guid>
+      <pubDate>Sun, 05 Jul 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out. ]]></description>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Newsletters]]></category>
+      <category domain="tag"><![CDATA[State of Crypto]]></category>
+      <category domain="tag"><![CDATA[Clarity Act]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Americans traded $571 million on Polymarket politic bets despite U.S. ban]]></title>
       <link>https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban</link>
@@ -373,22 +389,6 @@
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Live News]]></category>
       <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[Binance says MiCA should be judged by who it licenses, not who it excludes]]></title>
-      <link>https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/791e2ac6e07aa6b1a6244c99813a0a0a421ab60e-1630x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">8916ca3d-7ae3-49c0-83fb-2c5c78717d2e</guid>
-      <pubDate>Fri, 03 Jul 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Europe head Gillian Lynch said Binance met Greece's licensing requirements and that the company remains committed to the EU, despite withdrawing its MiCA application days before the July 1 deadline.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Binance]]></category>
-      <category domain="tag"><![CDATA[MiCA]]></category>
-      <category domain="tag"><![CDATA[Regulation]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

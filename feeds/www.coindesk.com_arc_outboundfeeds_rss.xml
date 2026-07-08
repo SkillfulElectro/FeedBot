@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 08 Jul 2026 05:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 09:02:35 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -19,13 +19,28 @@
       <link>https://www.coindesk.com/</link>
     </image>
     <item>
-      <title><![CDATA[Live markets: Japan's collapsing yen is pushing companies into bitcoin and XRP]]></title>
+      <title><![CDATA[XRP Ledger’s new upgrade is here. But not everyone’s on board yet]]></title>
+      <link>https://www.coindesk.com/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6279f97f-ae5c-416f-aaa3-96c6a44bc2c7</guid>
+      <pubDate>Wed, 08 Jul 2026 08:40:22 +0000</pubDate>
+      <description><![CDATA[The new software leads among the network's validators, yet by node count it sits behind the older v3.1.3, and the security amendment bundled with it remains a separate, slower vote. The upgrade needs 80% of the trusted validator list to activate.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[XRP News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Live markets: Bitcoin drops as yen, Iran ceasefire collapse]]></title>
       <link>https://www.coindesk.com/tech/2026/07/08/live-markets-japan-s-collapsing-yen-is-pushing-companies-into-bitcoin-and-xrp</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9a12f071722174853c9625a894931ff37321e344-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">ec710b78-4efd-48e4-b0eb-6063af60b907</guid>
       <pubDate>Wed, 08 Jul 2026 05:29:16 +0000</pubDate>
       <description><![CDATA[Hedge funds have turned the most bearish on the yen since 2007, boosting bets on further losses to nearly 138,000 contracts as of June 30.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>Omkar Godbole</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
@@ -33,7 +48,7 @@
       <category domain="https://www.coindesk.com/">live_news</category>
     </item>
     <item>
-      <title><![CDATA[Bitcoin under pressure as U.S.-Iran escalation lifts oil]]></title>
+      <title><![CDATA[Bitcoin under pressure as Trump says Iran ceasefire is over]]></title>
       <link>https://www.coindesk.com/markets/2026/07/08/bitcoin-under-pressure-as-u-s-iran-escalation-lifts-oil</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e183c12b5e1dbaf0e0175a58c3a9425adb7b3de5-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">05516772-47a1-40eb-ae70-d81288401127</guid>
@@ -364,21 +379,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[MicroStrategy]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution]]></title>
-      <link>https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1a56d3feac18afb1ed9b95981a5bb5544300776f-3641x2427.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">4bc0a589-f4d9-405d-a5b3-fb5b470921a1</guid>
-      <pubDate>Mon, 06 Jul 2026 15:34:33 +0000</pubDate>
-      <description><![CDATA[The "Lean Ethereum" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.]]></description>
-      <dc:creator>Margaux Nijkerk</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Ethereum News]]></category>
-      <category domain="tag"><![CDATA[Vitalik Buterin]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

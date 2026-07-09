@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 09 Jul 2026 15:07:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:58:32 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[AI contracts, not bitcoin, now drive miner valuations, and Cipher and TeraWulf look cheap, says analyst]]></title>
+      <link>https://www.coindesk.com/markets/2026/07/09/cipher-terawulf-among-ai-infrastructure-stocks-trading-below-contract-value-compass-point-argues</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b3684afc71106d0b71d93f3b587e4d86a1612d4e-5700x3783.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">92a74e8c-1507-452f-a272-9e1b0edcb783</guid>
+      <pubDate>Thu, 09 Jul 2026 15:53:42 +0000</pubDate>
+      <description><![CDATA[Compass Point analysts Michael Donovan and Ed Engel said markets are giving little credit to future AI data center pipelines despite billions of dollars in signed leases.]]></description>
+      <dc:creator>Helene Braun</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto]]></title>
       <link>https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto</link>
@@ -243,6 +256,7 @@
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>Omkar Godbole</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -378,22 +392,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[BNB Chain is building a new layer-1 for high-frequency trading and AI agents]]></title>
-      <link>https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c7b0140bc11a7f46205bb4b2e99839d42cd2acfa-1920x1600.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">341ce447-5c20-49bc-8d66-354c8995260b</guid>
-      <pubDate>Wed, 08 Jul 2026 14:01:44 +0000</pubDate>
-      <description><![CDATA[The network aims to process over 100,000 transactions per second by streaming them directly, eliminating public queues to make trades faster and more secure.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/web3"><![CDATA[Web3]]></category>
-      <category domain="tag"><![CDATA[Web3]]></category>
-      <category domain="tag"><![CDATA[Crypto News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

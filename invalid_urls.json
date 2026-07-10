@@ -16,5 +16,6 @@
   "http://rss.dw-world.de/rdf/rss-en-all": "HTTPConnectionPool(host='rss.dw-world.de', port=80): Max retries exceeded with url: /rdf/rss-en-all (Caused by ConnectTimeoutError(<HTTPConnection(host='rss.dw-world.de', port=80) at 0x7fd31f44a300>, 'Connection to rss.dw-world.de timed out. (connect timeout=30)'))",
   "http://world.kbs.co.kr/rss/rss_news.htm?lang=e&id=In": "403 Client Error: Forbidden for url: http://world.kbs.co.kr/rss/rss_news.htm?lang=e&id=In",
   "https://cointelegraph.com/rss": "HTTPSConnectionPool(host='cointelegraph.com', port=443): Read timed out. (read timeout=30)",
-  "https://news.bitcoin.com/feed/": "HTTPSConnectionPool(host='news.bitcoin.com', port=443): Read timed out. (read timeout=30)"
+  "https://news.bitcoin.com/feed/": "HTTPSConnectionPool(host='news.bitcoin.com', port=443): Read timed out. (read timeout=30)",
+  "https://www.france24.com/en/rss": "404 Client Error: Not Found for url: https://www.france24.com/en/rss"
 }

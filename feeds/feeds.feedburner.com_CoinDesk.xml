@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 10 Jul 2026 20:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:27:39 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Meta's Chief Data Officer Says Agentic Commerce is the "Next Tier of Business"]]></title>
+      <link>https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0b55bc6f2fad31cc29bbad3b7a452e3ddd7fdf79-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="/video/alex-schultz-on-metas-future-it-might-be-the-next-tier-of-business-for-our-entire-company" type="video/*" medium="video"/>
+      <guid isPermaLink="false">43668787-f6f5-4e92-8155-ba541c96beef</guid>
+      <pubDate>Fri, 10 Jul 2026 21:26:55 +0000</pubDate>
+      <description><![CDATA[Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.]]></description>
+      <dc:creator>Sam Ewen</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-news"><![CDATA[CoinDesk News]]></category>
+      <category domain="tag"><![CDATA[Media Network Interview]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[U.S. government digital dollar set to be banned tonight under housing law's CBDC limit]]></title>
       <link>https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit</link>
@@ -374,22 +389,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
       <category domain="https://www.coindesk.com/">Opinion</category>
-    </item>
-    <item>
-      <title><![CDATA[Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus]]></title>
-      <link>https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/91da3bd63c2004a35aff872965dcd8d06becfe6d-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">c7cc48a6-c64d-43d1-82be-bfcf17c9ed42</guid>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
-      <description><![CDATA[Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Web3]]></category>
-      <category domain="tag"><![CDATA[Crypto News]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

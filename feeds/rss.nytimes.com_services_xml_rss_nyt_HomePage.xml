@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 05:36:59 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 05:00:05 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:39:18 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 09:05:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -46,7 +46,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/09/us/witnesses-houston-ice-shooting.html" rel="standout"></atom:link>
       <description>Officials say agents believed a passenger resembled one suspect, but the encounter quickly escalated into a fatal shooting.</description>
       <dc:creator>Edgar Sandoval and Hamed Aleaziz</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 03:08:33 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 06:18:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
@@ -302,9 +302,9 @@
       <link>https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html" rel="standout"></atom:link>
-      <description>The blaze broke out in Almería province in Andalusia and prompted a major operation to contain it. Heat waves across Europe this summer have raised the risk of wildfires, forecasters say.</description>
-      <dc:creator>Qasim Nauman</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 04:23:42 +0000</pubDate>
+      <description>The blaze in Andalusia prompted a major containment operation. Heat waves across Europe this summer have raised the risk of such fires, forecasters say.</description>
+      <dc:creator>Carlos Barragán and Qasim Nauman</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 08:18:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
@@ -335,44 +335,63 @@
       <media:credit>Karsten Moran for The New York Times</media:credit>
     </item>
     <item>
-      <title>The World’s Superpowers Are Scrambling for an Edge. It Makes All of Us Less Safe.</title>
-      <link>https://www.nytimes.com/2026/07/10/opinion/trade-war-economy-globalization.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/opinion/trade-war-economy-globalization.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/opinion/trade-war-economy-globalization.html" rel="standout"></atom:link>
-      <description>There’s a way for nations to avoid endless trade wars.</description>
-      <dc:creator>Pierre-Olivier Gourinchas</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 05:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Monetary Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <title>Jerrold Nadler: Penn Station Won’t Fund Itself</title>
+      <link>https://www.nytimes.com/2026/07/10/opinion/penn-station-new-york-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/opinion/penn-station-new-york-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/opinion/penn-station-new-york-trump.html" rel="standout"></atom:link>
+      <description>Penn Station needs massive fixes, but the Trump administration is going about it all wrong.</description>
+      <dc:creator>Jerrold L. Nadler</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 09:01:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hudson River Tunnels Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Byford, Andrew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuomo, Andrew M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amtrak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dulles International Airport (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of Management and Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pennsylvania Station (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
     </item>
     <item>
-      <title>Helen of Troy Is Up to Her Old Tricks</title>
-      <link>https://www.nytimes.com/2026/07/10/opinion/odyssey-movie-lupita-nyongo-nolan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/opinion/odyssey-movie-lupita-nyongo-nolan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/opinion/odyssey-movie-lupita-nyongo-nolan.html" rel="standout"></atom:link>
-      <description>She was a legendary beauty, but also so much more.</description>
-      <dc:creator>Daniel Mendelsohn</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 05:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Myths and Mythical Creatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Homer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nyong&#39;o, Lupita</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Movie)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/opinion/06mendelsohn-image/06mendelsohn-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by Sam Whitney/The New York Times</media:credit>
+      <title>The Very Good and Very Bad News on Climate</title>
+      <link>https://www.nytimes.com/2026/07/10/opinion/ezra-klein-podcast-bill-mckibben.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/opinion/ezra-klein-podcast-bill-mckibben.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/opinion/ezra-klein-podcast-bill-mckibben.html" rel="standout"></atom:link>
+      <description>Advancements in renewable energy are paving the way for a new climate politics. The environmentalist Bill McKibben articulates some of the possibilities in this new era of energy abundance.</description>
+      <dc:creator>Ezra Klein and Jack McCordick</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 09:05:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">350.org</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Third Act</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McKibben, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Here Comes the Sun (Book)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/opinion/10eks-mckibben-image/10eks-mckibben-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Trump Administration Fires Members of Independent Election Group</title>
-      <link>https://www.nytimes.com/2026/07/10/us/politics/trump-administration-fires-members-of-independent-election-group.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/us/politics/trump-administration-fires-members-of-independent-election-group.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/us/politics/trump-administration-fires-members-of-independent-election-group.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/us/politics/trump-fires-election-assistance-commission-members.html" rel="standout"></atom:link>
       <description>The firings and a resignation render the Election Assistance Commission useless. The moves come as President Trump seeks to impose control over how ballots will be counted in the midterms.</description>
       <dc:creator>Erica L. Green</dc:creator>
       <pubDate>Fri, 10 Jul 2026 04:19:08 +0000</pubDate>
@@ -383,7 +402,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Election Assistance Commission</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09dc-election-wkfl/09dc-election-wkfl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09dc-election-wkfl/09dc-election-wkfl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Chris Carlson/Associated Press</media:credit>
       <media:description>The White House confirmed that it had dismissed members of the Election Assistance Commission, a bipartisan group tasked with helping states carry out elections.</media:description>
     </item>

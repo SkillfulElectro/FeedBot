@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 11 Jul 2026 11:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 13:43:36 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,33 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin treasury company Empery Digital sold about half of its BTC stack]]></title>
+      <link>https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">91be0a4b-cfe1-4d7f-bbe0-e8798457e16d</guid>
+      <pubDate>Sat, 11 Jul 2026 12:25:05 +0000</pubDate>
+      <description><![CDATA[It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.]]></description>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[AI found an Ethereum bug that could take validators offline, but humans had to prove it]]></title>
+      <link>https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e66950b0e6ed69b66abb166d8961c9cff1c8bfb1-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">cfdbd04c-d572-4ac1-9323-04ab103ed01c</guid>
+      <pubDate>Sat, 11 Jul 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no]]></title>
       <link>https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no</link>
@@ -357,38 +384,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Ethereum's newest nonprofit wants to become Wall Street's guide to crypto]]></title>
-      <link>https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c3c673f6ba55ed0cd79499681ca46b7a8b5f7e86-5150x3427.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">d52c2c3a-75c5-4762-8633-0531cf0a4cac</guid>
-      <pubDate>Thu, 09 Jul 2026 14:58:55 +0000</pubDate>
-      <description><![CDATA[In this week's edition of The Protocol Newsletter, we’re digging into Ethereum Institutional, a new nonprofit aimed at educating financial institutions and banks about Ethereum.
-]]></description>
-      <dc:creator>Margaux Nijkerk</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Ethereum News]]></category>
-      <category domain="tag"><![CDATA[Newsletters]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Aave rolls out vaults for yield-hungry fintech investors]]></title>
-      <link>https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/36f114a53bbcdea37ae44f32f67ff528318e79c3-1280x960.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">61944078-ec34-4f34-abde-df7f120e99e4</guid>
-      <pubDate>Thu, 09 Jul 2026 13:01:38 +0000</pubDate>
-      <description><![CDATA[Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits ]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Aave]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="tag"><![CDATA[Real World Assets  ]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

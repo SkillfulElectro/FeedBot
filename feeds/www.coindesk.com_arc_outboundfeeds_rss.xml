@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 11 Jul 2026 11:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 12:26:35 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin treasury company Empery Digital sold about half of BTC stack]]></title>
+      <link>https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f4c321fb46fab8f95fc281073bbf1a2544f78eb7-2328x1492.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">91be0a4b-cfe1-4d7f-bbe0-e8798457e16d</guid>
+      <pubDate>Sat, 11 Jul 2026 12:25:05 +0000</pubDate>
+      <description><![CDATA[It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.]]></description>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no]]></title>
       <link>https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no</link>
@@ -373,22 +387,6 @@
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Ethereum News]]></category>
       <category domain="tag"><![CDATA[Newsletters]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Aave rolls out vaults for yield-hungry fintech investors]]></title>
-      <link>https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/36f114a53bbcdea37ae44f32f67ff528318e79c3-1280x960.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">61944078-ec34-4f34-abde-df7f120e99e4</guid>
-      <pubDate>Thu, 09 Jul 2026 13:01:38 +0000</pubDate>
-      <description><![CDATA[Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits ]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Aave]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="tag"><![CDATA[Real World Assets  ]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

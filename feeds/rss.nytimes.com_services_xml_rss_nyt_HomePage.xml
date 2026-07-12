@@ -3,50 +3,92 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1783857612095" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 12:00:12 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 11:53:04 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 14:01:07 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 13:48:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Senator Lindsey Graham, Republican of South Carolina, Dies at 71</title>
+      <title>Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies From ‘Sudden Illness’</title>
       <link>https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html" rel="standout"></atom:link>
-      <description>Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.</description>
+      <description>He died of “a brief and sudden illness” on Saturday evening, his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.</description>
       <dc:creator>Robert Jimison and Amelia Nierenberg</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 11:33:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <pubDate>Sun, 12 Jul 2026 13:29:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12xp-graham-lgvj/12xp-graham-lgvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
       <media:description>Senator Lindsey Graham speaking in Spartanburg, S.C., on June 30.</media:description>
     </item>
     <item>
-      <title>Tributes Pour In for Senator Lindsey Graham</title>
+      <title>Lindsey Graham Was Facing Re-election in November. What Happens Now?</title>
+      <link>https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html" rel="standout"></atom:link>
+      <description>South Carolina law suggests his death triggers an Aug. 11 special Republican primary election, and the state’s governor can appoint a replacement to serve out the rest of his term, through early January.</description>
+      <dc:creator>Bayliss Wagner</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 12:54:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMaster, Henry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12pol-graham-seat2-tqmv/12pol-graham-seat2-tqmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Senator Lindsey Graham at the Capitol in Washington in January.</media:description>
+    </item>
+    <item>
+      <title>Tim Scott and Other South Carolina Leaders Mourn Lindsey Graham</title>
+      <link>https://www.nytimes.com/2026/07/12/us/south-carolina-lindsey-graham-reaction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/south-carolina-lindsey-graham-reaction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/us/south-carolina-lindsey-graham-reaction.html" rel="standout"></atom:link>
+      <description>The senator had sometimes struggled to maintain support from his party’s most right-wing voters. But leaders paid tribute to his wit and stalwart support of South Carolina.</description>
+      <dc:creator>Emily Cochrane and Eduardo Medina</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 13:48:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12dc-graham-reax-vtmk/12dc-graham-reax-vtmk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Senator Lindsey Graham in January.</media:description>
+    </item>
+    <item>
+      <title>World Leaders Remember Senator Lindsey Graham</title>
       <link>https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html" rel="standout"></atom:link>
       <description>Mr. Graham’s sudden death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy for two decades.</description>
       <dc:creator>Ali Watkins</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 11:16:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <pubDate>Sun, 12 Jul 2026 13:12:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/11/21/multimedia/12xp-graham-react1/21dc-cong-print-qmlp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>Senator Lindsey Graham last year.</media:description>
@@ -78,7 +120,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html" rel="standout"></atom:link>
       <description>Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.</description>
       <dc:creator>Jane Bradley, Michael Schwirtz and Adam Goldman</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 04:01:11 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 12:14:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GRU (Russia)</category>
@@ -133,15 +175,21 @@
       <atom:link href="https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html" rel="standout"></atom:link>
       <description>The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.</description>
       <dc:creator>Devlin Barrett, Glenn Thrush and Maggie Haberman</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 04:08:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
+      <pubDate>Sun, 12 Jul 2026 04:08:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patel, Kashyap</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11dc-trump-patel-qjcz/11dc-trump-patel-qjcz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross/The New York Times</media:credit>
       <media:description>Kash Patel’s role in the leak investigation reflects a further dismantling of the wall that had separated the White House and the F.B.I.</media:description>
@@ -259,7 +307,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html" rel="standout"></atom:link>
       <description>Something is wrong if vice is all them and virtue is all you.</description>
       <dc:creator>David French</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 10:00:32 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 13:15:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
@@ -280,21 +328,15 @@
       <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
-      <title>We’re Living in a Tick Nightmare. It’s Time to Go to War.</title>
-      <link>https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html" rel="standout"></atom:link>
-      <description>With ticks, we’ve barely begun to fight back. The longer we wait, the more territory they will claim across both our geographic and psychic maps.</description>
-      <dc:creator>Jonathan Mingle</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 14:36:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lyme Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ticks (Insects)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
+      <title>Serena Williams Is Back. Thank Goodness.</title>
+      <link>https://www.nytimes.com/2026/07/12/opinion/serena-williams-returns-tennis-wimbledon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/opinion/serena-williams-returns-tennis-wimbledon.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/opinion/serena-williams-returns-tennis-wimbledon.html" rel="standout"></atom:link>
+      <description>Until Serena Williams announced her return to tennis at 44, I never realized how much I needed her.</description>
+      <dc:creator>Lizzy Goodman</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 05:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
     </item>
     <item>
       <title>Cold Plunging</title>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 19:39:10 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 19:32:18 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 20:49:18 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 20:42:12 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,10 +21,9 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz" rel="standout"></atom:link>
       <description>A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 19:30:38 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-promo-0300ET/12mideast-live-promo-0300ET-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Elke Scholiers/Getty Images</media:credit>
-      <media:description>Oil tankers and cargo vessels anchored off the coast of Oman in June.</media:description>
+      <pubDate>Sun, 12 Jul 2026 20:42:12 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-400-lfqj/12mideast-400-lfqj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>-/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes</title>
@@ -40,6 +39,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-promo-pjft/12int-spain-fires-promo-pjft-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
     </item>
@@ -86,13 +86,35 @@
       <media:description>President Trump at Joint Base Andrews on Thursday. He recently said the memorandum of understanding reached with Iran was “over.”</media:description>
     </item>
     <item>
+      <title>Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor</title>
+      <link>https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html" rel="standout"></atom:link>
+      <description>President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 14:51:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Svyrydenko, Yulia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Budanov, Kyrylo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zaluzhny, Valery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Yuliia Svyrydenko, prime minister of Ukraine, at her office in Kyiv, Ukraine, in September.</media:description>
+    </item>
+    <item>
       <title>Lindsey Graham Championed Israel, Even as Wars Eroded American Support</title>
       <link>https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html" rel="standout"></atom:link>
       <description>The Republican senator from South Carolina had an intense interest in the Middle East, and was a staunch supporter of U.S. strikes on Iran.</description>
       <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 17:11:00 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 19:42:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
@@ -111,9 +133,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12mideast-live-graham-israel-01-kjlh/12mideast-live-graham-israel-01-kjlh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>Senator Lindsey Graham, in 2024 in Washington, leading a Republican news conference to condemn the Biden administration’s decision to pause the delivery of bombs to Israel.</media:description>
+    </item>
+    <item>
+      <title>Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74</title>
+      <link>https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html" rel="standout"></atom:link>
+      <description>Under Sheikh Hamad, the tiny nation of Qatar developed immense natural gas wealth and cultivated influence far beyond its borders.</description>
+      <dc:creator>Vivian Nereim</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 18:11:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thani, Hamad bin Khalifa al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/12/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Feferberg/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Sheikh Hamad bin Khalifa Al Thani is often described as the founding father of modern Qatar.</media:description>
     </item>
     <item>
       <title>How Putin Turned Japan Into a Den of Spies</title>
@@ -213,6 +252,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-china-typhoon-hwtk/12int-china-typhoon-hwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Go Nakamura/Reuters</media:credit>
       <media:description>The coastal village of Dongsha, in the Zhejiang province of China, was hit by Typhoon Bavi on Sunday.</media:description>
@@ -255,79 +295,6 @@
       <media:description>Jude Bellingham scoring his second goal of the match to give England an extra-time lead against Norway during Saturday’s quarterfinal.</media:description>
     </item>
     <item>
-      <title>A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.</title>
-      <link>https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html" rel="standout"></atom:link>
-      <description>Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.</description>
-      <dc:creator>Carlos Barragán and Lynsey Chutel</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 14:46:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11int-spain-fire-fhqc/11int-spain-fire-fhqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
-      <media:description>A wildfire moving toward residential buildings in El Pocico, Spain, on Friday.</media:description>
-    </item>
-    <item>
-      <title>‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive</title>
-      <link>https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html" rel="standout"></atom:link>
-      <description>For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.</description>
-      <dc:creator>Vivian Wang</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 04:01:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kunshan (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/00int-china-migrant-01-wlmv/00int-china-migrant-01-wlmv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vivian Wang/The New York Times</media:credit>
-      <media:description>Men looking for daily gigs in Kunshan, the heart of China’s manufacturing industry. As the country pivots toward automation, lower-skilled workers are finding fewer steady opportunities.</media:description>
-    </item>
-    <item>
-      <title>Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74</title>
-      <link>https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html" rel="standout"></atom:link>
-      <description>Under Sheikh Hamad, the tiny nation of Qatar developed immense natural gas wealth and cultivated influence far beyond its borders.</description>
-      <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 18:11:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thani, Hamad bin Khalifa al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/12/world/12int-qatar-obit-sub-01/12int-qatar-obit-sub-01-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Feferberg/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Sheikh Hamad bin Khalifa Al Thani is often described as the founding father of modern Qatar.</media:description>
-    </item>
-    <item>
-      <title>Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor</title>
-      <link>https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 14:51:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Svyrydenko, Yuliia</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-ukraine-leadership-01-jzqf/12int-ukraine-leadership-01-jzqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-      <media:description>Yuliia Svyrydenko, prime minister of Ukraine, at her office in Kyiv, Ukraine, in September.</media:description>
-    </item>
-    <item>
       <title>Here’s a look at the heavy strikes in recent days.</title>
       <link>https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes</guid>
@@ -363,7 +330,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Leo Sands, Sanam Mahoozi, Aaron Boxerman, Erica L. Green and Eric Schmitt</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 19:30:36 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 20:42:10 +0000</pubDate>
     </item>
     <item>
       <title>Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.</title>
@@ -412,6 +379,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Street Fairs and Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/12xp-torontoshooting-vtcw/12xp-torontoshooting-vtcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cole Burston/Reuters</media:credit>
       <media:description>Police officers stand guard as emergency workers respond at the site of a deadly shooting at a salsa-themed street festival in Toronto on Saturday.</media:description>
@@ -454,6 +422,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
     </item>
     <item>
+      <title>A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.</title>
+      <link>https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html" rel="standout"></atom:link>
+      <description>Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.</description>
+      <dc:creator>Carlos Barragán and Lynsey Chutel</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 14:46:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11int-spain-fire-fhqc/11int-spain-fire-fhqc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
+      <media:description>A wildfire moving toward residential buildings in El Pocico, Spain, on Friday.</media:description>
+    </item>
+    <item>
       <title>15 Killed as Speedboat Capsizes in Vietnam</title>
       <link>https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html</guid>
@@ -469,6 +457,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11xp-vietnam-pmfg/11xp-vietnam-pmfg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Rescue operations after a tourist vessel capsized off Phu Quoc island in southern Vietnam on Saturday.</media:description>
@@ -610,6 +599,28 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
       <media:description>An Ebola outbreak has killed hundreds of people in the Democratic Republic of Congo this year.</media:description>
+    </item>
+    <item>
+      <title>‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive</title>
+      <link>https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html" rel="standout"></atom:link>
+      <description>For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.</description>
+      <dc:creator>Vivian Wang</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kunshan (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/00int-china-migrant-01-wlmv/00int-china-migrant-01-wlmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vivian Wang/The New York Times</media:credit>
+      <media:description>Men looking for daily gigs in Kunshan, the heart of China’s manufacturing industry. As the country pivots toward automation, lower-skilled workers are finding fewer steady opportunities.</media:description>
     </item>
     <item>
       <title>After Being Delayed by Trump, a Canada-U.S. Bridge Is Set to Open</title>

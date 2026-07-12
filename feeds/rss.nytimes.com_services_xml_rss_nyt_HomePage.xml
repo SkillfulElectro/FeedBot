@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 03:43:21 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 03:32:33 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 06:32:58 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 05:00:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html" rel="standout"></atom:link>
       <description>The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.</description>
       <dc:creator>Devlin Barrett, Glenn Thrush and Maggie Haberman</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 03:14:47 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 04:08:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
@@ -83,6 +83,43 @@
       <media:description>President Trump at the White House on Monday, the day he posted about the children in Minnesota. </media:description>
     </item>
     <item>
+      <title>How Putin Turned Japan Into a Den of Spies</title>
+      <link>https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html" rel="standout"></atom:link>
+      <description>Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.</description>
+      <dc:creator>Jane Bradley, Michael Schwirtz and Adam Goldman</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 04:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GRU (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aeroflot Russian Airlines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/00int-russia-spies-03-hqjb/00int-russia-spies-03-hqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>The Aeroflot office in Toranomon Kotohira Tower in Tokyo. Japan’s weak espionage laws and flourishing high-tech industry have made it a crucial base for the Russian war effort.</media:description>
+    </item>
+    <item>
+      <title>Inside the Secret Factory That Supplies Ukraine’s War Drones</title>
+      <link>https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html" rel="standout"></atom:link>
+      <description>With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.</description>
+      <dc:creator>Vivienne Walt</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 12:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11DB-DRONE-FACTORY-01-cvpl/11DB-DRONE-FACTORY-01-cvpl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Patrick Junker for The New York Times</media:credit>
+      <media:description>Helsing SE, which makes autonomous jets and drones, is the most valuable A.I. defense start-up in Europe.</media:description>
+    </item>
+    <item>
       <title>Videos Shed Light on Pursuit Before ICE Killing in Houston</title>
       <link>https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html</guid>
@@ -142,31 +179,6 @@
       <media:description>A makeshift memorial for Lorenzo Salgado Araujo near the site where he was killed in Houston.</media:description>
     </item>
     <item>
-      <title>Black Hawk Helicopters Rescue Hundreds From Summer Camp During Floods</title>
-      <link>https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html" rel="standout"></atom:link>
-      <description>The National Guard evacuated campers after flooding in Missouri that reminded some families of the devastating floods at Camp Mystic in central Texas last year.</description>
-      <dc:creator>Pooja Salhotra and Amy Graff</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 00:04:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer Camps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Camp Mystic (Hunt, Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kehoe, Mike (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
-      <media:content height="1626" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11nat-camper-rescue-tzhf/11nat-camper-rescue-tzhf-mediumSquareAt3X.jpg" width="1626"></media:content>
-      <media:credit>KTVI, via Associated Press</media:credit>
-      <media:description>Floodwaters from a cluster of thunderstorms that dropped a foot of water in some parts of Missouri.</media:description>
-    </item>
-    <item>
       <title>Mick Jagger Knows He May Have Played His Last Rolling Stones Show</title>
       <link>https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html</guid>
@@ -192,47 +204,38 @@
       <media:credit>Philip Montgomery for The New York Times</media:credit>
     </item>
     <item>
-      <title>We Returned From China. We Realized Our Century’s Biggest Challenge.</title>
-      <link>https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html" rel="standout"></atom:link>
-      <description>A.I. demands a populist approach that treats the technology as a public project.</description>
-      <dc:creator>Eric Schmidt and Selina Xu</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 16:45:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <title>The World Is Cutting Ties With America. It’s Already Costing Us.</title>
+      <link>https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html" rel="standout"></atom:link>
+      <description>When other countries cut ties, Americans pay.</description>
+      <dc:creator>Jon Finer</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 05:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anger (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Populism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmidt, Eric E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/11finer-qfgt/11finer-qfgt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Naila Ruechel for The New York Times</media:credit>
     </item>
     <item>
-      <title>In Sudan, a Preventable Atrocity</title>
-      <link>https://www.nytimes.com/2026/07/11/opinion/sudan-atrocity-africa-rsf.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/opinion/sudan-atrocity-africa-rsf.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/opinion/sudan-atrocity-africa-rsf.html" rel="standout"></atom:link>
-      <description>Hundreds of thousands of people in Sudan are bracing for their city to be overrun by a militia notorious for committing atrocities.</description>
-      <dc:creator>Nicholas Kristof</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 11:08:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rapid Support Forces (Sudan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11kristof-lcwb/11kristof-lcwb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Dan Kitwood/Getty Images</media:credit>
+      <title>Serena Williams Is Back. Thank Goodness.</title>
+      <link>https://www.nytimes.com/2026/07/12/opinion/serena-williams-returns-tennis-wimbledon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/opinion/serena-williams-returns-tennis-wimbledon.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/opinion/serena-williams-returns-tennis-wimbledon.html" rel="standout"></atom:link>
+      <description>Until Serena Williams announced her return to tennis at 44, I never realized how much I needed her.</description>
+      <dc:creator>Lizzy Goodman</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 05:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Serena</category>
     </item>
     <item>
       <title>Toronto Police Search For Active Shooter After 2 Killed at Street Festival</title>

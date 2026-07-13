@@ -3,102 +3,55 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?mc-rss-cache-bypass=2026071304" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 13:25:26 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 13:21:23 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:03:51 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 16:01:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Inside Israel’s Secret Operation to Cultivate Ahmadinejad</title>
-      <link>https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html" rel="standout"></atom:link>
-      <description>The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to an Israeli safe house in the early days of the war. But the plan fell apart.</description>
-      <dc:creator>Mark Mazzetti, Julian E. Barnes, Farnaz Fassihi and Ronen Bergman</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 12:15:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mossad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadinejad, Mahmoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnea, David</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Javanfekr, Ali Akbar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khatami, Mohammad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orban, Viktor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Budapest (Hungary)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guatemala</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hungary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/00dc-Ahmadinejad-01-kjvh/00dc-Ahmadinejad-01-kjvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>Mahmoud Ahmadinejad, Iran’s former leader, was known for accelerating Iran’s nuclear program and his anti-Israel views.</media:description>
-    </item>
-    <item>
-      <title>Oil Prices Surge After Iran and U.S. Trade Strikes</title>
-      <link>https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html" rel="standout"></atom:link>
-      <description>The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.</description>
-      <dc:creator>Jason Karaian and Lisa Friedman</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 12:59:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <title>Will Oil Prices Soar as the U.S.-Iran Truce Frays? The Answer Lies With China.</title>
+      <link>https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/business/energy-environment/oil-prices-iran-china.html" rel="standout"></atom:link>
+      <description>For decades, OPEC influenced the market by how much oil it produced. But China, the largest importer, is demonstrating its remarkable power over prices.</description>
+      <dc:creator>Rebecca F. Elliott and Lisa Friedman</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 14:47:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Energy Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of the Petroleum Exporting Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12biz-hormuz-markets-1-vmkw/12biz-hormuz-markets-1-vmkw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>Ships at the Strait of Hormuz on Sunday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13Biz-Oil-China-kmwp/13Biz-Oil-China-kmwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A tanker at a crude oil terminal in Qingdao, China. Typically the world’s largest oil importer, China slashed purchases this spring.</media:description>
     </item>
     <item>
-      <title>Lindsey Graham’s Unexpected Death, and How Marco Rubio Is Running Venezuela</title>
-      <link>https://www.nytimes.com/2026/07/13/podcasts/the-headlines/lindsey-graham-death-marco-rubio-venezuela-sam-neill.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/podcasts/the-headlines/lindsey-graham-death-marco-rubio-venezuela-sam-neill.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/podcasts/the-headlines/lindsey-graham-death-marco-rubio-venezuela-sam-neill.html" rel="standout"></atom:link>
-      <description>Plus, Sam Neill of “Jurassic Park” fame dies at 78.</description>
-      <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart and Carl Hulse</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 10:00:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neill, Sam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <title>Iranian Hard-Liners Threaten Trump as U.S.-Iran Strikes Continue</title>
+      <link>https://www.nytimes.com/2026/07/13/world/middleeast/iran-hard-liners-threats-trump-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/middleeast/iran-hard-liners-threats-trump-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/world/middleeast/iran-hard-liners-threats-trump-us.html" rel="standout"></atom:link>
+      <description>Some Iranians are calling for revenge against President Trump and Prime Minister Benjamin Netanyahu of Israel for the February killing the country’s supreme leader.</description>
+      <dc:creator>Lara Jakes</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 15:31:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Republic of Iran Broadcaster</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/13-theheadlines-graham/12xp-graham-lgvj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Will Crooks for The New York Times</media:credit>
-      <media:description>Senator Lindsey Graham was a onetime opponent turned stalwart ally of President Trump who was a forceful supporter of an interventionist U.S. foreign policy.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13mideast-live-Iran-responses-jqck/13mideast-live-Iran-responses-jqck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Ayatollah Ali Khamenei’s casket along with other family members during the funeral procession in Tehran last week.</media:description>
     </item>
     <item>
       <title>Mercurial and Magnetic, Lindsey Graham Was a Force in the Senate</title>
@@ -128,30 +81,22 @@
       <media:description>Senator Lindsey Graham during a bill signing in the Oval Office in February. He once called Donald J. Trump a “demagogue,” but fully ingratiated himself after Mr. Trump became president.</media:description>
     </item>
     <item>
-      <title>What We Know About Lindsey Graham’s Death</title>
-      <link>https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html" rel="standout"></atom:link>
-      <description>Senator Lindsey Graham died on Saturday night, a day after returning from Ukraine and four months before he was to face re-election.</description>
-      <dc:creator>Olivia Diaz</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 00:10:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Russo-Ukrainian War: The Return of History (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <title>What Is an Aortic Dissection?</title>
+      <link>https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html" rel="standout"></atom:link>
+      <description>The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the heart,” one expert said.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 15:24:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMaster, Henry</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12dc-graham-wwk-cpwk/12dc-graham-wwk-cpwk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Will Crooks for The New York Times</media:credit>
-      <media:description>Senator Lindsey Graham during an appearance at the BMW manufacturing facility in Spartanburg, S.C., last month.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aorta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12SCI-TEAR-tjlq/12SCI-TEAR-tjlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+      <media:description>Senator Lindsey Graham speaking to reporters on Capitol Hill last year. He died on Saturday.</media:description>
     </item>
     <item>
       <title>Lindsey Graham Had a Complicated Relationship With Black Voters</title>
@@ -175,122 +120,29 @@
       <media:description>Senator Lindsey Graham won only 6 percent of Black votes in 2020, according to exit polls. More recently, about 10 percent of Black voters said they approved of how he was handling his job as senator, according to a May Citadel poll.</media:description>
     </item>
     <item>
-      <title>Japan Builds Intelligence Agency It Hasn’t Had Since World War II</title>
-      <link>https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html" rel="standout"></atom:link>
-      <description>Facing threats from Russia and China, Prime Minister Sanae Takaichi is  turning to help from Western allies in forming a centralized agency.</description>
-      <dc:creator>Javier C. Hernández</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 12:57:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/00int-japan-intelligence-phqg/00int-japan-intelligence-phqg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Isabel Infantes</media:credit>
-      <media:description>Prime Minister Sanae Takaichi at the Group of 7 summit in France last month. Ms. Takaichi wants Japan to do more to protect state secrets and vital technologies and more aggressively guard against foreign influence operations.</media:description>
-    </item>
-    <item>
-      <title>How Putin Turned Japan Into a Den of Spies</title>
-      <link>https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html" rel="standout"></atom:link>
-      <description>Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.</description>
-      <dc:creator>Jane Bradley, Michael Schwirtz and Adam Goldman</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 12:14:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GRU (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aeroflot Russian Airlines</category>
+      <title>The Next Phase in Ukraine’s War With Russia: The Battle for Minds</title>
+      <link>https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/world/europe/ukraine-war-russia-cognitive-warfare.html" rel="standout"></atom:link>
+      <description>Ukrainians, already drone innovators, are turning their focus to psychological operations aimed at undercutting Russian support for the war.</description>
+      <dc:creator>Carlotta Gall and Oleksandr Chubko</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 09:02:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhadan, Serhiy (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/00int-russia-spies-03-hqjb/00int-russia-spies-03-hqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chang W. Lee/The New York Times</media:credit>
-      <media:description>The Aeroflot office in Toranomon Kotohira Tower in Tokyo. Japan’s weak espionage laws and flourishing high-tech industry have made it a crucial base for the Russian war effort.</media:description>
-    </item>
-    <item>
-      <title>Maine Democrats to Chuck Schumer: Stay Out of Our Senate Race</title>
-      <link>https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/maine-democrats-schumer-stay-out-senate-race.html" rel="standout"></atom:link>
-      <description>Local Democrats are warning the top Senate Democrat to keep away as they replace Graham Platner, and the candidates are giving his leadership in Washington low marks.</description>
-      <dc:creator>Tim Balk</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 09:02:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12pol-maine-schumer-tbhl/12pol-maine-schumer-tbhl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nathan Howard for The New York Times</media:credit>
-      <media:description>Many Democrats in Maine don’t want Senator Chuck Schumer of New York to be involved as they pick a replacement Senate nominee. </media:description>
-    </item>
-    <item>
-      <title>Civics Groups Are at Odds With Mamdani Over Push for Open Primaries</title>
-      <link>https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/nyregion/open-primaries-ny-bloomberg-mamdani.html" rel="standout"></atom:link>
-      <description>If a new effort to persuade voters to change New York City’s closed primary system gains steam, a potential showdown between its backers and the mayor awaits.</description>
-      <dc:creator>Sally Goldenberg and Jeffery C. Mays</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 13:21:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bloomberg, Emma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third-Party Politics (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Charter Revision Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13met-open-primaries-01-vbhp/13met-open-primaries-01-vbhp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani has defended New York’s current closed primary system, saying that recent election results have shown increased voter participation.</media:description>
-    </item>
-    <item>
-      <title>‘We’re Fighting Satan’: The War to Save Bees From a Hornet Invasion</title>
-      <link>https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html" rel="standout"></atom:link>
-      <description>As yellow-legged hornets spread through South Carolina’s Lowcountry region, threatening the local honey crop, a state team of bee defenders is racing to the rescue.</description>
-      <dc:creator>Jack Tamisiea and Sean Rayford</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 09:02:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hornets (Insects)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pest Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <media:content height="1051" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/SCI-CAROLINAHORNETS-stillpromo/SCI-CAROLINAHORNETS-stillpromo-mediumSquareAt3X.jpg" width="1051"></media:content>
-      <media:credit>Sean Rayford for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Sam Neill, New Zealand Actor Known for ‘Jurassic Park,’ Dies at 78</title>
-      <link>https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html" rel="standout"></atom:link>
-      <description>He appeared in more than 150 productions over a five-decade career but was perhaps best known for his star turn in the “Jurassic Park” series.</description>
-      <dc:creator>Natasha Frost</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 13:10:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neill, Sam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jurassic Park (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Piano (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">My Brilliant Career (Movie)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/world/12obit-neill-001/12obit-neill-001-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jon Kopaloff/Getty Images</media:credit>
-      <media:description>Sam Neill in 2024. He combined a credible Everyman quality with rugged good looks.</media:description>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/world/X0int-ukraine-cognitive-warfare-top/X0int-ukraine-cognitive-warfare-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Volodymyr Tarasov/Ukrinform, via Sipa USA, via Reuters</media:credit>
+      <media:description>Maria Berlinska, who is revered in Ukraine as a main driver behind the use of drones in the war there, in Kyiv, the capital, in November.</media:description>
     </item>
     <item>
       <title>A Robot Army Remakes Ground Warfare in Ukraine</title>
@@ -310,41 +162,153 @@
       <media:description>Training with an unmanned vehicle, in the Donbas region of eastern Ukraine, in 2025. Battalions of ground robots now conduct thousands of missions every month.&#xA;&#xA;&#xA;</media:description>
     </item>
     <item>
-      <title>There’s an Injury Epidemic in Pro Sports. There’s Also a Recovery Revolution.</title>
-      <link>https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html" rel="standout"></atom:link>
-      <description>Athletes are pushing their bodies to astonishing feats, knowing that medical advances can heal them quickly.</description>
-      <dc:creator>Devin Gordon</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 09:00:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <title>‘We’re Fighting Satan’: The War to Save Bees From a Hornet Invasion</title>
+      <link>https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html" rel="standout"></atom:link>
+      <description>As yellow-legged hornets spread through South Carolina’s Lowcountry region, threatening the local honey crop, a state team of bee defenders is racing to the rescue.</description>
+      <dc:creator>Jack Tamisiea and Sean Rayford</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 15:26:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hornets (Insects)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pest Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <media:content height="1051" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/SCI-CAROLINAHORNETS-stillpromo/SCI-CAROLINAHORNETS-stillpromo-mediumSquareAt3X.jpg" width="1051"></media:content>
+      <media:credit>Sean Rayford for The New York Times</media:credit>
     </item>
     <item>
-      <title>With Threats Rising, Supreme Court Asks Congress to Increase Security Funds</title>
-      <link>https://www.nytimes.com/2026/07/13/us/politics/supreme-court-security-budget-testimony.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/supreme-court-security-budget-testimony.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/supreme-court-security-budget-testimony.html" rel="standout"></atom:link>
-      <description>Justices Amy Coney Barrett and Elena Kagan are scheduled to make a rare appearance at the Capitol to testify about the court’s more than $200 million request.</description>
-      <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 09:02:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Appropriations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marshals Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barrett, Amy Coney</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagan, Elena</category>
-      <media:content height="1461" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/00dc-scouts-security-ztgf/00dc-scouts-security-ztgf-mediumSquareAt3X-v2.jpg" width="1459"></media:content>
-      <media:credit>Anna Rose Layden for The New York Times</media:credit>
-      <media:description>Police outside the Supreme Court in Washington earlier this year.</media:description>
+      <title>How a Teacher Revived Backyard Baseball</title>
+      <link>https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html" rel="standout"></atom:link>
+      <description>Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.</description>
+      <dc:creator>Alessandra Schade</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 16:01:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Backyard Baseball (Video Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Nineties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Highland Park (Ill)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13ST-BACKYARD-BASEBALL-portraits-01-lcvj/13ST-BACKYARD-BASEBALL-portraits-01-lcvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Akilah Townsend for The New York Times</media:credit>
+      <media:description>“I had blind confidence,” Lindsay Barnett said, describing her mind-set at the start of her quest.</media:description>
+    </item>
+    <item>
+      <title>Sam Neill, New Zealand Actor Known for ‘Jurassic Park,’ Dies at 78</title>
+      <link>https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html" rel="standout"></atom:link>
+      <description>He appeared in more than 150 productions over a five-decade career but was perhaps best known for his star turn in the “Jurassic Park” series.</description>
+      <dc:creator>Natasha Frost</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 13:28:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neill, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jurassic Park (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Piano (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">My Brilliant Career (Movie)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/world/12obit-neill-001/12obit-neill-001-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jon Kopaloff/Getty Images</media:credit>
+      <media:description>Sam Neill in 2024. He combined a credible Everyman quality with rugged good looks.</media:description>
+    </item>
+    <item>
+      <title>Fire in Bangkok Bar Was a Death Trap With Inaccessible Exits and Flammable Foam</title>
+      <link>https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/world/asia/bangkok-thailand-pub-fire.html" rel="standout"></atom:link>
+      <description>Huge flames tore out of the entrance to the venue, which one investigator said had used inappropriate material for soundproofing. More than two dozen people died.</description>
+      <dc:creator>Kittiphum Sringammuang and Verena Hölzl</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 13:58:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13int-thailand-fire-01-tckj/13int-thailand-fire-01-tckj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chanakarn Laosarakham/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Emergency workers moved the body of a victim into an ambulance on Monday after a fire at a bar in Bangkok.</media:description>
+    </item>
+    <item>
+      <title>California Blocked an Oil Pipeline in Santa Barbara. Trump Forced It Open.</title>
+      <link>https://www.nytimes.com/2026/07/13/us/santa-barbara-california-oil-pipeline.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/santa-barbara-california-oil-pipeline.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/us/santa-barbara-california-oil-pipeline.html" rel="standout"></atom:link>
+      <description>The reopening of the pipeline has made residents anxious in a region prized for its gorgeous beaches and ocean views.</description>
+      <dc:creator>Soumya Karlamangla</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 14:21:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Barbara (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil Spills</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Production Act</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08nat-santa-barbara-kmpg/08nat-santa-barbara-kmpg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ariana Drehsler for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming</title>
+      <link>https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html" rel="standout"></atom:link>
+      <description>Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 15:00:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mercedes-Benz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Savannah (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bojangles of America Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buc-ee&#39;s Ltd</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13biz-ev-charging-01-cmzq/13biz-ev-charging-01-cmzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gavin McIntyre for The New York Times</media:credit>
+      <media:description>A Bojangles in Savannah, Ga., recently added E.V. charging stations outside the restaurant.</media:description>
+    </item>
+    <item>
+      <title>The eBay Scandal Gets a Thriller-Like Documentary</title>
+      <link>https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html" rel="standout"></atom:link>
+      <description>A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.</description>
+      <dc:creator>David Streitfeld</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 09:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eBay Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baugh, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lelling, Andrew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wenig, Devin N</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wymer, Steve</category>
+    </item>
+    <item>
+      <title>It Takes Coordination (and Many Arms) to Unfurl a World Cup Flag</title>
+      <link>https://www.nytimes.com/2026/07/12/us/world-cup-giant-flags.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/world-cup-giant-flags.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/us/world-cup-giant-flags.html" rel="standout"></atom:link>
+      <description>Teams of stagehands work to coordinate how the giant flags are brought onto the field and displayed before each match. The prep takes days.</description>
+      <dc:creator>Patricia Mazzei and Scott McIntyre</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 22:33:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flags, Emblems and Insignia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Anthems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hard Rock Stadium (Miami Gardens, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami Gardens (Fla)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11nat-worldcup-flags-zvbp/11nat-worldcup-flags-zvbp-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
     <item>
       <title>How Wealthy People Are Getting to World Cup Games</title>
@@ -353,7 +317,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/business/world-cup-transportation-wealthy.html" rel="standout"></atom:link>
       <description>The skies above the Hamptons are packed with choppers headed to games, as “inequality is taking it right in the face.”</description>
       <dc:creator>Rob Copeland</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 09:01:01 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 14:51:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blade Inc</category>
@@ -364,44 +328,70 @@
       <media:credit>Koren Shadmi</media:credit>
     </item>
     <item>
-      <title>Heat Waves in Europe Linked to Thousands of Excess Deaths</title>
-      <link>https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html" rel="standout"></atom:link>
-      <description>While the full toll will take months to calculate, death statistics already look substantial compared with historical averages.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 12:51:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13int-europe-heat-promo-qvtc/13int-europe-heat-promo-qvtc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tom Nicholson/Reuters</media:credit>
+      <title>Jay-Z Yankee Stadium Review: Three Nights of Legacy and Guest Stars</title>
+      <link>https://www.nytimes.com/2026/07/13/arts/music/jayz-review-yankee-stadium-concerts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/arts/music/jayz-review-yankee-stadium-concerts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/arts/music/jayz-review-yankee-stadium-concerts.html" rel="standout"></atom:link>
+      <description>The rap mogul convened his starriest collaborators, showed off his still-dazzling skills and made a convincing argument for his singular legacy.</description>
+      <dc:creator>Jon Caramanica and Lexi Parra</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 15:40:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yankee Stadium (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jay-Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Reasonable Doubt (Album)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Blueprint (Album)</category>
+      <media:content height="1493" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13cul-jayz-notebook-09-vcmh/13cul-jayz-notebook-09-vcmh-mediumSquareAt3X.jpg" width="1494"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
     </item>
     <item>
-      <title>When Vital Weather Data Is Needed, Muppets Take Flight</title>
-      <link>https://www.nytimes.com/2026/07/13/us/hurricane-hunters-planes-muppets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/hurricane-hunters-planes-muppets.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/hurricane-hunters-planes-muppets.html" rel="standout"></atom:link>
-      <description>“For the most part, the aircraft have their own souls,” said a pilot of the meteorological research planes, which are known as Kermit, Miss Piggy and Gonzo.</description>
-      <dc:creator>Adeel Hassan</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 09:01:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Muppets (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Henson, Jim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walt Disney Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lakeland (Fla)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00xp-muppet-planes-klpf/00xp-muppet-planes-klpf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Zack Wittman for The New York Times</media:credit>
-      <media:description>The cockpit of a NOAA hurricane hunter aircraft, featuring a toy Kermit Muppet dangling inside the cockpit, as it flew through Tropical Storm Helene above the Gulf of Mexico in September 2024.</media:description>
+      <title>Jay-Z Concert at Yankee Stadium Is Delayed for Hours</title>
+      <link>https://www.nytimes.com/2026/07/13/nyregion/jay-z-concert-yankee-stadium.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/nyregion/jay-z-concert-yankee-stadium.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/nyregion/jay-z-concert-yankee-stadium.html" rel="standout"></atom:link>
+      <description>The rapper apologized to fans when the show began after midnight on Monday, citing crowd safety issues.</description>
+      <dc:creator>Miles G. Cohen and Yan Zhuang</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 13:58:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jay-Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yankee Stadium (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13xp-jay-z-vjql/13xp-jay-z-vjql-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie McCarthy/Getty Images</media:credit>
+      <media:description>Jay-Z in May. Some fans expressed frustration on Monday after his performance in the Bronx was postponed for safety reasons.</media:description>
+    </item>
+    <item>
+      <title>There’s an Injury Epidemic in Pro Sports. There’s Also a Recovery Revolution.</title>
+      <link>https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html" rel="standout"></atom:link>
+      <description>Athletes are pushing their bodies to astonishing feats, knowing that medical advances can heal them quickly.</description>
+      <dc:creator>Devin Gordon</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 13:33:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+    </item>
+    <item>
+      <title>In Turning to Trade School, Gen Z Confronts an Enduring Stigma</title>
+      <link>https://www.nytimes.com/2026/07/13/style/gen-z-trade-school-careers-ai-college.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/style/gen-z-trade-school-careers-ai-college.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/style/gen-z-trade-school-careers-ai-college.html" rel="standout"></atom:link>
+      <description>Gen Z is increasingly turning to trade schools in hopes of future-proofing their careers against A.I. But getting their parents and peers on board can be a challenge.</description>
+      <dc:creator>Callie Holtermann</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 15:13:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vocational Training</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Careers and Professions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Universal Technical Institute Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Welding and Welders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Brotherhood of Electrical Workers</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13ST-GEN-Z-TRADE-SCHOOL-12-wzvt/13ST-GEN-Z-TRADE-SCHOOL-12-wzvt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>“In high school, all my counselors were talking about college this, college that,” Shikhman said. But if his proselytizing on TikTok is any indication, he doesn’t regret going the vocational route.</media:description>
     </item>
     <item>
       <title>The World Must Not Forget About the Genocide in Sudan</title>
@@ -430,7 +420,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/briefing/the-viceroy-of-venezuela.html" rel="standout"></atom:link>
       <description>We look into who’s really running the country.</description>
       <dc:creator>Sam Sifton</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 10:42:06 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 13:58:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
@@ -438,23 +428,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13themorning-nl-01-tmcq/13themorning-nl-01-tmcq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>Marco Rubio</media:description>
-    </item>
-    <item>
-      <title>Fire in Bangkok Bar Leaves at Least 27 Dead</title>
-      <link>https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html" rel="standout"></atom:link>
-      <description>The fast-moving blaze sent people fleeing toward the bathrooms to hide, officials said. Their bodies were found there, raising questions about safety standards.</description>
-      <dc:creator>Kittiphum Sringammuang, Ephrat Livni and Muktita Suhartono</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 11:06:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13int-thailand-fire-sub-01-phfj/13int-thailand-fire-sub-01-phfj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Chanakarn Laosarakham/Agence France-Presse — Getty Images</media:credit>
-      <media:description>At least 27 people died after the fire at Rong Beer Na Lat Phrao in the Thai capital, officials said.</media:description>
     </item>
   </channel>
 </rss>

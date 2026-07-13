@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 13 Jul 2026 18:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 19:43:44 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[TeraWulf CEO: 'Not All Megawatts Are Created Equally' in AI Race]]></title>
+      <link>https://www.coindesk.com/coindesk-news/2026/07/13/terawulf-ceo-not-all-megawatts-are-created-equally-in-ai-race</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ed1011e916603589fb7578412508ec7405494cd3-928x512.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="/video/19-billion-ai-deal-etf-inflows-return-and-binanceus-plots-a-comeback" type="video/*" medium="video"/>
+      <guid isPermaLink="false">01cbb61e-2c7c-471c-a2aa-4c006665aa0b</guid>
+      <pubDate>Mon, 13 Jul 2026 19:43:03 +0000</pubDate>
+      <description><![CDATA[TeraWulf says its $19 billion AI hosting agreement with Anthropic underscores its transformation from a Bitcoin miner into an AI infrastructure company.]]></description>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-news"><![CDATA[CoinDesk News]]></category>
+      <category domain="tag"><![CDATA[Media Network Interview]]></category>
+      <category domain="tag"><![CDATA[Bitcoin Mining]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Trump's crypto riches loom over Clarity Act talks to ban conflicts for U.S. officials]]></title>
       <link>https://www.coindesk.com/policy/2026/07/13/trump-s-crypto-riches-loom-over-clarity-act-talks-to-ban-conflicts-for-u-s-officials</link>
@@ -379,19 +395,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin’s BIP 110 fork deadline nears with miner support at zero]]></title>
-      <link>https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">e97428d7-1c48-4c87-a372-78b2290c0d17</guid>
-      <pubDate>Sun, 12 Jul 2026 05:49:52 +0000</pubDate>
-      <description><![CDATA[The BIP 110 proposal would cap arbitrary data on Bitcoin for a year, but Michael Saylor, Adam Back and others say turning a spam dispute into a consensus fight could create a bigger risk than the spam itself.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

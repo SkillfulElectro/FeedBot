@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 03:57:44 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 03:56:14 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:15:24 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 05:55:56 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,8 +41,8 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz" rel="standout"></atom:link>
       <description>President Trump announced a 20 percent fee on cargo shipped through the Strait of Hormuz. Iran said it had attacked two tankers transiting the waterway as the battle to control it intensified.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 03:53:37 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13trump-145-vbwf/13trump-145-vbwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Tue, 14 Jul 2026 05:55:56 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13mideast-blog-promo0110-qwlc/13mideast-blog-promo0110-qwlc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
     </item>
     <item>
@@ -304,13 +304,36 @@
       <media:description>Women at a street market in Herat, Afghanistan, in 2023.</media:description>
     </item>
     <item>
+      <title>Deportations by India Cause Tension Along Border with Bangladesh</title>
+      <link>https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html" rel="standout"></atom:link>
+      <description>India is driving out Bangladeshi immigrants it says are in the country illegally. Bangladesh is pushing back, leaving people stranded along the border amid increasing tensions between the countries.</description>
+      <dc:creator>Anupreeta Das, Saif Hasnat, Hari Kumar and Atul Loke</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 04:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bengal (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adhikari, Suvendu (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Guard Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/00INT-INDIA-BANGLADESH-01-fpkw/00INT-INDIA-BANGLADESH-01-fpkw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>An Indian border guard patrols the border near Hakimpur in West Bengal last month.</media:description>
+    </item>
+    <item>
       <title>Israel’s Regime-Change Plan for Iran</title>
       <link>https://www.nytimes.com/2026/07/13/world/iran-israel-ahmadinejad-bangkok-fire.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/iran-israel-ahmadinejad-bangkok-fire.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/13/world/iran-israel-ahmadinejad-bangkok-fire.html" rel="standout"></atom:link>
       <description>Here’s the wild back story behind a failed plan to install Mahmoud Ahmadinejad as Iran’s next leader.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 21:01:03 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 04:38:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadinejad, Mahmoud</category>
@@ -415,7 +438,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html" rel="standout"></atom:link>
       <description>President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.</description>
       <dc:creator>Michael Crowley and Edward Wong</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 20:00:40 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 20:00:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tolls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
@@ -649,7 +672,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Eric Schmitt and Richard Pérez-Peña</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 02:58:30 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 05:18:22 +0000</pubDate>
     </item>
     <item>
       <title>Why Young People in China Are Buying Feelings</title>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 14 Jul 2026 14:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 15:58:51 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,25 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[JPMorgan says Hyperliquid's rise threatens Circle's USDC economics]]></title>
+      <link>https://www.coindesk.com/business/2026/07/14/jpmorgan-says-hyperliquid-s-rise-threatens-circle-s-usdc-economics</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4ea058b7f62ca56c162d4b89b8cebd1e70f86b38-3500x2333.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">c8ad0491-7c1e-4ff0-b632-976a6d3eafc2</guid>
+      <pubDate>Tue, 14 Jul 2026 14:57:16 +0000</pubDate>
+      <description><![CDATA[Hyperliquid's deal with Circle and Coinbase creates a "prisoner's dilemma" that puts pressure on earnings from the dollar-pegged stablecoin.]]></description>
+      <dc:creator>Will Canny</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Circle]]></category>
+      <category domain="tag"><![CDATA[Coinbase]]></category>
+      <category domain="tag"><![CDATA[Hyperliquid]]></category>
+      <category domain="tag"><![CDATA[JPMorgan]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Ethereum Foundation spinout EthSystems targets banks with blockchain privacy technology]]></title>
       <link>https://www.coindesk.com/tech/2026/07/14/ethereum-foundation-spinout-ethsystems-targets-banks-with-blockchain-privacy-technology</link>
@@ -199,14 +218,15 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[ Live updates: Bitcoin rises past $63,000 after inflation softened in June]]></title>
+      <title><![CDATA[ Live updates: Bitcoin rises past $64,000 after soft inflation data, Warsh testimony]]></title>
       <link>https://www.coindesk.com/business/2026/07/14/live-updates-bitcoin-holds-usd62-600-as-the-iran-conflict-reignites-and-cpi-looms</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0dcb7e70fce0bac1a8a2dfe771435937149fb242-6720x4480.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">5d503817-cfc3-49e2-9908-7fb81e736026</guid>
       <pubDate>Tue, 14 Jul 2026 06:55:24 +0000</pubDate>
-      <description><![CDATA[Trump reinstated the Hormuz blockade, sending oil higher and rate-hike bets up, reversing the peace trade that helped bitcoin recover in early July.]]></description>
+      <description><![CDATA[Trump reinstated the Hormuz blockade, sending oil higher, reversing the peace trade that helped bitcoin recover in early July.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
@@ -381,21 +401,6 @@
       <category domain="tag"><![CDATA[Robinhood]]></category>
       <category domain="tag"><![CDATA[Memecoin]]></category>
       <category domain="tag"><![CDATA[Top Stories]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bolivia weighs adding Tether's USDT to its national payments system]]></title>
-      <link>https://www.coindesk.com/business/2026/07/13/bolivia-weighs-adding-tether-s-usdt-to-its-national-payments-system</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/bfd80702a660a5deef3d056a315228038910dde5-1405x790.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">7d948b61-cf46-407f-bb1b-b2362cdb55ee</guid>
-      <pubDate>Mon, 13 Jul 2026 14:47:52 +0000</pubDate>
-      <description><![CDATA[Crypto usage has spiked in the country, with transaction volumes hitting $430 million in the year after the central bank removed restrictions in mid-2024.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Tether]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

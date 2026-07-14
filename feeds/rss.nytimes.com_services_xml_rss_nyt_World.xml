@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?KZ=CUyenVst" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 18:35:55 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 18:09:03 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:10:41 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 20:10:19 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html" rel="standout"></atom:link>
       <description>Counterterrorism police said that they were continuing to interview a 28-year-old man accused of killing Ann Widdecombe, a prominent member of the right-wing Reform U.K. party.</description>
       <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 17:00:16 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 17:00:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
@@ -31,6 +31,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rotherham (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/14/world/14int-uk-murder-investigation-alaofna/Hugh-Hastings-Getty-Images-aalgni-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hugh Hastings/Getty Images</media:credit>
       <media:description>Ann Widdecombe speaking at a Reform party conference in Redruth, England, last year. She served as a Conservative minister in the 1990s.</media:description>
@@ -42,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz" rel="standout"></atom:link>
       <description>The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 16:06:01 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 19:03:15 +0000</pubDate>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14live-mideast-header-hbwm-alert-copy/14live-mideast-header-hbwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
     </item>
@@ -72,34 +73,13 @@
       <media:description>An Indian border guard patrols the border near Hakimpur in West Bengal last month.</media:description>
     </item>
     <item>
-      <title>China Purges Top Official Over Corruption and Sex Charges</title>
-      <link>https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html" rel="standout"></atom:link>
-      <description>Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.</description>
-      <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 10:23:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Commission for Discipline Inspection (Communist Party of China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China Aerospace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Daily</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ma Xingrui</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14int-china-politburo-mcvh/14int-china-politburo-mcvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Thian/Associated Press</media:credit>
-      <media:description>Ma Xingrui at a meeting in Beijing last year. He had been the Communist Party leader of the far western region of Xinjiang before his downfall. </media:description>
-    </item>
-    <item>
       <title>Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran</title>
       <link>https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html" rel="standout"></atom:link>
       <description>In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 14:13:11 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 19:17:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -113,6 +93,29 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14int-europe-mideast-01-kcjq/14int-europe-mideast-01-kcjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Benoit Tessier/Reuters</media:credit>
       <media:description>Vehicles of the French Army’s Ninth Marine Infantry Brigade on the Champs-Élysées during the annual Bastille Day military parade in Paris on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>China Purges Top Official Over Corruption and Sex Charges</title>
+      <link>https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html" rel="standout"></atom:link>
+      <description>Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.</description>
+      <dc:creator>Alexandra Stevenson</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 10:23:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ma Xingrui (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Commission for Discipline Inspection (Communist Party of China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China Aerospace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14int-china-politburo-mcvh/14int-china-politburo-mcvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Thian/Associated Press</media:credit>
+      <media:description>Ma Xingrui at a meeting in Beijing last year. He had been the Communist Party leader of the far western region of Xinjiang before his downfall. </media:description>
     </item>
     <item>
       <title>In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World</title>
@@ -145,6 +148,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/00int-brazil-festival-dispatch11-photo-pfch/00int-brazil-festival-dispatch11-photo-pfch-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The arena in Parintins, Brazil, showing both red and blue bulls on the facade before hosting a series of performances to determine the annual winning bull.</media:description>
     </item>
@@ -296,6 +300,26 @@
       <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
     </item>
     <item>
+      <title>Trump Paid $2 Million by South Korean Company Facing Trade Investigation</title>
+      <link>https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html" rel="standout"></atom:link>
+      <description>The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.</description>
+      <dc:creator>Eric Lipton and John Yoon</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 16:35:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/dc-trump-korea-1-pjzh/dc-trump-korea-1-pjzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross for The New York Times</media:credit>
+      <media:description>President Trump maintains personal financial ties with nearly 30 different business ventures with counterparties worldwide.</media:description>
+    </item>
+    <item>
       <title>Antonio Rattín, Whose World Cup Expulsion Led to Penalty-Card System, Dies at 89</title>
       <link>https://www.nytimes.com/2026/07/14/world/americas/antonio-rattin-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/americas/antonio-rattin-dead.html</guid>
@@ -303,18 +327,14 @@
       <description>The ejection of the Argentine soccer star during a 1966 match against England led to the introduction of yellow and red cards.</description>
       <dc:creator>Clay Risen</dc:creator>
       <pubDate>Tue, 14 Jul 2026 16:04:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rattin, Antonio (1937-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Officiating (Sports)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boca Juniors (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wembley Stadium (London, England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Officiating (Sports)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buenos Aires (Argentina)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Antonio Rattin (1937-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boca Juniors (Soccer Team)</category>
     </item>
     <item>
       <title>India Condemns Deadly Iranian Strike on Commercial Ship</title>
@@ -336,6 +356,26 @@
       <media:description>An Indian-flagged tanker carrying crude oil that transited through the Strait of Hormuz, offloading at a terminal near Mumbai in April.</media:description>
     </item>
     <item>
+      <title>Inky Mark, Former Canada MP, Arrested After Police Find 439 Guns and Cannon in His Home</title>
+      <link>https://www.nytimes.com/2026/07/14/world/canada/inky-mark-arrested-guns-manitoba.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/canada/inky-mark-arrested-guns-manitoba.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/world/canada/inky-mark-arrested-guns-manitoba.html" rel="standout"></atom:link>
+      <description>Inky Mark, a former conservative lawmaker in Manitoba, was charged with offenses including firearm trafficking.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 15:25:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antiques</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Royal Canadian Mounted Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manitoba (Canada)</category>
+      <media:content height="1626" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14xp-canadaguns-top/14xp-canadaguns-top-mediumSquareAt3X.jpg" width="1626"></media:content>
+      <media:credit>Jim Young/Reuters</media:credit>
+      <media:description>Inky Mark in Ottawa in 2005. He served as a member of Parliament from 1997 to 2010.</media:description>
+    </item>
+    <item>
       <title>Israel and Lebanon Meet to Advance Peace Talks, as Broader Truce Unravels</title>
       <link>https://www.nytimes.com/2026/07/14/world/middleeast/israel-lebanon-peace-talks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/middleeast/israel-lebanon-peace-talks.html</guid>
@@ -349,6 +389,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aoun, Joseph (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14mideast-live-lebanon-israel-jfqp/14mideast-live-lebanon-israel-jfqp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andreas Solaro/Agence France-Presse — Getty Images</media:credit>
       <media:description>The U.S. Embassy in Rome, Italy, as U.S.-mediated talks between Israel and Lebanon resumed on Tuesday.</media:description>
@@ -377,26 +418,26 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html" rel="standout"></atom:link>
       <description>A judge ruled in favor of two Singaporean ministers in a closely watched defamation trial seen as a significant test of the country’s libel laws and their implications for press freedom.</description>
       <dc:creator>Sui-Lee Wee</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 18:05:01 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 18:05:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bloomberg News</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1738" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14BIZ-Bloomberg-Defamation-bvzk/14BIZ-Bloomberg-Defamation-bvzk-mediumSquareAt3X.jpg" width="1738"></media:content>
       <media:credit>Roslan Rahman/Agence France-Presse — Getty Images</media:credit>
       <media:description>John Fraher, left, a senior executive editor for Bloomberg, and Low De Wei, a Bloomberg journalist, leave court in Singapore in April.</media:description>
     </item>
     <item>
-      <title>Trump’s Plan to Charge a Toll in the Strait of Hormuz: What to Know</title>
+      <title>Trump’s Canceled Plan to Charge a Toll in the Strait of Hormuz: What to Know</title>
       <link>https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/14/world/middleeast/trump-iran-strait-hormuz-toll-oil.html" rel="standout"></atom:link>
-      <description>President Trump announced a 20 percent fee on cargo through the waterway, despite his own administration’s position that such fees violate international law.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 18:02:33 +0000</pubDate>
+      <description>A day after President Trump announced a hefty 20 percent fee on cargo through the waterway, he reversed his decision.</description>
+      <dc:creator>Anushka Patil and Yan Zhuang</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 19:25:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tolls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
@@ -421,7 +462,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Eric Schmitt, Max Bearak, Ravi Mattu and Jenny Gross</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 18:09:03 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 20:10:19 +0000</pubDate>
     </item>
     <item>
       <title>Israel’s Regime-Change Plan for Iran</title>
@@ -450,7 +491,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/world/middleeast/un-says-hamas-forces-interfered-with-aid-distribution-at-a-gaza-site.html" rel="standout"></atom:link>
       <description>A raid by armed personnel led the World Food Program to suspend its operations in one part of Gaza, the U.N. said. Hamas disputed the accusations.</description>
       <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 21:47:56 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 19:25:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
@@ -1067,7 +1108,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html" rel="standout"></atom:link>
       <description>Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule.</description>
       <dc:creator>Elian Peltier</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 18:26:13 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 18:26:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shiite Muslims</category>
@@ -1076,7 +1117,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Herat (Afghanistan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mazar-i-Sharif (Afghanistan)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08int-herat-crackdown-mhpz/08int-herat-crackdown-mhpz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/08int-herat-crackdown-mhpz/08int-herat-crackdown-mhpz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jim Huylebroek for The New York Times</media:credit>
       <media:description>Women at a street market in Herat, Afghanistan, in 2023.</media:description>
     </item>
@@ -1201,27 +1243,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/12xp-torontoshooting-vtcw/12xp-torontoshooting-vtcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cole Burston/Reuters</media:credit>
       <media:description>Police officers stand guard as emergency workers respond at the site of a deadly shooting at a salsa-themed street festival in Toronto on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Here’s a look at the heavy strikes in recent days.</title>
-      <link>https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 01:44:26 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11mideast-live-week-of-strikes-jmpf/11mideast-live-week-of-strikes-jmpf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>A vessel is seen in the Persian Gulf off the coast of Ajman, United Arab Emirates, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Pranav Baskar, Shirin Hakim, Aaron Boxerman and Yan Zhuang</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 05:52:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

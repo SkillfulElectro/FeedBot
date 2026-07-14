@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 14 Jul 2026 20:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:55:28 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court]]></title>
+      <link>https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6dfe7e0f-0741-4bfe-83d4-23738e6e6daf</guid>
+      <pubDate>Tue, 14 Jul 2026 20:51:05 +0000</pubDate>
+      <description><![CDATA[The federal derivatives regulator, which oversees trading at Kalshi, argued it was inappropriate for Michigan to "bully" the firm into reversing trades.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="tag"><![CDATA[Kalshi]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Some U.S. Senate Democrats come out against Clarity Act, calling it a 'corrupt' bill]]></title>
       <link>https://www.coindesk.com/policy/2026/07/14/some-u-s-senate-democrats-come-out-against-clarity-act-calling-it-a-corrupt-bill</link>
@@ -377,21 +393,6 @@
       <category domain="https://www.coindesk.com/coindesk-news"><![CDATA[CoinDesk News]]></category>
       <category domain="tag"><![CDATA[Media Network Interview]]></category>
       <category domain="tag"><![CDATA[Binance]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Franklin Crypto CIO says crypto prices are disconnected from fundamentals]]></title>
-      <link>https://www.coindesk.com/markets/2026/07/13/franklin-crypto-cio-says-crypto-prices-are-disconnected-from-fundamentals</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b36b75d01d091c23de67fe9b5ef996a83c4ad96d-742x418.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <media:content url="/video/19-billion-ai-deal-etf-inflows-return-and-binanceus-plots-a-comeback" type="video/*" medium="video"/>
-      <guid isPermaLink="false">c9859fdf-baa9-44ad-b82a-5903e7b26782</guid>
-      <pubDate>Mon, 13 Jul 2026 20:15:29 +0000</pubDate>
-      <description><![CDATA[Institutional adoption of crypto is accelerating even as digital asset prices fail to reflect the industry's strongest fundamentals in years, Seth Ginns said.]]></description>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Media Network Interview]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

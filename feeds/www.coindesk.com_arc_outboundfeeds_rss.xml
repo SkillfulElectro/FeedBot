@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 15 Jul 2026 02:55:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 05:30:09 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin nears $65,000 as cooling U.S. inflation guts the Fed rate-hike trade]]></title>
+      <link>https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/abfc53cb8936b0ca235301bd25a7729a38804863-4928x3264.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b7a5d4b9-c738-4af1-953e-2ed6b514666a</guid>
+      <pubDate>Wed, 15 Jul 2026 05:19:14 +0000</pubDate>
+      <description><![CDATA[The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[U.S. CFTC moves to stop Kalshi from canceling trades as ordered by Michigan court]]></title>
       <link>https://www.coindesk.com/policy/2026/07/14/u-s-cftc-moves-to-stop-kalshi-from-canceling-trades-as-ordered-by-michigan-court</link>
@@ -377,22 +390,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Binance.US CEO says exchange is rebuilding, eyes return to 20% U.S. market share]]></title>
-      <link>https://www.coindesk.com/coindesk-news/2026/07/13/binance-us-ceo-says-exchange-is-rebuilding-eyes-return-to-20-u-s-market-share</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/aa3e1bbfa6d9c29a9094006b934854fec90c84fc-810x418.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <media:content url="/video/19-billion-ai-deal-etf-inflows-return-and-binanceus-plots-a-comeback" type="video/*" medium="video"/>
-      <guid isPermaLink="false">5085b612-4f45-4e2a-a43c-ff7d03bf40f7</guid>
-      <pubDate>Mon, 13 Jul 2026 20:27:47 +0000</pubDate>
-      <description><![CDATA[Binance.US is betting ultra-low fees, new regulated products and deeper liquidity will help it regain customers after two years of regulatory setbacks.]]></description>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-news"><![CDATA[CoinDesk News]]></category>
-      <category domain="tag"><![CDATA[Media Network Interview]]></category>
-      <category domain="tag"><![CDATA[Binance]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

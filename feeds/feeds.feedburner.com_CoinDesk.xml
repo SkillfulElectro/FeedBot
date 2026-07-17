@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 17 Jul 2026 02:37:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 05:51:07 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,34 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin’s anti-spam fight gets a 'DOG Mode' reply]]></title>
+      <link>https://www.coindesk.com/tech/2026/07/17/bitcoin-s-anti-spam-fight-gets-a-dog-mode-reply</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ca4073986b82e35a5d6bd80c2e88a27749ed87bf-1024x576.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7fb4e65e-46cf-44df-a4da-0a6134dc8444</guid>
+      <pubDate>Fri, 17 Jul 2026 05:32:00 +0000</pubDate>
+      <description><![CDATA[While BIP 110 wants to restrict data through a consensus change and has almost no miner support, a new DOG Mode client wants the opposite and requires no vote at all.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty]]></title>
+      <link>https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/37e2accde15c1395052adccd4d7862c477e046c4-2879x1093.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">48e90867-631d-4d25-a686-1d5b1d3a4cc9</guid>
+      <pubDate>Fri, 17 Jul 2026 04:10:09 +0000</pubDate>
+      <description><![CDATA[Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[$1.9 trillion asset manager T. Rowe Price bets on active management with first multi-token crypto ETF]]></title>
       <link>https://www.coindesk.com/markets/2026/07/16/usd1-9-trillion-asset-manager-t-rowe-price-bets-on-active-management-with-first-multi-token-crypto-etf</link>
@@ -360,33 +388,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Ostium suffers $18 million exploit as oracle attack wave continues to hit DeFi]]></title>
-      <link>https://www.coindesk.com/business/2026/07/15/ostium-suffers-usd18-million-exploit-as-oracle-attack-wave-continues-to-hit-defi</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/03e2d9be0c65442154bdff629a58c6496d145707-1280x717.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">ee3576e4-be2f-443b-bc56-868d81a146ba</guid>
-      <pubDate>Wed, 15 Jul 2026 15:27:43 +0000</pubDate>
-      <description><![CDATA[A hacker used Ostium's own price-reporting infrastructure against the protocol, submitting falsified future-dated oracle data to manufacture fake trading profits and trigger an $18 million payout.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Hack]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[The privacy paradox of protecting kids online]]></title>
-      <link>https://www.coindesk.com/opinion/2026/07/14/the-privacy-paradox-of-protecting-kids-online</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a2c178e277aef38549adc820054bcf42a1d7e5d6-7008x4672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">b967d8a0-5258-4af0-a033-4befb53ca6da</guid>
-      <pubDate>Wed, 15 Jul 2026 14:58:50 +0000</pubDate>
-      <description><![CDATA[We don’t need to imagine the privacy pitfalls of age verification. They’ve been happening for years, argues Cardano Foundation CEO Frederik Gregaard. ]]></description>
-      <dc:creator>Frederik Gregaard</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
-      <category domain="https://www.coindesk.com/">Opinion</category>
     </item>
   </channel>
 </rss>

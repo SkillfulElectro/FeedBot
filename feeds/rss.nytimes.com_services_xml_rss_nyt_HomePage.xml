@@ -3,29 +3,17 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:53:00 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 00:42:34 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 04:01:07 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 03:06:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>Iran War Live Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day</title>
-      <link>https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz" rel="standout"></atom:link>
-      <description>Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 00:28:43 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17mideast-promo-placeholder-tjdy/17mideast-header-placeholder-tjcb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emile Ducke for The New York Times</media:credit>
-      <media:description>Tehran in early July.</media:description>
-    </item>
     <item>
       <title>Trump’s Election Claims and SAVE Act Push Find Muted Response From G.O.P. Lawmakers</title>
       <link>https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html</link>
@@ -51,6 +39,48 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17dc-repubs-01-pkhg/17dc-repubs-01-pkhg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump, seen on a screen during his speech at the White House on Thursday. Mr. Trump has made baseless assertions of election fraud for years, largely pointing to a similar set of concerns.</media:description>
+    </item>
+    <item>
+      <title>Trump Brings Full Weight of Government to Bolster False Election Claims</title>
+      <link>https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html" rel="standout"></atom:link>
+      <description>Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.</description>
+      <dc:creator>Zolan Kanno-Youngs, Nick Corasaniti and Dustin Volz</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 19:39:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16dc-trump-election-top-ctvw/16dc-trump-election-top-ctvw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump’s Homeland Security Chief Threatens Election Officials With Prison Time</title>
+      <link>https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html" rel="standout"></atom:link>
+      <description>Markwayne Mullin reiterated the president’s false claims about voting security while escalating the administration’s legally questionable attempts to control state elections.</description>
+      <dc:creator>Nick Corasaniti and Dustin Volz</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 19:34:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17pol-mullin-mail-voting-jgcf/17pol-mullin-mail-voting-jgcf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Markwayne Mullin, the secretary of homeland security, repeated several false claims made by President Trump in a prime-time speech Thursday about the security of U.S. elections.</media:description>
     </item>
     <item>
       <title>Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech</title>
@@ -83,6 +113,25 @@
       <media:content height="808" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17evening-ugc-iran-zwvp-copy/17-ugc-iran-zwvp-mediumSquareAt3X.jpg" width="809"></media:content>
       <media:credit>Social media/UGC, via Reuters</media:credit>
       <media:description>An image from social media shows bridges reduced to rubble in southern Iran.</media:description>
+    </item>
+    <item>
+      <title>War Between U.S. and Iran Expands, With Strikes Across the Region</title>
+      <link>https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html" rel="standout"></atom:link>
+      <description>Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.</description>
+      <dc:creator>Leily Nikounazar, Shirin Hakim and Lara Jakes</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 21:49:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="808" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17int-iran-leadall-qcvw/17int-iran-leadall-qcvw-mediumSquareAt3X.jpg" width="808"></media:content>
+      <media:credit>Social Media, via Reuters</media:credit>
+      <media:description>An image taken from social media and verified by The New York Times showing a damaged portion of a bridge in Hormozgan Province, Iran, on Friday.</media:description>
     </item>
     <item>
       <title>Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars</title>
@@ -127,7 +176,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html" rel="standout"></atom:link>
       <description>China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.</description>
       <dc:creator>Meaghan Tobin and Cade Metz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:04:56 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:04:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -179,7 +228,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html" rel="standout"></atom:link>
       <description>The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.</description>
       <dc:creator>Ian Austen and Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:42:58 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 03:06:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
@@ -261,7 +310,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/climate/old-ladies-diving-for-trash.html" rel="standout"></atom:link>
       <description>The Old Ladies Against Underwater Garbage estimate they’ve removed 6,000 pounds of refuse from ponds on Cape Cod. “There’s no better feeling,” one said.</description>
       <dc:creator>Cara Buckley and Billy Hickey</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 17:48:51 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 00:54:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
@@ -274,72 +323,26 @@
       <media:credit>Billy Hickey for The New York Times</media:credit>
     </item>
     <item>
-      <title>Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases</title>
-      <link>https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html" rel="standout"></atom:link>
-      <description>The California company grows produce in more than 12 states, and in Mexico and Canada. Taco Bell and food distributor Sysco have pulled Taylor Farms lettuce from supply chains.</description>
-      <dc:creator>Julie Creswell, Christina Jewett and Kevin Draper</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 22:46:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yum Brands Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salinas (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guanajuato (Mexico)</category>
-    </item>
-    <item>
-      <title>Cyclospora Investigation Turns to Farms in Mexico</title>
-      <link>https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html" rel="standout"></atom:link>
-      <description>The F.D.A. is planning to inspect farms and a lettuce shredding facility to determine how lettuce supplied by the produce company Taylor Farms to Taco Bell became contaminated and where it was shipped.</description>
-      <dc:creator>Christina Jewett and Dani Blum</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 22:22:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17dc-cyclo-news-qbvc/17dc-cyclo-news-qbvc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Mangum for The New York Times</media:credit>
-      <media:description>The Food and Drug Administration’s investigation is focusing on the source of the contamination by the cyclospora parasite.</media:description>
-    </item>
-    <item>
-      <title>Is It Safe to Eat Lettuce?</title>
-      <link>https://www.nytimes.com/2026/07/17/well/eat/lettuce-safety-cyclospora-outbreak.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/well/eat/lettuce-safety-cyclospora-outbreak.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/well/eat/lettuce-safety-cyclospora-outbreak.html" rel="standout"></atom:link>
-      <description>Federal health officials have linked a large cyclosporiasis outbreak to shredded lettuce served at Taco Bell. Is lettuce from grocery stores and restaurants OK?</description>
-      <dc:creator>Dani Blum and Roni Caryn Rabin</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 21:23:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salads</category>
-      <category domain="">cyclosporiasis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="1368" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17WELL-CYCLO-LETTUCE1-fqhv/17WELL-CYCLO-LETTUCE1-fqhv-mediumSquareAt3X.jpg" width="1368"></media:content>
-      <media:credit>Nicole Bengiveno/The New York Times</media:credit>
+      <title>The Rise and Fall of Ukraine’s Drone Warfare Mastermind</title>
+      <link>https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html" rel="standout"></atom:link>
+      <description>The popularity of drones, and the defense minister who heavily promoted them, helped lead to a clash in which President Volodymyr Zelensky sided with the military brass.</description>
+      <dc:creator>Andrew E. Kramer</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 23:29:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17int-ukraine-zelensky01-photo-lvpj/17int-ukraine-zelensky01-photo-lvpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jędrzej Nowicki for The New York Times</media:credit>
+      <media:description>Mykhailo Fedorov, the former minister of defense for Ukraine, speaking Thursday in Kyiv. Mr. Fedorov’s growing reliance on drones had reportedly irked some members of the military’s leadership.</media:description>
     </item>
     <item>
       <title>Mourning One Tragedy at Sea, a Family Is Devastated by Another</title>
@@ -391,9 +394,9 @@
       <link>https://www.nytimes.com/2026/07/17/us/sara-rodriguez-wisconsin-governor-drop-out.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/sara-rodriguez-wisconsin-governor-drop-out.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/17/us/sara-rodriguez-wisconsin-governor-drop-out.html" rel="standout"></atom:link>
-      <description>Some Democrats feared the decision by Lt. Gov. Sara Rodriguez, the establishment candidate, could improve the primary prospects for Francesca Hong, a democratic socialist, in a purple state.</description>
-      <dc:creator>Julie Bosman</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:58:01 +0000</pubDate>
+      <description>One establishment candidate dropped out and another rejoined the race amid worries from some moderate Democrats that a democratic socialist might win the primary.</description>
+      <dc:creator>Julie Bosman and Mitch Smith</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 01:17:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Sara (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -404,7 +407,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-wisconsin-governor-glmk/17nat-wisconsin-governor-glmk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jenn Ackerman for The New York Times</media:credit>
-      <media:description>Lt. Gov. Sara Rodriguez’s withdrawal scrambled the race in Wisconsin.</media:description>
+      <media:description>Lt. Gov. Sara Rodriguez’s withdrawal upended the race in Wisconsin.</media:description>
     </item>
     <item>
       <title>Billionaires Prepare $87 Million Ad Campaign to Block California Wealth Tax</title>
@@ -524,27 +527,30 @@
       <media:credit>Joseph Rushmore for The New York Times</media:credit>
     </item>
     <item>
-      <title>7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban</title>
-      <link>https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html" rel="standout"></atom:link>
-      <description>The aid workers were on the frontline in the fight against the outbreak in the Democratic Republic of Congo and have shown no symptoms, their employer said.</description>
-      <dc:creator>Apoorva Mandavilli and Matthew Mpoke Bigg</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 00:22:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <title>Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases</title>
+      <link>https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html" rel="standout"></atom:link>
+      <description>The California company grows produce in more than 12 states, and in Mexico and Canada. Taco Bell and food distributor Sysco have pulled Taylor Farms lettuce from supply chains.</description>
+      <dc:creator>Julie Creswell, Christina Jewett and Kevin Draper</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 22:46:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samaritan&#39;s Purse</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17int-ebola-kenya01-photo-whmq/17int-ebola-kenya01-photo-whmq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vantor, via Reuters</media:credit>
-      <media:description>A satellite image showing the field hospital at Laikipia Air Base in central Kenya, where America aid workers are being quarantined.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yum Brands Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salinas (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guanajuato (Mexico)</category>
     </item>
   </channel>
 </rss>

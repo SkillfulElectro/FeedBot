@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 18 Jul 2026 16:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:01:40 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[DOG Mode explains Bitcoin's next governance fight]]></title>
+      <link>https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1d7fa246e46362389d78474910933c67a424a500-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ccba3a9a-8ddb-4b17-a2bf-57044d7a226a</guid>
+      <pubDate>Sat, 18 Jul 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.]]></description>
+      <dc:creator>Jamie Crawley</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments]]></title>
       <link>https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments</link>
@@ -368,22 +383,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
       <category domain="https://www.coindesk.com/">Opinion</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto for Advisors: Strengthening defenses against AI fraud]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/07/16/crypto-for-advisors-strengthening-defenses-against-ai-fraud</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/82a7c2a9cd96f741bc20c04b5beafc8594a4ff4b-5120x2880.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">da353fdc-5411-4efa-8182-8b10a93795a6</guid>
-      <pubDate>Thu, 16 Jul 2026 14:54:11 +0000</pubDate>
-      <description><![CDATA[Strengthening defenses against AI fraud]]></description>
-      <dc:creator>Kriti Bansal</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[Financial Advisors]]></category>
-      <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
-      <category domain="tag"><![CDATA[Newsletters]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

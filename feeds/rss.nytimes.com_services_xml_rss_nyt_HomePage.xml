@@ -3,17 +3,29 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 23:24:23 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 23:06:52 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:53:00 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 00:42:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Iran War Live Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day</title>
+      <link>https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz" rel="standout"></atom:link>
+      <description>Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:28:43 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17mideast-promo-placeholder-tjdy/17mideast-header-placeholder-tjcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Emile Ducke for The New York Times</media:credit>
+      <media:description>Tehran in early July.</media:description>
+    </item>
     <item>
       <title>Trump’s Election Claims and SAVE Act Push Find Muted Response From G.O.P. Lawmakers</title>
       <link>https://www.nytimes.com/2026/07/17/us/politics/trump-election-save-act-republicans-midterms.html</link>
@@ -61,21 +73,16 @@
       <media:description>Xi Jinping and President Trump participated in events at the Great Hall of the People in Beijing in May.</media:description>
     </item>
     <item>
-      <title>Trump’s Homeland Security Chief Threatens Election Officials With Prison Time</title>
-      <link>https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html" rel="standout"></atom:link>
-      <description>Markwayne Mullin reiterated the president’s false claims about voting security while escalating the administration’s legally questionable attempts to control state elections.</description>
-      <dc:creator>Nick Corasaniti and Dustin Volz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 19:34:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17pol-mullin-mail-voting-jgcf/17pol-mullin-mail-voting-jgcf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Markwayne Mullin, the secretary of homeland security, repeated several false claims made by President Trump in a prime-time speech Thursday about the security of U.S. elections.</media:description>
+      <title>Bridges and Water Plants Attacked as Iran War Escalates</title>
+      <link>https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/briefing/us-iran-attacks-canada-wildfire-smoke.html" rel="standout"></atom:link>
+      <description>Also, U.S. start-up activity is booming. Here’s the latest at the end of Friday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 21:43:51 +0000</pubDate>
+      <media:content height="808" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17evening-ugc-iran-zwvp-copy/17-ugc-iran-zwvp-mediumSquareAt3X.jpg" width="809"></media:content>
+      <media:credit>Social media/UGC, via Reuters</media:credit>
+      <media:description>An image from social media shows bridges reduced to rubble in southern Iran.</media:description>
     </item>
     <item>
       <title>Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars</title>
@@ -137,7 +144,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html" rel="standout"></atom:link>
       <description>Investors are growing uneasy about increasing competition from China in the global race to dominate artificial intelligence.</description>
       <dc:creator>Joe Rennison and Katie Robertson</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:17:15 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:17:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
@@ -191,6 +198,25 @@
       <media:description>President Trump departing Joint Base Andrews, en route to New York, on Friday.</media:description>
     </item>
     <item>
+      <title>Dozens of Wildfires Are Suddenly Burning in Oregon</title>
+      <link>https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html" rel="standout"></atom:link>
+      <description>The state told thousands of people to be ready to evacuate.</description>
+      <dc:creator>Amy Graff</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 22:12:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Medford (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-observed-smoke-embed-index/2026-07-15-observed-smoke-embed-index-mediumSquareAt3X-v4.jpeg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
       <title>When Will the Smoke End? Our Meteorologist Explains Why It’s Complicated.</title>
       <link>https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html</guid>
@@ -212,23 +238,21 @@
       <media:description>Wildfire smoke hung over pickleball players in Manhattan on Thursday. While the smoke decreased in the city early Friday, it could return later as weather patterns change.</media:description>
     </item>
     <item>
-      <title>Dozens of Wildfires Are Suddenly Burning in Oregon</title>
-      <link>https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html" rel="standout"></atom:link>
-      <description>The state told thousands of people to be ready to evacuate.</description>
-      <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 22:12:39 +0000</pubDate>
+      <title>Watch the Wildfire Smoke Ooze Across North America From Space</title>
+      <link>https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html" rel="standout"></atom:link>
+      <description>Satellite imagery shows the wide footprint of the smoke across the continent.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 22:22:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Medford (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-observed-smoke-embed-index/2026-07-15-observed-smoke-embed-index-mediumSquareAt3X-v4.jpeg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <media:content height="1664" medium="image" url="https://static01.nyt.com/images/2026/07/16/pageoneplus/16nat-smoke-live-close-read-06/16nat-smoke-live-close-read-06-mediumSquareAt3X.png" width="1664"></media:content>
+      <media:credit>NOAA</media:credit>
     </item>
     <item>
       <title>Taking Out the Trash: These Old Ladies Are Cleaning Up Cape Cod</title>
@@ -318,13 +342,35 @@
       <media:credit>Nicole Bengiveno/The New York Times</media:credit>
     </item>
     <item>
+      <title>Mourning One Tragedy at Sea, a Family Is Devastated by Another</title>
+      <link>https://www.nytimes.com/2026/07/17/us/volare-boat-sink-alcatraz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/volare-boat-sink-alcatraz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/volare-boat-sink-alcatraz.html" rel="standout"></atom:link>
+      <description>The Boisas went out on the San Francisco Bay to spread the ashes of one of their own. Then a wave toppled their boat.</description>
+      <dc:creator>Soumya Karlamangla, Madaleine Rubin and Heather Knight</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:42:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alcatraz (San Francisco)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Treasure Island (San Francisco, Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18nat-sf-boat-tragedy-wzmg/18nat-sf-boat-tragedy-wzmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephen Lam/San Francisco Chronicle, via Associated Press</media:credit>
+      <media:description>Alcatraz Island a day after a boat named Volare capsized in rough seas near the island.</media:description>
+    </item>
+    <item>
       <title>Firms With Checkered Pasts Tied to Troubled Midtown Construction Project</title>
       <link>https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html" rel="standout"></atom:link>
       <description>Among those connected to companies that worked on 235 East 42nd Street were a man who once bribed city officials and a developer who gave a loan to Bernard Kerik.</description>
       <dc:creator>Dionne Searcey, William K. Rashbaum, Stefanos Chen and Mihir Zaveri</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 21:19:58 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 00:01:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
@@ -359,6 +405,30 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-wisconsin-governor-glmk/17nat-wisconsin-governor-glmk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jenn Ackerman for The New York Times</media:credit>
       <media:description>Lt. Gov. Sara Rodriguez’s withdrawal scrambled the race in Wisconsin.</media:description>
+    </item>
+    <item>
+      <title>Billionaires Prepare $87 Million Ad Campaign to Block California Wealth Tax</title>
+      <link>https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html" rel="standout"></atom:link>
+      <description>A coalition backed by the Google co-founder Sergey Brin and wealthy tech investors is trying to neutralize a proposed one-time tax on the state’s richest residents.</description>
+      <dc:creator>Theodore Schleifer and Laurel Rosenhall</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 22:02:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Service Employees International Union-United Healthcare Workers West</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brin, Sergey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doerr, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moritz, Michael Jonathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-ca-billionaire-tax-zfvk/17nat-ca-billionaire-tax-zfvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jae C. Hong/Associated Press</media:credit>
+      <media:description>A campaign event for a proposed billionaire tax in Los Angeles in February. </media:description>
     </item>
     <item>
       <title>Trump Endorses Graham for Senate, Scrambling South Carolina Primary</title>
@@ -419,38 +489,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
-      <title>After Repeated Crises, Boeing Looks to Turn a Corner</title>
-      <link>https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html" rel="standout"></atom:link>
-      <description>The company recently opened a new production line to keep up with strong demand for its 737 Max, though orders for its new planes lag rival Airbus.</description>
-      <dc:creator>Niraj Chokshi</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 18:28:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Everett (Wash)</category>
-    </item>
-    <item>
-      <title>The History of the Carriage Horses in Central Park</title>
-      <link>https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html" rel="standout"></atom:link>
-      <description>After 165 years, the tourist ritual — which now costs $77.22 for the first 20 minutes — may be coming to an end. Here’s a tour through the archives.</description>
-      <dc:creator>John Leland</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 16:20:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Society for the Prevention of Cruelty to Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/00met-carriage-horses-11-mlvt/00met-carriage-horses-11-mlvt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Neal Boenzi/The New York Times</media:credit>
-      <media:description>The carriage ride through the park has been a rite of passage for visitors to the city for ages.</media:description>
-    </item>
-    <item>
       <title>On Fire. Again.</title>
       <link>https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html</guid>
@@ -486,21 +524,27 @@
       <media:credit>Joseph Rushmore for The New York Times</media:credit>
     </item>
     <item>
-      <title>Paul Pelosi Charged With Hit-and-Run in Napa Valley Crash</title>
-      <link>https://www.nytimes.com/2026/07/17/us/paul-pelosi-napa-valley-crash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/paul-pelosi-napa-valley-crash.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/paul-pelosi-napa-valley-crash.html" rel="standout"></atom:link>
-      <description>Mr. Pelosi, the 86-year-old husband of former Speaker Nancy Pelosi, crashed into a parked Tesla near his home among the vineyards this month.</description>
-      <dc:creator>Livia Albeck-Ripka</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 22:41:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hit-and-Run Drivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/00nat-pelosi-napa-HFO-pfwt/00nat-pelosi-napa-HFO-pfwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pete Marovich for The New York Times</media:credit>
-      <media:description>Paul Pelosi crashed his convertible into a parked Tesla and continued to drive down a street in Yountville, Calif., on July 3.</media:description>
+      <title>7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban</title>
+      <link>https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html" rel="standout"></atom:link>
+      <description>The aid workers were on the frontline in the fight against the outbreak in the Democratic Republic of Congo and have shown no symptoms, their employer said.</description>
+      <dc:creator>Apoorva Mandavilli and Matthew Mpoke Bigg</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:22:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samaritan&#39;s Purse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17int-ebola-kenya01-photo-whmq/17int-ebola-kenya01-photo-whmq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vantor, via Reuters</media:credit>
+      <media:description>A satellite image showing the field hospital at Laikipia Air Base in central Kenya, where America aid workers are being quarantined.</media:description>
     </item>
   </channel>
 </rss>

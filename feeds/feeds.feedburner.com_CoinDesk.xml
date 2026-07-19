@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 19 Jul 2026 13:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:02:03 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[AI is destroying the internet. Math is our only hope.]]></title>
+      <link>https://www.coindesk.com/opinion/2026/07/17/ai-is-destroying-the-internet-math-is-our-only-hope</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/07afdd36f774bb908ba688842d661b5ed4902836-8660x5773.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">bf2a13fc-a046-4b9f-a762-96e97af97975</guid>
+      <pubDate>Sun, 19 Jul 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[ The rise of autonomous AI agents necessitates the utilization of zero-knowledge proofs, argues Brian Trunzo, chief growth officer at Succinct Labs.]]></description>
+      <dc:creator>Brian Trunzo</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms]]></title>
       <link>https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms</link>
@@ -367,20 +380,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin under $63,000 after new U.S. strike on Iran. Trump's China comment adds to uncertainty]]></title>
-      <link>https://www.coindesk.com/markets/2026/07/17/bitcoin-under-usd64-000-after-u-s-strike-on-iran-trump-s-china-comment-adds-to-uncertainty</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/37e2accde15c1395052adccd4d7862c477e046c4-2879x1093.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">48e90867-631d-4d25-a686-1d5b1d3a4cc9</guid>
-      <pubDate>Fri, 17 Jul 2026 04:10:09 +0000</pubDate>
-      <description><![CDATA[Geopolitical tensions and renewed fears of U.S.-China frictions are weighing on risk assets, including bitcoin.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 19 Jul 2026 07:39:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:02:19 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins]]></title>
+      <link>https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a0a7940835c9275731c2adf69015343cc4a850ac-1024x683.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6b52c985-25f5-4866-aec9-2c496ade9682</guid>
+      <pubDate>Sun, 19 Jul 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second]]></title>
       <link>https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second</link>
@@ -367,22 +380,6 @@
       <category domain="tag"><![CDATA[Citadel]]></category>
       <category domain="tag"><![CDATA[Fundraising]]></category>
       <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Stripe’s $53 billion PayPal bid is a high-stakes play to own the future of digital payments]]></title>
-      <link>https://www.coindesk.com/business/2026/07/16/stripe-s-usd53-billion-paypal-bid-is-a-high-stakes-play-to-own-the-future-of-digital-payments</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e2ea8698363f7756be05e66e75df8c002ceaa8e4-5460x3640.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">7d6b0723-d866-4c29-8c7e-899b74c7549e</guid>
-      <pubDate>Thu, 16 Jul 2026 16:37:16 +0000</pubDate>
-      <description><![CDATA[If Stripe acquires PayPal, the real prize could be consumer wallets, stablecoin issuance or the infrastructure powering the next generation of digital payments.]]></description>
-      <dc:creator>Jamie Crawley</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Stripe]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 16:55:58 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 16:50:56 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:26:18 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 18:19:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz" rel="standout"></atom:link>
       <description>The United States was said to be sending more warplanes to the Middle East, a move that was already in the works before Iranian fire killed two soldiers in Jordan.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 16:50:56 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 18:19:58 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19mideast-live-promo-1240-kwcm/19mideast-live-promo-1240-kwcm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
     </item>
@@ -79,6 +79,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19int-ukraine-strikes-gpqh/19int-ukraine-strikes-gpqh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Anatolii Stepanov/Reuters</media:credit>
       <media:description>A helicopter dropping water on Sunday over the site of a Russian missile strike in the Kyiv region of Ukraine.</media:description>
@@ -90,7 +91,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html" rel="standout"></atom:link>
       <description>Amid anxiety over how the United States would welcome the world, cities like Lawrence, Kan., and Boston threw open their doors. The bonds forged are still visible on the streets.</description>
       <dc:creator>Tariq Panja</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 11:28:19 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 18:11:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -158,6 +159,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-fires-ford-bvql/18int-canada-fires-ford-bvql-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cole Burston for The New York Times</media:credit>
       <media:description>Premier Doug Ford of Ontario after a news conference in Thunder Bay on Saturday. Roughly 1.7 million acres have burned in Ontario, data from the Canadian Interagency Forest Fire Center shows.</media:description>
@@ -286,6 +288,33 @@
       <media:description>People walking in Tehran this month. According to Israeli authorities, Iran has intensified efforts to recruit people in Israel for intelligence gathering.</media:description>
     </item>
     <item>
+      <title>Earthquake in Peru Kills 6 and Displaces Hundreds</title>
+      <link>https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html" rel="standout"></atom:link>
+      <description>Peru is prone to frequent quakes, but the 5.5-magnitude temblor was the biggest to strike the central highlands area in nearly 50 years.</description>
+      <dc:creator>Mitra Taj</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 18:19:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19-int-peru-quake-lbmp/19-int-peru-quake-lbmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yershon Vilca/Reuters</media:credit>
+      <media:description>A home in Chupuro, Peru, that was destroyed by the earthquake on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Israel watches tensely as the fighting between U.S. and Iran escalates.</title>
+      <link>https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/israel-watches-tensely-as-the-fighting-between-us-and-iran-escalates" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 18:00:45 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19mideast-live-us-israel-topart-chlg/19mideast-live-us-israel-topart-chlg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
+      <media:description>Israeli Prime Minister Benjamin Netanyahu has vowed to continue the military campaign against Iran. </media:description>
+    </item>
+    <item>
       <title>The U.S. Is Sending More Warplanes to the Middle East, Officials Say</title>
       <link>https://www.nytimes.com/2026/07/19/world/middleeast/us-warplanes-mideast-iran.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/world/middleeast/us-warplanes-mideast-iran.html</guid>
@@ -311,7 +340,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html" rel="standout"></atom:link>
       <description>Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.</description>
       <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 15:17:53 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 17:46:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
@@ -466,7 +495,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html" rel="standout"></atom:link>
       <description>Half of Canada’s wildfires are in remote areas with no road access. Impossible to fight, they are often left to burn.</description>
       <dc:creator>Norimitsu Onishi</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 12:31:34 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 12:31:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
@@ -474,6 +503,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Banff (Alberta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/07/22/multimedia/17nat-smoke-live-uncontrollable-fires/22cli-forest-fires-print-mjpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alberta Wildfire Service, via Reuters</media:credit>
       <media:description>A wildfire burning in Bison Lake, Alberta, last year.</media:description>
@@ -569,13 +599,14 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html" rel="standout"></atom:link>
       <description>The activist, Sonam Wangchuk, has been demanding the education minister’s resignation over botched nationwide exams that affected millions of students.</description>
       <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 14:05:17 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 18:18:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wangchuk, Sonam (1966- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>They Called Sam Neill ‘Skux.’ (It Was a Compliment.)</title>
@@ -1110,45 +1141,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17int-japan-flag-gkmc/17int-japan-flag-gkmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kazuhiro Nogi/Agence France-Presse — Getty Images</media:credit>
       <media:description>New students of the National Defense Academy saluting the Japanese flag at a review parade in Yokosuka, Japan, in April.</media:description>
-    </item>
-    <item>
-      <title>A Russian Political Battle Ends With a Visit From Masked Men</title>
-      <link>https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/world/europe/russia-politics-election-nadezhdin.html" rel="standout"></atom:link>
-      <description>Boris B. Nadezhdin, an outspoken opponent of the war in Ukraine, says he knows why he was detained: “Among our leadership, there is panic and chaos.”</description>
-      <dc:creator>Valerie Hopkins and Alina Lobzina</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 13:02:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadezhdin, Boris (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17int-russia-election-repression01-photo-pqwb/17int-russia-election-repression01-photo-pqwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>Boris B. Nadezhdin at home in June.</media:description>
-    </item>
-    <item>
-      <title>How Andy Burnham Becomes Britain’s New Prime Minister</title>
-      <link>https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/world/europe/burnham-prime-minister-explainer.html" rel="standout"></atom:link>
-      <description>Andy Burnham is set to officially become the next prime minister on Monday, but a number of things have to happen before then. Here’s how everything is expected to play out.</description>
-      <dc:creator>Megan Specia</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 04:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <media:content height="1205" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17uk-burnham-explainer-qmlv/17uk-burnham-explainer-qmlv-mediumSquareAt3X.jpg" width="1205"></media:content>
-      <media:credit>Isabel Infantes/Reuters</media:credit>
-      <media:description>Andy Burnham in London this month.</media:description>
     </item>
   </channel>
 </rss>

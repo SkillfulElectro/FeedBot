@@ -348,7 +348,7 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 <script src="https://www.ms.now/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="https://www.ms.now/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script src="https://www.ms.now/wp-content/plugins/rkv-blocks/src/components/jwplayer/jwplayer.js?ver=8.38.8" id="msnow-jwplayer-js"></script>
-<script src="https://experiments.parsely.com/vip-experiments.js?apiKey=ms.now&amp;ver=3.23.3" id="parsely-headline-testing-one-line-js"></script>
+<script src="https://experiments.parsely.com/vip-experiments.js?apiKey=ms.now&amp;ver=3.23.4" id="parsely-headline-testing-one-line-js"></script>
 <script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/eventBus.js?ver=1784232692" id="msnow-event-bus-js"></script>
 <script src="https://www.ms.now/wp-content/plugins/sailthru-widget/js/widget.subscribe.js?ver=6.9.5" id="sailthru-subscribe-script-js"></script>
 <link rel="https://api.w.org/" href="https://www.ms.now/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ms.now/wp-json/wp/v2/posts/577436" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ms.now/xmlrpc.php?rsd" />
@@ -469,8 +469,8 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
     "featuredMedia": null,
     "promoImage": {
         "source": "https://www.ms.now/wp-content/uploads/2025/09/240819-trump-mb-1325-c4e098.jpg",
-        "width": 1024,
-        "height": 683,
+        "width": 1340,
+        "height": 894,
         "altText": "Trump in Pennsylvania",
         "caption": "Former President Donald Trump on Aug. 17, 2024, in Wilkes-Barre, Pa.",
         "__typename": "image"
@@ -1175,7 +1175,7 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 			</p>
 			
 
-			<ul style="font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.588), 1.25rem);" class="wp-block-latest-posts__list has-link-color wp-elements-0cbb514e648859f84061a292c35d85cd wp-block-latest-posts has-text-color has-grey-60-color has-merriweather-font-family"><li><a class="wp-block-latest-posts__post-title" href="https://www.ms.now/opinion/election-denial-arizona-governor-project-47">Trump’s election denial is creating a trap for this Arizona candidate</a></li>
+			<ul style="font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.588), 1.25rem);" class="wp-block-latest-posts__list has-link-color wp-elements-0cbb514e648859f84061a292c35d85cd wp-block-latest-posts has-text-color has-grey-60-color has-merriweather-font-family"><li><a class="wp-block-latest-posts__post-title" href="https://www.ms.now/all-in/iran-war-trump-split-screen-world-cup-service-members-deaths">As Iran war threatens to spiral out of control, Trump appears utterly unbothered</a></li>
 </ul>
 		</div>
 		
@@ -1406,7 +1406,7 @@ window.wpParselySiteId = 'ms.now';
 //# sourceURL=wp-parsely-loader-js-before
 </script>
 <script src="https://www.ms.now/wp-content/mu-plugins/wp-parsely-3.23/build/loader.js?ver=ecf94842061bea03d54b" id="wp-parsely-loader-js"></script>
-<script data-parsely-site="ms.now" src="https://cdn.parsely.com/keys/ms.now/p.js?ver=3.23.3" id="parsely-cfg"></script>
+<script data-parsely-site="ms.now" src="https://cdn.parsely.com/keys/ms.now/p.js?ver=3.23.4" id="parsely-cfg"></script>
 <script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/main.js?ver=1784232692" id="msnow-js-js"></script>
 <script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/privacy.js?ver=1784232692" id="msnow-privacy-js"></script>
 <script src="https://www.queryly.com/js/queryly.v4.js?ver=4.0" id="msnow-queryly-js"></script>

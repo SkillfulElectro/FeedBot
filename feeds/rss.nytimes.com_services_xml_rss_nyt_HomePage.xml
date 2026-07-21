@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 23:28:09 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 23:03:31 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 02:50:47 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 02:39:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -46,7 +46,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html" rel="standout"></atom:link>
       <description>The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.</description>
       <dc:creator>Ana Swanson and Ian Austen</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 22:24:30 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 00:25:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sales and Excise Taxes</category>
@@ -112,6 +112,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20BIZ-TRUMP-NYTIMES-01-glkz/20BIZ-TRUMP-NYTIMES-01-glkz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Lucia Vazquez for The New York Times</media:credit>
       <media:description>The New York Times building at 620 Eighth Avenue in Manhattan.</media:description>
@@ -184,7 +185,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html" rel="standout"></atom:link>
       <description>Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.</description>
       <dc:creator>Tim Balk and Beth Reinhard</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 15:11:11 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 15:11:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -192,6 +193,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20pol-maine-jackson-fwqt/20pol-maine-jackson-fwqt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christopher Capozziello for The New York Times</media:credit>
       <media:description>Troy Jackson, a Democratic candidate for Senate in Maine, has called for U.S. Immigration and Customs Enforcement to be abolished.</media:description>
@@ -242,42 +245,55 @@
       <media:description>The author, in the middle in red, training in Iten, Kenya.</media:description>
     </item>
     <item>
-      <title>How Google’s A.I. Search Is Imperiling the Open Web</title>
-      <link>https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html" rel="standout"></atom:link>
-      <description>As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.</description>
-      <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 19:06:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TheVerge.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berners-Lee, Tim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Larry</category>
+      <title>How Trump’s Immigration Crackdown Is Hurting Elder Care</title>
+      <link>https://www.nytimes.com/2026/07/20/us/immigration-trump-senior-living-staffing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/us/immigration-trump-senior-living-staffing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/us/immigration-trump-senior-living-staffing.html" rel="standout"></atom:link>
+      <description>Retirement communities already grappling with labor shortages are being forced to terminate caregivers at a time when more Americans are living longer.</description>
+      <dc:creator>Miriam Jordan</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 23:13:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement Communities and Assisted Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temporary Protected Status (US Immigration)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Haitian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing and Nurses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Health Care Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palo Alto (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10nat-immig-seniors-1-cmgh/10nat-immig-seniors-1-cmgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian C. Bates for The New York Times</media:credit>
+      <media:description>More than half of 400 nursing homes surveyed in 2023 said they had turned away prospective residents because they lacked enough staff.</media:description>
     </item>
     <item>
-      <title>A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store</title>
-      <link>https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html" rel="standout"></atom:link>
-      <description>Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 14:02:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/APPLE-VIBECODING-sub-mgqt/APPLE-VIBECODING-sub-mgqt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Artificial intelligence is feeding a boom in the number of apps available in Apple’s App Store.</media:description>
+      <title>Judge Tosses Justice Department Challenge to Minnesota Immigration Laws</title>
+      <link>https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/us/minnesota-immigration-lawsuit.html" rel="standout"></atom:link>
+      <description>The Trump administration, which flooded Minnesota with immigration agents this year, argued that policies limiting cooperation with ICE were unconstitutional.</description>
+      <dc:creator>Mitch Smith</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 19:47:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/29/multimedia/HFOnat-minnesota-sanctuary-vpqk/HFOnat-minnesota-sanctuary-vpqk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Guttenfelder/The New York Times</media:credit>
+      <media:description>Federal immigration agents in Minneapolis this year.</media:description>
     </item>
     <item>
-      <title>Burnham’s Day 1 as Prime Minister: A Homeless Shelter, a Palace and Downing Street</title>
+      <title>Inside Andy Burnham’s 1st Day as U.K. Prime Minister</title>
       <link>https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html" rel="standout"></atom:link>
@@ -302,7 +318,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html" rel="standout"></atom:link>
       <description>As chancellor, John Healey, who quit as defense secretary in the former government, will fill one of the most consequential posts, overseeing fiscal and economic policy.</description>
       <dc:creator>Eshe Nelson</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 18:57:40 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 18:57:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
@@ -332,44 +348,56 @@
       <media:description>Spain fans watching the World Cup final in Plaza de Colón in Madrid on Sunday night.</media:description>
     </item>
     <item>
-      <title>Suspect in NYC Federal Plaza Attack Was Targeting ICE, Authorities Say</title>
-      <link>https://www.nytimes.com/2026/07/20/nyregion/nyc-explosion-federal-plaza-manhattan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/nyregion/nyc-explosion-federal-plaza-manhattan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/nyregion/nyc-explosion-federal-plaza-manhattan.html" rel="standout"></atom:link>
-      <description>A man identified by the authorities as an Army veteran threatened passers-by, lit a fire and set off fireworks outside the building in Lower Manhattan, police said.</description>
-      <dc:creator>Ashley Southall, Chelsia Rose Marcius, Nate Schweber and Luis Ferré-Sadurní</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 23:03:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Civic Center (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20met-federal-plaza-explosion-1-jlpm/20met-federal-plaza-explosion-1-jlpm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Adam Gray for The New York Times</media:credit>
-      <media:description>A man was arrested in connection to an explosion at 26 Federal Plaza early Monday morning.</media:description>
+      <title>Evacuees of Ontario’s Wildfires Wait and Worry</title>
+      <link>https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html" rel="standout"></atom:link>
+      <description>Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared.</description>
+      <dc:creator>Vjosa Isai and Cole Burston</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 20:38:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thunder Bay (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20int-canada-fires-evacuees-promo/20int-canada-fires-evacuees-whbt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cole Burston for The New York Times</media:credit>
+      <media:description>Lyndon Paavola showing footage on his phone from his evacuation alongside community members from Namaygoosisagagun First Nation due to fast spreading wildfire that destroyed his community.</media:description>
     </item>
     <item>
-      <title>The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour</title>
-      <link>https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html" rel="standout"></atom:link>
-      <description>Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”</description>
-      <dc:creator>David Yaffe-Bellany and William K. Rashbaum</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 14:07:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coplan, Shayne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansour, Tarek</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intercontinental Exchange Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/19/business/19Polymarket-cover-illo/19Polymarket-cover-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by Scott Anderson</media:credit>
+      <title>Tropical Storm Bertha Forms Near the Gulf Coast</title>
+      <link>https://www.nytimes.com/2026/07/20/weather/tropical-storm-bertha-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/weather/tropical-storm-bertha-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/weather/tropical-storm-bertha-updates.html" rel="standout"></atom:link>
+      <description>Bertha, the second named storm of the Atlantic hurricane season, is expected to drop heavy rain in the region this week.</description>
+      <dc:creator>Nazaneen Ghaffar</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 00:01:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Mexico</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-two-al022026-satellite_map/cyclone-tracker-2025-two-al022026-satellite_map-mediumSquareAt3X-v37.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Wildfire Smoke Gives Way to Powerful Thunderstorms in the Midwest and Northeast</title>
+      <link>https://www.nytimes.com/2026/07/20/weather/wisconsin-midwest-storms-tornado-forecast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/weather/wisconsin-midwest-storms-tornado-forecast.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/weather/wisconsin-midwest-storms-tornado-forecast.html" rel="standout"></atom:link>
+      <description>The Midwest and the Northeast are facing potentially intense thunderstorms Monday and Tuesday.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 17:21:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/20/weather/2026-07-20-storms-monday-index-promo/2026-07-20-storms-monday-index-promo-mediumSquareAt3X-v17.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Soaring Egg Prices Are Hitting China Hard</title>
@@ -391,56 +419,18 @@
       <media:credit>Qilai Shen for The New York Times</media:credit>
     </item>
     <item>
-      <title>Cinephiles Took Their Own Journeys to See ‘The Odyssey’ in IMAX 70mm</title>
-      <link>https://www.nytimes.com/2026/07/20/movies/odyssey-imax-70mm-theaters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/movies/odyssey-imax-70mm-theaters.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/movies/odyssey-imax-70mm-theaters.html" rel="standout"></atom:link>
-      <description>To see Christopher Nolan’s interpretation of an epic journey in his preferred IMAX 70mm format, admirers packed their bags and took out their passports.</description>
-      <dc:creator>Malia Mendez</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 09:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">IMAX Corporation</category>
-      <media:content height="1280" medium="image" url="https://static01.nyt.com/images/2026/07/20/arts/20cul-odyssey-journeys-illo/20cul-odyssey-journeys-illo-mediumSquareAt3X.jpg" width="1280"></media:content>
-      <media:credit>Neil Webb</media:credit>
-    </item>
-    <item>
-      <title>Here’s What Greeks Think of Christopher Nolan’s ‘The Odyssey’</title>
-      <link>https://www.nytimes.com/2026/07/20/movies/the-odyssey-movie-greece.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/movies/the-odyssey-movie-greece.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/movies/the-odyssey-movie-greece.html" rel="standout"></atom:link>
-      <description>Before its release, some in the country were highly skeptical about the new depiction of a beloved tale. But many who saw it over opening weekend came back with positive reviews.</description>
-      <dc:creator>Niki Kitsantonis</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 12:51:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>To Sell Homer’s ‘Odyssey,’ Book Publishers Get Creative</title>
-      <link>https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/books/odyssey-book-editions.html" rel="standout"></atom:link>
-      <description>The market for the epic poem is as crowded as a certain Ithacan palace, and publishers have had to get crafty to attract readers to their editions.</description>
-      <dc:creator>MJ Franklin</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 16:32:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Homer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fagles, Robert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Emily (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mendelsohn, Daniel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Odyssey (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20TBR-odyssey-editions-bgmp/20TBR-odyssey-editions-bgmp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Tony Cenicola/The New York Times</media:credit>
+      <title>The Sewer Knows What You Ate</title>
+      <link>https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html" rel="standout"></atom:link>
+      <description>During the Covid-19 pandemic, wastewater testing became a virus warning system. Now, scientists are using the approach to understand how communities eat.</description>
+      <dc:creator>Simar Bajaj</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 19:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
     </item>
     <item>
       <title>I’m a Screenwriter. Hollywood Is in Trouble.</title>
@@ -470,35 +460,35 @@
       <atom:link href="https://www.nytimes.com/2026/07/20/opinion/troy-jackson-maine-democrats.html" rel="standout"></atom:link>
       <description>For the state’s progressives, Graham Platner was tempting. Troy Jackson is tested.</description>
       <dc:creator>Matthew Yglesias</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 21:52:32 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 21:52:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Troy D (1968- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Me)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/00yglesias-lvmw/00yglesias-lvmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amanda Sabga/Reuters</media:credit>
     </item>
     <item>
-      <title>Despite ‘False Positive’ Test, Taylor Farms Is Still Focus of Cyclospora Investigation</title>
-      <link>https://www.nytimes.com/2026/07/20/well/eat/cyclospora-false-positive-lettuce-taylor-farms-fda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/well/eat/cyclospora-false-positive-lettuce-taylor-farms-fda.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/well/eat/cyclospora-false-positive-lettuce-taylor-farms-fda.html" rel="standout"></atom:link>
-      <description>The F.D.A. said it was continuing to look into the supplier’s role in the outbreak as states reported stark increases in cases.</description>
-      <dc:creator>Alice Callahan and Caroline Hopkins Legaspi</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 21:46:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20WELL-CYCLO-SAMPLE3-kljz/20WELL-CYCLO-SAMPLE3-kljz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Benjamin Fanjoy/Getty Images</media:credit>
+      <title>Mamdani Eyes a McKinsey Partner to Lead Economic Development Team</title>
+      <link>https://www.nytimes.com/2026/07/20/nyregion/mamdani-shorris-edc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/nyregion/mamdani-shorris-edc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/nyregion/mamdani-shorris-edc.html" rel="standout"></atom:link>
+      <description>Mayor Zohran Mamdani, who wanted to use the Economic Development Corporation to pursue economic justice as well as growth, is leaning toward someone likely to placate the business community.</description>
+      <dc:creator>Sally Goldenberg</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 23:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shorris, Anthony E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Economic Development Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20met-edc-kpch/20met-edc-kpch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Richard Perry/The New York Times</media:credit>
+      <media:description>Anthony Shorris, a former first deputy mayor under Bill de Blasio, is a government veteran who ran the Port Authority of New York and New Jersey, and now works for McKinsey.</media:description>
     </item>
   </channel>
 </rss>

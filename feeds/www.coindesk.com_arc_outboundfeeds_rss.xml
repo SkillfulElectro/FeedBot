@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 21 Jul 2026 02:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:36:45 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin hits a two-week high near $65,500 as the chip trade turns back into a tailwind]]></title>
+      <link>https://www.coindesk.com/markets/2026/07/21/bitcoin-hits-a-two-week-high-near-usd65-500-as-the-chip-trade-turns-back-into-a-tailwind</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ec16b0d98820048d0801ef198a8c4e6ca1e6f687-4608x3456.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">0b12b872-3d21-4e4b-a64e-12bb764e31d0</guid>
+      <pubDate>Tue, 21 Jul 2026 05:34:00 +0000</pubDate>
+      <description><![CDATA[Asian semiconductor shares rebounded hard, a five-day ETF inflow streak passed $600 million, and oil pulled back on Middle East diplomacy.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Inside Cardano's 'Van Rossum' hard fork, and what it means for users]]></title>
       <link>https://www.coindesk.com/markets/2026/07/20/inside-cardano-s-van-rossum-hard-fork-and-what-it-means-for-users</link>
@@ -367,21 +380,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[France orders country's internet service providers to block Polymarket]]></title>
-      <link>https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/abbbcedbcd28071b80e9847db978483356a209da-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">fb6cfba8-502a-40fb-aca5-8aaf3e860109</guid>
-      <pubDate>Sat, 18 Jul 2026 21:52:18 +0000</pubDate>
-      <description><![CDATA[The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Polymarket]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -329,8 +329,8 @@ a.jetpack-sharing-button__button{color:inherit}.jetpack-sharing-button__button{a
 </style>
 <link rel='stylesheet' id='msnbc-ads-css' href='https://www.ms.now/wp-content/plugins/msnbc-ads/assets/css/ads.css?ver=0.1.0' media='all' />
 <link rel='stylesheet' id='jetpack-instant-search-css' href='https://www.ms.now/wp-content/mu-plugins/jetpack-16.0/jetpack_vendor/automattic/jetpack-search/build/instant-search/jp-search.chunk-main-payload.css?minify=false&#038;ver=9de017be31cb883a04fb' media='all' />
-<link rel='stylesheet' id='msnow-style-css' href='https://www.ms.now/wp-content/themes/msnow/assets/dist/main.css?ver=1784744696' media='all' />
-<link rel='stylesheet' id='msnow-print-css' href='https://www.ms.now/wp-content/themes/msnow/assets/dist/print.css?ver=1784652514' media='print' />
+<link rel='stylesheet' id='msnow-style-css' href='https://www.ms.now/wp-content/themes/msnow/assets/dist/main.css?ver=1784820685' media='all' />
+<link rel='stylesheet' id='msnow-print-css' href='https://www.ms.now/wp-content/themes/msnow/assets/dist/print.css?ver=1784820685' media='print' />
 <link rel='stylesheet' id='sailthru-subscribe-widget-styles-css' href='https://www.ms.now/wp-content/plugins/sailthru-widget/css/widget.subscribe.css?ver=6.9.5' media='all' />
 <script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/announcement/view.js?ver=0ed49865e3d4a3904160" id="msnbc-announcement-view-script-js" defer data-wp-strategy="defer"></script>
 <script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/flyout-menu/flyout.js?ver=d416236ba72830367c4f" id="rkv-flyout-menu-view-script-js" defer data-wp-strategy="defer"></script>
@@ -344,12 +344,12 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 <script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/drop-down/dropdown.js?ver=c99cd7b9477825f1f0d6" id="rkv-dropdown-view-script-js" defer data-wp-strategy="defer"></script>
 <script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/page-tray/tray.js?ver=18e965026170f6529363" id="rkv-page-tray-view-script-js" defer data-wp-strategy="defer"></script>
 <script src="https://www.ms.now/wp-content/plugins/rkv-blocks/dist/taboola/scripts/index.js?ver=d72c533b393d84907176" id="rkv-taboola-view-script-js" defer data-wp-strategy="defer"></script>
-<script src="https://www.ms.now/wp-content/themes/msnow/assets/vendor/nps.js?ver=1774538864" id="msnow-nps-js"></script>
+<script src="https://www.ms.now/wp-content/themes/msnow/assets/vendor/nps.js?ver=1774556049" id="msnow-nps-js"></script>
 <script src="https://www.ms.now/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="https://www.ms.now/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script src="https://www.ms.now/wp-content/plugins/rkv-blocks/src/components/jwplayer/jwplayer.js?ver=8.38.8" id="msnow-jwplayer-js"></script>
 <script src="https://experiments.parsely.com/vip-experiments.js?apiKey=ms.now&amp;ver=3.23.4" id="parsely-headline-testing-one-line-js"></script>
-<script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/eventBus.js?ver=1784744696" id="msnow-event-bus-js"></script>
+<script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/eventBus.js?ver=1784820685" id="msnow-event-bus-js"></script>
 <script src="https://www.ms.now/wp-content/plugins/sailthru-widget/js/widget.subscribe.js?ver=6.9.5" id="sailthru-subscribe-script-js"></script>
 <link rel="https://api.w.org/" href="https://www.ms.now/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ms.now/wp-json/wp/v2/posts/577436" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ms.now/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.9.5" />
@@ -546,7 +546,28 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 <body class="wp-singular post-template-default single single-post postid-577436 single-format-standard wp-custom-logo wp-embed-responsive wp-theme-msnow has-design-shows jps-theme-msnow">
 <script id='jetpack-search-theme-token-sampler'>(function(){try{var c=getComputedStyle(document.body),r=document.documentElement,ink=c.color,bg=c.backgroundColor;if(ink){r.style.setProperty('--jp-search-page-ink',ink);}if(bg&&bg!==ink&&bg!=='rgba(0, 0, 0, 0)'&&bg!=='transparent'){r.style.setProperty('--jp-search-page-surface',bg);}}catch(e){}})();</script>
 <div class="wp-site-blocks"><header class="wp-block-template-part">
-<div class="wp-block-template-part">
+<div class="wp-block-template-part"><div id="mps-getad-topbanner-1" class="mps-wrapper msnow-ad-topbanner" data-mps-fill-slot="topbanner"></div>
+<script>
+(function() {
+	function tryCloneAd() {
+		if ( typeof mps !== 'undefined' &&
+			typeof mps.cloneAd === 'function' &&
+			mps._ext &&
+			mps._ext.loaded ) {
+			mps.cloneAd( '#mps-getad-topbanner-1', 'topbanner' );
+		} else {
+			setTimeout( tryCloneAd, 100 );
+		}
+	}
+
+	if ( document.readyState === 'loading' ) {
+		document.addEventListener( 'DOMContentLoaded', tryCloneAd );
+	} else {
+		tryCloneAd();
+	}
+})();
+</script>
+
 <div id="msnow-announcement" class="wp-block-msnbc-announcement" style="background-color: #e91717;">
 </div>
 
@@ -978,47 +999,7 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 			
 
 			<div style="padding-right:0;padding-left:0;" class="entry-content alignfull ends-with-logo wp-block-post-content has-fs-1125-font-size has-global-padding is-layout-constrained wp-container-core-post-content-is-layout-4feab9db wp-block-post-content-is-layout-constrained"><p>For much of the year, <a href="https://www.ms.now/donald-trump" target="_blank">Donald Trump</a> had reason to be pleased with national and battleground state polling. Four years ago, surveys showed the Republican struggling badly ahead of his eventual defeat. <a href="https://www.ms.now/2024-presidential-election" target="_blank">In 2024</a>, however, the data showed the former president consistently ahead.</p>
-<p>That is, until it didn’t.</p><div id="mps-getad-boxinline-1" class="mps-wrapper msnow-ad-boxinline" data-mps-fill-slot="boxinline"></div>
-<script>
-(function() {
-	const slotSelector = '#mps-getad-boxinline-1';
-	const adType = 'boxinline';
-	const mediaMatch = window.matchMedia( '(max-width: 1023px)' );
-
-	function tryCloneAd() {
-		if ( ! mediaMatch.matches ) {
-			return;
-		}
-		const el = document.querySelector( slotSelector );
-		if ( ! el || el.getAttribute( 'data-msnow-cloned' ) === '1' ) {
-			return;
-		}
-		if (
-			typeof mps !== 'undefined' &&
-			typeof mps.cloneAd === 'function' &&
-			mps._ext &&
-			mps._ext.loaded
-		) {
-			mps.cloneAd( slotSelector, adType );
-			el.setAttribute( 'data-msnow-cloned', '1' );
-		} else {
-			window.setTimeout( tryCloneAd, 100 );
-		}
-	}
-
-	function startViewportGatedClone() {
-		mediaMatch.addEventListener( 'change', tryCloneAd );
-		tryCloneAd();
-	}
-
-	if ( document.readyState === 'loading' ) {
-		document.addEventListener( 'DOMContentLoaded', startViewportGatedClone );
-	} else {
-		startViewportGatedClone();
-	}
-})();
-</script>
-
+<p>That is, until it didn’t.</p>
 <p>After incumbent President Joe Biden ended his re-election campaign and Vice President Kamala Harris’ candidacy gave Democrats a much-needed boost, public opinion research showed Trump’s advantage start to evaporate — both in head-to-head <a href="https://www.nytimes.com/interactive/2024/us/elections/polls-president.html" target="_blank">matchups</a> and on <a href="https://www.washingtonpost.com/politics/2024/08/14/harris-trump-biden-polling-economy-immigration/" target="_blank">key issues</a>.</p>
 <p>The GOP candidate and his political operation haven’t exactly handled the shift in a healthy way. Two weeks ago, for example, Team Trump embraced a “<a href="https://x.com/AndrewFeinberg/status/1820153881071886689" target="_blank">skewed polls</a>” message reminiscent of 2012. On his social media platform, the former president also tweaked his messaging, abandoning missives about polls, and instead touting what he described as <a href="https://x.com/TrumpDailyPosts/status/1822782435702308938" target="_blank">“real” polls</a> that told him what he wanted to hear.</p>
 <p>But it was his running mate, Republican Sen. JD Vance of Ohio, who took matters in a deeply weird direction. HuffPost <a href="https://www.huffpost.com/entry/jd-vance-fake-polls-trump-harris-election_n_66c22747e4b00547468b7864" target="_blank">reported</a>:</p>
@@ -1071,47 +1052,7 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 		
 </section>
 
-<p>Vance added, “If you talk to insiders in the Kamala Harris campaign, they are very worried about where they are.”</p><div id="mps-getad-boxinline-2" class="mps-wrapper msnow-ad-boxinline" data-mps-fill-slot="boxinline"></div>
-<script>
-(function() {
-	const slotSelector = '#mps-getad-boxinline-2';
-	const adType = 'boxinline';
-	const mediaMatch = window.matchMedia( '(max-width: 1023px)' );
-
-	function tryCloneAd() {
-		if ( ! mediaMatch.matches ) {
-			return;
-		}
-		const el = document.querySelector( slotSelector );
-		if ( ! el || el.getAttribute( 'data-msnow-cloned' ) === '1' ) {
-			return;
-		}
-		if (
-			typeof mps !== 'undefined' &&
-			typeof mps.cloneAd === 'function' &&
-			mps._ext &&
-			mps._ext.loaded
-		) {
-			mps.cloneAd( slotSelector, adType );
-			el.setAttribute( 'data-msnow-cloned', '1' );
-		} else {
-			window.setTimeout( tryCloneAd, 100 );
-		}
-	}
-
-	function startViewportGatedClone() {
-		mediaMatch.addEventListener( 'change', tryCloneAd );
-		tryCloneAd();
-	}
-
-	if ( document.readyState === 'loading' ) {
-		document.addEventListener( 'DOMContentLoaded', startViewportGatedClone );
-	} else {
-		startViewportGatedClone();
-	}
-})();
-</script>
-
+<p>Vance added, “If you talk to insiders in the Kamala Harris campaign, they are very worried about where they are.”</p>
 
 <figure class="wp-block-embed is-type-rich is-provider-oembed"><blockquote class="twitter-tweet" data-width="500" data-dnt="true"><p lang="en" dir="ltr">JD Vance: &quot;The media uses fake polls to drive down Republican turnout and to create dissension and conflict with Republican voters.&quot; <a href="https://t.co/2ELn6LBQ1z">pic.twitter.com/2ELn6LBQ1z</a></p>&mdash; Aaron Rupar (@atrupar) <a href="https://twitter.com/atrupar/status/1825169452884688938?ref_src=twsrc%5Etfw">August 18, 2024</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></figure>
 
@@ -1234,14 +1175,46 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 			</p>
 			
 
-			<ul style="font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.588), 1.25rem);" class="wp-block-latest-posts__list has-link-color wp-elements-0cbb514e648859f84061a292c35d85cd wp-block-latest-posts has-text-color has-grey-60-color has-merriweather-font-family"><li><a class="wp-block-latest-posts__post-title" href="https://www.ms.now/rachel-maddow-show/maddowblog/fox-news-poll-trump-immigration-democrats">New poll shows Republicans losing their advantage over Democrats on immigration</a></li>
+			<ul style="font-size:clamp(0.875rem, 0.875rem + ((1vw - 0.2rem) * 0.588), 1.25rem);" class="wp-block-latest-posts__list has-link-color wp-elements-0cbb514e648859f84061a292c35d85cd wp-block-latest-posts has-text-color has-grey-60-color has-merriweather-font-family"><li><a class="wp-block-latest-posts__post-title" href="https://www.ms.now/news/cia-ratcliffe-election-documents">Is the CIA enabling or restraining Trump’s election conspiracy theories?</a></li>
 </ul>
 		</div>
 		
 
 		
 		<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis: 310px">
-			
+			<div id="taboola-right-rail-thumbnails---bento"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || []; _taboola.push(
+		{
+			mode: 'thumbnails-rr',
+			container: 'taboola-right-rail-thumbnails---bento',
+			placement: 'Right Rail Thumbnails - Bento',
+			target_type: 'mix'
+		}
+	);
+</script>
+<div id="mps-getad-boxflex-1" class="mps-wrapper msnow-ad-boxflex" data-mps-fill-slot="boxflex"></div>
+<script>
+(function() {
+	function tryCloneAd() {
+		if ( typeof mps !== 'undefined' &&
+			typeof mps.cloneAd === 'function' &&
+			mps._ext &&
+			mps._ext.loaded ) {
+			mps.cloneAd( '#mps-getad-boxflex-1', 'boxflex' );
+		} else {
+			setTimeout( tryCloneAd, 100 );
+		}
+	}
+
+	if ( document.readyState === 'loading' ) {
+		document.addEventListener( 'DOMContentLoaded', tryCloneAd );
+	} else {
+		tryCloneAd();
+	}
+})();
+</script>
+
 		</div>
 		
 	</div>
@@ -1251,20 +1224,20 @@ var Jetpack_Block_Assets_Base_Url="https://www.ms.now/wp-content/mu-plugins/jetp
 
 
 <div class="wp-block-group has-global-padding is-layout-constrained wp-container-core-group-is-layout-fff56076 wp-block-group-is-layout-constrained">
-	
-
-	<div id="taboola-mobile-below-article---taboola-feed"></div>
+	<div id="taboola-below-article---taboola-feed"></div>
 <script type="text/javascript">
 	window._taboola = window._taboola || []; _taboola.push(
 		{
 			mode: 'thumbnails-feed-2x1',
-			container: 'taboola-mobile-below-article---taboola-feed',
-			placement: 'Mobile Below Article - Taboola Feed',
+			container: 'taboola-below-article---taboola-feed',
+			placement: 'Below Article - Taboola Feed',
 			target_type: 'mix'
 		}
 	);
 </script>
 
+
+	
 </div>
 
 
@@ -1434,8 +1407,8 @@ window.wpParselySiteId = 'ms.now';
 </script>
 <script src="https://www.ms.now/wp-content/mu-plugins/wp-parsely-3.23/build/loader.js?ver=ecf94842061bea03d54b" id="wp-parsely-loader-js"></script>
 <script data-parsely-site="ms.now" src="https://cdn.parsely.com/keys/ms.now/p.js?ver=3.23.4" id="parsely-cfg"></script>
-<script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/main.js?ver=1784744696" id="msnow-js-js"></script>
-<script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/privacy.js?ver=1784652514" id="msnow-privacy-js"></script>
+<script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/main.js?ver=1784820685" id="msnow-js-js"></script>
+<script src="https://www.ms.now/wp-content/themes/msnow/assets/dist/privacy.js?ver=1784820685" id="msnow-privacy-js"></script>
 <script src="https://www.queryly.com/js/queryly.v4.js?ver=4.0" id="msnow-queryly-js"></script>
 <script id="msnow-queryly-js-after">
 queryly.init('967c61c7c9d24cad', document.querySelectorAll('.wp-site-blocks'));

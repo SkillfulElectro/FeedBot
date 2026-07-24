@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 11:16:08 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 11:15:24 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 12:56:17 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 12:45:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/article/trump-tariffs-trade.html" rel="standout"></atom:link>
       <description>The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.</description>
       <dc:creator>Tony Romm, Edison Wu and Lazaro Gamio</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 11:14:51 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 12:24:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
@@ -137,14 +137,13 @@
       <pubDate>Fri, 24 Jul 2026 00:04:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swinton, Michael Emmanuel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swinton, Michael Emmanuel (1996-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
     </item>
     <item>
       <title>Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website</title>
@@ -260,6 +259,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-protest-memes-01-whkb/24int-india-protest-memes-01-whkb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saumya Khandelwal for The New York Times</media:credit>
       <media:description>Recording a video with a masked protester in New Delhi on Thursday.</media:description>
@@ -420,8 +420,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/opinion/24eks-katz-image/24eks-katz-image-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A Big Day for Math</title>
+      <link>https://www.nytimes.com/2026/07/24/briefing/a-big-day-for-math.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/briefing/a-big-day-for-math.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/briefing/a-big-day-for-math.html" rel="standout"></atom:link>
+      <description>Yesterday was a big day for mathematics. We look at the winners of the Fields Medals.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 11:44:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
     </item>
     <item>
       <title>Jimmy Fallon Pokes Fun at Trump’s ‘Pinky Herman’</title>

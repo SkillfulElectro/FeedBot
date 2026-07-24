@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 11:12:58 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 11:03:47 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 12:58:13 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 12:45:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -30,6 +30,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-protest-memes-01-whkb/24int-india-protest-memes-01-whkb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saumya Khandelwal for The New York Times</media:credit>
       <media:description>Recording a video with a masked protester in New Delhi on Thursday.</media:description>
@@ -159,7 +160,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/24/world/asia/korea-chey-tae-won-sk-hynix-divorce.html" rel="standout"></atom:link>
       <description>A South Korean court awarded $644 million to Roh Soh-yeong, who had sought much more from her ex-husband, Chey Tae-won, the head of the conglomerate behind SK Hynix.</description>
       <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 09:58:27 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 12:15:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SK Group</category>
@@ -280,13 +281,47 @@
       <media:description>A beach near Wolseong Nuclear Power Plant in Gyeongju, South Korea, in 2022. The country has one of the biggest nuclear power industries in the world.</media:description>
     </item>
     <item>
+      <title>Bangladesh’s President Resigns Amid Uncertainty Over Ex-Leader’s Plans</title>
+      <link>https://www.nytimes.com/2026/07/24/world/asia/bangladesh-president-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/world/asia/bangladesh-president-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/world/asia/bangladesh-president-resigns.html" rel="standout"></atom:link>
+      <description>President Mohammed Shahabuddin stepped down as speculation swirled over the possible return of his onetime ally Sheikh Hasina, who was ousted as prime minister and fled to India.</description>
+      <dc:creator>Max Kim and Saif Hasnat</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 11:54:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bangladesh Awami League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wazed, Hasina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shahabuddin, Mohammed</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmad, Hafiz Uddin</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-bangladesh-president-qcgb/24int-bangladesh-president-qcgb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mohammad Ponir Hossain/Reuters</media:credit>
+      <media:description>President Mohammed Shahabuddin of Bangladesh in Dhaka in February.</media:description>
+    </item>
+    <item>
+      <title>Russia and Ukraine Trade Blows With Missiles and Drones</title>
+      <link>https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/world/europe/russia-ukraine-war-attacks.html" rel="standout"></atom:link>
+      <description>Ukrainian strikes set fire to warehouses and other sites in Russia, and Russian bombing rocked Ukraine’s capital, as the two countries escalated a deadly air campaign.</description>
+      <dc:creator>Marc Santora</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 11:36:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/24/24-vid-wilberries-top-art-1-25978-cover/24-vid-wilberries-top-art-1-25978-cover-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>Social media, via Reuters</media:credit>
+    </item>
+    <item>
       <title>With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access</title>
       <link>https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html" rel="standout"></atom:link>
       <description>Companies in Africa and India will make generic versions of the pill that could cost as little as $5 per person per year. But access to the drug and other new products in much of Latin America remains uncertain.</description>
       <dc:creator>Stephanie Nolen</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 10:45:05 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 11:29:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generic Brands and Products</category>
@@ -308,7 +343,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Qasim Nauman, Farnaz Fassihi and Erika Solomon</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 09:06:53 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 12:45:40 +0000</pubDate>
     </item>
     <item>
       <title>On Instagram, Travelers Are Taking Risky Cross-Continental Journeys. What Could Go Wrong?</title>
@@ -1058,48 +1093,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-reax-Israel-saudi-tpfk/22int-reax-Israel-saudi-tpfk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
       <media:description>Nir Barkat, Israel’s minister of economy, in Tel Aviv last year. He has been the most senior Israeli government official to comment so far on the expected U.S.-Saudi nuclear deal.</media:description>
-    </item>
-    <item>
-      <title>Ukraine’s New Military Chief Faces a Monumental Test</title>
-      <link>https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html" rel="standout"></atom:link>
-      <description>Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.</description>
-      <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 12:33:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Drapatyi, Mykhailo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-ukraine-military-assess-cmkv/22int-ukraine-military-assess-cmkv-mediumSquareAt3X.jpg" width="1365"></media:content>
-      <media:credit>Ukrainian Presidential Press Service, via Reuters</media:credit>
-      <media:description>In a photograph released by the Ukrainian Presidential Press Service, Maj. Gen. Mykhailo Drapatyi attended a meeting with President Volodymyr Zelensky in Kyiv, Ukraine, on Monday.</media:description>
-    </item>
-    <item>
-      <title>Firing of Ukraine’s Top General Signals the End of an Era</title>
-      <link>https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html" rel="standout"></atom:link>
-      <description>Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.</description>
-      <dc:creator>Carlotta Gall</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 10:46:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakhmut (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/world/22int-ukraine-syrskyi-profile-oonn/22int-ukraine-syrskyi-profile-oonn-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vadim Ghirda/Associated Press</media:credit>
-      <media:description>Gen. Oleksandr Syrskyi in a trench position north of Kyiv, the capital of Ukraine, in 2022.</media:description>
     </item>
   </channel>
 </rss>

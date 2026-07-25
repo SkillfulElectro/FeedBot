@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 25 Jul 2026 11:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:02:46 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Democratizing weather derivatives through tokenization could be crypto's most important real-world use case]]></title>
+      <link>https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/498275a8ec5e7df835f47c58778db26eb7a40a00-6240x4160.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">e56e5b51-89e3-48d5-9454-ced99a32d287</guid>
+      <pubDate>Sat, 25 Jul 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole. ]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size]]></title>
       <link>https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size</link>
@@ -374,23 +388,6 @@
       <category domain="tag"><![CDATA[Coinbase]]></category>
       <category domain="tag"><![CDATA[SEC]]></category>
       <category domain="tag"><![CDATA[Ethereum News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto for Advisors: It’s time for tokenization to get to work]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/07/23/crypto-for-advisors-it-s-time-for-tokenization-to-get-to-work</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b8fcaabd55769e9d3a3a4778cf59bffb35f71375-5568x3712.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">ce7f28f1-88e1-4a8d-a4ee-608f992b3ebf</guid>
-      <pubDate>Thu, 23 Jul 2026 14:53:34 +0000</pubDate>
-      <description/>
-      <dc:creator>Jason Barraza</dc:creator>
-      <dc:creator>Joshua de Vos</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[Financial Advisors]]></category>
-      <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 25 Jul 2026 09:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 11:02:23 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size]]></title>
+      <link>https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/800c636f7f1593410f22ed849c8620a1f9d1cfd0-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ae9d0dd1-e339-4b7f-a71d-2addcf2c1eec</guid>
+      <pubDate>Sat, 25 Jul 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Robinhood]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Senate Dems should accept the victory they won on Trump's crypto limits: White House]]></title>
       <link>https://www.coindesk.com/policy/2026/07/24/senate-dems-should-accept-the-victory-they-won-on-trump-s-crypto-limits-white-house</link>
@@ -377,21 +391,6 @@
       <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
       <category domain="tag"><![CDATA[Financial Advisors]]></category>
       <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Uniswap pushes deeper into tokenized assets with permissioned trading pools]]></title>
-      <link>https://www.coindesk.com/business/2026/07/22/uniswap-pushes-deeper-into-tokenized-assets-with-permissioned-trading-pools</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/360fef2ec03b8a5acf252fa76d45c375526936f8-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">1c0b35e9-ec4b-489f-ab56-fac1c3f35160</guid>
-      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[The framework, developed with Superstate, Securitize and Dowgo, lets regulated funds and securities trade on Uniswap while enforcing compliance rules necessary for institutions.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 15:36:25 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 15:22:30 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:02:31 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 16:52:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions" rel="standout"></atom:link>
       <description>Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 15:22:30 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 16:52:07 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26europe-wildfires-wbqv/26europe-wildfires-wbqv-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Eva Manez/Reuters</media:credit>
     </item>
@@ -81,13 +81,14 @@
       <atom:link href="https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html" rel="standout"></atom:link>
       <description>The hunt for a 21-year-old man began early Sunday, in what officials called a likely act of Islamist terrorism.</description>
       <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 15:09:43 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 15:09:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vehicle-Ramming Attacks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-qgjt/26int-berlin-attack-qgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christian Mang/Reuters</media:credit>
       <media:description>Police officers on Sunday searching the area where a vehicle crashed into a crowd during a Pride parade in Berlin.</media:description>
@@ -99,19 +100,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html" rel="standout"></atom:link>
       <description>The Bundibugyo Ebola virus takes its name from this small town, where it was first discovered in 2007. Now, the species has returned to eastern Congo, halting life on a busy border.</description>
       <dc:creator>Matthew Mpoke Bigg and Stuart Tibaweswa</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 04:01:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kampala (Uganda)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kinshasa (Democratic Republic of Congo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <pubDate>Sun, 26 Jul 2026 15:47:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bundibugyo (Uganda)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/00int-ebola-uganda-town-promo-tblv/00int-ebola-uganda-town-promo-tblv-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Stuart Tibaweswa for The New York Times</media:credit>
     </item>
@@ -129,6 +126,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26xp-berlin-wwk1-qhbw/26xp-berlin-wwk1-qhbw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Annegret Hilse/Reuters</media:credit>
       <media:description>Law enforcement officers near a vehicle that crashed into a crowd in Berlin late Saturday.</media:description>
@@ -159,7 +157,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/26/world/middleeast/eu-debate-about-import-ban-reveals-deep-divides-over-israel.html" rel="standout"></atom:link>
       <description>The discussion about restricting goods from Israeli settlements in occupied territories reflects a European split over whether and how to confront Israel.</description>
       <dc:creator>Ephrat Livni and Fatima AbdulKarim</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 09:00:13 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 16:16:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
@@ -286,7 +284,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html" rel="standout"></atom:link>
       <description>Hundreds of thousands of people, residents as well as vacationers, were forced to evacuate or told to remain indoors.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 09:34:49 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 16:03:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
@@ -296,6 +294,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26int-europe-fires-visual-cmpg/26int-europe-fires-visual-cmpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cesar Manso/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Forced to Flee and Wait, Evacuees Wonder if Their Homes Still Stand</title>
+      <link>https://www.nytimes.com/2026/07/26/world/europe/spain-fires-evacuees-voices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/europe/spain-fires-evacuees-voices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/world/europe/spain-fires-evacuees-voices.html" rel="standout"></atom:link>
+      <description>In central Spain, thousands of people sleep in shelters or in their cars, some of them evacuated multiple times ahead of the advancing flames, awaiting word on what they left behind.</description>
+      <dc:creator>Carlos Barragán</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 16:52:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Felipe VI, King of Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Letizia, Queen of Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Avila (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Spain)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26europe-wildfires-voices-01-hcwb/26europe-wildfires-voices-01-hcwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joseph Fox for The New York Times</media:credit>
+      <media:description>Consuelo Lorza, 88, and her 11-year-old granddaughter, Sara, at an evacuation center in Villamanta, a town southwest of Madrid, on Sunday. </media:description>
     </item>
     <item>
       <title>Here’s the latest.</title>
@@ -381,6 +400,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caine, John Daniel (1968- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-header-wchq/22mideast-live-header-wchq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Trump departed for Dover Air Force Base on Wednesday to attend a dignified transfer ceremony for American service members killed in the war in Iran.</media:description>
@@ -419,6 +439,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Visas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-brazil-visas-wfvl/25int-brazil-visas-wfvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dado Galdieri for The New York Times</media:credit>
       <media:description>Police officers in the Brazilian capital, Brasília, last year. Ahead of presidential elections this year, Brazilian officials are concerned about possible attempts by U.S. officials to undermine confidence in the voting system. </media:description>
@@ -430,16 +451,16 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html" rel="standout"></atom:link>
       <description>The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers.</description>
       <dc:creator>Chico Harlan</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 18:29:11 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 16:35:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-conditions-topart-lqch/25europe-wildfires-conditions-topart-lqch-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Violeta Santos Moura/Reuters</media:credit>
-      <media:description>Firefighters outside El Tiemblo, Spain, on Friday. The areas of France and Spain with active wildfires suffered heat waves and dry conditions for weeks before the outbreaks.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26europe-fires-carousel-newblog-HP-thlq/26europe-fires-carousel-newblog-HP-thlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Julien De Rosa/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A damaged building in Le Porge, a coastal village west of Bordeaux, France. Wildfires have ravaged parts of Spain and France this summer.</media:description>
     </item>
     <item>
       <title>‘There have always been wildfires here, but never like this.’</title>
@@ -1096,25 +1117,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23mideast-live-iran-iraq-proposal-flwt/23mideast-live-iran-iraq-proposal-flwt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>Prime Minister Ali al-Zaidi of Iraq meeting with President Trump at the White House this month.</media:description>
-    </item>
-    <item>
-      <title>Senators Ask Hegseth to Fully Account for U.S. Troops Killed or Wounded in Iran</title>
-      <link>https://www.nytimes.com/2026/07/23/world/middleeast/iran-war-us-troops-hegseth-casualties.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/world/middleeast/iran-war-us-troops-hegseth-casualties.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/world/middleeast/iran-war-us-troops-hegseth-casualties.html" rel="standout"></atom:link>
-      <description>The 12 Democratic senators on the Armed Services Committee said Defense Secretary Pete Hegseth’s department had not provided “timely and comprehensive” reporting on casualties during the war.</description>
-      <dc:creator>Eric Schmitt</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 21:16:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hirono, Mazie K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23mideast-live-democrats-hegseth-topart-khvf/23mideast-live-democrats-hegseth-topart-khvf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Defense Secretary Pete Hegseth at Dover Air Force Base on Wednesday at a dignified transfer for U.S. Army soldiers killed in action during the war in Iran. </media:description>
     </item>
   </channel>
 </rss>

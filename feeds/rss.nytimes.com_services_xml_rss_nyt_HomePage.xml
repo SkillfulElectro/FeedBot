@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 23:33:25 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 23:20:47 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 03:14:36 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 03:11:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html" rel="standout"></atom:link>
       <description>Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.</description>
       <dc:creator>Eric Schmitt and Jonathan Swan</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 22:50:10 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 00:11:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -69,7 +69,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html" rel="standout"></atom:link>
       <description>The change in the number to 14 from 18 this week has prompted scrutiny over the Defense Department’s accounting and reporting practices.</description>
       <dc:creator>Tim Arango, Georgia Gee and Pooja Salhotra</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 18:34:35 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 18:34:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -86,6 +86,7 @@
       <dc:creator>Claire Moses, Carlos Barragán and Alan Yuhas</dc:creator>
       <pubDate>Sat, 25 Jul 2026 22:55:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cap Ferret (France)</category>
@@ -133,20 +134,21 @@
       <media:description>Beachgoers on Friday in Moutchic, in southwestern France, watching plumes of smoke from a wildfire.</media:description>
     </item>
     <item>
-      <title>Car Plows Into People Near a Pride Event in Berlin, Killing at Least One</title>
+      <title>Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack</title>
       <link>https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html" rel="standout"></atom:link>
-      <description>The police said a hunt for suspects was underway after the episode, which also injured at least 14 people, some seriously.</description>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 23:20:47 +0000</pubDate>
+      <description>The police said a suspect was involved in local Islamic groups and that there was a “strong suspicion” it was an act of terrorism. At least one person was killed and 16 injured.</description>
+      <dc:creator>Pranav Baskar and Verena Hölzl</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 03:11:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vehicle-Ramming Attacks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25INT-BERLIN-CAR-bzcj/25INT-BERLIN-CAR-bzcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-berlin-car-mgjl/25int-berlin-car-mgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christian Mang/Reuters</media:credit>
-      <media:description>Emergency responders after a car drove into the crowd on Saturday at the Tiergarten park in Berlin.</media:description>
+      <media:description>Emergency responders tended to an injured person on Saturday night after a car crashed into the crowd at the Tiergarten park in Berlin.</media:description>
     </item>
     <item>
       <title>Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race</title>
@@ -172,7 +174,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html" rel="standout"></atom:link>
       <description>Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.</description>
       <dc:creator>Bayliss Wagner, Lisa Lerer and Theodore Schleifer</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 19:03:07 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 19:03:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
@@ -189,6 +191,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/0726-maine-money-print1-sub/0726-maine-money-print1-sub-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Ryan David Brown for The New York Times</media:credit>
       <media:description>Senator Susan Collins’s campaign and its Republican allies have reserved about $60 million in airtime through the fall.</media:description>
+    </item>
+    <item>
+      <title>Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting</title>
+      <link>https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html" rel="standout"></atom:link>
+      <description>The ruling on Saturday was the latest rebuke to President Trump’s attacks on mail-in voting. The government says it may take the case to the Supreme Court.</description>
+      <dc:creator>Adam Sella</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 00:20:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25dc-mail-ballots-gzwk/25dc-mail-ballots-gzwk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philip Cheung for The New York Times</media:credit>
+      <media:description>Ballots being sorted at the Ballot Processing Center during California’s special election last year.</media:description>
     </item>
     <item>
       <title>Silicon Valley Splits Over Closing the Borders to Chinese A.I.</title>
@@ -291,38 +315,54 @@
       <media:credit>Devin Oktar Yalkin for The New York Times</media:credit>
     </item>
     <item>
-      <title>Why Vance Still Trumps Rubio</title>
-      <link>https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/opinion/vance-rubio-trump-iran.html" rel="standout"></atom:link>
-      <description>There’s no evidence that the president regards his vice president more skeptically because of his initial opposition to the war.</description>
-      <dc:creator>Ross Douthat</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 13:19:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25douthat-gwpl/25douthat-gwpl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
+      <title>The Dead End to Trump’s ‘Perfect’ War</title>
+      <link>https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html" rel="standout"></atom:link>
+      <description>Worst of all, the result may be that both Iran and Saudi Arabia end up with nuclear weapons.</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 12:05:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCaffrey, Barry R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/25kristof-zbvk/25kristof-zbvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Hendardy for The New York Times</media:credit>
     </item>
     <item>
-      <title>Nolan’s Zero-Eros ‘Odyssey’</title>
-      <link>https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html" rel="standout"></atom:link>
-      <description>Homer’s Odysseus was hardly a man of remorse and shame.</description>
-      <dc:creator>Maureen Dowd</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 15:08:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Homer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Book)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/opinion/25dowd-ody/25dowd-ody-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Heritage Images, via Getty Images</media:credit>
+      <title>A.I. Drones Are Coming. We Are Not Ready.</title>
+      <link>https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html" rel="standout"></atom:link>
+      <description>World leaders are marching us toward an uncertain era of new warfare — fast.</description>
+      <dc:creator>W.J. Hennigan</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 12:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anduril Industries Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Atomics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1519" medium="image" url="https://static01.nyt.com/images/2026/07/20/opinion/20hennigan-cover/20hennigan-cover-mediumSquareAt3X.png" width="1520"></media:content>
+      <media:credit>Aleksey Kondratyev for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

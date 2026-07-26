@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 03:14:36 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 03:11:55 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 06:18:16 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 05:49:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -140,12 +140,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html" rel="standout"></atom:link>
       <description>The police said a suspect was involved in local Islamic groups and that there was a “strong suspicion” it was an act of terrorism. At least one person was killed and 16 injured.</description>
       <dc:creator>Pranav Baskar and Verena Hölzl</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 03:11:55 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 05:49:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vehicle-Ramming Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-berlin-car-mgjl/25int-berlin-car-mgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christian Mang/Reuters</media:credit>
       <media:description>Emergency responders tended to an injured person on Saturday night after a car crashed into the crowd at the Tiergarten park in Berlin.</media:description>
@@ -315,54 +315,64 @@
       <media:credit>Devin Oktar Yalkin for The New York Times</media:credit>
     </item>
     <item>
-      <title>The Dead End to Trump’s ‘Perfect’ War</title>
-      <link>https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html" rel="standout"></atom:link>
-      <description>Worst of all, the result may be that both Iran and Saudi Arabia end up with nuclear weapons.</description>
-      <dc:creator>Nicholas Kristof</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 12:05:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <title>Ukraine Is Fighting for Freedom. Freedom Is for Everyone.</title>
+      <link>https://www.nytimes.com/2026/07/26/opinion/ukraine-lgbt-rights-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/opinion/ukraine-lgbt-rights-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/opinion/ukraine-lgbt-rights-war.html" rel="standout"></atom:link>
+      <description>The legal gap for gay Ukrainians has always been unbearable. Then the war with Russia seemed to make the disparity untenable. But the gap remains.</description>
+      <dc:creator>Alex Averbuch</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 05:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCaffrey, Barry R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/25kristof-zbvk/25kristof-zbvk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Hendardy for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
     </item>
     <item>
-      <title>A.I. Drones Are Coming. We Are Not Ready.</title>
-      <link>https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html" rel="standout"></atom:link>
-      <description>World leaders are marching us toward an uncertain era of new warfare — fast.</description>
-      <dc:creator>W.J. Hennigan</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 12:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anduril Industries Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Atomics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1519" medium="image" url="https://static01.nyt.com/images/2026/07/20/opinion/20hennigan-cover/20hennigan-cover-mediumSquareAt3X.png" width="1520"></media:content>
-      <media:credit>Aleksey Kondratyev for The New York Times</media:credit>
+      <title>Gen Z Fell Out of Love With Work. I Don’t Blame Them.</title>
+      <link>https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html" rel="standout"></atom:link>
+      <description>For Gen Z college graduates, the way millennials lived out their ambitions no longer makes sense.</description>
+      <dc:creator>Emi Nietfeld</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 15:08:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/23nietfeld-02-lmpz/23nietfeld-02-lmpz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo illustration by Rosie Clements for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola</title>
+      <link>https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html" rel="standout"></atom:link>
+      <description>The Bundibugyo Ebola virus takes its name from this small town, where it was first discovered in 2007. Now, the species has returned to eastern Congo, halting life on a busy border.</description>
+      <dc:creator>Matthew Mpoke Bigg and Stuart Tibaweswa</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 04:01:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kampala (Uganda)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kinshasa (Democratic Republic of Congo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Africa Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/00int-ebola-uganda-town-promo-tblv/00int-ebola-uganda-town-promo-tblv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stuart Tibaweswa for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

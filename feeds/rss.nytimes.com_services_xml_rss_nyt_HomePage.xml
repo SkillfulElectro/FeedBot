@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 14:39:48 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 14:37:35 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:55:04 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 16:51:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html" rel="standout"></atom:link>
       <description>“It’s hard to look at the last year and see anything other than a deliberate slowdown of these grants.”</description>
       <dc:creator>Emily Badger and Alicia Parlapiano</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 09:05:33 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 16:35:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
@@ -36,48 +36,13 @@
       <media:description>Passengers leaving and arriving on a stairwell at Boyston Station in Boston, Mass. as a E Branch train leaves the station on Monday, July 20.</media:description>
     </item>
     <item>
-      <title>U.S. Pauses Iran Strikes Amid Growing Risks, and Measles Cases Hit a New Record</title>
-      <link>https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/podcasts/the-headlines/us-iran-strikes-measles.html" rel="standout"></atom:link>
-      <description>Plus, the soaring costs of President Trump’s new Air Force One.</description>
-      <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas and Ian Stewart</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 10:00:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27headlines-cqlp/27headlines-cqlp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>President Trump has set aside, for now, plans to sharply escalate the U.S. military assault against Iran partly because of concerns of dwindling stockpiles of interceptor missiles, American officials said.</media:description>
-    </item>
-    <item>
-      <title>Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope</title>
-      <link>https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html" rel="standout"></atom:link>
-      <description>With surrounding towns in southwestern France evacuated and fire still spreading rapidly, several thousand are sheltering in the city, unsure what will become of their homes.</description>
-      <dc:creator>Mark Landler and Giulia Imbert</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 11:20:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-fires-chqf/27int-france-fires-chqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
-      <media:description>An exhibition center in Bordeaux, southwestern France, where people sheltered after being displaced by the wildfires on Sunday.</media:description>
-    </item>
-    <item>
       <title>Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus</title>
       <link>https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html" rel="standout"></atom:link>
       <description>A pyrocumulonimbus — a thundercloud created by intense heat — is a phenomenon that can spark new blazes and is “unprecedented in France,” officials said.</description>
       <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 11:26:23 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 16:04:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -111,7 +76,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html" rel="standout"></atom:link>
       <description>The Iran-backed Houthi militia in Yemen has seized on a vulnerable moment for neighboring Saudi Arabia, which does not want another war. The group hopes to force political concessions in Yemen that could give it more authority and more access to resources.</description>
       <dc:creator>Vivian Nereim and Shuaib Almosawa</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 14:37:35 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 16:03:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -142,13 +107,34 @@
       <media:description>President Trump and Prime Minister Benjamin Netanyahu of Israel are both facing electoral challenges in the months ahead.</media:description>
     </item>
     <item>
+      <title>Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks</title>
+      <link>https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html" rel="standout"></atom:link>
+      <description>The kingdom is being dragged deeper into the wider regional conflict as it faces attacks from Iraq and Yemen.</description>
+      <dc:creator>Ismaeel Naar</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 16:07:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27int-saudi-iraq-new-qbhp/27int-saudi-iraq-new-qbhp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Copernicus Sentinel-2, via Reuters</media:credit>
+      <media:description>A satellite image showing smoke rising from an oil facility in Abqaiq, in Saudi Arabia’s Eastern Province, on Monday.</media:description>
+    </item>
+    <item>
       <title>How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal</title>
       <link>https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html" rel="standout"></atom:link>
       <description>A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.</description>
       <dc:creator>Eli Tan and Maureen Farrell</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 14:25:47 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 15:31:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -196,23 +182,65 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
     </item>
     <item>
-      <title>The Fed’s New Chairman Faces His Biggest Test Yet</title>
-      <link>https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html" rel="standout"></atom:link>
-      <description>Kevin M. Warsh, who has said the Federal Reserve has “no tolerance” for elevated inflation, must decide whether he wants to push for an interest-rate increase at this week’s policy meeting.</description>
-      <dc:creator>Colby Smith</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 13:13:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <title>Trump Gutted the Kennedy Center. A Tour Guide Wants You to See It Anyway.</title>
+      <link>https://www.nytimes.com/2026/07/27/us/politics/kennedy-center-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/us/politics/kennedy-center-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/us/politics/kennedy-center-trump.html" rel="standout"></atom:link>
+      <description>In a dogged demonstration of love for a Washington institution, Sandy Weiswasser is among a few dozen volunteers still showing dwindling visitors a hollowed-out building.</description>
+      <dc:creator>Elizabeth Williamson</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 13:28:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opera</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27DC-FED-01-jblz/27DC-FED-01-jblz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jose Luis Magana/Associated Press</media:credit>
-      <media:description>Kevin M. Warsh, the Federal Reserve chairman, will have to decide whether to push for a rate increase at the central bank’s next meeting.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theaters (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Symphony Orchestra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington National Opera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Ballet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenhower, Dwight David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, John Fitzgerald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubenstein, David M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandy Weiswasser</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/us/00dc-kennedycenter-2/00dc-kennedycenter-2-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Sandy Weiswasser has been guiding tours at the John F. Kennedy Center for the Performing Arts for 18 years.</media:description>
+    </item>
+    <item>
+      <title>Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected</title>
+      <link>https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html" rel="standout"></atom:link>
+      <description>The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning.</description>
+      <dc:creator>Rebecca F. Elliott and Jamie Kelter Davis</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 16:18:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Holtec International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nuclear Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shah, Jigar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Three Mile Island (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Constellation Energy Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NextEra Energy Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/biz-nuclear-restart-03-kjgh/biz-nuclear-restart-03-kjgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Palisades opened in 1971 and was part of an early wave of reactors built in the United States.</media:description>
     </item>
     <item>
       <title>Can a Progressive Win in a Purple State? Abdul El-Sayed Wants to Find Out.</title>
@@ -235,135 +263,136 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27pol-el-sayed-02-jkzw/27pol-el-sayed-02-jkzw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27pol-el-sayed-02-jkzw/27pol-el-sayed-02-jkzw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Nick Hagen for The New York Times</media:credit>
       <media:description>Abdul El-Sayed, the Michigan Democratic Senate candidate, outside the First Unitarian Universalist Congregation of Ann Arbor last month.</media:description>
     </item>
     <item>
-      <title>Election Denier Alexander Kolodin Seeks to Run Arizona’s Elections as Secretary of State</title>
-      <link>https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/us/alexander-kolodin-election-denial-arizona.html" rel="standout"></atom:link>
-      <description>Arizona G.O.P. voters nominated Alexander Kolodin for secretary of state, despite, or perhaps because of, election denial efforts that earned him an admonition from the state bar association.</description>
-      <dc:creator>Reis Thebault</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 12:37:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kolodin, Alexander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swoboda, Gina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fontes, Adrian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>Democratic Socialist Francesca Hong Rises in Crowded Wisconsin Governor Race</title>
+      <link>https://www.nytimes.com/2026/07/27/us/wisconsin-governor-democratic-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/us/wisconsin-governor-democratic-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/us/wisconsin-governor-democratic-primary.html" rel="standout"></atom:link>
+      <description>Democrats must decide what brand to put forward: an establishment name or a candidate on the left who has garnered excitement.</description>
+      <dc:creator>Julie Bosman</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 12:19:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Secretary of State</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/us/27nat-kolodin/27nat-kolodin-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gage Skidmore/ZUMA Press Wire, via Reuters</media:credit>
-      <media:description>Alexander Kolodin at a Pass The Save America Act Rally in Tucson in April.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnes, Mandela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evers, Tony (1951- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tiffany, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25nat-wisconsin-governor-1-lzqp/25nat-wisconsin-governor-1-lzqp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Democratic candidates for governor of Wisconsin at a candidate forum included, from left to right in seats: Kelda Roys, Francesca Hong and Joel Brennan.</media:description>
     </item>
     <item>
-      <title>Even Before Attack, Berlin’s Gay Community Felt ‘More and More Unsafe’</title>
-      <link>https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/gay-community-berlin-attack.html" rel="standout"></atom:link>
-      <description>The killing of a woman in what officials called an act of Islamist terrorism rattled a community that has seen a surge in threats, including from the far right.</description>
-      <dc:creator>Jim Tankersley and Philip Kaleta</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 11:08:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Berlin Pride Attack (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vehicle-Ramming Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27germany-community-01-pvtg/27germany-community-01-pvtg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
-      <media:description>People mourn after an assailant plowed a rented van into a group of people celebrating Pride. </media:description>
+      <title>Even China’s A.I. Powerhouses Can’t Figure Out How to Profit Off A.I.</title>
+      <link>https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html" rel="standout"></atom:link>
+      <description>Chinese A.I. models are gaining ground. But the companies behind them do not have a clear strategy to make money from that success.</description>
+      <dc:creator>Meaghan Tobin</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 15:41:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-AI-Money-01-mbct/27Biz-China-AI-Money-01-mbct-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>People visit the Moonshot AI stand, featuring the Kimi K3 model, during the World Artificial Intelligence Conference in Shanghai.</media:description>
     </item>
     <item>
-      <title>Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack</title>
-      <link>https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html" rel="standout"></atom:link>
-      <description>Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May.</description>
-      <dc:creator>Amelia Nierenberg and Tatiana Firsova</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 13:33:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Probation and Parole</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dobrindt, Alexander (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27berlin-attack-cfmz/27berlin-attack-cfmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>John Macdougall/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A makeshift memorial in front of the Brandenburg Gate in Berlin on Sunday, after a fatal attack near a gay Pride celebration. </media:description>
+      <title>Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety</title>
+      <link>https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html" rel="standout"></atom:link>
+      <description>The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 15:44:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27biz-nvidia-security-jensen-qblg/27biz-nvidia-security-jensen-qblg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>Jensen Huang, Nvidia’s chief executive, has pushed for so-called open source A.I. that is built with his company’s computer chips.</media:description>
     </item>
     <item>
-      <title>Berlin Pride Attack: What We Know About the Suspected Act of Terrorism</title>
-      <link>https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html" rel="standout"></atom:link>
-      <description>A suspect was killed in a police shootout. He had tried to join ISIS and was sentenced to prison but released from detention in May with a suspended sentence.</description>
-      <dc:creator>Ali Watkins and Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 12:54:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Berlin Pride Attack (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vehicle-Ramming Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26xp-berlin-wwk1-qhbw/26xp-berlin-wwk1-qhbw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Annegret Hilse/Reuters</media:credit>
-      <media:description>Law enforcement officers near a vehicle that crashed into a crowd in Berlin late Saturday.</media:description>
+      <title>Microsoft Unveils A.I. Cybersecurity Tools</title>
+      <link>https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html" rel="standout"></atom:link>
+      <description>As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.</description>
+      <dc:creator>Cade Metz and Karen Weise</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 16:51:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suleyman, Mustafa</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27BIZ-MICROSOFT-CYBERSECURITY-1-gfpw/27BIZ-MICROSOFT-CYBERSECURITY-1-gfpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chona Kasinger for The New York Times</media:credit>
+      <media:description>Mustafa Suleyman, who oversees development of Microsoft’s A.I. models, says his company has deep knowledge of cybersecurity because its technology has faced so many attacks.</media:description>
     </item>
     <item>
-      <title>Ukrainian Attacks in Crimea Deprive Towns of Power and Water</title>
-      <link>https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/ukraine-drones-crimea-blackouts.html" rel="standout"></atom:link>
-      <description>Ukraine’s campaign to bring the war home to ordinary Russians is meant to pressure the Kremlin to negotiate. Moscow has acted as if there were no crisis.</description>
-      <dc:creator>Nataliya Vasilyeva</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 09:04:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27int-russia-crimea-blackout-gcvl/27int-russia-crimea-blackout-gcvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alexey Pavlishak/Reuters</media:credit>
-      <media:description>A pedestrian using a flashlight during a temporary power outage in Yevpatoriya, Crimea, this month.</media:description>
+      <title>Should We Make Daylight Saving Time Permanent?</title>
+      <link>https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html" rel="standout"></atom:link>
+      <description>More light at the day’s end comes at a price: much later winter sunrises across much of the U.S. Scientists have documented consequences for public health and the economy.</description>
+      <dc:creator>Lynne Peeples</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 14:52:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Daylight Saving Time</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biorhythms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunlight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lighting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00SCI-DST-01-thzb/00SCI-DST-01-thzb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kevin Lamarque/Reuters</media:credit>
     </item>
     <item>
-      <title>Iran War Forces Energy Buyers to ‘Unshackle’ From Global Markets</title>
-      <link>https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html" rel="standout"></atom:link>
-      <description>Developing Asian nations, scarred by Middle East supply shocks, are working to scale back their reliance on imported fuels, including liquefied natural gas.</description>
-      <dc:creator>River Akira Davis and Jes Aznar</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 04:01:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Prime Infra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vingroup JSC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Armada Oil Inc.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meralco PowerGen</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/Biz-LNG-Future-01-lvfw/Biz-LNG-Future-01-lvfw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:description>An offshore terminal was built in Batangas in 2023 to import L.N.G., but the country is now looking to source more gas domestically.</media:description>
+      <title>The Fed’s New Chairman Faces His Biggest Test Yet</title>
+      <link>https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html" rel="standout"></atom:link>
+      <description>Kevin M. Warsh, who has said the Federal Reserve has “no tolerance” for elevated inflation, must decide whether he wants to push for an interest-rate increase at this week’s policy meeting.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 13:13:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27DC-FED-01-jblz/27DC-FED-01-jblz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jose Luis Magana/Associated Press</media:credit>
+      <media:description>Kevin M. Warsh, the Federal Reserve chairman, will have to decide whether to push for a rate increase at the central bank’s next meeting.</media:description>
     </item>
     <item>
       <title>How a Novelist of the American Past Recovered His Faith in Its Future</title>
@@ -420,31 +449,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
     </item>
     <item>
-      <title>How To Protect Our Lead in the A.I Race</title>
-      <link>https://www.nytimes.com/2026/07/27/opinion/chips-ai-china-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/opinion/chips-ai-china-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/opinion/chips-ai-china-trump.html" rel="standout"></atom:link>
-      <description>America has produced its own kind of Sputnik. We should not squander it.</description>
-      <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 09:00:16 +0000</pubDate>
+      <title>If You’re Over 40, You’re Ready to Use A.I.</title>
+      <link>https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/opinion/teaching-kabbalah-ai.html" rel="standout"></atom:link>
+      <description>A.I. should work like this mystical Jewish practice.</description>
+      <dc:creator>Debbie Millman</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 16:30:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Volt Typhoon (Hacking Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liang Wenfeng</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Qiang (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/opinion/00chips-editorial-image/00chips-editorial-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by Rebecca Chew/The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">School of Visual Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
     </item>
     <item>
       <title>Protected No More</title>
@@ -461,6 +476,21 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/27themorning-nl1/26nat-immig-tps-2-zgjl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>Outside the Supreme Court last month.</media:description>
+    </item>
+    <item>
+      <title>At Least 3 Killed in Shooting at Food Festival in Seattle</title>
+      <link>https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html" rel="standout"></atom:link>
+      <description>Four others were injured near the city’s Space Needle, the authorities said. The police took a suspect into custody and were searching for another.</description>
+      <dc:creator>Yan Zhuang and Ishani Desai</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 13:52:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seattle (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="1737" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26xp-seattle-1/26xp-seattle-1-mediumSquareAt3X.jpg" width="1737"></media:content>
+      <media:credit>Nick Wagner/The Seattle Times, via Associated Press</media:credit>
+      <media:description>Police responding to a shooting at the Seattle Center during a food festival on Sunday.</media:description>
     </item>
   </channel>
 </rss>

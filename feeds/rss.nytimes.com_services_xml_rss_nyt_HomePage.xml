@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1785211946949" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 04:12:27 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 04:01:35 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:12:40 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 07:12:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -65,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html" rel="standout"></atom:link>
       <description>Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 04:01:35 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 04:01:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
@@ -73,36 +73,50 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-spain-madrid-1-fpcq/28int-spain-madrid-1-fpcq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
       <media:description>A burned home in Pelayos de la Presa, 40 miles west of Madrid, on Sunday.</media:description>
     </item>
     <item>
-      <title>Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus</title>
-      <link>https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html" rel="standout"></atom:link>
-      <description>A pyrocumulonimbus — a thundercloud created by intense heat — is a phenomenon that can spark new blazes and is “unprecedented in France,” officials said.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 16:04:03 +0000</pubDate>
+      <title>As Communities Unite Against Europe’s Wildfires, Politicians Trade Blows</title>
+      <link>https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html" rel="standout"></atom:link>
+      <description>Spain’s center-left accused conservatives of underfunding the disaster response, while critics of France’s government decried delays.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 19:36:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ayuso, Isabel Diaz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-fireclouds-tpbv/27europe-wildfires-fireclouds-tpbv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-response-vlmg/27europe-wildfires-response-vlmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Romain Perrocheau/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Smoke from wildfires north of the Arcachon basin in southwestern France last week.</media:description>
+      <media:description>Wildfires in Europe have fueled political spats.</media:description>
     </item>
     <item>
-      <title>Hundreds of Thousands Evacuate as Fires Tear Through Europe</title>
-      <link>https://www.nytimes.com/2026/07/27/briefing/france-spain-fires-daylight-saving-time.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/briefing/france-spain-fires-daylight-saving-time.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/briefing/france-spain-fires-daylight-saving-time.html" rel="standout"></atom:link>
-      <description>Also, Congress debates daylight saving time. Here’s the latest at the end of Monday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 21:55:03 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/27evening-nl-spain-france-fires-fader-mvbz/27evening-nl-spain-france-fires-fader-mvbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <title>Amid France Wildfires, Some Residents Help Firefighters Contain Blazes</title>
+      <link>https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html" rel="standout"></atom:link>
+      <description>With firefighters stretched thin, volunteers put themselves at risk, using water tanks, hoses and tractors to hold back flames from villages and farms in southwestern France.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 16:52:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27euro-promo-qtwl/27euro-promo-qtwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Romain Perrocheau/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Trump Blames Affordability Problems on Biden in Michigan Speech</title>
@@ -171,7 +185,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html" rel="standout"></atom:link>
       <description>President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.</description>
       <dc:creator>Kim Barker and Ken Bensinger</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 04:01:27 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 04:01:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
@@ -197,6 +211,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Pictures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Depp, Johnny</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ebenezer: A Christmas Carol (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27cul-johnny-depp-01-cqpj/27cul-johnny-depp-01-cqpj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Sandy Huffaker for The New York Times</media:credit>
       <media:description>Johnny Depp, dressed as the title character of “Ebenezer,” interacting with fans at Comic-Con International.</media:description>
@@ -355,70 +370,6 @@
       <media:credit>Kevin Lamarque/Reuters</media:credit>
     </item>
     <item>
-      <title>Tornado Damage Reported in Wisconsin as Storms Unleash Heavy Rain and Winds</title>
-      <link>https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html" rel="standout"></atom:link>
-      <description>Forecasters warned that more storms were expected into the evening stretching across the Midwest.</description>
-      <dc:creator>Judson Jones and Alexandra E. Petri</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 01:29:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-    </item>
-    <item>
-      <title>A Setback for the MAGA Media Takeover</title>
-      <link>https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/opinion/media-ellison-paramount.html" rel="standout"></atom:link>
-      <description>Trump is beatable if you take a page from his playbook and flood the zone with opposition.</description>
-      <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 23:52:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruffalo, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisen, Norman L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Brothers</category>
-      <media:content height="557" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27goldberg-fqgp/27goldberg-fqgp-mediumSquareAt3X.jpg" width="556"></media:content>
-      <media:credit>Paul Morigi/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>This Teen Took on a $10 Trillion Industry. We Might All Be Healthier Because of Him.</title>
-      <link>https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html" rel="standout"></atom:link>
-      <description>A teenager’s lawsuit against the food industry shows us the path to a better food system.</description>
-      <dc:creator>Julia Belluz</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 02:30:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Processed and Ultraprocessed Foods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nabisco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kraft Heinz Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Philip Morris Companies Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reynolds, R J, Tobacco Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-    </item>
-    <item>
       <title>Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole</title>
       <link>https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html</guid>
@@ -435,6 +386,75 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/nyregion/28xp-hiker-02/28xp-hiker-02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brad Reich</media:credit>
       <media:description>David Cifaldi and two friends were hiking toward the summit of Granite Peak in Montana last week when he slipped and fell on one of his trekking poles. It pierced his shirt and backpack.</media:description>
+    </item>
+    <item>
+      <title>‘You Aren’t Going to Like What Comes After America’</title>
+      <link>https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html" rel="standout"></atom:link>
+      <description>Remember when ‘blame Canada’ was a joke?</description>
+      <dc:creator>Chrystia Freeland</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 05:34:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28freeland-twcz/28freeland-twcz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Amber Bracken for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Putin Saw a Gap in Which He Could Act With Impunity. Let’s Close the Gap.</title>
+      <link>https://www.nytimes.com/2026/07/28/opinion/conquest-justice-putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/opinion/conquest-justice-putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/opinion/conquest-justice-putin.html" rel="standout"></atom:link>
+      <description>Justice may proceed slowly, and cautiously, but it does proceed.</description>
+      <dc:creator>Iryna Mudra, Mykola Yurlov, Taras Semenyuk and Mark Ellis</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 06:43:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+    </item>
+    <item>
+      <title>Late Night Roasts President Trump’s Attempt at Comedy</title>
+      <link>https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html" rel="standout"></atom:link>
+      <description>“And let’s just say Iran’s not the only thing he bombed,” Seth Meyers said of the president’s performance at the White House Correspondents’ Dinner.</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 06:27:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily Show with Jon Stewart (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Jon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyers, Seth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
+    </item>
+    <item>
+      <title>Tornado Damage Reported in Wisconsin as Storms Unleash Heavy Rain and Winds</title>
+      <link>https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html" rel="standout"></atom:link>
+      <description>Forecasters warned that more storms were expected into the evening stretching across the Midwest.</description>
+      <dc:creator>Judson Jones and Alexandra E. Petri</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 05:09:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28vid-wea-midwest-vjtp/28vid-wea-midwest-vjtp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Scott Olson/Getty Images</media:credit>
     </item>
   </channel>
 </rss>

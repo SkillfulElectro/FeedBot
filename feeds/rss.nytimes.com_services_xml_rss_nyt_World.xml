@@ -3,27 +3,145 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?NA=U8BtLvrx" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 07:12:27 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 07:12:12 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:05:07 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 10:01:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season</title>
-      <link>https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions" rel="standout"></atom:link>
-      <description>Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.</description>
+      <title>Massive Wildfires Draw Close to Madrid</title>
+      <link>https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html" rel="standout"></atom:link>
+      <description>Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 04:01:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-spain-madrid-1-fpcq/28int-spain-madrid-1-fpcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A burned home in Pelayos de la Presa, 40 miles west of Madrid, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Live Updates: 6.8-Magnitude Earthquake Strikes Japan</title>
+      <link>https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami" rel="standout"></atom:link>
+      <description>Fires and injuries were reported after the quake in the southwestern prefecture of Kumamoto, according to Japan’s state broadcaster. A tsunami warning was lifted.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 06:52:18 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-promo615p-pczg/27europe-wildfires-promo615p-pczg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manon Cruz/Reuters</media:credit>
+      <pubDate>Tue, 28 Jul 2026 10:01:09 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28japan-quake-promo/28xp-japan-quake-qptv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Caballero-Reynolds/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A tsunami warning following an earthquake in Japan on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?</title>
+      <link>https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html" rel="standout"></atom:link>
+      <description>President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.</description>
+      <dc:creator>Kim Barker and Ken Bensinger</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 08:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Loomer, Laura</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-zelensky-trump-01-wtjf/28int-zelensky-trump-01-wtjf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>President Trump with President Volodymyr Zelensky of Ukraine at Mar-a-Lago, in Palm Beach, Fla., last year.</media:description>
+    </item>
+    <item>
+      <title>Fire Raging Near Bordeaux Brings More Bad News for Its Vineyards</title>
+      <link>https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-fires-smoke.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-fires-smoke.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/bordeaux-wine-fires-smoke.html" rel="standout"></atom:link>
+      <description>One of the largest fires in modern French history is raging near the vineyards of Bordeaux. That is just the latest problem for France’s embattled wine industry.</description>
+      <dc:creator>Mark Landler and Giulia Imbert</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 08:58:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anson, Jane (Journalist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chateau Smith Haut Lafitte (Pessac-Leognan, France, Winery)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-bordeaux-1-jhlz/27int-france-bordeaux-1-jhlz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
+      <media:description>A vineyard at the Château Smith Haut Lafitte winery near Bordeaux on Monday.</media:description>
+    </item>
+    <item>
+      <title>‘We Are Not Learning Anything’: India’s Gen Z Rage Is a Test for Modi</title>
+      <link>https://www.nytimes.com/2026/07/28/world/asia/india-education-protests-cockraoch-genz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/asia/india-education-protests-cockraoch-genz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/asia/india-education-protests-cockraoch-genz.html" rel="standout"></atom:link>
+      <description>As India’s huge youth population surges, the government faces pressure to fix an education system that leaves many ill prepared for university, let alone for the workplace.</description>
+      <dc:creator>Pragati K.B. and Somini Sengupta</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:59:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tutors and Tutoring</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29INT-INDIA-EDUCATION-01-tmqj/29INT-INDIA-EDUCATION-01-tmqj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Protesters demanding the resignation of India’s education minister last week.</media:description>
+    </item>
+    <item>
+      <title>Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote</title>
+      <link>https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html" rel="standout"></atom:link>
+      <description>Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.</description>
+      <dc:creator>Zia ur-Rehman, Jalaluddin Mughal and Elian Peltier</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:09:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-pakistan-violence-jkmf/28int-pakistan-violence-jkmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Asim Hafeez for The New York Times</media:credit>
+      <media:description>Law enforcement personnel standing alert on Monday at a busy roundabout in Muzaffarabad, in the Pakistan-administered portion of Kashmir.</media:description>
+    </item>
+    <item>
+      <title>Drilling for Oil the Old-Fashioned Way in ‘Little Texas,’ Indonesia</title>
+      <link>https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html" rel="standout"></atom:link>
+      <description>Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.</description>
+      <dc:creator>Hasya Nindita and Ulet Ifansasti</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:34:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wells</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Java (Indonesia)</category>
     </item>
     <item>
       <title>How the Iran-Backed Houthis Cornered Saudi Arabia Into a New Conflict</title>
@@ -125,30 +243,6 @@
       <media:description>A pedestrian using a flashlight during a temporary power outage in Yevpatoriya, Crimea, this month.</media:description>
     </item>
     <item>
-      <title>India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent</title>
-      <link>https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html" rel="standout"></atom:link>
-      <description>The ‘Cockroach’ movement dispersed, saying its demands had been met, but there are larger issues about the country’s education system and the future of dissent.</description>
-      <dc:creator>Alex Travelli and Showkat Nanda</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 03:15:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bengal (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nilekani, Nandan M</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27INDIA-PROTESTS-ANALYSIS-01-jfhl/27INDIA-PROTESTS-ANALYSIS-01-jfhl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Priyanshu Singh/Reuters</media:credit>
-      <media:description>Sonam Wangchuk, an education activist, went on a hunger strike for 26 days to support the youth protests. Pictured in blue, center, he paid homage at a Mahatma Gandhi memorial site in New Delhi on Monday.</media:description>
-    </item>
-    <item>
       <title>Saudis Blame Iran-Backed Militias Based in Iraq for Drone Attacks</title>
       <link>https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/middleeast/saudi-arabia-drone-attacks-iraq-iran.html</guid>
@@ -171,26 +265,6 @@
       <media:description>A satellite image showing smoke rising from an oil facility in Abqaiq, in Saudi Arabia’s Eastern Province, on Monday.</media:description>
     </item>
     <item>
-      <title>Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack</title>
-      <link>https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html" rel="standout"></atom:link>
-      <description>Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May.</description>
-      <dc:creator>Amelia Nierenberg and Tatiana Firsova</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 15:56:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Probation and Parole</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dobrindt, Alexander (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27berlin-attack-cfmz/27berlin-attack-cfmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>John Macdougall/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A makeshift memorial in front of the Brandenburg Gate in Berlin on Sunday, after a fatal attack near a gay Pride celebration. </media:description>
-    </item>
-    <item>
       <title>Guyana Ferry Tragedy Exposes Political Rifts in Oil-Rich Country</title>
       <link>https://www.nytimes.com/2026/07/27/world/americas/guyana-ferry-accident-oil-economy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/americas/guyana-ferry-accident-oil-economy.html</guid>
@@ -211,152 +285,139 @@
       <media:description>A vigil for people who died in ferry sinking this month in Georgetown, Guyana.</media:description>
     </item>
     <item>
-      <title>15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea</title>
-      <link>https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html" rel="standout"></atom:link>
-      <description>Fifteen people remain missing after the cargo vessel went down in heavily disputed waters. China said it had rescued 47 people who had been aboard.</description>
-      <dc:creator>Tung Ngo and Max Kim</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 02:06:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spratly Islands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="764" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27int-vietnam-ship-flcm/27int-vietnam-ship-flcm-mediumSquareAt3X.jpg" width="765"></media:content>
-      <media:credit>Sansha Maritime Safety Administration, via Xinhua</media:credit>
-      <media:description>A Chinese vessel rescuing Vietnamese sailors after their cargo ship sank in the South China Sea on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope</title>
-      <link>https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html" rel="standout"></atom:link>
-      <description>With surrounding towns in southwestern France evacuated and fire still spreading rapidly, several thousand are sheltering in the city, unsure what will become of their homes.</description>
-      <dc:creator>Mark Landler and Giulia Imbert</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 11:20:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-fires-chqf/27int-france-fires-chqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
-      <media:description>An exhibition center in Bordeaux, southwestern France, where people sheltered after being displaced by the wildfires on Sunday.</media:description>
-    </item>
-    <item>
-      <title>U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes</title>
-      <link>https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html" rel="standout"></atom:link>
-      <description>President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.</description>
-      <dc:creator>Aaron Boxerman and Sanam Mahoozi</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 12:49:15 +0000</pubDate>
+      <title>As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks</title>
+      <link>https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html" rel="standout"></atom:link>
+      <description>Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump and have leverage over the Strait of Hormuz, analysts say.</description>
+      <dc:creator>Yeganeh Torbati</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:44:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26int-Iran-War-gpvc/26int-Iran-War-gpvc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>President Trump has struggled to decisively end the war with Iran, even as the global economic toll and number of American casualties have mounted.</media:description>
+      <media:content height="1748" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-iran-moment-tzvw/28int-iran-moment-tzvw-mediumSquareAt3X.jpg" width="1748"></media:content>
+      <media:credit>-/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Missiles on display in Azadi Square in Tehran on Friday.</media:description>
     </item>
     <item>
-      <title>The Accidental Hero Who Faced Down India’s Government</title>
-      <link>https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html" rel="standout"></atom:link>
-      <description>Abhijeet Dipke founded the Cockroach Janta Party as a joke after a judge insulted young people. The idea snowballed into a generational movement that has challenged the country’s leaders.</description>
-      <dc:creator>Showkat Nanda and Anupreeta Das</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 21:12:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26int-india-protests-dipke-01-ltqv/26int-india-protests-dipke-01-ltqv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
-      <media:description>Abhijeet Dipke, center, at a protest in New Delhi on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Massive Wildfires Draw Close to Madrid</title>
-      <link>https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html" rel="standout"></atom:link>
-      <description>Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 04:01:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <title>France and Spain Race to Tamp Down Wildfires Before Heat Wave Hits</title>
+      <link>https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html" rel="standout"></atom:link>
+      <description>Faced with unprecedented blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.</description>
+      <dc:creator>Carlos Barragán and Ségolène Le Stradic</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 10:01:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manu Fernandez/Associated Press</media:credit>
+      <media:description>Firefighters near Cebreros in Ávila Province in Spain early on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>How Do You Move 30 Beluga Whales? With Cranes, Planes and Anti-Anxiety Medicine.</title>
+      <link>https://www.nytimes.com/2026/07/28/world/canada/marineland-canada-beluga-whales-relocated.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/canada/marineland-canada-beluga-whales-relocated.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/canada/marineland-canada-beluga-whales-relocated.html" rel="standout"></atom:link>
+      <description>Relocating the whales from a closed marine attraction in Canada to aquariums in the United States and Spain requires coordination, permits and a police escort.</description>
+      <dc:creator>Remy Tumin</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:02:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aquariums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SeaWorld Entertainment Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shedd, John G, Aquarium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="">Beluga whales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Valencia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Diego (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mystic Aquarium</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-spain-madrid-1-fpcq/28int-spain-madrid-1-fpcq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A burned home in Pelayos de la Presa, 40 miles west of Madrid, on Sunday.</media:description>
     </item>
     <item>
-      <title>Drilling for Oil the Old-Fashioned Way in ‘Little Texas,’ Indonesia</title>
-      <link>https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/world/asia/indonesia-crude-oil-wells-drilling.html" rel="standout"></atom:link>
-      <description>Small pumps and truck engines are used to extract crude from the ground in parts of the country, which has tens of thousands of community-run oil wells.</description>
-      <dc:creator>Hasya Nindita and Ulet Ifansasti</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 05:35:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wells</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Java (Indonesia)</category>
-    </item>
-    <item>
-      <title>Zelensky and Trump Will Meet at the White House. Has Their Relationship Thawed?</title>
-      <link>https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html" rel="standout"></atom:link>
-      <description>President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.</description>
-      <dc:creator>Kim Barker and Ken Bensinger</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 04:01:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Loomer, Laura</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <title>Police Say Binance Is Making It Harder to Fight Crime</title>
+      <link>https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html" rel="standout"></atom:link>
+      <description>Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.</description>
+      <dc:creator>Michael Forsythe and David Yaffe-Bellany</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:00:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhao, Changpeng</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-zelensky-trump-01-wtjf/28int-zelensky-trump-01-wtjf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross/The New York Times</media:credit>
-      <media:description>President Trump with President Volodymyr Zelensky of Ukraine at Mar-a-Lago, in Palm Beach, Fla., last year.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/00inv-binance-01-wgpc/00inv-binance-01-wgpc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pedro Fiúza/NurPhoto, via Getty Images</media:credit>
+      <media:description>A Binance display at the 2022 Web Summit in Lisbon.</media:description>
+    </item>
+    <item>
+      <title>Cubans Aren’t Sleeping in Sweltering Blackouts</title>
+      <link>https://www.nytimes.com/video/world/americas/100000011002617/cubans-arent-sleeping-in-sweltering-blackouts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011002617/cubans-arent-sleeping-in-sweltering-blackouts.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/americas/100000011002617/cubans-arent-sleeping-in-sweltering-blackouts.html" rel="standout"></atom:link>
+      <description>Our reporter Jack Nicas visits a sweltering Cuba where, six months into the Trump administration’s oil blockade, people struggle to sleep with no electricity for fans or air-conditioning.</description>
+      <dc:creator>Jack Nicas, Leila Medina and Alex Pena</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+    </item>
+    <item>
+      <title>Beyond Amsterdam and Venice: 6 Delightful European Canal Cities</title>
+      <link>https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/travel/europe-alternative-canal-cities.html" rel="standout"></atom:link>
+      <description>From culture in Hamburg to sweet confections in Aveiro, the charms of these places are revealed as you drift down uncrowded waterways.</description>
+      <dc:creator>Noëlle de Leeuw</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Heritage Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amsterdam (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aveiro (Portugal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ghent (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haarlem (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamburg (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strasbourg (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venice (Italy)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/00trav-european-canals-qzfp/00trav-european-canals-qzfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Clara Tuma for The New York Times</media:credit>
+      <media:description>The “Petite France” neighborhood in Strasbourg.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami/japan-earthquake-kumamoto-tsunami</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami/japan-earthquake-kumamoto-tsunami</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami/japan-earthquake-kumamoto-tsunami" rel="standout"></atom:link>
+      <description>The quake struck near the coastal city of Uto in southern Japan. There were no immediate reports of damage.</description>
+      <dc:creator>Francesca Regalado, River Akira Davis and Leo Sands</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 10:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tidal Waves and Tsunamis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto Prefecture (Japan)</category>
     </item>
     <item>
       <title>Southeast Asian Resort Towns Suffer as Iran War Keeps European Tourists Away</title>
@@ -365,7 +426,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/world/asia/iran-war-southeast-asia-tourism.html" rel="standout"></atom:link>
       <description>Soaring airfares and disruptions to Middle Eastern travel hubs are keeping many travelers away from destinations in Cambodia, Thailand and Indonesia.</description>
       <dc:creator>John Yoon, Muktita Suhartono and Lauren DeCicca</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 04:51:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 08:09:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southeast Asia</category>
@@ -420,7 +481,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/27/world/india-cockroach-protests-spain-france-fires.html" rel="standout"></atom:link>
       <description>Narendra Modi caved to the demands of India’s young people — a nod to their real power.</description>
       <dc:creator>Alicia P.Q. Wittmeyer</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 04:34:36 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 08:08:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
@@ -533,6 +594,30 @@
       <media:credit>Romain Perrocheau/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
+      <title>India’s ‘Cockroach’ Protesters Disperse, But Questions Remain on Education and Dissent</title>
+      <link>https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/world/asia/india-protests-cjp-education-modi.html" rel="standout"></atom:link>
+      <description>The ‘Cockroach’ movement dispersed, saying its demands had been met, but there are larger issues about the country’s education system and the future of dissent.</description>
+      <dc:creator>Alex Travelli and Showkat Nanda</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 07:40:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bengal (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nilekani, Nandan M</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27INDIA-PROTESTS-ANALYSIS-01-jfhl/27INDIA-PROTESTS-ANALYSIS-01-jfhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Priyanshu Singh/Reuters</media:credit>
+      <media:description>Sonam Wangchuk, an education activist, went on a hunger strike for 26 days to support the youth protests. Pictured in blue, center, he paid homage at a Mahatma Gandhi memorial site in New Delhi on Monday.</media:description>
+    </item>
+    <item>
       <title>New Heat Wave Could Intensify Wildfires in France and Spain</title>
       <link>https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html</guid>
@@ -568,6 +653,48 @@
       <media:description>Smoke from wildfires north of the Arcachon basin in southwestern France last week.</media:description>
     </item>
     <item>
+      <title>15 Sailors Still Missing After Vietnamese Cargo Ship Sank in South China Sea</title>
+      <link>https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/world/asia/vietnam-south-china-sea-ship-sink.html" rel="standout"></atom:link>
+      <description>Fifteen people remain missing after the cargo vessel went down in heavily disputed waters. China said it had rescued 47 people who had been aboard.</description>
+      <dc:creator>Tung Ngo and Max Kim</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 02:06:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spratly Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="764" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27int-vietnam-ship-flcm/27int-vietnam-ship-flcm-mediumSquareAt3X.jpg" width="765"></media:content>
+      <media:credit>Sansha Maritime Safety Administration, via Xinhua</media:credit>
+      <media:description>A Chinese vessel rescuing Vietnamese sailors after their cargo ship sank in the South China Sea on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Merz Criticizes Terrorism Laws After Deadly Berlin Pride Attack</title>
+      <link>https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/berlin-pride-attack-suspect-isis.html" rel="standout"></atom:link>
+      <description>Chancellor Friedrich Merz of Germany called for tighter monitoring after the authorities said the suspect in the assault had tried to join ISIS and was released from detention in May.</description>
+      <dc:creator>Amelia Nierenberg and Tatiana Firsova</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 15:56:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Probation and Parole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dobrindt, Alexander (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27berlin-attack-cfmz/27berlin-attack-cfmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Macdougall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A makeshift memorial in front of the Brandenburg Gate in Berlin on Sunday, after a fatal attack near a gay Pride celebration. </media:description>
+    </item>
+    <item>
       <title>How Cubans Are Surviving a Fuel Crisis</title>
       <link>https://www.nytimes.com/video/world/americas/100000011024495/cuba-power-crisis-oil-solutions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011024495/cuba-power-crisis-oil-solutions.html</guid>
@@ -593,6 +720,25 @@
       <description></description>
       <dc:creator>Leo Sands, Carlos Barragán, Mark Landler and Ségolène Le Stradic</dc:creator>
       <pubDate>Mon, 27 Jul 2026 19:39:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope</title>
+      <link>https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html" rel="standout"></atom:link>
+      <description>With surrounding towns in southwestern France evacuated and fire still spreading rapidly, several thousand are sheltering in the city, unsure what will become of their homes.</description>
+      <dc:creator>Mark Landler and Giulia Imbert</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 11:20:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27int-france-fires-chqf/27int-france-fires-chqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
+      <media:description>An exhibition center in Bordeaux, southwestern France, where people sheltered after being displaced by the wildfires on Sunday.</media:description>
     </item>
     <item>
       <title>A South African Identity Crisis</title>
@@ -657,6 +803,31 @@
       <media:description>Law enforcement officers near a vehicle that crashed into a crowd in Berlin late Saturday.</media:description>
     </item>
     <item>
+      <title>The Accidental Hero Who Faced Down India’s Government</title>
+      <link>https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/world/asia/india-protests-cockroach-janta-party-abhijeet-dipke.html" rel="standout"></atom:link>
+      <description>Abhijeet Dipke founded the Cockroach Janta Party as a joke after a judge insulted young people. The idea snowballed into a generational movement that has challenged the country’s leaders.</description>
+      <dc:creator>Showkat Nanda and Anupreeta Das</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 21:12:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26int-india-protests-dipke-01-ltqv/26int-india-protests-dipke-01-ltqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>Abhijeet Dipke, center, at a protest in New Delhi on Saturday.</media:description>
+    </item>
+    <item>
       <title>Berlin Pride Event Attacker Killed in Police Shootout, Officials Say</title>
       <link>https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html</guid>
@@ -676,6 +847,32 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-kjzb/26int-berlin-attack-kjzb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ebrahim Noroozi/Associated Press</media:credit>
       <media:description>A day after the attack, grief-stricken people gathered near the Brandenburg Gate.</media:description>
+    </item>
+    <item>
+      <title>U.S.-Iran War Pauses for 2nd Straight Day With Both Sides Holding Off on Strikes</title>
+      <link>https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/world/middleeast/us-iran-war-pause.html" rel="standout"></atom:link>
+      <description>President Trump put off plans to escalate the fighting in part because of dwindling stockpiles of interceptor missiles, American officials said.</description>
+      <dc:creator>Aaron Boxerman and Sanam Mahoozi</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 12:49:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26int-Iran-War-gpvc/26int-Iran-War-gpvc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>President Trump has struggled to decisively end the war with Iran, even as the global economic toll and number of American casualties have mounted.</media:description>
     </item>
     <item>
       <title>Here’s the latest.</title>
@@ -900,222 +1097,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-bordeaux-wtk-topart-kcqg/25europe-wildfires-bordeaux-wtk-topart-kcqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manon Cruz/Reuters</media:credit>
       <media:description>An exhibition center in Bordeaux, used to house people evacuated from the nearby regions swept by wildfire.</media:description>
-    </item>
-    <item>
-      <title>What’s Left of the Cease-Fire Agreement Between the U.S. and Iran?</title>
-      <link>https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html" rel="standout"></atom:link>
-      <description>Nearly all of the agreement’s 14 points have been violated.</description>
-      <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 14:46:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-iran-mou-mkzv/25int-iran-mou-mkzv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>A mural commemorating Iran’s former supreme leader, Ayatollah Ali Khamenei, in Tehran. Since a deal between the United States and Iran was signed last month, nearly all of its provisions have been violated.</media:description>
-    </item>
-    <item>
-      <title>Bus Collision in Syria Kills 35, Health Ministry Says</title>
-      <link>https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/middleeast/bus-collision-syria.html" rel="standout"></atom:link>
-      <description>The accident occurred when a civilian bus collided with another carrying members of the Syrian security forces on a highway in the center of the country.</description>
-      <dc:creator>Abdi Latif Dahir</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 14:25:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Damascus (Syria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="853" medium="image" url="https://static01.nyt.com/images/2026/07/25/world/25int-syria-crash/25int-syria-crash-mediumSquareAt3X.jpg" width="854"></media:content>
-      <media:credit>Syria Civil Defense</media:credit>
-      <media:description>A photo released by the Syria Civil Defense rescue service on Sunday showing the site of an accident involving two buses.</media:description>
-    </item>
-    <item>
-      <title>Latest updates.</title>
-      <link>https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/france-spain-wildfires-evacuations" rel="standout"></atom:link>
-      <description>Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.</description>
-      <dc:creator>Claire Moses and Carlos Barragán</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 20:03:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cap Ferret (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-    </item>
-    <item>
-      <title>As Trump Escalates Trade War With Canada, Ontario Premier Doug Ford Wants to Retaliate</title>
-      <link>https://www.nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/canada/trump-tariffs-trade-wildfires-smoke.html" rel="standout"></atom:link>
-      <description>While Mark Carney weighs his next steps, some provincial leaders point to oil, electricity and potash as powerful leverage against U.S. economic pressure.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 12:52:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thunder Bay (Ontario)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-canada-letter-pmvg/25int-canada-letter-pmvg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Evelyn Hockstein/Reuters</media:credit>
-      <media:description>Canada’s prime minister, Mark Carney, and President Trump in the Oval Office at the White House on Oct. 7, 2025.</media:description>
-    </item>
-    <item>
-      <title>What to Know About the Deadly Wildfires Raging in Western Europe</title>
-      <link>https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html" rel="standout"></atom:link>
-      <description>Hundreds of thousands of people in France and Spain have been forced to evacuate from huge blazes fueled by soaring temperatures and tinder-dry conditions.</description>
-      <dc:creator>Aurelien Breeden and Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 08:29:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lecornu, Sebastien</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-europe-fires-wtk-mjqc/25int-europe-fires-wtk-mjqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stephane Mahe/Reuters</media:credit>
-      <media:description>Firefighters in Lège-Cap-Ferret, France, less than 30 miles west of Bordeaux, on Friday.</media:description>
-    </item>
-    <item>
-      <title>India’s Education Minister Steps Down in Victory for Cockroach Party Protesters</title>
-      <link>https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html" rel="standout"></atom:link>
-      <description>The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains.</description>
-      <dc:creator>Anupreeta Das and Showkat Nanda</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 17:07:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dipke, Abhijeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
-      <media:description>Abhijeet Dipke, founder of the Cockroach Janta Party, in New Delhi on Saturday celebrating the resignation of India’s education minister.</media:description>
-    </item>
-    <item>
-      <title>Wildfire Smoke Chokes Skies in Spain and France</title>
-      <link>https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html" rel="standout"></atom:link>
-      <description>Hundreds of thousands of people have been forced to evacuate or told to take shelter inside.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 12:48:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/27/00vid-visualstack-wildfires-5-31458-cover/00vid-visualstack-wildfires-5-31458-cover-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>Spanish Military Emergencies Unit, via Agence France-Presse</media:credit>
-    </item>
-    <item>
-      <title>Iran Journey Reveals Society’s Wartime Defiance and Hope</title>
-      <link>https://www.nytimes.com/2026/07/25/world/middleeast/iran-war-journey-scars.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/middleeast/iran-war-journey-scars.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/middleeast/iran-war-journey-scars.html" rel="standout"></atom:link>
-      <description>From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.</description>
-      <dc:creator>Abdi Latif Dahir and Emile Ducke</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 12:11:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A portrait of a defiant Ayatollah Ali Khamenei looms over Tehran streets.</media:description>
-    </item>
-    <item>
-      <title>Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities</title>
-      <link>https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html" rel="standout"></atom:link>
-      <description>Colombia’s president-elect, a lawyer, represented accused drug traffickers, among others. While living in Miami, he himself was investigated by U.S. authorities, though never charged.</description>
-      <dc:creator>Annie Correal and David Ovalle</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 17:20:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergio Acero/Reuters</media:credit>
-      <media:description>The Colombian president-elect Abelardo De La Espriella with a sign for his political movement, Defenders of the Homeland.</media:description>
-    </item>
-    <item>
-      <title>How Tā Moko, the Māori Tattoo Art, Made A Comeback in New Zealand</title>
-      <link>https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html" rel="standout"></atom:link>
-      <description>Young Māori in New Zealand are embracing tā moko, the ritual tattoos that were banned under British colonial rule and became an act of protest in the 1970s.</description>
-      <dc:creator>Francesca Regalado and Tatsiana Chypsanava</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 01:14:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maori</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tattoos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Face</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/00xp-tattoos-lbzg/00xp-tattoos-lbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Two men perform a hongi, a traditional Māori greeting, at a regional festival in Whakatāne on New Zealand’s North Island in February.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Aaron Boxerman, Ismaeel Naar, Marc Santora and Eric Schmitt</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 02:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

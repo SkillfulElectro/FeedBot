@@ -3,47 +3,25 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1785416642537" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 13:04:02 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 13:00:29 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:28:09 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 15:21:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Markets Challenge Warsh’s Approach to Taming Inflation</title>
-      <link>https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html" rel="standout"></atom:link>
-      <description>Kevin M. Warsh has made controlling inflation the top priority of his tenure as Federal Reserve chairman. But his hesitancy to embrace the possibility of higher borrowing costs has sparked a backlash.</description>
-      <dc:creator>Colby Smith</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 12:42:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brainard, Lael</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30DC-FED-tgfj/30DC-FED-tgfj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brendan Mcdermid/Reuters</media:credit>
-      <media:description>Traders on the floor of the New York Stock Exchange as a screen broadcasts a news conference by Federal Reserve Chairman Kevin Warsh on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>U.S. Economic Growth Slowed in the Second Quarter</title>
+      <title>U.S. GDP Growth Slowed in Second Quarter of 2026</title>
       <link>https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html" rel="standout"></atom:link>
-      <description>Gross domestic product expanded at a 1.5 percent annual rate over the past three months, as war in the Middle East shook energy prices and supply chains.</description>
+      <description>Gross domestic product grew at a slower rate in the second quarter and persistent price pressures are unsettling financial markets.</description>
       <dc:creator>Talmon Joseph Smith</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 12:57:04 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 14:21:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
@@ -54,8 +32,30 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
-      <media:content height="1333" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/2026-july-biz-promos-gdp/2026-july-biz-promos-gdp-mediumSquareAt3X-v4.png" width="1333"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/2026-july-biz-promos-gdp/2026-july-biz-promos-gdp-mediumSquareAt3X-v9.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Markets Challenge Warsh’s Approach to Taming Inflation</title>
+      <link>https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html" rel="standout"></atom:link>
+      <description>Kevin M. Warsh has made controlling inflation the top priority of his tenure as Federal Reserve chairman. But his hesitancy to embrace the possibility of higher borrowing costs has sparked a backlash.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 15:10:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brainard, Lael</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/30DC-FED-tgfj/30DC-FED-tgfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan Mcdermid/Reuters</media:credit>
+      <media:description>Traders on the floor of the New York Stock Exchange as a screen broadcasts a news conference by Federal Reserve Chairman Kevin Warsh on Wednesday.</media:description>
     </item>
     <item>
       <title>Fed’s Preferred Inflation Gauge Eased During Pause in Iran War</title>
@@ -112,74 +112,44 @@
       <media:description>The United States is again exchanging strikes with Iran, just days after the president appeared to reject plans to escalate.</media:description>
     </item>
     <item>
-      <title>U.S. Strikes Iran Again, as Trump Encounters a More Determined Adversary in Widened War</title>
-      <link>https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html" rel="standout"></atom:link>
-      <description>The United States is again exchanging strikes with Iran, just days after the president appeared to reject plans to escalate.</description>
-      <dc:creator>Julian E. Barnes, Helene Cooper and Eric Schmitt</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 02:28:39 +0000</pubDate>
+      <title>Attack on Egyptian Port Shows Suez Canal’s Vulnerability</title>
+      <link>https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html" rel="standout"></atom:link>
+      <description>The port where the Wednesday strike occurred is near the Suez Canal, through which a significant amount of the world’s shipping moves.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 15:21:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29dc-military-iran-01-bvjk/29dc-military-iran-01-bvjk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump in Oakland County Michigan on Monday. The war that President Trump has been trying to bring to a diplomatic conclusion since April is now threatening to grow bigger.</media:description>
-    </item>
-    <item>
-      <title>U.S.-Saudi Attack on Iraqi Militias Risks Drawing Them into War</title>
-      <link>https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/world/europe/iraqi-militias-iran-war-saudi-arabia-us.html" rel="standout"></atom:link>
-      <description>Iran-aligned militias in Iraq were under growing pressure to disarm, but the latest strikes may embolden them to get more deeply involved in the war.</description>
-      <dc:creator>Erika Solomon and Falih Hassan</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 06:20:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Suez Canal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iraqi Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Mobilization Forces (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30int-iran-iraq-1-vqtb/30int-iran-iraq-1-vqtb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hadi Mizban/Associated Press</media:credit>
-      <media:description>Mourners carried a coffin draped in the Iranian flag during a funeral for those killed in airstrikes on bases belonging to Iraq’s Popular Mobilization Forces, in Mosul on Wednesday </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Aden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30mideast-live-suez-hjgp/30mideast-live-suez-hjgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mohamed Abd El Ghany/Reuters</media:credit>
+      <media:description>Ships in the Suez Canal last year. About 10 percent of seaborne trade goes through the waterway, according to the Suez Canal Authority. </media:description>
     </item>
     <item>
-      <title>Families Face Anxiety, Angst as Loved Ones Are Deployed to Fight Iran</title>
-      <link>https://www.nytimes.com/2026/07/29/us/iran-war-military-families-anxiety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/iran-war-military-families-anxiety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/us/iran-war-military-families-anxiety.html" rel="standout"></atom:link>
-      <description>As the war with Iran has continued, some are finding that the stress is bringing back old anxieties.</description>
-      <dc:creator>Bernard Mokam and Georgia Gee</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 21:10:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <title>U.S. Sees Iran as Likely Behind Cyberattack on Minnesota Water Systems</title>
+      <link>https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/politics/minnesota-water-cyberattack-iran.html" rel="standout"></atom:link>
+      <description>Investigators cautioned that the assessment was preliminary. There were no indications that any water supply had been rendered unsafe to drink.</description>
+      <dc:creator>Dustin Volz and Ernesto Londoño</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 14:44:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Star Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marine Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cybersecurity and Infrastructure Security Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26nat-war-couseling-mpfc/26nat-war-couseling-mpfc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Mental health counselors say they are attending to more military families who are reporting stress and anxiety about a conflict that has taken the lives of at least 18 service members and wounded more than 400.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30dc-cyberattack-mwvb/30dc-cyberattack-mwvb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jenn Ackerman for The New York Times</media:credit>
+      <media:description>Dozens of municipal water systems in Minnesota were the targets of a cyberattack this week.</media:description>
     </item>
     <item>
       <title>After Obamacare Cuts, Hospitals Are Treating More Uninsured Patients</title>
@@ -188,7 +158,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html" rel="standout"></atom:link>
       <description>More people who lost coverage after congressional Republicans ended enhanced federal subsidies are now seeking care in emergency rooms and unable to pay bills.</description>
       <dc:creator>Reed Abelson</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:02:55 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 14:27:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
@@ -225,13 +195,13 @@
       <media:description>A burned airplane fuselage used in firefighting exercises at Cannon Air Force Base in New Mexico, a PFAS-contaminated site.</media:description>
     </item>
     <item>
-      <title>Poland’s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack</title>
+      <title>NATO Says Russian Missile Hit Poland During Ukraine Attack</title>
       <link>https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html" rel="standout"></atom:link>
-      <description>Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck Poland overnight.</description>
+      <description>Russian missiles have briefly entered Polish airspace in the past. Investigators have yet to definitively identify the object that struck overnight.</description>
       <dc:creator>Lara Jakes and Constant Méheut</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 10:57:22 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 15:03:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
@@ -241,16 +211,16 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30int-ukraine-poland-jkbf/30int-ukraine-poland-jkbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fot. Jakub Orzechowski/Agencja Wyborcza.Pl, via Reuters</media:credit>
-      <media:description>Emergency services at the site where an object landed near Lublin, Poland.</media:description>
+      <media:description>Emergency services on Thursday at the site where an object landed near Lublin, Poland.</media:description>
     </item>
     <item>
       <title>Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8</title>
       <link>https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky of Ukraine said that a family of five had been killed at home in the latest in a series of large-scale aerial assaults by Moscow.</description>
+      <description>President Volodymyr Zelensky of Ukraine said five members of a family had been killed in the latest large-scale aerial assault by Moscow.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 10:37:17 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 14:46:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
@@ -261,71 +231,53 @@
       <media:description>In Lviv, western Ukraine, on Thursday morning, at the site of a Russian missile strike. The overnight attack pushed Russia’s use of ballistic missiles to a new monthly record.</media:description>
     </item>
     <item>
-      <title>As China’s A.I. Gets Stronger, It Poses New Risks to Beijing</title>
-      <link>https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html" rel="standout"></atom:link>
-      <description>China’s A.I. rise is creating a new dilemma for Beijing. The open models that win influence abroad may pose risks to the country’s security and geopolitical strategy.</description>
-      <dc:creator>David Pierson and Berry Wang</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:02:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DoorDash (Mobile App)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/00int-china-ai-controls-01-pljb/00int-china-ai-controls-01-pljb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Ng Han Guan</media:credit>
-      <media:description>The Chinese leader Xi Jinping opening the World A.I. Conference in Shanghai, China, in July. Even as China supports openness in A.I., it needs to “constantly refine measures to forestall loss of control,” he said.</media:description>
+      <title>Rescue Boat Crews Show Signs of Brain Injuries, but Coast Guard Isn’t Looking</title>
+      <link>https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html" rel="standout"></atom:link>
+      <description>Untreated and undiagnosed, the crews that save lives in the roughest seas face the relentless pounding of waves.</description>
+      <dc:creator>Dave Philipps</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 14:53:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Post-Traumatic Stress Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Traumatic Encephalopathy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Concussions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Golden Gate Bridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbia River (Pacific Northwest)</category>
     </item>
     <item>
-      <title>China, Its Economy Stumbling, Signals Only Cautious Support</title>
-      <link>https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html" rel="standout"></atom:link>
-      <description>The ruling Politburo called for “more proactive” tax and spending policies but did not endorse broad action to address weak consumer spending.</description>
-      <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 12:32:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30Biz-China-Econ-01-vhqc/30Biz-China-Econ-01-vhqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Qilai Shen for The New York Times</media:credit>
-      <media:description>Production at a factory in Ninghai, China, in July.</media:description>
-    </item>
-    <item>
-      <title>A.I. Data Centers in Space? A System to Cool Chips Could Help.</title>
-      <link>https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html" rel="standout"></atom:link>
-      <description>Researchers at Caltech and Sophia Space, a start-up, have developed a technology using solar power to prevent computer equipment from overheating in orbit.</description>
-      <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 04:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Institute of Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sophia Space</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-space-solar-lcqv/30biz-space-solar-lcqv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>NASA, via Reuters</media:credit>
-      <media:description>Small solar arrays, like those on the International Space Station, are already used in space, but A.I. data centers would require substantially more equipment for electricity generation.</media:description>
+      <title>European Wildfires Amplified by Emptying Countryside and Fewer Farms</title>
+      <link>https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html" rel="standout"></atom:link>
+      <description>A warming planet and a shift away from farming have set the stage for larger fires on the continent. “We must learn to coexist with them,” one report said.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 16:18:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29CLI-BIGGER-FIRES-01-qfgc/29CLI-BIGGER-FIRES-01-qfgc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Wildfire smoke from a fire burning west of Bordeaux, France, on Tuesday. The giant blazes in France and Spain are their largest on record.</media:description>
     </item>
     <item>
       <title>Wildfires in Greece Kill 3 Firefighters as Blazes Still Burn in France and Spain</title>
@@ -334,7 +286,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/world/europe/wildfires-europe-greece.html" rel="standout"></atom:link>
       <description>Greece also worked to contain blazes on Lesbos and in the Peloponnese, where another firefighter died, in the midst of a brutal wildfire season for Europe.</description>
       <dc:creator>Niki Kitsantonis</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 11:57:56 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 14:49:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crete (Greece)</category>
@@ -373,75 +325,93 @@
       <media:description>Land charred by the Cairngorm wildfire in Aviemore, Scotland, on Tuesday.</media:description>
     </item>
     <item>
-      <title>European Wildfires Amplified by Emptying Countryside and Fewer Farms</title>
-      <link>https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html" rel="standout"></atom:link>
-      <description>A warming planet and a shift away from farming have set the stage for larger fires on the continent. “We must learn to coexist with them,” one report said.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 16:18:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29CLI-BIGGER-FIRES-01-qfgc/29CLI-BIGGER-FIRES-01-qfgc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Wildfire smoke from a fire burning west of Bordeaux, France, on Tuesday. The giant blazes in France and Spain are their largest on record.</media:description>
-    </item>
-    <item>
-      <title>Rescue Boat Crews Show Signs of Brain Injuries, but Coast Guard Isn’t Looking</title>
-      <link>https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html" rel="standout"></atom:link>
-      <description>Untreated and undiagnosed, the crews that save lives in the roughest seas face the relentless pounding of waves.</description>
-      <dc:creator>Dave Philipps</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 12:29:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Post-Traumatic Stress Disorder</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Traumatic Encephalopathy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Concussions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Golden Gate Bridge</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbia River (Pacific Northwest)</category>
-    </item>
-    <item>
-      <title>How Climate Change and Tariffs Help China Raise More Cattle</title>
-      <link>https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html" rel="standout"></atom:link>
-      <description>As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds.</description>
-      <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 12:13:25 +0000</pubDate>
+      <title>As China’s A.I. Gets Stronger, It Poses New Risks to Beijing</title>
+      <link>https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html" rel="standout"></atom:link>
+      <description>China’s A.I. rise is creating a new dilemma for Beijing. The open models that win influence abroad may pose risks to the country’s security and geopolitical strategy.</description>
+      <dc:creator>David Pierson and Berry Wang</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 09:02:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DoorDash (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gobi Desert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongolia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/Biz-China-Beef-1/c-01-jmqw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gilles Sabri&amp;eacute; for The New York Times</media:credit>
-      <media:description>A herder taking her cows to graze in mountain pastures in northern China’s Hebei Province.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/00int-china-ai-controls-01-pljb/00int-china-ai-controls-01-pljb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Ng Han Guan</media:credit>
+      <media:description>The Chinese leader Xi Jinping opening the World A.I. Conference in Shanghai, China, in July. Even as China supports openness in A.I., it needs to “constantly refine measures to forestall loss of control,” he said.</media:description>
+    </item>
+    <item>
+      <title>China, Its Economy Stumbling, Signals Only Cautious Support</title>
+      <link>https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html" rel="standout"></atom:link>
+      <description>The ruling Politburo called for “more proactive” tax and spending policies but did not endorse broad action to address weak consumer spending.</description>
+      <dc:creator>Keith Bradsher</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 13:59:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30Biz-China-Econ-01-vhqc/30Biz-China-Econ-01-vhqc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+      <media:description>Production at a factory in Ninghai, China, in July.</media:description>
+    </item>
+    <item>
+      <title>A.I. Data Centers in Space? A System to Cool Chips Could Help.</title>
+      <link>https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html" rel="standout"></atom:link>
+      <description>Researchers at Caltech and Sophia Space, a start-up, have developed a technology using solar power to prevent computer equipment from overheating in orbit.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 04:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sophia Space Inc</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-space-solar-lcqv/30biz-space-solar-lcqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NASA, via Reuters</media:credit>
+      <media:description>Small solar arrays, like those on the International Space Station, are already used in space, but A.I. data centers would require substantially more equipment for electricity generation.</media:description>
+    </item>
+    <item>
+      <title>L.A. Warehouse Fire Leaves Behind Rats, Flies and an Unending Stench</title>
+      <link>https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html" rel="standout"></atom:link>
+      <description>The Boyle Heights neighborhood of Los Angeles is still dealing with the smell of rotting food and fears over possible toxins after a cold-storage facility burst into flames in June.</description>
+      <dc:creator>Orlando Mayorquín and Ana Facio-Krajcer</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 13:28:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lineage Logistics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, Karen Ruth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boyle Heights (Los Angeles, Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smells and Odors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles County (Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29nat-boyle-heights-fpvl/29nat-boyle-heights-fpvl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>The nearly 500,000-square-foot facility burst into flames on June 17, blanketing the neighborhoods of Boyle Heights and East Los Angeles in thick smoke for days. </media:description>
     </item>
     <item>
       <title>Tossed Tuna and Furloughed Workers: Midtown’s ‘Frozen Zone’ Scrapes By</title>
@@ -486,19 +456,19 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/t-magazine/dance-films-best-choreography.html" rel="standout"></atom:link>
       <description>Savion Glover, Honey Balenciaga and other artists from the world of performance share their favorites, from era-defining musicals to art-house dramas.</description>
       <dc:creator>Laura Regensdorf</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 12:54:51 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 12:54:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Opening Night (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">West Side Story (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dancer in the Dark (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Beau travail (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">West Side Story (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Swing! (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">honey (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Honey (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Opening Night (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Wiz (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dance, Girl, Dance (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Nora (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Nora (2008) (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Billy Elliot (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dancer in the Dark (Movie)</category>
     </item>
     <item>
       <title>What We Really Learned From the Fauci Hearing</title>
@@ -524,7 +494,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/opinion/american-gerontocracy-samuel-moyn.html" rel="standout"></atom:link>
       <description>Aging politicians are just the “tip of the iceberg.”</description>
       <dc:creator>Ross Douthat and Rochelle Widdowson</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 11:13:28 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 13:45:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>

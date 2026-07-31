@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 31 Jul 2026 16:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:55:41 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,35 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[The good and the bad of perps, according to crypto traders]]></title>
+      <link>https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e5935e0dfa2e7f85bd8761d8a1d6e4e8f1cce2c3-8192x5464.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6726d0c4-197e-40d0-ae5f-817e99329756</guid>
+      <pubDate>Fri, 31 Jul 2026 17:53:59 +0000</pubDate>
+      <description><![CDATA[Both retail and institutional traders worry about the funding rate.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Perps Week 2026]]></category>
+      <category domain="https://www.coindesk.com/">Feature</category>
+    </item>
+    <item>
+      <title><![CDATA[Coldcard's $38 million (so far) exploit shakes faith in self-custody, may push investors to ETFs]]></title>
+      <link>https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/17e2199d1d92db776ca604acd66f78a2a5052896-1754x804.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ae5b3a88-fc01-4083-9121-37391ef54edf</guid>
+      <pubDate>Fri, 31 Jul 2026 17:07:30 +0000</pubDate>
+      <description><![CDATA[A software bug in popular hardware wallet Coldcard that led to the theft to this point of nearly 600 bitcoin worth roughly $38 million is prompting questions about security and whether managing private keys has become too risky for everyday investors.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="tag"><![CDATA[Hack]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Quantum computing nears commercial breakthrough, IBM CEO says]]></title>
       <link>https://www.coindesk.com/markets/2026/07/31/quantum-computing-nears-commercial-breakthrough-ibm-ceo-says</link>
@@ -355,37 +384,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Aave]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[JPMorgan says fading Clarity Act odds weigh on crypto outlook]]></title>
-      <link>https://www.coindesk.com/policy/2026/07/30/jpmorgan-says-fading-clarity-act-odds-weigh-on-crypto-outlook</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9a03886b63f9f486ffe9b1e5246f92bf2b612c49-1500x998.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">98e8d0e9-b705-4a32-921f-ae8399081f6d</guid>
-      <pubDate>Thu, 30 Jul 2026 14:06:14 +0000</pubDate>
-      <description><![CDATA[The bank said deteriorating prospects for U.S. market structure legislation remove a key catalyst for digital assets, even as tokenization and institutional adoption advance.]]></description>
-      <dc:creator>Will Canny</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Clarity Act]]></category>
-      <category domain="tag"><![CDATA[Regulation]]></category>
-      <category domain="tag"><![CDATA[JPMorgan]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Institutional crypto trading hits a record 72% as Wall Street calms crypto's wild swings]]></title>
-      <link>https://www.coindesk.com/markets/2026/07/30/institutional-trading-hits-a-record-72-as-wall-street-quietens-down-crypto-s-wild-swings</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/981f113099a5d95dd101524386439043bf2a255f-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">7f9de75b-261e-4f50-9cbf-a7ca58b2f06e</guid>
-      <pubDate>Thu, 30 Jul 2026 13:55:18 +0000</pubDate>
-      <description><![CDATA[A new report from market maker Wintermute found that institutions now dominate crypto trading, driving lower volatility, selective altcoin flows and growth in tokenized assets.]]></description>
-      <dc:creator>Helene Braun</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto Trading]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

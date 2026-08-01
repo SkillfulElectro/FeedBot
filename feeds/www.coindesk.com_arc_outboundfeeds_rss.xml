@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 01 Aug 2026 21:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 22:06:00 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Strategy holds STRC dividend at 12%]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8a5dba87ad94ba079e2f4c60317ed8bbef4fb85e-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">28ad341e-3b1f-4256-a4e3-177dbace1611</guid>
+      <pubDate>Sat, 01 Aug 2026 22:01:57 +0000</pubDate>
+      <description><![CDATA[Customarily, Michael Saylor and team have lifted the STRC dividend when it trades sizably below par, but not this month.]]></description>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[MicroStrategy]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million]]></title>
       <link>https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million</link>
@@ -366,21 +381,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[New York sues Kalshi, alleges it offers a gambling platform 'plain and simple']]></title>
-      <link>https://www.coindesk.com/policy/2026/07/31/new-york-sues-kalshi-alleges-it-offers-a-gambling-platform-plain-and-simple</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a35a16c52c52cb32a4f9b8b5e616fae8fed3cfb6-4672x3104.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">53c5f1a9-7e34-4697-9d14-cfbe05cad6d1</guid>
-      <pubDate>Fri, 31 Jul 2026 09:55:47 +0000</pubDate>
-      <description><![CDATA[The suit wants to bar the company from operating what it says is an unlicensed gambling business and seeks financial redress.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Kalshi]]></category>
-      <category domain="tag"><![CDATA[litigation]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

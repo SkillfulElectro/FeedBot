@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 01 Aug 2026 18:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 21:12:47 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6c28c3dcd5461d3803d6e6200f1da0686dde993f-1920x1082.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b43f99b2-a3c8-4d60-8a88-5dc92060b681</guid>
+      <pubDate>Sat, 01 Aug 2026 20:10:54 +0000</pubDate>
+      <description><![CDATA[Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Tokenized stock trading surged 288% in July, but one QQQ token drove most of it]]></title>
       <link>https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it</link>
@@ -368,21 +381,6 @@
       <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
       <category domain="tag"><![CDATA[Kalshi]]></category>
       <category domain="tag"><![CDATA[litigation]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Quantum Solutions, Hyperscale Data tap crypto treasuries to fund AI data centers]]></title>
-      <link>https://www.coindesk.com/business/2026/07/31/quantum-solutions-hyperscale-data-tap-crypto-treasuries-to-fund-ai-data-centers</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c706eaf5f9a67595db3c046eac1adbf03d440022-4000x2250.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">93c7be59-2f19-45cd-9295-29c7ca39e5ff</guid>
-      <pubDate>Fri, 31 Jul 2026 08:57:02 +0000</pubDate>
-      <description><![CDATA[The firm’s board raised the sale cap to 4,375 ETH through Oct. 30, nearly 66% of June holdings, although 3,050 of its remaining ETH is pledged.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Crypto News]]></category>
-      <category domain="tag"><![CDATA[Digital Asset Treasury]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 01 Aug 2026 04:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:11:59 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,32 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[XRP Ledger upgrade brings back features once pulled over critical bugs]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/eeb54516a3b0a19f03d51ee5552619fa13b3be71-1920x1440.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ea6754bf-6e2d-46a2-9356-692fa67b49a0</guid>
+      <pubDate>Sat, 01 Aug 2026 06:09:51 +0000</pubDate>
+      <description><![CDATA[The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[How bitcoin cold wallets lost $70 million in an attack that never touched the devices]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ee774b5ffc09b1ed7b4b987d689ad1a95db24aaa-1280x720.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">0df9a7e0-86fc-4c4f-bdeb-4f6541fe42b6</guid>
+      <pubDate>Sat, 01 Aug 2026 05:55:46 +0000</pubDate>
+      <description><![CDATA[Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say]]></title>
       <link>https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say</link>
@@ -355,38 +381,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Tokenization]]></category>
       <category domain="tag"><![CDATA[JPMorgan]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Ondo Finance weighs acquisition worth up to $500 million]]></title>
-      <link>https://www.coindesk.com/business/2026/07/30/ondo-finance-weighs-acquisition-worth-up-to-usd500-million</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b812b8ada6cef71c702a746a86725e170bb18b15-1920x1080.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">9cd9f9e8-62c3-486f-91f0-c985d8b4216e</guid>
-      <pubDate>Thu, 30 Jul 2026 16:04:16 +0000</pubDate>
-      <description><![CDATA[The tokenized-assets firm is considering an acquisition valued at $250 million to $500 million as consolidation accelerates across crypto infrastructure.]]></description>
-      <dc:creator>Will Canny</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[mergers and acquisitions]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[ondo finance]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto for Advisors: Is the Clarity Act dead?]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/07/30/crypto-for-advisors-is-the-clarity-act-dead</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/870e23f24d3a975a63fcf3a585ce35a63311601f-5820x3880.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">e33a9b31-f9e1-4374-ae6e-9a99b7443f83</guid>
-      <pubDate>Thu, 30 Jul 2026 15:00:49 +0000</pubDate>
-      <description/>
-      <dc:creator>Aaron Brogan</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 11:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 12:05:43 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ebab27428c42ef23eb3495a903cb473d0b2e540b-1600x900.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">649d3956-fdc4-468a-8877-2d33f1a94008</guid>
+      <pubDate>Sun, 02 Aug 2026 12:03:51 +0000</pubDate>
+      <description><![CDATA[The Coldcard vulnerability has smaller bitcoin holders moving funds onto exchanges for safety, according to blockchain analytics firms. This is opposite of the trend seen following the FTX collapse in late 2022.
+
+]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Strategy holds STRC dividend at 12%]]></title>
       <link>https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12</link>
@@ -366,21 +382,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin, ether fall, equities rally with broader crypto market on track for best month in a year]]></title>
-      <link>https://www.coindesk.com/markets/2026/07/31/bitcoin-ether-fall-equities-rally-with-broader-crypto-market-on-track-for-best-month-in-a-year</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/03fd18d91d0256863aca046dd26ae81faeb58698-1892x1064.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">34436fc8-fb6c-480c-92a4-a9fef783a576</guid>
-      <pubDate>Fri, 31 Jul 2026 11:07:52 +0000</pubDate>
-      <description><![CDATA[BTC fell as July drew to a close, even as stocks gained in Asia and U.S. index futures advanced. The CoinDesk 20 index is set to post its biggest gain since July 2025.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

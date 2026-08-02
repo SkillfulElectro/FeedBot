@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 17:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 18:31:37 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Counting down the days: State of Crypto ]]></title>
+      <link>https://www.coindesk.com/policy/2026/08/02/counting-down-the-days-state-of-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">21018b0d-4817-49db-94f0-0f25753c20d9</guid>
+      <pubDate>Sun, 02 Aug 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[The Senate is going on its summer break in a week, leaving next to no time left to sort out its remaining priorities in August. And obviously, the fate of Clarity is one of those priorities. 
+]]></description>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Newsletters]]></category>
+      <category domain="tag"><![CDATA[State of Crypto]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Why a DeFi platform ditched its consumer app to become the secret backend for tech giants]]></title>
       <link>https://www.coindesk.com/web3/2026/08/02/why-a-defi-platform-ditched-its-consumer-app-to-become-the-secret-backend-for-tech-giants</link>
@@ -374,20 +390,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
       <category domain="https://www.coindesk.com/">Opinion</category>
-    </item>
-    <item>
-      <title><![CDATA[Dubai-based crypto exchange tied to $4 billion Iran sanctioned-evasion network]]></title>
-      <link>https://www.coindesk.com/business/2026/07/31/dubai-based-crypto-exchange-tied-to-usd4-billion-iran-sanctioned-evasion-network-reuters</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9bc166a43d61272151ae89ff698586929d81a0b6-2084x1092.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">18143b12-e156-4bd9-8447-8991425fb4ee</guid>
-      <pubDate>Fri, 31 Jul 2026 12:28:02 +0000</pubDate>
-      <description><![CDATA[Shelbit allegedly sent hundreds of millions of dollars to major crypto exchanges, including Binance, as it linked gambling sites and sanctioned Iranian entities to global crypto markets.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Iran]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

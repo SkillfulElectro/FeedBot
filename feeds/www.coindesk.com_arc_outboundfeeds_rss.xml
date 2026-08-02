@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 12:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 14:02:31 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[The reverse bridge: Crypto meets Wall Street using perps]]></title>
+      <link>https://www.coindesk.com/business/2026/08/02/the-reverse-bridge-crypto-meets-wall-street-using-perps</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7eac92c55b377972de3017f48519c9d37c73a84a-862x598.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">e90c2a9a-5947-4b76-abc0-c7f7fd082453</guid>
+      <pubDate>Sun, 02 Aug 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[Crypto exchanges built perpetual futures for digital assets. Now they are using them to offer 24/7 exposure to stocks, commodities and indexes.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Perps Week 2026]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Unlike the FTX collapse, the $89 million Coldcard exploit has investors sending bitcoin back to exchanges]]></title>
       <link>https://www.coindesk.com/markets/2026/08/02/unlike-the-ftx-collapse-the-usd88-million-coldcard-exploit-has-investors-sending-bitcoin-back-to-exchanges</link>
@@ -368,20 +382,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[​Traders brace for an August crypto pull-back as protection against $60,000 bitcoin dip becomes top trade]]></title>
-      <link>https://www.coindesk.com/daybook-us/2026/07/31/bitcoin-usd60-000-put-leads-the-pack-as-mood-swings-bearish-for-august</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3ca320c0730a76a824973a2dc7c675fa4bf6d736-6075x4050.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">09a5f1f3-78ef-4a78-bb1d-845d0a6ab622</guid>
-      <pubDate>Fri, 31 Jul 2026 11:36:45 +0000</pubDate>
-      <description><![CDATA[Your day-ahead look for July 31, 2026]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

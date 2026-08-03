@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1785781128238" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 18:18:48 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 17:55:53 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 20:11:34 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 20:06:28 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,62 +39,31 @@
       <media:description>President Trump has long believed that he enjoys complete control over the agencies beneath him, including the Justice Department.</media:description>
     </item>
     <item>
-      <title>Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter</title>
-      <link>https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html" rel="standout"></atom:link>
-      <description>A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.</description>
-      <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 15:16:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic National Committee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Ken (1973- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <title>Republican Holdouts Say They’ll Back Blanche After Assurances on I.R.S. Deal</title>
+      <link>https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html" rel="standout"></atom:link>
+      <description>Senators John Cornyn and Thom Tillis expressed support after Todd Blanche, the acting attorney general, issued a memo abandoning part of a deal the Justice Department had struck with President Trump.</description>
+      <dc:creator>Michael Gold, Andrew Duehren and Hari Raj</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 18:55:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rivera, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01pol-dem-autopsy-flags-ckwl/01pol-dem-autopsy-flags-ckwl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kent Nishimura for The New York Times</media:credit>
-      <media:description>The Democratic National Committee’s autopsy of the 2024 election was meant to examine missteps that led to the party’s defeat. </media:description>
-    </item>
-    <item>
-      <title>How Democratic Socialists Are Wrestling With Their Next Moves</title>
-      <link>https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html" rel="standout"></atom:link>
-      <description>After notching primary victories, D.S.A. members in Chicago debated whether socialist candidates should be free to distance themselves from goals like abolishing prisons as they chase more seats this fall.</description>
-      <dc:creator>Kellen Browning</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 17:26:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03pol-dsa-zqht/03pol-dsa-zqht-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Ashik Siddique, a national chair of the Democratic Socialists of America, spoke to attendees at Maria’s Packaged Goods &amp; Community Bar at a party on Friday after the group’s summit.</media:description>
-    </item>
-    <item>
-      <title>Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.</title>
-      <link>https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html" rel="standout"></atom:link>
-      <description>The Ohio Republican who is seeking a third term defiantly denied domestic abuse allegations ahead of a deadline to replace him on the ballot.</description>
-      <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 16:29:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Weaponization Fund (Trump v IRS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Max (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moreno, Bernie (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-wrtk-miller-mfwg/03dc-wrtk-miller-mfwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee/The New York Times</media:credit>
-      <media:description>Representative Max Miller, Republican of Ohio, and his ex-wife, Emily Moreno, have been in a custody battle that has included abuse allegations since their divorce in 2024.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on the Judiciary</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03xp-blanche-fund-glfc/03xp-blanche-fund-glfc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Todd Blanche speaking at the Capitol last month.</media:description>
     </item>
     <item>
       <title>Documents Undercut Trump’s Claims About Bears Ears National Monument</title>
@@ -103,7 +72,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/climate/trump-bears-ears-monument-recreation.html" rel="standout"></atom:link>
       <description>President Trump said recreation in Bears Ears National Monument was virtually impossible. Documents reviewed by The New York Times show officials knew otherwise.</description>
       <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 17:20:59 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 19:08:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bears Ears National Monument (Utah)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
@@ -138,22 +107,27 @@
       <media:description>Dr. Anthony S. Fauci, center, with President Trump, left, for a daily coronavirus pandemic briefing in 2020.</media:description>
     </item>
     <item>
-      <title>Jay Clayton Sworn In as Director of National Intelligence</title>
-      <link>https://www.nytimes.com/2026/08/03/us/politics/jay-clayton-national-intelligence-director.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/jay-clayton-national-intelligence-director.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/jay-clayton-national-intelligence-director.html" rel="standout"></atom:link>
-      <description>Mr. Clayton’s delayed swearing-in ceremony gave Bill Pulte, a key ally of President Trump, a few more days as acting director of the office he boasted about shrinking.</description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 17:55:53 +0000</pubDate>
+      <title>Prosecutor in D.C. Moves to Dismiss More Reflecting Pool Cases</title>
+      <link>https://www.nytimes.com/2026/08/03/us/reflecting-pool-charges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/reflecting-pool-charges.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/us/reflecting-pool-charges.html" rel="standout"></atom:link>
+      <description>After revelations that a botched renovation, not vandalism, had caused the pool’s recent problems, the U.S. attorney’s office has dropped several prosecutions.</description>
+      <dc:creator>Clarence Williams</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 18:54:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pulte, William J (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clayton, Walter J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/03trump-news-clayton/21trump-news-header-vgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Jay Clayton, President Trump’s nominee for director of national intelligence, at his confirmation hearing in July.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pirro, Jeanine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hearn, David (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlantic Industrial Coatings LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03nat-pool-charges-fghc/03nat-pool-charges-fghc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Leyden for The New York Times</media:credit>
+      <media:description>The Lincoln Memorial Reflecting Pool in Washington in July.</media:description>
     </item>
     <item>
       <title>Park Service Finds Trump’s Arch Could Detract From Dozens of Historic Places</title>
@@ -174,6 +148,99 @@
       <media:content height="1489" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/00up-arch3-vjpl/00up-arch3-vjpl-mediumSquareAt3X.jpg" width="1490"></media:content>
       <media:credit>Jonathan Ernst/Reuters</media:credit>
       <media:description>A model of the proposed arch. “It is intended to dominate the surrounding landscape,” one critique said. </media:description>
+    </item>
+    <item>
+      <title>Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter</title>
+      <link>https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html" rel="standout"></atom:link>
+      <description>A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.</description>
+      <dc:creator>Shane Goldmacher</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 15:16:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic National Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Ken (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rivera, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01pol-dem-autopsy-flags-ckwl/01pol-dem-autopsy-flags-ckwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kent Nishimura for The New York Times</media:credit>
+      <media:description>The Democratic National Committee’s autopsy of the 2024 election was meant to examine missteps that led to the party’s defeat. </media:description>
+    </item>
+    <item>
+      <title>How Democratic Socialists Are Wrestling With Their Next Moves</title>
+      <link>https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html" rel="standout"></atom:link>
+      <description>After notching primary victories, D.S.A. members in Chicago debated whether socialist candidates should be free to distance themselves from goals like abolishing prisons as they chase more seats this fall.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 18:49:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03pol-dsa-zqht/03pol-dsa-zqht-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Ashik Siddique, a national chair of the Democratic Socialists of America, spoke to attendees at Maria’s Packaged Goods &amp; Community Bar at a party on Friday after the group’s summit.</media:description>
+    </item>
+    <item>
+      <title>California Democrats Support Billionaire Tax, but Infighting Lingers</title>
+      <link>https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html" rel="standout"></atom:link>
+      <description>Leaders of the state Democratic Party endorsed the ballot measure slated for November, but the party remains far from united on the issue as Democrats nationwide grapple with a growing wealth gap.</description>
+      <dc:creator>Laurel Rosenhall and Soumya Karlamangla</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 19:12:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+    </item>
+    <item>
+      <title>Max Miller, Accused of Abuse, Is Not Stepping Aside. Here’s What We Know.</title>
+      <link>https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/max-miller-ohio-moreno-election-republicans.html" rel="standout"></atom:link>
+      <description>The Ohio Republican who is seeking a third term defiantly denied domestic abuse allegations ahead of a deadline to replace him on the ballot.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 18:26:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Max (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moreno, Bernie (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-wrtk-miller-mfwg/03dc-wrtk-miller-mfwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee/The New York Times</media:credit>
+      <media:description>Representative Max Miller, Republican of Ohio, and his ex-wife, Emily Moreno, have been in a custody battle that has included abuse allegations since their divorce in 2024.</media:description>
+    </item>
+    <item>
+      <title>Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data</title>
+      <link>https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html" rel="standout"></atom:link>
+      <description>Nanit and other start-ups want to track your children through the night — and soon, for much longer than that.</description>
+      <dc:creator>Sapna Maheshwari</dc:creator>
+      <pubDate>Sun, 02 Aug 2026 11:29:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Owlet Protection Enterprises LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nanit (Udisense Inc)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02biz-babytech-lede-flwk/02biz-babytech-lede-flwk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo illustration by Margeaux Walter for The New York Times</media:credit>
+      <media:description>Young parents are increasingly willing to embrace tracking and analytics for their children — part of a broader cultural obsession with health data and optimization.</media:description>
     </item>
     <item>
       <title>Brown’s President Will Resign after a Tenure that Included Trump Deal</title>
@@ -197,7 +264,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/us/trump-mcmahon-colleges-letter.html" rel="standout"></atom:link>
       <description>The open letter from Education Secretary Linda McMahon fell far short of the attempt at a compact last year that dangled research money in return for embracing the Trump administration’s agenda.</description>
       <dc:creator>Michael C. Bender and Alan Blinder</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 15:05:47 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 19:07:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
@@ -207,28 +274,6 @@
       <media:content height="1317" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/dc-ed-compact-top1-cplt/dc-ed-compact-top1-cplt-mediumSquareAt3X.jpg" width="1318"></media:content>
       <media:credit>Tierney L. Cross/The New York Times</media:credit>
       <media:description>Linda McMahon, the education secretary, signed the letter that asks every postsecondary institution in the nation to publicly state its commitments and planned changes “before the end of 2026.”</media:description>
-    </item>
-    <item>
-      <title>Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data</title>
-      <link>https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html" rel="standout"></atom:link>
-      <description>Nanit and other start-ups want to track your children through the night — and soon, for much longer than that.</description>
-      <dc:creator>Sapna Maheshwari</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 11:29:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Owlet Protection Enterprises LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nanit (Udisense Inc)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02biz-babytech-lede-flwk/02biz-babytech-lede-flwk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Photo illustration by Margeaux Walter for The New York Times</media:credit>
-      <media:description>Young parents are increasingly willing to embrace tracking and analytics for their children — part of a broader cultural obsession with health data and optimization.</media:description>
     </item>
     <item>
       <title>The German Auto Industry, a Pillar of the National Psyche, Is Trembling</title>
@@ -318,7 +363,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html" rel="standout"></atom:link>
       <description>President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.</description>
       <dc:creator>Aaron Boxerman and Sanam Mahoozi</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 16:11:52 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 20:06:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
@@ -373,23 +418,26 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Spokane Wildfires Destroy Hundreds of Buildings as 60,000 People Evacuate</title>
-      <link>https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html" rel="standout"></atom:link>
-      <description>Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spokane.</description>
-      <dc:creator>Christina Morales</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 14:42:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02nat-spokane-wildfires-1-zglf/02nat-spokane-wildfires-1-zglf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>John Stember for The New York Times</media:credit>
-      <media:description>All of Christine and Bryan Farris’s belongings burned in the Old Trail fire in Spokane, Wash.</media:description>
+      <title>Inside the Secretive Boards Deciding Trans Troops’ Fate</title>
+      <link>https://www.nytimes.com/2026/08/03/us/politics/transgender-troops-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/transgender-troops-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/transgender-troops-ban.html" rel="standout"></atom:link>
+      <description>The Pentagon is relying on closed-door hearings to kick out transgender service members. An Army Reserve lawyer is one of the few who have seen how they really work.</description>
+      <dc:creator>Greg Jaffe and Dave Philipps</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 15:48:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Point (NY)</category>
+      <media:content height="1384" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00dc-army-lawyer-TOP-2-zblk/00dc-army-lawyer-TOP-2-zblk-mediumSquareAt3X.jpg" width="1385"></media:content>
+      <media:credit>Kate Warren for The New York Times</media:credit>
+      <media:description>Capt. Kai Proce before his separation board hearing at the U.S. Military Academy at West Point in June.</media:description>
     </item>
     <item>
       <title>ICE Killed Him. A.I. Helped Turn Him Into a Folk Ballad, Fast.</title>
@@ -448,6 +496,22 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
+      <title>I Helped Run Lululemon. The A.I. Revolution Is a Hot Mess.</title>
+      <link>https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html" rel="standout"></atom:link>
+      <description>The A.I. revolution is stalling because companies don’t want to admit that integrating the technology is expensive and slow and requires human effort.</description>
+      <dc:creator>Julie Averill</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 20:05:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lululemon Athletica Inc</category>
+    </item>
+    <item>
       <title>Trump&#39;s Smithsonian Attacks Are Attacks on America’s Future</title>
       <link>https://www.nytimes.com/2026/08/03/opinion/trump-smithsonian-history-censorship.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/opinion/trump-smithsonian-history-censorship.html</guid>
@@ -477,49 +541,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montgomery (Ala)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-    </item>
-    <item>
-      <title>Trump’s Chance for Peace in Ukraine Is Real. But It Won’t Last.</title>
-      <link>https://www.nytimes.com/2026/08/03/opinion/international-world/trump-ukraine-russia-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/opinion/international-world/trump-ukraine-russia-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/opinion/international-world/trump-ukraine-russia-war.html" rel="standout"></atom:link>
-      <description>There’s a narrow chance for a Russia-Ukraine peace deal before things go south.</description>
-      <dc:creator>Thomas E. Graham</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 15:32:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03graham-gvkj/03graham-gvkj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-    </item>
-    <item>
-      <title>Michigan Looks Left</title>
-      <link>https://www.nytimes.com/2026/08/03/briefing/michigan-senate-primary-race.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/briefing/michigan-senate-primary-race.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/briefing/michigan-senate-primary-race.html" rel="standout"></atom:link>
-      <description>We’re sizing up tomorrow’s primary contest.</description>
-      <dc:creator>Evan Gorelick</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 17:35:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stevens, Haley</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/briefing/oakImage-1785532803772/oakImage-1785532803772-mediumSquareAt3X-v2.png" width="1800"></media:content>
-      <media:credit>Nick Hagen and Emily Elconin for The New York Times</media:credit>
-      <media:description>Dr. Abdul El-Sayed and Representative Haley Stevens.</media:description>
     </item>
     <item>
       <title>Two Deaths Linked to Cyclospora Outbreak in Michigan</title>

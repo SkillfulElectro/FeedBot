@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 16:24:11 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 16:11:52 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:17:24 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 18:16:09 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -251,14 +251,12 @@
       <description>More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable.</description>
       <dc:creator>Emma Bubola and Fabiola Ferrero</dc:creator>
       <pubDate>Sun, 02 Aug 2026 11:05:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez, Jorge J (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Hugo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
     </item>
     <item>
@@ -293,7 +291,6 @@
       <pubDate>Sun, 02 Aug 2026 18:25:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tehrik-e-Taliban</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Swat (Pakistan)</category>
@@ -358,7 +355,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html" rel="standout"></atom:link>
       <description>Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.</description>
       <dc:creator>Emily Anthes and Will Crooks</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 13:33:41 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 17:37:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterinary Medicine</category>
@@ -424,15 +421,22 @@
       <description>The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.</description>
       <dc:creator>Stephanie Nolen</dc:creator>
       <pubDate>Sun, 02 Aug 2026 15:22:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gavi, the Vaccine Alliance</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Food Program</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Children&#39;s Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Operation End Starvation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Fund to Fight AIDS, Tuberculosis and Malaria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00dc-state-health-funding-gfkl/00dc-state-health-funding-gfkl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>A camp for people displaced by violence and drought in Somalia’s southern Gedo region, seen in April.</media:description>
@@ -540,13 +544,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html" rel="standout"></atom:link>
       <description>When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance. Critics worry about a shrinking space for new talent.</description>
       <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 11:25:31 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 11:25:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sydney (Australia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Violent Femmes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31int-oz-music-02-cwjm-promo/31int-oz-music-02-cwjm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Matthew Abbott for The New York Times</media:credit>
       <media:description>Jake Smyth, left, and Kenny Graham at Mary’s Underground.</media:description>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 20:47:00 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 20:17:16 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 22:10:14 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 21:02:57 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -269,11 +269,12 @@
       <description>The ousted civilian leader, now 81, met with a representative of the Red Cross. Her long absence from public view had raised concerns about her health.</description>
       <dc:creator>Max Kim</dc:creator>
       <pubDate>Mon, 03 Aug 2026 13:02:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D&#39;Etat and Attempted Coups D&#39;Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aung San Suu Kyi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03int-myanmar-suu-kyi-kmjf-jkpc/03int-myanmar-suu-kyi-kmjf-jkpc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -292,6 +293,46 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+    </item>
+    <item>
+      <title>South Korea Wants to Raise Its Birthrate but Doesn’t Have Enough NICU Doctors</title>
+      <link>https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/world/asia/south-korea-birth-rate-nicu-crisis.html" rel="standout"></atom:link>
+      <description>South Korea, which has one of the world’s lowest fertility rates, is in the throes of a breakdown in emergency care. It is particularly acute for at-risk newborns.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 21:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/00int-skorea-neonatal-mzwv/00int-skorea-neonatal-mzwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jean Chung for The New York Times</media:credit>
+      <media:description>Staff taking care of newborns in the neonatal room at a postpartum care center in Seoul, South Korea, in 2024.</media:description>
+    </item>
+    <item>
+      <title>When A.I. Goes Rogue</title>
+      <link>https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html" rel="standout"></atom:link>
+      <description>It was the stuff of science fiction — until recently.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 20:56:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cybersecurity and Infrastructure Security Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Seurat, Georges</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/05int-theworld-ai-security-01-kmbz-promo/05int-theworld-ai-security-01-kmbz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lucas Foglia for The New York Times</media:credit>
     </item>
     <item>
       <title>Mexico Declares War on Stinky Seaweed</title>
@@ -1099,47 +1140,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cookware</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-    </item>
-    <item>
-      <title>A Weekend That Marks a Historical Moment for Black Canadians</title>
-      <link>https://www.nytimes.com/2026/08/01/world/canada/emancipation-day-uncle-toms-cabin-ontario-canada.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/world/canada/emancipation-day-uncle-toms-cabin-ontario-canada.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/world/canada/emancipation-day-uncle-toms-cabin-ontario-canada.html" rel="standout"></atom:link>
-      <description>Emancipation Day is a reminder that southwestern Ontario was once a mecca for enslaved people fleeing the United States.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 10:00:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01canadaleter-henson-kmpw/01canadaleter-henson-kmpw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ian Willms for The New York Times</media:credit>
-      <media:description>The fictional Uncle Tom, whose name became a slur, overshadowed the story of Josiah Henson whose life inspired the character.</media:description>
-    </item>
-    <item>
-      <title>Fact-Checking Trump’s Claims About the Effect of the Iran War on Oil Prices, Munitions and More</title>
-      <link>https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html" rel="standout"></atom:link>
-      <description>The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.</description>
-      <dc:creator>Linda Qiu</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 20:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31dc-factcheck-zhqv/31dc-factcheck-zhqv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump and Defense Secretary Pete Hegseth attending a dignified transfer last month for Army soldiers killed while deployed to Jordan last month.</media:description>
     </item>
   </channel>
 </rss>

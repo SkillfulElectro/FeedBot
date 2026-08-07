@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 07 Aug 2026 12:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:24:49 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. unexpectedly shed 23,000 jobs in July, putting Fed rate hikes in question]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/07/the-u-s-lost-23-000-jobs-in-july-far-shy-of-forecasts-for-a-gain-of-80-000</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/802ff63bb41cf1a48be506ef0f8579ae4fffea87-1920x1040.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a01913f8-f5e3-4b6e-a6eb-5708f02e6136</guid>
+      <pubDate>Fri, 07 Aug 2026 12:31:51 +0000</pubDate>
+      <description><![CDATA[The chances of a Federal Reserve rate hike at its next meeting in September have slipped below 50% in the aftermath of the report.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[After a Clarity Act funeral, the crypto world would keep turning]]></title>
       <link>https://www.coindesk.com/news-analysis/2026/08/06/after-a-clarity-act-funeral-the-crypto-world-would-keep-turning</link>
@@ -123,14 +138,15 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin edges higher to $65,000 ahead of key U.S. jobs data]]></title>
+      <title><![CDATA[Live updates: Bitcoin holding near $65,000 as U.S. lost jobs last month]]></title>
       <link>https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f4712f31e2983c43c8ea3b1f0fae77458ca90efa-2884x1480.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8c5b6006d5fa8669c35c8173d18dd59e1b21a9e4-2880x1500.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">b255a68e-676d-4b06-990a-8103cae73f7d</guid>
       <pubDate>Fri, 07 Aug 2026 07:44:57 +0000</pubDate>
-      <description><![CDATA[Brent climbed on stalled Hormuz talks, reviving the inflation worry that has capped bitcoin all summer. Today's US payrolls print is the next catalyst.]]></description>
+      <description><![CDATA[The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -375,19 +391,6 @@
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Live News]]></category>
       <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin developers flag 85 critical bugs in an "extremely bad" situation]]></title>
-      <link>https://www.coindesk.com/tech/2026/08/06/bitcoin-developers-flag-85-critical-bugs-in-an-extremely-bad-situation</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">f3821488-b5d5-46bb-9f1f-aa640a3536c7</guid>
-      <pubDate>Thu, 06 Aug 2026 07:14:11 +0000</pubDate>
-      <description><![CDATA[A volunteer group running AI models against bitcoin codebases says it is averaging roughly one critical bug per hour per person, at about $10,000 a day in compute.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

@@ -3,17 +3,61 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1786108104572" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 13:08:25 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 13:05:25 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 14:29:52 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 14:28:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise</title>
+      <link>https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/business/economy/jobs-report-interest-rates-fed.html" rel="standout"></atom:link>
+      <description>Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank’s 2 percent target.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 14:24:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/07biz-jobs-report-Fed/08dc-fed-kzfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+      <media:description>Kevin M. Warsh, the Federal Reserve chairman, has pledged to make delivering price stability the primary focus of his tenure.</media:description>
+    </item>
+    <item>
+      <title>The Bond Market Is Signaling Rising Risks. Investors Should Listen.</title>
+      <link>https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html" rel="standout"></atom:link>
+      <description>While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.</description>
+      <dc:creator>Jeff Sommer</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 13:33:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quantitative Easing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1380" medium="image" url="https://static01.nyt.com/images/2026/08/09/business/09Strategies-illo/09Strategies-illo-mediumSquareAt3X.jpg" width="1380"></media:content>
+      <media:credit>Thomas Fuchs</media:credit>
+    </item>
     <item>
       <title>Trump Targets Birthright Citizenship Again, and Activists Describe Abuse in Israeli Custody</title>
       <link>https://www.nytimes.com/2026/08/07/podcasts/the-headlines/trump-birthright-citizenship-israel-abuse.html</link>
@@ -61,54 +105,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/us/dc-reflecting-pool-ticktock-header1/dc-reflecting-pool-ticktock-header1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Salwan Georges for The New York Times</media:credit>
       <media:description>Workers crossing the drained Lincoln Memorial Reflecting Pool on July 15.</media:description>
-    </item>
-    <item>
-      <title>Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’</title>
-      <link>https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html" rel="standout"></atom:link>
-      <description>The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.</description>
-      <dc:creator>Maggie Haberman and Ann E. Marimow</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 12:10:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Tourism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourteenth Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scharf, William O</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06dc-birthright-fztc/06dc-birthright-fztc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Trump with the advisers Will Scharf and Stephen Miller, at left, and Commerce Secretary Howard Lutnick, right. The president spoke to the news media after he signed an executive order to limit birthright citizenship on Thursday.</media:description>
-    </item>
-    <item>
-      <title>After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks</title>
-      <link>https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html" rel="standout"></atom:link>
-      <description>Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 22:45:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeBlanc, Dominic (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06int-canada-1-jbcw/06int-canada-1-jbcw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sammy Kogan/The Canadian Press, via Associated Press</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada in Toronto, on Wednesday.</media:description>
     </item>
     <item>
       <title>Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom</title>
@@ -195,7 +191,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html" rel="standout"></atom:link>
       <description>The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.</description>
       <dc:creator>Lara Jakes</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 10:46:29 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 13:18:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
@@ -219,7 +215,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html" rel="standout"></atom:link>
       <description>The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear what that would mean in practice.</description>
       <dc:creator>Ben Hubbard</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 13:03:20 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 14:28:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
@@ -284,7 +280,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/us/twin-falls-idaho-shooting.html" rel="standout"></atom:link>
       <description>While the motive in the strip mall shooting rampage in Twin Falls, Idaho, remains elusive, a community embraces a bystander who stepped in.</description>
       <dc:creator>Nicholas Bogel-Burroughs and Alex Hecht</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 09:03:49 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 09:03:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Twin Falls (Idaho)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/00nat-idaho-shooting-promo-tghc/00nat-idaho-shooting-promo-tghc-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -375,7 +371,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html" rel="standout"></atom:link>
       <description>In Georgia, where Black voters could help decide control of the Senate, Mara Gay asks what they want from America and the Democratic Party.</description>
       <dc:creator>Mara Gay and Emily Holzknecht</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 13:00:42 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 13:54:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -434,13 +430,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
     </item>
     <item>
-      <title>Thailand School Shooting Leaves 7 Dead</title>
+      <title>Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say</title>
       <link>https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html" rel="standout"></atom:link>
-      <description>A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws in the country.</description>
+      <description>A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.</description>
       <dc:creator>Muktita Suhartono and Max Kim</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 12:18:15 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 13:47:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 05:13:19 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 04:02:55 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:47:03 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 06:46:02 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -56,9 +56,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Le Porge (France)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00int-france-fire-vmwl/00int-france-fire-vmwl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Mario Freitas on the site of his ruined house in Le Porge, France, on Monday.</media:description>
     </item>
@@ -215,17 +215,18 @@
       <description>After the actor Hudson Williams was photographed carrying a plaid reusable shopping bag, priced under $2, the tote has become a viral fashion accessory.</description>
       <dc:creator>Vjosa Isai</dc:creator>
       <pubDate>Thu, 06 Aug 2026 13:09:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Hudson (2001- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Tire</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Bags</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Storrie, Connor (2000- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trader Joe&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06int-canada-williams-tote-jkgf/06int-canada-williams-tote-jkgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Strauss/Invision, via Associated Press</media:credit>
       <media:description>Hudson Williams, who plays the gay hockey player Shane Hollander in “Heated Rivalry,” at the Golden Globes in January.</media:description>
@@ -295,6 +296,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05int-spain-morocco-cities-10-vmjw-copy/05int-spain-morocco-cities-10-vmjw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sergey Ponomarev for The New York Times</media:credit>
       <media:description>A border fence divides Morocco from the Spanish enclave of Ceuta, seen from Fnideq.</media:description>
+    </item>
+    <item>
+      <title>Thailand School Shooting Leaves at Least Six</title>
+      <link>https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html" rel="standout"></atom:link>
+      <description>A student opened fire at a high school near Bangkok, according to local news media.</description>
+      <dc:creator>Muktita Suhartono and Max Kim</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 06:15:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07int-thailand-school-shooting-cmpw/07int-thailand-school-shooting-cmpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chalinee Thirasupa/Reuters</media:credit>
+      <media:description>Students evacuated from Debsirin Nonthaburi School, northwest of Bangkok, on Friday.</media:description>
     </item>
     <item>
       <title>Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System</title>
@@ -473,18 +490,20 @@
       <description>Masahide Kanayama, a surgeon and an expert in endometriosis, received an 18-month suspended sentence after a court found him guilty of damaging the sites.</description>
       <dc:creator>Kiuko Notoya and Hari Raj</dc:creator>
       <pubDate>Thu, 06 Aug 2026 19:26:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kanayama, Masahide</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shinto</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temples (Religious)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-doctor-hmwg/06xp-doctor-hmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Dickie for The New York Times</media:credit>
       <media:description>Dr. Masahide Kanayama in Manhattan last year.</media:description>
@@ -1131,26 +1150,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04int-uk-burnham-image-01-mtkl/04int-uk-burnham-image-01-mtkl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Temilade Adelaja</media:credit>
       <media:description>British Prime Minister Andy Burnham, center, visiting an Alstom training center as he unveiled new technical educational routes aimed at tackling youth unemployment, in Derby, England, in July.</media:description>
-    </item>
-    <item>
-      <title>How the Mohegan Tribe Lost a Billion-Dollar Casino in South Korea</title>
-      <link>https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html" rel="standout"></atom:link>
-      <description>Inspire Entertainment Resort — an alternative to Macau, the world’s gambling capital — was supposed to be a “transformational” project for the Native American tribe.</description>
-      <dc:creator>John Yoon and Jun Michael Park</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 11:17:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Casinos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bain Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mohegan Sun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Macau</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/01/26/multimedia/00xp-casino-01-hzkf/00xp-casino-01-hzkf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>An entrance to the casino at the Inspire Entertainment Resort in Incheon, South Korea, in January.</media:description>
     </item>
   </channel>
 </rss>

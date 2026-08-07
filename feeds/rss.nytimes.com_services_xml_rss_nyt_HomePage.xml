@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 05:12:49 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 05:00:15 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:43:12 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 06:32:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -67,14 +67,17 @@
       <description>The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.</description>
       <dc:creator>Eli Tan</dc:creator>
       <pubDate>Fri, 07 Aug 2026 02:48:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06biz-meta-new-mexico-clph/06biz-meta-new-mexico-clph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Peter Dasilva/Reuters</media:credit>
       <media:description>A New Mexico judge ordered Meta to pay $567 million and make changes to the way young people can use its platform</media:description>
@@ -88,7 +91,13 @@
       <dc:creator>Emily Cochrane</dc:creator>
       <pubDate>Fri, 07 Aug 2026 03:57:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ogles, Andy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hatcher, Charlie</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/us/06pol-ogles-hfo/06pol-ogles-hfo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>George Walker IV/Associated Press; William DeShazer for The New York Times</media:credit>
       <media:description>Charlie Hatcher and Andy Ogles</media:description>
@@ -413,6 +422,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/opinion/06prasad/06prasad-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Illustration by The New York Times; source images by Manuel Augusto Moreno, years, ppart, and KTSDESIGN/Science Photo Library, via Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Thailand School Shooting Leaves at Least Six</title>
+      <link>https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html" rel="standout"></atom:link>
+      <description>A student opened fire at a high school near Bangkok, according to local news media.</description>
+      <dc:creator>Muktita Suhartono and Max Kim</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 06:15:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07int-thailand-school-shooting-cmpw/07int-thailand-school-shooting-cmpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chalinee Thirasupa/Reuters</media:credit>
+      <media:description>Students evacuated from Debsirin Nonthaburi School, northwest of Bangkok, on Friday.</media:description>
     </item>
   </channel>
 </rss>

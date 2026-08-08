@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 16:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 17:50:35 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Hardware wallet sales in Russia more than double as new crypto rules near]]></title>
+      <link>https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/30976665dd7fa778eff16c38318b48d658559cdb-1920x1282.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">8f611c07-1487-4493-88bc-16782b545004</guid>
+      <pubDate>Sat, 08 Aug 2026 17:48:02 +0000</pubDate>
+      <description><![CDATA[Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Crypto News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Brazil's central bank orders exchanges to delay large crypto transfers abroad]]></title>
       <link>https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad</link>
@@ -375,24 +389,6 @@
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="tag"><![CDATA[Ethereum News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live updates: 'This can't last forever': Mulling bitcoin's lame price action as risk markets rally]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8c5b6006d5fa8669c35c8173d18dd59e1b21a9e4-2880x1500.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">b255a68e-676d-4b06-990a-8103cae73f7d</guid>
-      <pubDate>Fri, 07 Aug 2026 07:44:57 +0000</pubDate>
-      <description><![CDATA[The U.S. lost 23,000 in July, the first such loss since February. Expectations had been for a gain of 80,000 jobs.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>Stephen Alpher</dc:creator>
-      <dc:creator>Helene Braun</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
     </item>
   </channel>
 </rss>

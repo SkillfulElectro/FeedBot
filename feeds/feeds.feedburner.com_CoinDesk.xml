@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 00:18:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:32:20 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/61a9559ef27c28600826f6691b0424ccfd776182-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">0dc4df21-8fe1-4e38-b5c7-7f2af95faf25</guid>
+      <pubDate>Sat, 08 Aug 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal]]></title>
       <link>https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal</link>
@@ -380,22 +393,6 @@
       <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
       <category domain="tag"><![CDATA[ondo finance]]></category>
       <category domain="tag"><![CDATA[litigation]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Tether expands tokenization business into Saudi Arabia, starting with real estate]]></title>
-      <link>https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/27b510056d3b25a67300d1c4cc5407c2ac5cf669-4635x3090.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">58de6594-f7f0-4837-9bb3-c46d96d75575</guid>
-      <pubDate>Thu, 06 Aug 2026 16:10:04 +0000</pubDate>
-      <description><![CDATA[The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[Real World Assets  ]]></category>
-      <category domain="tag"><![CDATA[Tether]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

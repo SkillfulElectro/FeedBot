@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 06:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:48:08 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f2f6731511c468648ae94fe05f6331efb1318c2f-1500x1071.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7b904ebd-e6fa-464e-89b1-f45889b2e1ef</guid>
+      <pubDate>Sat, 08 Aug 2026 07:46:04 +0000</pubDate>
+      <description><![CDATA[BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[New XRP Ledger amendments target $530 million in tokenized Wall Street assets]]></title>
       <link>https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets</link>
@@ -374,22 +387,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Senate won't vote on crypto Clarity Act before its summer break]]></title>
-      <link>https://www.coindesk.com/policy/2026/08/06/senate-won-t-vote-on-crypto-clarity-act-before-its-summer-break</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/164f2ef09ede4214270f05f41bac4752e823c525-3762x2116.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">71485e42-e279-4065-9441-d4c8dd6a8edd</guid>
-      <pubDate>Fri, 07 Aug 2026 02:14:43 +0000</pubDate>
-      <description><![CDATA[The U.S. Senate won't go on its August recess just yet but it will not vote on the Clarity Act this month, dimming hopes that the bill can become law this year. ]]></description>
-      <dc:creator>Nikhilesh De</dc:creator>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Breaking News]]></category>
-      <category domain="tag"><![CDATA[Clarity Act]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

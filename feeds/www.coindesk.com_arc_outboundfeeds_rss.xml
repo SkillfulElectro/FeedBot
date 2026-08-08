@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 07:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:09:17 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month]]></title>
+      <link>https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a6f02ef703e994951b57b8fa5172c8f10bfe45ac-5508x3672.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">1589c4df-04dc-4877-ada6-f63a971dc964</guid>
+      <pubDate>Sat, 08 Aug 2026 09:07:24 +0000</pubDate>
+      <description><![CDATA[The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September. ]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Clarity Act]]></category>
+      <category domain="tag"><![CDATA[Breaking News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers]]></title>
       <link>https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes</link>
@@ -374,19 +390,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[XRP leads majors losses as Clarity Act vote slips to September]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b1c014a2d37a67798524621c1d3d9c1251ff9030-1500x935.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">73654ce7-bb31-47b9-beb1-9821dd7c48e4</guid>
-      <pubDate>Fri, 07 Aug 2026 04:17:01 +0000</pubDate>
-      <description><![CDATA[Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

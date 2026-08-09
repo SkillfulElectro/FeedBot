@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?widgetName=rssfeed&amp;widgetContentId=714290&amp;getXmlFeed=true" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 16:35:50 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 16:27:16 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 17:32:13 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 17:27:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -84,9 +84,9 @@
       <link>https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html" rel="standout"></atom:link>
-      <description>President Trump’s Board of Peace announced an agreement last month that aimed at Hamas’s giving up its weapons alongside an Israeli withdrawal from Gaza.</description>
+      <description>President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.</description>
       <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 15:48:57 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:39:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -103,6 +103,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
       <media:description>Prime Minister Benjamin Netanyahu of Israel, shown last month, told his cabinet on Sunday, “I want to be clear here: Israel is ruling out the 15-point document.” </media:description>
+    </item>
+    <item>
+      <title>Inside the War on Hezbollah’s Finances</title>
+      <link>https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html" rel="standout"></atom:link>
+      <description>Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money.</description>
+      <dc:creator>Euan Ward, Eric Schmitt, Ronen Bergman and Hwaida Saad</dc:creator>
+      <pubDate>Sun, 09 Aug 2026 09:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00int-hezbollah-finances-jpgz/00int-hezbollah-finances-jpgz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>The aftermath of a strike in March on a building in Beirut that Israel asserted was linked to Hezbollah’s financial arm.</media:description>
     </item>
     <item>
       <title>Iran, Holding Firm to Hormuz, Pushes for Return to June MOU</title>
@@ -129,34 +150,13 @@
       <media:description>Vessels in the Strait of Hormuz, as seen from Oman last Monday.</media:description>
     </item>
     <item>
-      <title>Inside the War on Hezbollah’s Finances</title>
-      <link>https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html" rel="standout"></atom:link>
-      <description>Israel and the United States aren’t just targeting the Lebanese militant group’s weapons. They’re going after its money.</description>
-      <dc:creator>Euan Ward, Eric Schmitt, Ronen Bergman and Hwaida Saad</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 09:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00int-hezbollah-finances-jpgz/00int-hezbollah-finances-jpgz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
-      <media:description>The aftermath of a strike in March on a building in Beirut that Israel asserted was linked to Hezbollah’s financial arm.</media:description>
-    </item>
-    <item>
       <title>Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary</title>
       <link>https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html" rel="standout"></atom:link>
       <description>Dr. Abdul El-Sayed’s call with the former president comes as he tries to win over wary Democrats in Michigan’s high-stakes Senate race.</description>
       <dc:creator>Tim Balk and Bayliss Wagner</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 16:27:16 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:27:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
@@ -213,9 +213,9 @@
       <link>https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/09/us/kesey-furthur-bus-san-francisco.html" rel="standout"></atom:link>
-      <description>The psychedelic bus whose passengers hit the road and fueled ’60s counterculture is coming back out. And to its owners, America sure could use it.</description>
+      <description>Ken Kesey’s psychedelic bus, immortalized in “The Electric Kool-Aid Acid Test,” is preparing for one more run. And to its owners, America sure could use it.</description>
       <dc:creator>Heather Knight and Ricardo Nagaoka</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 15:47:53 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 16:58:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Sixties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kesey, Ken</category>
@@ -288,13 +288,13 @@
       <media:description>A mural depicting Pope Leo XIV at Rate Field in Chicago.</media:description>
     </item>
     <item>
-      <title>2 Die After Boat Overturns in New York Harbor, Police Say</title>
+      <title>2 Die After Boat Overturns in New York Harbor</title>
       <link>https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/09/nyregion/new-york-harbor-boat-capsizes-dead.html" rel="standout"></atom:link>
       <description>Police divers found a 27-year-old woman and a 5-month-old baby in the water near Liberty Island. A man was arrested and charged with reckless endangerment.</description>
       <dc:creator>Leo Sands and Davaughnia Wilson</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 16:09:38 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 17:15:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diving and Divers</category>

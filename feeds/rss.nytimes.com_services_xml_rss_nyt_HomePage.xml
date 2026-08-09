@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 11:26:54 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 10:47:02 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 12:54:31 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 12:52:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/09/us/politics/bobby-zhou-trump-crypto.html" rel="standout"></atom:link>
       <description>The curious case of Guren “Bobby” Zhou shows the ease with which investors with shady backgrounds and unknown motivations can funnel money to the president.</description>
       <dc:creator>Russ Buettner</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 09:00:28 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 12:33:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
@@ -44,7 +44,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/09/us/politics/kennedy-center-renovation-mice.html" rel="standout"></atom:link>
       <description>Employees say the performing arts center’s quirky-looking mice have an exotic back story. Do they?</description>
       <dc:creator>Elizabeth Williamson</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 09:00:32 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:56:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mice</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
@@ -79,6 +79,31 @@
       <media:description>Senate Majority Leader John Thune has repeatedly pointed out the lack of Republican support to push through the strict voter identification legislation.</media:description>
     </item>
     <item>
+      <title>Israel Rejects Trump’s 15-Point Plan to Disarm Hamas</title>
+      <link>https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html" rel="standout"></atom:link>
+      <description>President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Sun, 09 Aug 2026 12:01:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board of Peace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09int-israel-gaza-wfkz/09int-israel-gaza-wfkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel last month in Jerusalem.</media:description>
+    </item>
+    <item>
       <title>Inside the War on Hezbollah’s Finances</title>
       <link>https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/europe/lebanon-hezbollah-iran-us-finances.html</guid>
@@ -108,23 +133,24 @@
       <dc:creator>Anton Troianovski, Jonathan Swan, Eric Schmitt and Julian E. Barnes</dc:creator>
       <pubDate>Sat, 08 Aug 2026 19:56:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caine, John Daniel (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crow, Jason</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08dc-munitions-mwfq/08dc-munitions-mwfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>Buildings targeted by airstrikes in Tehran in April. Bombing Iran burned through thousands of multimillion-dollar missiles that contain precision parts from a global web of suppliers and can take years to produce.</media:description>
@@ -148,6 +174,21 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09pol-rogers-elections-01-gkwh/09pol-rogers-elections-01-gkwh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Brittany Greeson for The New York Times</media:credit>
       <media:description>Mike Rogers, a Republican candidate for Senate in Michigan, has become an election skeptic as he returns to the campaign trail.</media:description>
+    </item>
+    <item>
+      <title>Obama and Abdul El-Sayed Spoke to Discuss Unity After Michigan Senate Primary</title>
+      <link>https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/09/us/politics/obama-abdul-el-sayed-michigan-senate.html" rel="standout"></atom:link>
+      <description>Dr. Abdul El-Sayed’s call with the former president comes as he tries to win over wary Democrats in Michigan’s high-stakes Senate race.</description>
+      <dc:creator>Tim Balk</dc:creator>
+      <pubDate>Sun, 09 Aug 2026 12:30:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
     </item>
     <item>
       <title>Poll: Voters See Political Parties as More Extreme Than Their Own Candidates</title>
@@ -177,26 +218,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00EA-IDEOLOGICAL-EXTREMES-vflm/00EA-IDEOLOGICAL-EXTREMES-vflm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Tully for The New York Times</media:credit>
       <media:description>A wide gap between perception of political parties and individual candidates was revealed in several states, including Iowa, North Carolina and Maine.</media:description>
-    </item>
-    <item>
-      <title>A Democratic Socialist Spreads the Word, Even in Hostile Territory</title>
-      <link>https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html" rel="standout"></atom:link>
-      <description>Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.</description>
-      <dc:creator>Jeremy W. Peters</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 09:00:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gustavo Gordillo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/00nat-dsa-gustavo-bvkm/00nat-dsa-gustavo-bvkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ahmed Gaber for The New York Times</media:credit>
-      <media:description>Gustavo Gordillo, co-chair of the New York chapter of the Democratic Socialists of America.</media:description>
     </item>
     <item>
       <title>How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan</title>
@@ -249,7 +270,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/09/style/anthony-scaramuccis-podcast-trump.html" rel="standout"></atom:link>
       <description>He spent 11 days in the Trump White House nine years ago. Now he has a hit podcast, helping the British public, among others, understand what’s going on.</description>
       <dc:creator>Matt Flegenheimer</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 09:01:05 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 12:52:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
@@ -297,6 +318,22 @@
       <media:credit>Photo illustration by The New York Times</media:credit>
     </item>
     <item>
+      <title>The Pope’s Favorite Team</title>
+      <link>https://www.nytimes.com/2026/08/09/briefing/the-popes-favorite-team.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/briefing/the-popes-favorite-team.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/09/briefing/the-popes-favorite-team.html" rel="standout"></atom:link>
+      <description>Are the Chicago White Sox blessed?</description>
+      <dc:creator>Tania Ganguli</dc:creator>
+      <pubDate>Sun, 09 Aug 2026 11:55:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chicago White Sox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/09themorning-nl-pope-sox-1/00biz-white-sox-pope--gwpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>A mural depicting Pope Leo XIV at Rate Field in Chicago.</media:description>
+    </item>
+    <item>
       <title>Hunter Biden Says His Father’s Cancer Is Worsening</title>
       <link>https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-joe-biden-cancer.html</guid>
@@ -305,6 +342,7 @@
       <dc:creator>Mack Liederman</dc:creator>
       <pubDate>Sun, 09 Aug 2026 02:44:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostate Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Hunter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>

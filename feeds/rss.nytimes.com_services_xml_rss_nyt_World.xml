@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 12:53:49 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 12:49:41 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:49:12 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 13:36:35 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/09/world/middleeast/israel-netanyahu-trump-15-point-plan-hamas-peace-gaza.html" rel="standout"></atom:link>
       <description>President Trump’s Board of Peace announced an agreement last month that aimed at Hamas giving up its weapons alongside an Israeli withdrawal from Gaza.</description>
       <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 12:01:21 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 12:57:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -118,21 +118,18 @@
       <description>Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.</description>
       <dc:creator>Chris Buckley and Amy Chang Chien</dc:creator>
       <pubDate>Sun, 09 Aug 2026 04:01:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Progressive Party (Taiwan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08int-taiwan-drone-01-tjlb/08int-taiwan-drone-01-tjlb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lam Yik Fei for The New York Times</media:credit>
       <media:description>Members of Taiwan’s military operating a drone during the annual Han Kuang military exercises in Changhua, Taiwan on Thursday.</media:description>
@@ -146,8 +143,15 @@
       <dc:creator>Yeganeh Torbati, Leily Nikounazar and Aaron Boxerman</dc:creator>
       <pubDate>Sat, 08 Aug 2026 19:04:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme National Security Council (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zolghadr, Mohammad Bagher</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08int-iran-mwcl/08int-iran-mwcl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Ships near the Strait of Hormuz, as seen from Musandam, Oman, on Thursday.</media:description>
@@ -193,14 +197,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/08/world/canada/canada-summerland-bc-wildfire-bald-range-evacuation.html" rel="standout"></atom:link>
       <description>The Bald Range fire has burned more than 25,000 acres in British Columbia. At one point, the fire spread more than 2,000 acres in about an hour, officials said.</description>
       <dc:creator>Mark Walker and Ishani Desai</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 11:31:51 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 11:31:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="">Bald Range fire</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">District of Summerland (British Columbia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">District of Peachland (British Columbia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <media:content height="1466" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08xp-canadian-wildfire-01-kmbj/08xp-canadian-wildfire-01-kmbj-mediumSquareAt3X.jpg" width="1466"></media:content>
       <media:credit>BC Wildfire Service, via Reuters</media:credit>
       <media:description>A wildfire that started on Friday in British Columbia, Canada, has consumed more than 20,000 acres.</media:description>

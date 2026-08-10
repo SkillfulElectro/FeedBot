@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 09:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:16:46 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin volatility is in meltdown, but downside protection still commands a premium]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/10/bitcoin-volatility-is-in-meltdown-but-downside-protection-still-commands-a-premium</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a30cc5909ba74d536022faa3e9dacc8019d48321-2108x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">de6d638d-b1ab-4a90-b7c0-2f89e61e81e8</guid>
+      <pubDate>Mon, 10 Aug 2026 10:13:58 +0000</pubDate>
+      <description><![CDATA[Bitcoin’s BVIV volatility index hit the lowest level since 2025 as option demand collapsed. Still, overwriting surged and downside protection stayed pricey.  ]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[A rare CME shift: Hedge funds abandon structural shorts to bet on a bitcoin rally]]></title>
       <link>https://www.coindesk.com/markets/2026/08/10/a-rare-cme-shift-hedge-funds-abandon-structural-shorts-to-bet-on-a-bitcoin-rally</link>
@@ -83,6 +97,7 @@
       <pubDate>Mon, 10 Aug 2026 06:56:50 +0000</pubDate>
       <description><![CDATA[The market rose even as the Senate left the crypto bill unpassed before its recess, with steady ETF inflows and a softer dollar doing more for prices than Washington.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>James Van Straten</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -361,20 +376,6 @@
       <category domain="tag"><![CDATA[American Bitcoin]]></category>
       <category domain="tag"><![CDATA[Exclusive]]></category>
       <category domain="tag"><![CDATA[Eric Trump]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[U.S. widens Iran crypto crackdown with sanctions on two exchanges]]></title>
-      <link>https://www.coindesk.com/policy/2026/08/07/u-s-widens-iran-crypto-crackdown-with-sanctions-on-two-exchanges</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/19be7778374a432a1d25e3cc4f6c1334f21f9e4d-4368x2912.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">a5b92de9-9dc5-4d6b-b352-1de6896e4fd0</guid>
-      <pubDate>Fri, 07 Aug 2026 18:42:44 +0000</pubDate>
-      <description><![CDATA[The Treasury's OFAC targeted Shelbit and Aban Tether as Washington continues its effort to cut Tehran's access to crypto and foreign currency.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Iran]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -3,17 +3,77 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1786377558499" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 15:59:18 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 15:58:27 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:22:57 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 17:17:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious</title>
+      <link>https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/business/trump-artificial-intelligence-data-centers-ai.html" rel="standout"></atom:link>
+      <description>The president and his top aides have been especially bullish about data centers, despite national blowback against the facilities.</description>
+      <dc:creator>Tony Romm</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 15:48:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10dc-trump-ai-fvtl/10dc-trump-ai-fvtl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+      <media:description>President Trump’s optimism about artificial intelligence contrasts starkly with the more measured views from economists and policymakers across the political spectrum.</media:description>
+    </item>
+    <item>
+      <title>One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well</title>
+      <link>https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html" rel="standout"></atom:link>
+      <description>Ken Paxton, the Texas attorney general, makes six-figure income from a cellphone tower on the grounds of a hospital where he was a board member.</description>
+      <dc:creator>Lauren McGaughy</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 16:06:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Premier Vertical Properties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07nat-paxton-SWAP-lbhq-copy/07nat-paxton-SWAP-lbhq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Desiree Rios for The New York Times</media:credit>
+      <media:description>The cell tower owned by Ken Paxton’s company sits on the property of what is now Baylor, Scott &amp; White Medical Center in Frisco, Texas. </media:description>
+    </item>
+    <item>
+      <title>America Is Atomizing</title>
+      <link>https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html" rel="standout"></atom:link>
+      <description>A nation of us versus them and them and them.</description>
+      <dc:creator>Jesse McKinley</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 11:21:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00ideas-ST-atomization-topper-image/00ideas-ST-atomization-topper-image-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>The Campaign Tactics Helping Progressives Win Primaries Ahead of the 2026 Midterms</title>
       <link>https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html</link>
@@ -55,41 +115,19 @@
       <media:description>Ms. Flanagan, third from left, has been backed by Minnesota Democrats and national progressives including, from left, Senator Tina Smith, Senator Bernie Sanders, Representative Ilhan Omar and Keith Ellison, the Minnesota attorney general.</media:description>
     </item>
     <item>
-      <title>Southern Iran Bears Brunt of U.S. Bombing</title>
-      <link>https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html" rel="standout"></atom:link>
-      <description>While fighting has abated in much of Iran, near-constant U.S. airstrikes in Qeshm island and other southern spots have upended lives and livelihoods.</description>
-      <dc:creator>Farnaz Fassihi and Shirin Hakim</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:02:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10int-iran-south-01-wcpg/10int-iran-south-01-wcpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Tourists in 2023 in the Valley of Stars, a popular location for visitors on Qeshm island, off Iran’s southern coast.</media:description>
-    </item>
-    <item>
-      <title>Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands</title>
-      <link>https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html" rel="standout"></atom:link>
-      <description>A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discussions to fully reopen the waterway.</description>
-      <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:18:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/1-int-iran-hormuz-gbkp/1-int-iran-hormuz-gbkp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Ships in the Strait of Hormuz off the coast of southern Iran on Monday.</media:description>
+      <title>Ukraine Drone Attack on Industrial City in Russia Kills at Least 13</title>
+      <link>https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html" rel="standout"></atom:link>
+      <description>The strike, on an industrial center in Tatarstan, killed at least 13 people.</description>
+      <dc:creator>Ivan Nechepurenko and Siobhán O’Grady</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 15:17:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tatarstan (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
     </item>
     <item>
       <title>Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.</title>
@@ -98,7 +136,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html" rel="standout"></atom:link>
       <description>In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.</description>
       <dc:creator>Fernando Alfonso III and Kashmir Hill</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 12:34:18 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 17:14:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
@@ -130,23 +168,6 @@
       <media:description>A Flock Security camera in Addison, Texas.</media:description>
     </item>
     <item>
-      <title>Private Equity Is Stuck With 33,575 Unsold Businesses</title>
-      <link>https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html" rel="standout"></atom:link>
-      <description>Even amid a booming deal-making environment, private equity firms are unable to exit a growing number of investments at values their investors require.</description>
-      <dc:creator>Maureen Farrell</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:01:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apollo Global Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blackstone Group, The</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/business/00biz-private-equity-limbo/00biz-private-equity-limbo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Carla Gottgens/Bloomberg</media:credit>
-      <media:description>Jim Zelter, president of the investment behemoth Apollo Global Management, which last week reported weak quarterly results in its private equity division.</media:description>
-    </item>
-    <item>
       <title>How Shania Twain Won Over Gen Z</title>
       <link>https://www.nytimes.com/2026/08/10/magazine/shania-twain-gen-z.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/magazine/shania-twain-gen-z.html</guid>
@@ -164,19 +185,21 @@
       <media:credit>Pari Dukovic for The New York Times</media:credit>
     </item>
     <item>
-      <title>Ukraine Drone Attack on Industrial City in Russia Kills at Least 13</title>
-      <link>https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html" rel="standout"></atom:link>
-      <description>The strike, on an industrial center in Tatarstan, killed at least 13 people.</description>
-      <dc:creator>Ivan Nechepurenko and Siobhán O’Grady</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:17:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tatarstan (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <title>Trump Concedes There Was ‘Some Contractor Error’ in Reflecting Pool Renovations</title>
+      <link>https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html" rel="standout"></atom:link>
+      <description>The president had insisted for weeks that the landmarks’ algae-stained waters and peeling lining were the fault of vandals, not the project itself.</description>
+      <dc:creator>David A. Fahrenthold</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 16:23:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hearn, David (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pirro, Jeanine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10trump-news-reflecting-pool-mhkg/10trump-news-reflecting-pool-mhkg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Allison Robbert for The New York Times</media:credit>
+      <media:description>Investigators concluded that botched work by a contractor, not vandalism, had caused the Reflecting Pool’s recent problems.</media:description>
     </item>
     <item>
       <title>Traffic to Trump’s Truth Social Falls Sharply This Summer</title>
@@ -196,26 +219,64 @@
       <media:description>Last month, the overall number of monthly visitors to Truth Social was down about 36 percent from a year ago.</media:description>
     </item>
     <item>
-      <title>America Is Atomizing</title>
-      <link>https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html" rel="standout"></atom:link>
-      <description>A nation of us versus them and them and them.</description>
-      <dc:creator>Jesse McKinley</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 11:21:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <title>Private Equity Is Stuck With 33,575 Unsold Businesses</title>
+      <link>https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html" rel="standout"></atom:link>
+      <description>Even amid a booming deal-making environment, private equity firms are unable to exit a growing number of investments at values their investors require.</description>
+      <dc:creator>Maureen Farrell</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 09:01:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apollo Global Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blackstone Group, The</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/business/00biz-private-equity-limbo/00biz-private-equity-limbo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Carla Gottgens/Bloomberg</media:credit>
+      <media:description>Jim Zelter, president of the investment behemoth Apollo Global Management, which last week reported weak quarterly results in its private equity division.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal</title>
+      <link>https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html" rel="standout"></atom:link>
+      <description>Prime Minister Benjamin Netanyahu of Israel is trying to satisfy the sometimes competing demands of his right-wing base and President Trump months ahead of a tough election.</description>
+      <dc:creator>Adam Rasgon and Aaron Boxerman</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 15:40:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board of Peace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Novik, Nimrod</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10israel-netanyahu-01-cqzw/10israel-netanyahu-01-cqzw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>President Donald Trump, left, and Benjamin Netanyahu, Prime Minister of Israel, at the White House in 2025.</media:description>
+    </item>
+    <item>
+      <title>Iran Insists Strait of Hormuz Will Stay Closed Until Trump Agrees to Demands</title>
+      <link>https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/world/middleeast/iran-strait-of-hormuz-us-oman-talks.html" rel="standout"></atom:link>
+      <description>A spokesman for the Iranian Foreign Ministry said that talks with Oman on shipping routes in the Strait of Hormuz were “separate” from discussions to fully reopen the waterway.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 15:18:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00ideas-ST-atomization-topper-image/00ideas-ST-atomization-topper-image-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/1-int-iran-hormuz-gbkp/1-int-iran-hormuz-gbkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ships in the Strait of Hormuz off the coast of southern Iran on Monday.</media:description>
     </item>
     <item>
       <title>What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely</title>
@@ -259,7 +320,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/business/media/small-newspapers-success-chronicle-glen-falls.html" rel="standout"></atom:link>
       <description>In a world of failing newspapers, free weeklies like The Chronicle of Glens Falls, N.Y., are still finding readers. All it takes is owners who do absolutely everything.</description>
       <dc:creator>Erik Wemple and An Rong Xu</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 14:02:32 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:43:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Glens Falls (NY)</category>
     </item>
@@ -270,7 +331,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html" rel="standout"></atom:link>
       <description>Just shy of 44 with boyish good looks, Rob Sand is very much a moderate, but he has a withering critique of the political establishment in this country.</description>
       <dc:creator>Ben Rhodes</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:02:10 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 17:17:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -288,9 +349,9 @@
       <link>https://www.nytimes.com/2026/08/10/opinion/trump-dewine-immigration-reform.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/opinion/trump-dewine-immigration-reform.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/10/opinion/trump-dewine-immigration-reform.html" rel="standout"></atom:link>
-      <description>It could be his Nixon-goes-to-China.</description>
+      <description>Immigration reform could be his Nixon-goes-to-China.</description>
       <dc:creator>Mike DeWine</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:00:04 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:59:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Temporary Protected Status (US Immigration)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
@@ -304,7 +365,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/opinion/10dewine/10dewine-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/opinion/10dewine/10dewine-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Illustration by Shoshana Schultz/The New York Times</media:credit>
     </item>
     <item>
@@ -325,25 +386,23 @@
       <media:description>Flock’s 120,000 cameras can be found alongside roads in every state but Alaska, allowing law enforcement officers to quickly see where a car might be, and where it has been.</media:description>
     </item>
     <item>
-      <title>Police in India Use Tear Gas to Break Youth Protest</title>
-      <link>https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/asia/police-india-protest-jharkhand-jobs.html" rel="standout"></atom:link>
-      <description>Thousands of protesters in the eastern state of Jharkhand claim irregularities in qualifying exams for government jobs and are demanding an overhaul of the system.</description>
-      <dc:creator>Anupreeta Das</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:41:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jharkhand (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tear Gas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10int-india-01-zhlj/10int-india-01-zhlj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yousuf Sarfaraz/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Police standing guard near a barricade as demonstrators took part in a protest over government recruitment exams in Ranchi. Jharkhand, on Monday.</media:description>
+      <title>Muggy Heat and Storms Continue to Grip the U.S., but an End Is in Sight</title>
+      <link>https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html" rel="standout"></atom:link>
+      <description>Weather at the start of the week looks like more of the same: heat and storms across the Eastern United States. But a subtle shift is in the cards.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 16:24:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10WEA-summer-heat-storms-bjlh/10WEA-summer-heat-storms-bjlh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jordan Tovin/Reuters</media:credit>
+      <media:description>New York has faced above-average heat for days.</media:description>
     </item>
   </channel>
 </rss>

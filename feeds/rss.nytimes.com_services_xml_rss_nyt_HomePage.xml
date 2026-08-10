@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 19:27:17 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 19:15:32 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:43:58 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 20:37:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,13 +34,29 @@
       <media:description>President Trump’s optimism about artificial intelligence contrasts starkly with the more measured views from economists and policymakers across the political spectrum.</media:description>
     </item>
     <item>
-      <title>How Trump’s Yearlong ‘Takeover’ of Washington Has Changed the Capital</title>
+      <title>Sanders Calls on A.I. Companies to Pause Development to ‘Avoid Disaster’</title>
+      <link>https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/us/politics/bernie-sanders-ai-moratorum.html" rel="standout"></atom:link>
+      <description>Senator Bernie Sanders warned that corporations have already lost control of technology that could cause “potentially cataclysmic results” for millions of people.</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 19:58:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Mike (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/POL-SANDERS-AI-wtpj/POL-SANDERS-AI-wtpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?</title>
       <link>https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html" rel="standout"></atom:link>
       <description>The deployment of National Guard troops and federal agents into the streets has been expensive. How effective it has been is debatable.</description>
       <dc:creator>Campbell Robertson</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 19:15:32 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:01:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US Federal Takeover of Metropolitan Police Dept (DC)</category>
@@ -49,22 +65,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Park Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Police Department (DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-    </item>
-    <item>
-      <title>F.D.A. Moves Toward Tighter Restrictions on Food Ingredients</title>
-      <link>https://www.nytimes.com/2026/08/10/well/fda-gras-food-safety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/well/fda-gras-food-safety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/well/fda-gras-food-safety.html" rel="standout"></atom:link>
-      <description>A proposed rule would require companies to notify the agency about ingredients they plan to add, but companies would still be able to self-police their safety.</description>
-      <dc:creator>Alice Callahan and Dani Blum</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 18:24:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/well/10HFO-WELL-GRAS1/10HFO-WELL-GRAS1-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Patrick T. Fallon/Getty Images</media:credit>
     </item>
     <item>
       <title>One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well</title>
@@ -159,7 +159,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html" rel="standout"></atom:link>
       <description>Investigators are focusing on the tour operator and the pilot of the boat that capsized in New York Bay on Saturday, killing a mother and her infant daughter.</description>
       <dc:creator>Miles G. Cohen and Christopher Maag</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 18:18:22 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 19:28:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bogota (Colombia)</category>
@@ -190,13 +190,53 @@
       <media:credit>Pari Dukovic for The New York Times</media:credit>
     </item>
     <item>
+      <title>Colombia’s Earthquake Puts Abelardo De La Espriella, Its New President, to the Test</title>
+      <link>https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-de-la-espriella.html" rel="standout"></atom:link>
+      <description>Abelardo De La Espriella had never held public office until his inauguration on Friday. Now, he is at the helm of a major disaster response.</description>
+      <dc:creator>Annie Correal</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 20:24:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petro, Gustavo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cepeda, Ivan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clan del Golfo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Liberation Army (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gaitanista Self-Defense Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10colombia-quake-colombia-background-tlmp/10colombia-quake-colombia-background-tlmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sebastian Barros/Associated Press</media:credit>
+      <media:description>President Abelardo de la Espriella, left, and his vice president, José Manuel Restrepo, led an earthquake response meeting in Bogotá, the Colombian capital, on Monday.</media:description>
+    </item>
+    <item>
+      <title>Images Emerge From Quake-Battered Colombia</title>
+      <link>https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html" rel="standout"></atom:link>
+      <description>The most powerful temblor in a decade struck in a Pacific Coast region, killing over 100 people.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 19:56:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10Int-Colombia-Quake-Photos-01-zhtw/10Int-Colombia-Quake-Photos-01-zhtw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Joaquin Sarmiento/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Looking for survivors on Monday in Cali, Colombia.</media:description>
+    </item>
+    <item>
       <title>Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.</title>
       <link>https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html" rel="standout"></atom:link>
       <description>In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.</description>
       <dc:creator>Fernando Alfonso III and Kashmir Hill</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 17:14:40 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:04:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
@@ -277,7 +317,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html" rel="standout"></atom:link>
       <description>As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.</description>
       <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 13:56:20 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 20:37:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lurie, Daniel</category>
@@ -334,17 +374,6 @@
       <media:credit>Ayesha Kazim for The New York Times; Mila De La Torre for The New York Times; Lisa Kimura</media:credit>
     </item>
     <item>
-      <title>How Small, Independent Newspapers Are Still Finding Readers</title>
-      <link>https://www.nytimes.com/2026/08/10/business/media/small-newspapers-success-chronicle-glens-falls.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/media/small-newspapers-success-chronicle-glens-falls.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/business/media/small-newspapers-success-chronicle-glens-falls.html" rel="standout"></atom:link>
-      <description>In a world of failing newspapers, free weeklies like The Chronicle of Glens Falls, N.Y., are still finding readers. All it takes is owners who do absolutely everything.</description>
-      <dc:creator>Erik Wemple and An Rong Xu</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 16:43:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Glens Falls (NY)</category>
-    </item>
-    <item>
       <title>Muggy Heat and Storms Continue to Grip the U.S., but an End Is in Sight</title>
       <link>https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/weather/heat-storms-midwest-northeast-us.html</guid>
@@ -393,7 +422,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html" rel="standout"></atom:link>
       <description>Just shy of 44 with boyish good looks, Rob Sand is very much a moderate, but he has a withering critique of the political establishment in this country.</description>
       <dc:creator>Ben Rhodes</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 17:42:19 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 19:54:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>

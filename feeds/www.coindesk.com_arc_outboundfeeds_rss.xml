@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 11 Aug 2026 12:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:47:01 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Pokémon cards are becoming multibillion dollar market. Crypto wants to fix how they trade]]></title>
+      <link>https://www.coindesk.com/business/2026/08/11/pokemon-cards-are-becoming-multibillion-dollar-market-crypto-wants-to-fix-how-they-trade</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/800c6fe6e3c91b04429f89f7d1800b84095103a7-5777x3851.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">388e722a-e057-424c-8b7e-fd07adf85eec</guid>
+      <pubDate>Tue, 11 Aug 2026 13:06:07 +0000</pubDate>
+      <description><![CDATA[Collectors are spending millions on trading cards, while blockchain startups are turning physical Pokémon cards into digital assets. The harder task is creating enough liquidity to compete with established marketplaces.]]></description>
+      <dc:creator>Aoyon Ashraf</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[MoneyGram expands on Solana with global crypto-to-cash service]]></title>
       <link>https://www.coindesk.com/business/2026/08/10/moneygram-expands-on-solana-with-global-crypto-to-cash-service</link>
@@ -50,9 +64,9 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Ravencoin could roll back four days of transactions after critical block flaw]]></title>
+      <title><![CDATA[Ravencoin, a blockchain built from Bitcoin’s code, could roll back four days of transactions]]></title>
       <link>https://www.coindesk.com/tech/2026/08/11/ravencoin-could-roll-back-four-days-of-transactions-after-critical-block-flaw</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4d24cf23ae0690f3d88af4d0b51228c6b297753d-1500x1004.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ec6f5528399406702a50fb295a2d41da17857368-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">83492eb3-7142-4156-93bd-e60295764302</guid>
       <pubDate>Tue, 11 Aug 2026 11:24:56 +0000</pubDate>
       <description><![CDATA[Two mining pools controlling most of Ravencoin’s hashpower are building a replacement chain from before Friday’s first invalid block, putting deposits, withdrawals and payments made since then at risk of reversal.]]></description>
@@ -121,7 +135,7 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin slips as corporate BTC enthusiasm moves to AI]]></title>
+      <title><![CDATA[Live updates: Bitcoin holds $64,200; Anthropic to watermark Claude's AI content after EU regulations]]></title>
       <link>https://www.coindesk.com/tech/2026/08/11/live-updates-bitcoin-slips-as-corporate-btc-enthusiasm-moves-to-ai</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4ef8d303f7969904e5e1ae76f9c06eaf7e4ea513-2856x1448.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">51f62525-c43b-4c4b-aaf2-ea21c8af63c7</guid>
@@ -369,22 +383,6 @@
       <category domain="tag"><![CDATA[Grayscale]]></category>
       <category domain="tag"><![CDATA[Cardano]]></category>
       <category domain="tag"><![CDATA[Crypto News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Solana lending giant Jupiter now lets the same dollar earn twice]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/10/solana-lending-giant-jupiter-now-lets-the-same-dollar-earn-twice</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6a5e129a1540983596e499dd8e96b7b5e60f29d0-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">fe689edc-00d3-4ebb-bd93-ae706696db1a</guid>
-      <pubDate>Mon, 10 Aug 2026 14:30:00 +0000</pubDate>
-      <description><![CDATA[The new Lend v2 product turns deposits and borrowed assets into trading liquidity, tying higher returns to whether Jupiter’s router can send enough swap flow to the new vaults.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Solana News]]></category>
-      <category domain="tag"><![CDATA[Crypto Lending]]></category>
-      <category domain="tag"><![CDATA[DeFi]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_cb=1786472765448" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 17:23:18 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 17:14:39 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:26:05 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 18:18:43 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -255,11 +255,13 @@
       <dc:creator>Farnaz Fassihi and Shirin Hakim</dc:creator>
       <pubDate>Mon, 10 Aug 2026 09:02:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qeshm (Iran)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10int-iran-south-01-wcpg/10int-iran-south-01-wcpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
       <media:description>Tourists in 2023 in the Valley of Stars, a popular location for visitors on Qeshm island, off Iran’s southern coast.</media:description>
@@ -280,13 +282,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
     </item>
     <item>
+      <title>An Electric Motorcycle Revolution</title>
+      <link>https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html" rel="standout"></atom:link>
+      <description>With gas prices high, people in developing countries are lining up to buy battery-powered bikes. We took a spin around Lahore, Pakistan, on a small-but-mighty one.</description>
+      <dc:creator>Chico Harlan</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 17:47:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Motorcycles, Motor Bikes and Motorscooters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11cli-newsletter-electric-motorcycles-01-kgjl/11cli-newsletter-electric-motorcycles-01-kgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Asim Hafeez for The New York Times</media:credit>
+      <media:description>Chico Harlan, back, on a new Vlektra electric motorcycle with its owner, Abdul Rafay, in Lahore, Pakistan.</media:description>
+    </item>
+    <item>
       <title>Ex-Marine Robert Gilman Is Freed by Russia After 4 Years in Prison</title>
       <link>https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/russia-robert-gilman-release.html" rel="standout"></atom:link>
       <description>The Kremlin released Robert Gilman, whose family and an advocacy group had said he was in dire physical condition, on “a humanitarian basis,” President Trump said.</description>
       <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 17:14:05 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 18:17:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robert Gilman</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -608,7 +625,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/world/americas/colombia-earthquake-photos.html" rel="standout"></atom:link>
       <description>The strongest temblor in years struck in a Pacific Coast region, killing over 100 people.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 15:20:20 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 18:18:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
@@ -616,9 +633,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/10/multimedia/10int-colombia-quake-photos-01-fvmj/10int-colombia-quake-photos-01-fvmj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joaquin Sarmiento/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Rescue teams and volunteers piled into Cali, Colombia, after a 7.4-magnitude earthquake and aftershocks hit the country’s west.</media:description>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/11/world/11Colombia-Quake-Photos/11Colombia-Quake-Photos-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Juan Arredondo for The New York Times</media:credit>
+      <media:description>The city of Pereira a day after the quake.</media:description>
     </item>
     <item>
       <title>How ‘Harry Potter’ Fans Protected Dobby’s Grave From the Path of a U.K.-Ireland Power Cable</title>
@@ -1105,24 +1122,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08int-yemen-retaliation-qwvh/08int-yemen-retaliation-qwvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Damage at the Mail al-Saila camp for internally displaced people, on the outskirts of Marib, Yemen, on Friday.</media:description>
-    </item>
-    <item>
-      <title>As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws</title>
-      <link>https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html" rel="standout"></atom:link>
-      <description>A rampage at a high school in Thailand on Friday was the latest episode of gun violence in a country that has grappled in recent years with several attacks.</description>
-      <dc:creator>Max Kim and Muktita Suhartono</dc:creator>
-      <pubDate>Sat, 08 Aug 2026 14:47:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anutin Charnvirakul (1966- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08int-thailand-guns-02-lkgm/08int-thailand-guns-02-lkgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rungroj Yongrit/EPA, via Shutterstock</media:credit>
-      <media:description>Prime Minister Anutin Charnvirakul, center left, on Friday arriving at the site of a school shooting near Bangkok. He said that new gun laws were “one of my to-do things.”</media:description>
     </item>
   </channel>
 </rss>

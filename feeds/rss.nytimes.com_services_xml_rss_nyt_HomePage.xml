@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 13:09:41 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 13:08:07 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 14:32:46 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 14:08:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html" rel="standout"></atom:link>
       <description>A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.</description>
       <dc:creator>Patricia Mazzei and Tim Balk</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 12:50:15 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 13:21:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
@@ -81,6 +81,23 @@
       <media:description>David Crowley, the moderate Milwaukee County executive, with his daughter. He won an upset victory for the Democratic nomination for governor in Wisconsin, prevailing over Francesca Hong, a democratic socialist.</media:description>
     </item>
     <item>
+      <title>Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase</title>
+      <link>https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html" rel="standout"></atom:link>
+      <description>The latest Consumer Price Index report helped to reinforce the patient approach adopted by many officials at the Federal Reserve about raising rates, but it has not resolved the debate altogether.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 14:08:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Price Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12biz-inflation-blog-Fed-flwk/12biz-inflation-blog-Fed-flwk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+      <media:description>Kevin M. Warsh, the Federal Reserve chairman. The Fed is under pressure to rein in inflation.</media:description>
+    </item>
+    <item>
       <title>Trump Tariffs Force Some Canadian Companies to Move South of the Border</title>
       <link>https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html</guid>
@@ -110,15 +127,14 @@
       <description>In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.</description>
       <dc:creator>Peter Baker</dc:creator>
       <pubDate>Wed, 12 Aug 2026 08:43:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11dc-decoy-hjfg/11dc-decoy-hjfg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>Members of the news media and others boarding the plane that President Trump was secretly removed from in Ankara, Turkey, last month.</media:description>
@@ -131,23 +147,15 @@
       <description>The extraordinary subterfuge was aimed at protecting an American president who has been in Iran’s cross hairs for years.</description>
       <dc:creator>Eric Schmitt, Maggie Haberman, Aric Toler, Jamie Leventhal, Simon Ducroquet and Yuliya Parshina-Kottas</dc:creator>
       <pubDate>Wed, 12 Aug 2026 02:51:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caine, John Daniel (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/2026-08-11-trump-plane-reconstruct-index/2026-08-11-trump-plane-reconstruct-index-mediumSquareAt3X-v10.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <media:credit>Simon Ducroquet/The New York Times</media:credit>
     </item>
     <item>
       <title>Iran Said to Have Known Details of Trump’s Stay at NATO Summit</title>

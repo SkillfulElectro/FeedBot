@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 12 Aug 2026 15:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:37:42 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,37 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Wintermute plans $1 billion AI push beyond crypto: Bloomberg]]></title>
+      <link>https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7db3bf97253af39b70ae7cb86f74023bea1187e3-4323x2432.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">0496c31b-49cc-4c5b-b912-84ef8e952bbf</guid>
+      <pubDate>Wed, 12 Aug 2026 16:34:24 +0000</pubDate>
+      <description><![CDATA[The firm aims for non-crypto markets to drive over 50% of revenue by 2027, up from 10% currently, as it seeks to diversify its business.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Wintermute]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Solana platform taps prediction market Kalshi for Wall Street-style high-speed data feed]]></title>
+      <link>https://www.coindesk.com/business/2026/08/12/solana-platform-taps-prediction-market-kalshi-for-wall-street-style-high-speed-data-feed</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1752c4b99c4e3953d426b655225dc48327ad8e7b-1920x1244.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">3ac706d6-91f2-4d17-a9db-e5f1821a8a35</guid>
+      <pubDate>Wed, 12 Aug 2026 16:14:49 +0000</pubDate>
+      <description><![CDATA[Solana-based DoubleZero looks to meet institutional demands by adding prediction market Kalshi’s order book to its low-latency market data feed. ]]></description>
+      <dc:creator>Jamie Crawley</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Kalshi]]></category>
+      <category domain="tag"><![CDATA[Solana News]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="tag"><![CDATA[Institutional Investors]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Miden bets on privacy stablecoins with introduction of USDCx]]></title>
       <link>https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx</link>
@@ -234,13 +265,14 @@
     <item>
       <title><![CDATA[Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates]]></title>
       <link>https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ef1cc3bd6f16d5534a7053ae4508215b2e910c20-1435x731.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0e89c972170359616d653de89e6701bec587d964-2028x1104.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">07f69503-2e8e-475f-be69-2c8741a5c268</guid>
       <pubDate>Wed, 12 Aug 2026 07:04:53 +0000</pubDate>
       <description><![CDATA[Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
       <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>Krisztian Sandor</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
@@ -357,35 +389,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Tokenization]]></category>
       <category domain="tag"><![CDATA[Brazil]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[EToro reports second quarter crypto loss even as total profit beats estimates]]></title>
-      <link>https://www.coindesk.com/business/2026/08/11/digital-broker-etoro-reports-q2-crypto-revenue-dropped-120-compared-to-2025</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b51601b176dc3c6b4d6c74591116ef860cd0d2a3-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">174570e4-a7ce-43d4-85bd-f6c893a52329</guid>
-      <pubDate>Tue, 11 Aug 2026 17:12:11 +0000</pubDate>
-      <description><![CDATA[The trading platform’s gross crypto revenue fell to $1.35 billion in the second quarter. It also agreed to buy U.S. brokerage TradeZero for up to $231 million.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Crypto Trading]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[If crypto goes back to the congressional drawing board, 3 Democrat women loom large]]></title>
-      <link>https://www.coindesk.com/news-analysis/2026/08/11/if-crypto-goes-back-to-the-congressional-drawing-board-3-democrat-women-loom-large</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2cf8c56e1ec085b0709d193283ca438dc2b33772-3849x2566.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">bb20f2ab-b7ed-41f3-b16c-82fa11002fce</guid>
-      <pubDate>Tue, 11 Aug 2026 14:40:15 +0000</pubDate>
-      <description><![CDATA[The Democrats who may get a bigger say in future crypto legislative efforts are familiar figures, and they generally look at digital assets with distrust.]]></description>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/news-analysis"><![CDATA[News Analysis]]></category>
-      <category domain="tag"><![CDATA[Clarity Act]]></category>
-      <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

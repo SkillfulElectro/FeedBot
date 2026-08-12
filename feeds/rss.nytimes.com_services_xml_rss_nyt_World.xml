@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 15:59:26 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 15:53:47 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:02:14 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 17:02:05 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,9 +21,9 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates" rel="standout"></atom:link>
       <description>From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun. It is the continent’s first total eclipse in decades.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 15:53:47 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-10AM-cjbk/12europe-eclipse-promo-10AM-cjbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Borja Suarez/Reuters</media:credit>
+      <pubDate>Wed, 12 Aug 2026 17:02:05 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-1230-phmz/12europe-eclipse-promo-1230-phmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Susana Vera/Reuters</media:credit>
     </item>
     <item>
       <title>Ecuadorean Fishing Boats Hit by Mystery Attackers</title>
@@ -66,6 +66,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-uk-binface-01-chlb/12int-uk-binface-01-chlb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>Count Binface, played by the comedian Jon Harvey, being interviewed at a studio in London last month.</media:description>
@@ -297,20 +298,72 @@
       <media:description>Robert Gilman in April. He had been sentenced by a Russian court to 10 years in prison.</media:description>
     </item>
     <item>
+      <title>Eclipse chasers stake out their viewing spots in Iceland.</title>
+      <link>https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 17:02:03 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-scene-topart/12europe-eclipse-iceland-scene-topart-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amelia Nirenberg/The New York Times</media:credit>
+      <media:description>Damien Kluczinske was in the Ólafsvík area on his first trip outside the United States.</media:description>
+    </item>
+    <item>
+      <title>A Partial Solar Eclipse Will Be Visible in Parts of the U.S. and Canada</title>
+      <link>https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html" rel="standout"></atom:link>
+      <description>Parts of the United States and Canada will have the chance to see the moon block at least a small portion of the sun.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 16:43:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangor (Me)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Anchorage (Alaska)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fairbanks (Alaska)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Outer Banks (NC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-north-america-topart-zwkg/12europe-eclipse-north-america-topart-zwkg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cydni Elledge for The New York Times</media:credit>
+      <media:description>Watching an eclipse in Leamington, Ontario, in 2024.</media:description>
+    </item>
+    <item>
+      <title>How Scientists Use Eclipses for Research</title>
+      <link>https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html" rel="standout"></atom:link>
+      <description>It’s a chance not just to study the sun but also space weather, light pollution and even animal behavior.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 16:11:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunlight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/12/world/12europe-eclipse-scientists-0001/12europe-eclipse-scientists-0001-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gemma Miralda/Associated Press</media:credit>
+      <media:description>The Gran Telescopio Canarias, at the Roque de los Muchachos Observatory on the island of La Palma in the Canaries, Spain.</media:description>
+    </item>
+    <item>
       <title>A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.</title>
       <link>https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html" rel="standout"></atom:link>
       <description>Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of  partygoers came too.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 15:50:11 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 16:19:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-spain-eclipse-01-pgbz/12int-spain-eclipse-01-pgbz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Mar Carretero-Castrillo playing an eclipse-themed card game with residents in Castrillo de la Reina, Spain on Tuesday.</media:description>
+      <media:description>Mar Carretero-Castrillo playing an eclipse-themed card game with residents in Castrillo de la Reina, Spain, on Tuesday.</media:description>
     </item>
     <item>
       <title>What happens to animals during an eclipse?</title>
@@ -417,7 +470,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html" rel="standout"></atom:link>
       <description>As a vice premier and then premier, he helped transform China into the world’s leading manufacturing power and led his country into the World Trade Organization.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 10:31:36 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 16:51:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Rongji</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
@@ -455,7 +508,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/solar-eclipse-europe" rel="standout"></atom:link>
       <description>Normally empty Spanish towns have filled up, and</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 15:35:44 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 16:54:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
@@ -1009,52 +1062,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-colombia-quake-photos-01-kqpv/12int-colombia-quake-photos-01-kqpv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>An aerial view of the destruction in Cali, Colombia, on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>How ‘Harry Potter’ Fans Protected Dobby’s Grave From the Path of a U.K.-Ireland Power Cable</title>
-      <link>https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/europe/dobby-harry-potter-grave-wales.html" rel="standout"></atom:link>
-      <description>Here lies Dobby, a free elf. There will be no electricity cables in sight.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 16:58:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Harry Potter and the Deathly Hallows: Part 1 (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Harry Potter (Fictional Character)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pembrokeshire (Wales)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10xp-dobby-qkpm/10xp-dobby-qkpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matthew Horwood/Getty Images</media:credit>
-      <media:description>A memorial for Dobby, a fictional elf from the “Harry Potter” fantasy series, at Freshwater West beach in Wales.</media:description>
-    </item>
-    <item>
-      <title>Netanyahu Walks Tightrope on Trump’s Gaza Disarmament Deal</title>
-      <link>https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/middleeast/netanyahu-trump-israel-gaza-disarmament.html" rel="standout"></atom:link>
-      <description>The Israeli prime minister, facing a tough upcoming election, is trying to satisfy the sometimes competing demands of his right-wing base and of President Trump.</description>
-      <dc:creator>Adam Rasgon and Aaron Boxerman</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 22:00:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board of Peace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Novik, Nimrod</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10israel-netanyahu-01-cqzw/10israel-netanyahu-01-cqzw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang for The New York Times</media:credit>
-      <media:description>President Trump with Benjamin Netanyahu, the Israeli prime minister, at the White House last year.</media:description>
     </item>
   </channel>
 </rss>

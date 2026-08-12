@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_cb=1786574301253" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 22:38:21 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 22:32:26 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:42:24 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 23:40:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -119,8 +119,9 @@
       <pubDate>Wed, 12 Aug 2026 18:28:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ferries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mnangagwa, Emmerson</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zimbabwe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Kariba</category>
       <media:content height="1139" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-zimbabwe-1-blmg/12int-zimbabwe-1-blmg-mediumSquareAt3X.jpg" width="1139"></media:content>
       <media:credit>via Agence France-Presse — Getty Images</media:credit>
       <media:description>A photo posted on social media showing passengers rescued after a ferry capsized in Lake Kariba in Zimbabwe on Tuesday.</media:description>
@@ -191,11 +192,13 @@
       <description>President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them.</description>
       <dc:creator>Rabecca Lungu and John Eligon</dc:creator>
       <pubDate>Wed, 12 Aug 2026 04:01:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hichilema, Hakainde (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mundubile, Brian</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lungu, Edgar C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lusaka (Zambia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriotic Front (Zambia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Party for National Development (Zambia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
@@ -203,7 +206,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-zambia-1-qcvp/12int-zambia-1-qcvp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gianluigi Guercia/Agence France-Presse — Getty Images</media:credit>
       <media:description>Supporters of President Hakainde Hichilema on Tuesday at a campaign rally in Lusaka, Zambia.</media:description>
@@ -286,13 +288,31 @@
       <media:description>Firefighters rescuing Diana Marcela Troncoso from a collapsed building in Cali, Colombia, on Tuesday, more than 24 hours after a powerful earthquake struck the western part of the country.</media:description>
     </item>
     <item>
+      <title>Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker</title>
+      <link>https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html" rel="standout"></atom:link>
+      <description>The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers and oil facilities have come under attack.</description>
+      <dc:creator>Pranav Baskar, Sanam Mahoozi and Somini Sengupta</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 22:49:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil Spills</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <media:content height="1361" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-oman-1-kvzg/12int-oman-1-kvzg-mediumSquareAt3X.jpg" width="1361"></media:content>
+      <media:credit>via Reuters</media:credit>
+      <media:description>A satellite image showing the damaged vessel Caroline Bezengi and oil slick off coast of Oman, on Aug. 5.</media:description>
+    </item>
+    <item>
       <title>Palestinians Trapped by Settlers for Days as Israeli Army Shows Up, and Then Leaves</title>
       <link>https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html" rel="standout"></atom:link>
-      <description>The episode casts a spotlight on the army’s struggle to curtail settler violence and protect Palestinians living in the occupied West Bank.</description>
+      <description>Two families have been trapped by settlers for days, casting a spotlight on the army’s struggle to curtail settler violence and protect Palestinians living in the occupied West Bank.</description>
       <dc:creator>David M. Halbfinger, Fatima AbdulKarim and Natan Odenheimer</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 22:32:26 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 23:40:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
@@ -636,7 +656,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html" rel="standout"></atom:link>
       <description>As a vice premier and then premier, he helped transform China into the world’s leading manufacturing power and led his country into the World Trade Organization.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 22:31:18 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 23:13:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Rongji</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
@@ -1035,27 +1055,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>France Bans Unsolicited Telemarketing Calls</title>
-      <link>https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/france-ban-unsolicited-telemarketing-calls.html" rel="standout"></atom:link>
-      <description>Companies will no longer be allowed to advertise goods and services through cold calls without previous consent from consumers.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 04:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemarketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/world/11int-france-telemarketing/11int-france-telemarketing-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
-      <media:description>At Parc des Buttes-Chaumont in Paris. The ban on unsolicited telemarketing is unlikely to be met with any opposition in a country where 97 percent of the population say they are annoyed by such daily calls.</media:description>
     </item>
   </channel>
 </rss>

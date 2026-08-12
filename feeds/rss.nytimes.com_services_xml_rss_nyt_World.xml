@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_cb=1786574301253" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 21:45:09 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 21:37:32 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:38:21 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 22:32:26 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates" rel="standout"></atom:link>
       <description>From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 21:29:31 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:57:06 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-promo-4PM-1-zptj/12europe-eclipse-promo-4PM-1-zptj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fariha Farooqui/Reuters</media:credit>
     </item>
@@ -79,11 +79,11 @@
       <description>The insects, revered in local culture, are disappearing for many reasons, including rapid development to cater to tourists.</description>
       <dc:creator>Muktita Suhartono and Ulet Ifansasti</dc:creator>
       <pubDate>Wed, 12 Aug 2026 07:35:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireflies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eco-Tourism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bali (Indonesia)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-bali-fireflies-dispatch-promo/11int-bali-fireflies-dispatch-02-tpwk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ulet Ifansasti for The New York Times</media:credit>
@@ -139,8 +139,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wire and Cable</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/world/00int-canada-tariffs/00int-canada-tariffs-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -284,6 +286,25 @@
       <media:description>Firefighters rescuing Diana Marcela Troncoso from a collapsed building in Cali, Colombia, on Tuesday, more than 24 hours after a powerful earthquake struck the western part of the country.</media:description>
     </item>
     <item>
+      <title>Palestinians Trapped by Settlers for Days as Israeli Army Shows Up, and Then Leaves</title>
+      <link>https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/middleeast/west-bank-palestinians-israeli-settlers.html" rel="standout"></atom:link>
+      <description>The episode casts a spotlight on the army’s struggle to curtail settler violence and protect Palestinians living in the occupied West Bank.</description>
+      <dc:creator>David M. Halbfinger, Fatima AbdulKarim and Natan Odenheimer</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 22:32:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qusra (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Israel (1955- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-westbank-1-bljm/12int-westbank-1-bljm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli soldiers gather near Israeli settlers (front) in front of Palestinian houses in the village of Qusra in the occupied West Bank, on Wednesday.</media:description>
+    </item>
+    <item>
       <title>Muddling through Iceland’s rainy eclipse, accompanied by clouds, whales and at least one proposal.</title>
       <link>https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/muddling-through-icelands-rainy-eclipse-accompanied-by-clouds-whales-and-at-least-one-proposal</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/muddling-through-icelands-rainy-eclipse-accompanied-by-clouds-whales-and-at-least-one-proposal</guid>
@@ -310,7 +331,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12dc-trump-putin-top-zwgc/12dc-trump-putin-top-zwgc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12dc-trump-putin-top-zwgc/12dc-trump-putin-top-zwgc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Gavriil Grigorov/Sputnik</media:credit>
       <media:description>A Russian state media photo of President Vladimir Putin in his office in the Kremlin last month. The secrecy around Mr. Putin’s movements means journalists have resorted to tracking his activity by assessing the wilting of the plants in his office.</media:description>
     </item>
@@ -615,7 +636,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/asia/zhu-rongji-dead.html" rel="standout"></atom:link>
       <description>As a vice premier and then premier, he helped transform China into the world’s leading manufacturing power and led his country into the World Trade Organization.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 16:51:40 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 22:31:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Rongji</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
@@ -626,9 +647,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China International Capital Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1291" medium="image" url="https://static01.nyt.com/images/2022/11/15/obituaries/00obit-zhu-01/00obit-zhu-01-mediumSquareAt3X-v2.jpg" width="1292"></media:content>
-      <media:credit>Ahn Young-joon/Associated Press</media:credit>
-      <media:description>Zhu Rongji in 1998. His economic initiatives propelled rapid growth in China but also set the stage for trade wars with President Trump and China’s acute problems with excessive debt.</media:description>
+      <media:content height="1697" medium="image" url="https://static01.nyt.com/images/2026/08/12/world/asia/Zhu-Rongji-Obit-Cover-Image/Zhu-Rongji-Obit-Cover-Image-mediumSquareAt3X.jpg" width="1698"></media:content>
+      <media:credit>Frederic Brown/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>He Was Deported to Eswatini in Southern Africa. He May Never Go Free.</title>
@@ -751,6 +771,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Motorcycles, Motor Bikes and Motorscooters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11cli-newsletter-electric-motorcycles-01-kgjl/11cli-newsletter-electric-motorcycles-01-kgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Asim Hafeez for The New York Times</media:credit>
       <media:description>Chico Harlan, back, on a new Vlektra electric motorcycle with its owner, Abdul Rafay, in Lahore, Pakistan.</media:description>
@@ -1033,22 +1056,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/world/11int-france-telemarketing/11int-france-telemarketing-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
       <media:description>At Parc des Buttes-Chaumont in Paris. The ban on unsolicited telemarketing is unlikely to be met with any opposition in a country where 97 percent of the population say they are annoyed by such daily calls.</media:description>
-    </item>
-    <item>
-      <title>Man in Custody Over Bomb Threat at U.S. Consulate in Nova Scotia</title>
-      <link>https://www.nytimes.com/2026/08/10/world/americas/halifax-canada-bomb-threat-us-consulate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/americas/halifax-canada-bomb-threat-us-consulate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/americas/halifax-canada-bomb-threat-us-consulate.html" rel="standout"></atom:link>
-      <description>A propane tank and several containers of what were believed to be flammable liquids were found inside the man’s vehicle in a nearby parking garage, the police in Halifax said.</description>
-      <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 22:57:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Halifax (Nova Scotia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nova Scotia (Canada)</category>
     </item>
   </channel>
 </rss>

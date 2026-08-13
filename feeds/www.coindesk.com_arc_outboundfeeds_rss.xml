@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 06:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:14:49 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/13/bitcoin-treasury-company-metaplanet-unveils-bitbonds-with-usd1-3-million-private-debt-sale</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/55974d1b7b39174a9aabbaadda8b7ede8581ec0a-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">f21857bd-c157-48f4-9403-44e110e9c05c</guid>
+      <pubDate>Thu, 13 Aug 2026 09:14:15 +0000</pubDate>
+      <description><![CDATA[The inaugural unsecured bonds offer annual interest of up to 4.3%, while exposing investors to metaplanet’s credit and bitcoin-linked balance-sheet risks]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="tag"><![CDATA[Japan]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Metaplanet denies selling bitcoin worth $320 million ]]></title>
       <link>https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million</link>
@@ -377,23 +392,6 @@
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Mining]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live updates: AI stocks surge on Q2 beats, bitcoin falls below $64,000 as inflation hits estimates]]></title>
-      <link>https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0e89c972170359616d653de89e6701bec587d964-2028x1104.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">07f69503-2e8e-475f-be69-2c8741a5c268</guid>
-      <pubDate>Wed, 12 Aug 2026 07:04:53 +0000</pubDate>
-      <description><![CDATA[Blockchain data shows the Japanese treasury firm moved the bitcoin between wallets it controls, not to an exchange, so the transfer isn't a sale despite its $1.4 billion paper loss.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
     </item>
   </channel>
 </rss>

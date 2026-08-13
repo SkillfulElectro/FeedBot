@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 22:42:42 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 22:38:31 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:42:49 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 23:20:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,6 +95,7 @@
       <pubDate>Thu, 13 Aug 2026 17:16:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
@@ -307,6 +308,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-farage-wtk-01-vgkz/13int-uk-farage-wtk-01-vgkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joe Giddens/Press Association, via Associated Press</media:credit>
       <media:description>Nigel Farage, leader of Reform U.K., at a rally for the party in Wymondham, England, last month.</media:description>
+    </item>
+    <item>
+      <title>Engine Blade Hit Window on Jet When Man Was Partly Sucked Outside, Report Says</title>
+      <link>https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/ryanair-flight-passenger-window.html" rel="standout"></atom:link>
+      <description>The National Transportation Safety Board said it had found a bird’s remains and feathers on a broken engine.</description>
+      <dc:creator>Ishani Desai</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 23:20:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thessaloniki (Greece)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Transportation Safety Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ryanair Holdings PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Malta Air</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13xp-plane-investigation-plane-zpml/13xp-plane-investigation-plane-zpml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alexandros Avramidis/Reuters</media:credit>
+      <media:description>A Ryanair plane in Thessaloniki, Greece, last May. A full investigation into an incident last month will take at least a year, federal official said.</media:description>
     </item>
     <item>
       <title>Female Afghans Erased From Public Life in Five Years of Taliban Rule</title>
@@ -1030,20 +1050,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-    </item>
-    <item>
-      <title>A Rescue Effort After Colombia’s Earthquake</title>
-      <link>https://www.nytimes.com/video/world/americas/100000011086264/a-rescue-effort-after-colombias-earthquake.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011086264/a-rescue-effort-after-colombias-earthquake.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/americas/100000011086264/a-rescue-effort-after-colombias-earthquake.html" rel="standout"></atom:link>
-      <description>Our reporter Genevieve Glatsky, who is based in Colombia, witnesses the rescue of a buried earthquake survivor in the city of Cali.</description>
-      <dc:creator>Genevieve Glatsky, Leila Medina and Federico Rios</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 10:33:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
     </item>
   </channel>
 </rss>

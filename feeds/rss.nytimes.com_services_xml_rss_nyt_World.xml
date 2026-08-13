@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 21:47:27 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 21:23:08 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:42:42 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 22:38:31 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -215,7 +215,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html" rel="standout"></atom:link>
       <description>Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.</description>
       <dc:creator>Javier C. Hernández and Paul Sonne</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 13:12:45 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 22:38:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
@@ -224,9 +224,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kurile Islands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-japan-russia-ftjb/13int-japan-russia-ftjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gavriil Grigorov/Sputnik, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>A Russian state media photo released on Thursday showed President Vladimir V. Putin of Russia visiting a contested island.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/world/asia/Putin-Kuril-Islands-Cover-Image/Putin-Kuril-Islands-Cover-Image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool Sputnik Kremlin, via Associated Press</media:credit>
     </item>
     <item>
       <title>Who Are the Houthis, Iran-Backed Militia Entering Mideast War?</title>
@@ -352,7 +351,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html" rel="standout"></atom:link>
       <description>The global weather disrupter appears to be taking a toll, and its peak could still be months away.</description>
       <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 19:28:24 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:28:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kiribati</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -428,6 +427,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arabian Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turtles and Tortoises</category>
       <media:content height="1361" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-oman-1-kvzg/12int-oman-1-kvzg-mediumSquareAt3X.jpg" width="1361"></media:content>
       <media:credit>via Reuters</media:credit>
       <media:description>A satellite image showing the damaged vessel Caroline Bezengi and oil slick off coast of Oman, on Aug. 5.</media:description>
@@ -734,6 +737,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyeglasses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-gear-01-cgmt/12europe-eclipse-gear-01-cgmt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Juan Barreto/Agence France-Presse — Getty Images</media:credit>
       <media:description>Women use box pinhole projectors to watch a solar eclipse in Bogotá in Colombia in 2023.</media:description>
@@ -853,9 +857,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anutin Charnvirakul (1966- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-thailand-gun-permits-jftw/12int-thailand-gun-permits-jftw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anthony Wallace/Agence France-Presse — Getty Images</media:credit>
       <media:description>Officials offered prayers at temple in Bangkok on Tuesday for the victims of a 14-year-old gunman.</media:description>

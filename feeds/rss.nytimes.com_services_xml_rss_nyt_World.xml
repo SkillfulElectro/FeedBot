@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 19:34:22 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 19:29:59 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 20:42:25 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 20:25:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,6 +62,7 @@
       <description>A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.</description>
       <dc:creator>Jeffrey Gettleman and Maya Tekeli</dc:creator>
       <pubDate>Thu, 13 Aug 2026 18:22:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
@@ -76,11 +77,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGraw, Phillip C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ittoqqortoormiit, Greenland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">80 Mile Plc.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greenland Energy Co.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greenland Energy Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">80 Mile Plc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ittoqqortoormiit (Greenland)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Esther Horvath for The New York Times</media:credit>
       <media:description>Ittoqqortoormiit, a settlement in eastern Greenland. The remote area has been targeted by a U.S.-British joint venture for potential oil exploration.</media:description>
@@ -104,6 +104,24 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/world/13int-colombia-quake-rescue-promo/13int-colombia-quake-rescue-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>A member of Topos Azteca working among the rubble on Wednesday in Cali, Colombia.</media:description>
+    </item>
+    <item>
+      <title>Israeli Settlers Resume West Bank Siege After Eviction</title>
+      <link>https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html" rel="standout"></atom:link>
+      <description>The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.</description>
+      <dc:creator>Natan Odenheimer and Fatima AbdulKarim</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 20:18:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qusra (West Bank)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli soldiers patrolling a street Thursday during an operation in the village of Qusra, in the Israeli-occupied West Bank.</media:description>
     </item>
     <item>
       <title>‘An English Summer Is Not the Same Anymore’</title>
@@ -180,7 +198,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html" rel="standout"></atom:link>
       <description>Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Nine other people were less seriously hurt.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 18:31:12 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:59:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
@@ -292,24 +310,22 @@
       <media:description>Nigel Farage, leader of Reform U.K., at a rally for the party in Wymondham, England, last month.</media:description>
     </item>
     <item>
-      <title>Ecuadorean Fishing Boats Hit by Mystery Attackers</title>
-      <link>https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html" rel="standout"></atom:link>
-      <description>Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.</description>
-      <dc:creator>Maria Abi-Habib, Riley Mellen, José María León Cabrera and Christiaan Triebert</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 09:02:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/00int-ecuador-boats-zbgh/00int-ecuador-boats-zbgh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniele Volpe for The New York Times</media:credit>
-      <media:description>Fishing vessels off the Ecuadorean coast last October.</media:description>
+      <title>Electric Thrills</title>
+      <link>https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html" rel="standout"></atom:link>
+      <description>Electric motorcycle sales are surging in Pakistan, as wartime prices accelerate the pivot away from fossil fuels in the developing world.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 20:03:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Motorcycles, Motor Bikes and Motorscooters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-theworld-electric-motorcycles-promo-mhkq/14int-theworld-electric-motorcycles-promo-mhkq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Asim Hafeez for The New York Times</media:credit>
     </item>
     <item>
       <title>Early-Onset El Niño</title>
@@ -387,7 +403,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html" rel="standout"></atom:link>
       <description>The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers and oil facilities have come under attack.</description>
       <dc:creator>Pranav Baskar, Sanam Mahoozi and Somini Sengupta</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 00:43:39 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 20:25:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil Spills</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
@@ -564,7 +580,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/africa/-zimbabwe-lake-kariba-ferry-capsize.html" rel="standout"></atom:link>
       <description>The vessel was crowded far beyond capacity and was hit by strong waves, the police said. While dozens have been rescued, the search continues for an unknown number of missing people.</description>
       <dc:creator>Ephrat Livni and Jeffrey Moyo</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 04:06:44 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 20:16:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ferries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zimbabwe</category>
@@ -826,6 +842,26 @@
       <media:description>Officials offered prayers at temple in Bangkok on Tuesday for the victims of a 14-year-old gunman.</media:description>
     </item>
     <item>
+      <title>Ecuadorean Fishing Boats Hit by Mystery Attackers</title>
+      <link>https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html" rel="standout"></atom:link>
+      <description>Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.</description>
+      <dc:creator>Maria Abi-Habib, Riley Mellen, José María León Cabrera and Christiaan Triebert</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 09:02:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/00int-ecuador-boats-zbgh/00int-ecuador-boats-zbgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniele Volpe for The New York Times</media:credit>
+      <media:description>Fishing vessels off the Ecuadorean coast last October.</media:description>
+    </item>
+    <item>
       <title>Trump Tariffs Force Some Canadian Companies to Move South of the Border</title>
       <link>https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html</guid>
@@ -1002,20 +1038,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1609" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-theworld-solar-eclipse-promo/12int-theworld-solar-eclipse-promo-mediumSquareAt3X.jpg" width="1608"></media:content>
       <media:credit>Alex Kent for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Deported From the U.S., Trapped in a Prison in Africa</title>
-      <link>https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html" rel="standout"></atom:link>
-      <description>Roberto Mosquera, a Cuban immigrant who has lived in the United States since 1980 and completed a prison sentence in 1996, was arrested by ICE last year and sent to a prison in Eswatini, a country in Africa he’d never heard of. After a hunger strike, Mosquera obtained a phone and talked with Nicholas Casey of The New York Times Magazine to share what is happening there.</description>
-      <dc:creator>Nicholas Casey, Rebecca Suner, Sutton Raphael, Maria Gestoso, Joey Sendaydiego and Thomas Vollkommer</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 11:58:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eswatini</category>
     </item>
   </channel>
 </rss>

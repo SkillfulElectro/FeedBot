@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 13:08:23 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 12:49:58 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 14:30:33 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 14:23:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -117,8 +117,9 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-court-plea-deal-trial.html" rel="standout"></atom:link>
       <description>Mr. Mangione faces federal charges of stalking that resulted in the death of a health insurance executive. A guilty plea could close the federal case — and complicate a separate state murder trial.</description>
       <dc:creator>Mack Liederman and Max Bearak</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 12:25:34 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:13:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
@@ -136,9 +137,9 @@
       <link>https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html" rel="standout"></atom:link>
-      <description>In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.</description>
+      <description>In the tiny nation, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.</description>
       <dc:creator>Michael Schwirtz, Adam Goldman and Aaron Krolik</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 12:25:40 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:40:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moldova</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
@@ -197,6 +198,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Sympathizer (TV Program)</category>
     </item>
     <item>
+      <title>An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce</title>
+      <link>https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html" rel="standout"></atom:link>
+      <description>A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.</description>
+      <dc:creator>Ann E. Marimow</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 13:29:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagan, Elena</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13dc-scotus-bruxe-cmbj/13dc-scotus-bruxe-cmbj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Allison Robbert for The New York Times</media:credit>
+      <media:description>The Supreme Court has been inundated recently with emergency requests.</media:description>
+    </item>
+    <item>
       <title>Farage Wins Special U.K. Election That He Initiated, as Expected</title>
       <link>https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html</guid>
@@ -204,21 +222,37 @@
       <description>Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, a novelty candidate, came second with 27 percent, a personal best.</description>
       <dc:creator>Michael D. Shear</dc:creator>
       <pubDate>Fri, 14 Aug 2026 11:56:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="">Binface, Count</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clacton-on-Sea (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="">Binface, Count</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Toby Shepheard/Reuters</media:credit>
       <media:description>Nigel Farage leaves a polling station after he voted in the Clacton by-election on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Mamdani’s ‘Bro’ Culture in City Hall: Sports, Memes, Nicknames for All</title>
+      <link>https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html" rel="standout"></atom:link>
+      <description>As much as Zohran Mamdani’s team runs on leftist idealism and social media hits, its style of governing also relies on humor, sports references and pop culture.</description>
+      <dc:creator>Emma Goldberg</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 14:23:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/00met-mamdani-bros-zmtj/00met-mamdani-bros-zmtj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>Mayor Zohran Mamdani peppers his conversations with his aides with references to sports and pop culture, some seeping into his public statements.</media:description>
     </item>
     <item>
       <title>Deaths of 3 ICE Detainees Prompt Questions About Medical Care</title>
@@ -228,21 +262,20 @@
       <description>Immigrants at Delaney Hall in Newark have complained about health services. Federal officials defended the treatment provided there and elsewhere.</description>
       <dc:creator>Luis Ferré-Sadurní and Ana Ley</dc:creator>
       <pubDate>Thu, 13 Aug 2026 23:31:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaney Hall (Newark, NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaney Hall (Newark, NJ)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13met-delaney-hall-01-mfgl/13met-delaney-hall-01-mfgl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Todd Heisler/The New York Times</media:credit>
       <media:description>The treatment of detainees at the Delaney Hall center in Newark has come under scrutiny.</media:description>
@@ -254,7 +287,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html" rel="standout"></atom:link>
       <description>The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 09:07:25 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:07:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
@@ -291,47 +324,12 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html" rel="standout"></atom:link>
       <description>In matters of work, school and even romance, we turn to A.I. chatbots. But what happens when the bots begin talking to one another?</description>
       <dc:creator>Callie Holtermann</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 09:00:27 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:00:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-    </item>
-    <item>
-      <title>Afghan Women Erased From Public Life in Five Years of Taliban Rule</title>
-      <link>https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html" rel="standout"></atom:link>
-      <description>Decrees restricting the rights of women and girls to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say.</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 05:08:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Women</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tomas Munita for The New York Times</media:credit>
-      <media:description>A market in Kabul, Afghanistan, last year. Most women say they have to get a male relative’s permission to leave the house.</media:description>
-    </item>
-    <item>
-      <title>An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce</title>
-      <link>https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html" rel="standout"></atom:link>
-      <description>A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.</description>
-      <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 12:08:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagan, Elena</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13dc-scotus-bruxe-cmbj/13dc-scotus-bruxe-cmbj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Allison Robbert for The New York Times</media:credit>
-      <media:description>The Supreme Court has been inundated recently with emergency requests.</media:description>
     </item>
     <item>
       <title>New Yorkers Can’t Stop Lining Up for This Sushi</title>
@@ -418,21 +416,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
     </item>
     <item>
-      <title>Mamdani’s ‘Bro’ Culture in City Hall: Sports, Memes, Nicknames for All</title>
-      <link>https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/mamdani-bro-culture-sports.html" rel="standout"></atom:link>
-      <description>As much as Zohran Mamdani’s team runs on leftist idealism and social media hits, its style of governing also relies on humor, sports references and pop culture.</description>
-      <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 10:37:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/00met-mamdani-bros-zmtj/00met-mamdani-bros-zmtj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Victor J. Blue for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani peppers his conversations with his aides with references to sports and pop culture, some seeping into his public statements.</media:description>
+      <title>Afghan Women Erased From Public Life in Five Years of Taliban Rule</title>
+      <link>https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/world/asia/afghan-women-taliban-rule.html" rel="standout"></atom:link>
+      <description>Decrees restricting the rights of women and girls to study, work, travel and act independently now threaten to damage Afghanistan permanently, experts say.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 05:08:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Women</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+      <media:description>A market in Kabul, Afghanistan, last year. Most women say they have to get a male relative’s permission to leave the house.</media:description>
     </item>
   </channel>
 </rss>

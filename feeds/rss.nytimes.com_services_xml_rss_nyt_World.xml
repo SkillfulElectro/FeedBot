@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 23:42:49 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 23:20:32 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:07:40 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 01:31:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -151,11 +151,12 @@
       <description>The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a “Quantum Valley” tech hub.</description>
       <dc:creator>Mujib Mashal and Hari Kumar</dc:creator>
       <pubDate>Thu, 13 Aug 2026 10:17:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naidu, N Chandrababu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amaravati (India)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Quantum Computing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naidu, N Chandrababu</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
@@ -178,7 +179,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html" rel="standout"></atom:link>
       <description>Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.</description>
       <dc:creator>Chris Buckley</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 11:21:58 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 11:21:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
@@ -199,7 +200,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html" rel="standout"></atom:link>
       <description>Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 21:22:55 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 21:22:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
@@ -216,7 +217,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html" rel="standout"></atom:link>
       <description>Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country’s sanctions against Russia over the Ukraine war.</description>
       <dc:creator>Javier C. Hernández and Paul Sonne</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 22:38:31 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 22:38:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
@@ -260,6 +261,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sicily (Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-Italy-ash-bfpz/13int-Italy-ash-bfpz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Danilo Arnone/Reuters</media:credit>
       <media:description>Volcanic ash and lava during an eruption of Mount Etna in Sicily on Wednesday.</media:description>
@@ -308,6 +311,26 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-farage-wtk-01-vgkz/13int-uk-farage-wtk-01-vgkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joe Giddens/Press Association, via Associated Press</media:credit>
       <media:description>Nigel Farage, leader of Reform U.K., at a rally for the party in Wymondham, England, last month.</media:description>
+    </item>
+    <item>
+      <title>After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada</title>
+      <link>https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html" rel="standout"></atom:link>
+      <description>Grifols, a Spanish company, said “unfounded attention” on its blood plasma business in Canada had led it to temporarily end collections at 17 clinics.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 23:41:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood Donation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biotechnology and Bioengineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grifols S.A.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Winnipeg (Manitoba)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-canada-bjhg/13int-canada-bjhg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Enric Fontcuberta/EPA, via Shutterstock</media:credit>
+      <media:description>Donating plasma for Grifols at a hospital in Barcelona in 2020. The company has suspended collecting plasma in Canada because of scrutiny over two deaths. </media:description>
     </item>
     <item>
       <title>Engine Blade Hit Window on Jet When Man Was Partly Sucked Outside, Report Says</title>
@@ -710,7 +733,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html" rel="standout"></atom:link>
       <description>Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of  partygoers came too.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 21:04:36 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 21:04:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
@@ -1036,20 +1059,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-uk-binface-01-chlb/12int-uk-binface-01-chlb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>Count Binface, played by the comedian Jon Harvey, being interviewed at a studio in London last month.</media:description>
-    </item>
-    <item>
-      <title>Why Nigel Farage Is Running Against a ‘Trash Can’</title>
-      <link>https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html" rel="standout"></atom:link>
-      <description>Our reporter Amelia Nierenberg describes how the right-wing British political leader Nigel Farage, who is seeking re-election to Parliament, faces an unconventional opponent: Count Binface.</description>
-      <dc:creator>Amelia Nierenberg, Leila Medina, Nikolay Nikolov and Joey Sendaydiego</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 10:40:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
     </item>
   </channel>
 </rss>

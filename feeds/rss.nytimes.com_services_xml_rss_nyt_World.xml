@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 19:46:54 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 19:44:08 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:29:12 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 20:23:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -58,6 +58,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-europe-heat-visuals-01-vzwq/14int-europe-heat-visuals-01-vzwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>A sweltering day near Tower Bridge in London on Thursday.</media:description>
@@ -80,6 +81,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-afghanistan-interview-1-fvpl/14int-afghanistan-interview-1-fvpl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tomas Munita for The New York Times</media:credit>
       <media:description>Afghanistan’s foreign minister, Amir Khan Muttaqi, during an interview with The New York Times in Kabul this week.</media:description>
+    </item>
+    <item>
+      <title>Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead</title>
+      <link>https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html" rel="standout"></atom:link>
+      <description>The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.</description>
+      <dc:creator>Mara Hvistendahl</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 19:53:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambridge (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lying</category>
     </item>
     <item>
       <title>Will Sudan’s El Obeid Become the Next El Fasher? What to Know.</title>
@@ -245,34 +264,16 @@
       <description>Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.</description>
       <dc:creator>Kiuko Notoya</dc:creator>
       <pubDate>Fri, 14 Aug 2026 12:47:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NHK (Japan Broadcasting Corp)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Caballero-Reynolds/Agence France-Presse — Getty Images</media:credit>
       <media:description>Vehicles submerged on a flooded road in Sakura, Chiba Prefecture, on Friday.</media:description>
-    </item>
-    <item>
-      <title>As Europe Gets Hotter, Its Transportation Systems Struggle to Cope</title>
-      <link>https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html" rel="standout"></atom:link>
-      <description>The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 16:23:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00int-europe-heat-transport-lkwv/00int-europe-heat-transport-lkwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christophe Archambault/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Commuters at a train station in Bordeaux, France, during a heat wave in July. Much of Europe’s infrastructure was not built to withstand scorching summer heat.</media:description>
     </item>
     <item>
       <title>After Notre-Dame Fire, France Restored the Cathedral — but Not These Windows</title>
@@ -311,6 +312,45 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers</title>
+      <link>https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html" rel="standout"></atom:link>
+      <description>Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers.</description>
+      <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 20:21:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qusra (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gvir, Itamar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Israel (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jewish Power Party (Otzma Yehudit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="">Settler Violence (Israel-Palestine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-westbank-assess-lfzm/14int-westbank-assess-lfzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli soldiers standing in front of the entrance of a Palestinian house besieged by Israeli settlers in the village of Qusra on Friday.</media:description>
+    </item>
+    <item>
+      <title>When a Rare Wolf Got Too Close, Denmark Faced a Conservation Dilemma</title>
+      <link>https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html" rel="standout"></atom:link>
+      <description>The authorities tracked the animal after a string of close encounters with residents, reigniting a bitter debate over how a small, densely populated country should live with wolves.</description>
+      <dc:creator>Maya Tekeli</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 19:58:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wolves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/14int-denmark-wolf-1-qvmp/15int-denmark-wolf-1-qvmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Claus Fisker/Ritzau Scanpix, via Agence France-Presse — Getty Images</media:credit>
+      <media:description>Denmark’s minister for nature and animal welfare, Christian Rabjerg Madsen (R), and the deputy director of the Danish Nature Agency, Mads Jensen, stand near the shot wolf on Friday.</media:description>
     </item>
     <item>
       <title>Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations</title>
@@ -376,6 +416,23 @@
       <media:content height="733" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14xp-matisse-bpfh/14xp-matisse-bpfh-mediumSquareAt3X.jpg" width="732"></media:content>
       <media:credit>Agence France-Presse, via São Paulo’s Police Press Office</media:credit>
       <media:description>A handout photo released by the São Paulo police press office showing the recovered Matisse works.</media:description>
+    </item>
+    <item>
+      <title>As Europe Gets Hotter, Its Transportation Systems Struggle to Cope</title>
+      <link>https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html" rel="standout"></atom:link>
+      <description>The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 16:23:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00int-europe-heat-transport-lkwv/00int-europe-heat-transport-lkwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christophe Archambault/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Commuters at a train station in Bordeaux, France, during a heat wave in July. Much of Europe’s infrastructure was not built to withstand scorching summer heat.</media:description>
     </item>
     <item>
       <title>After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada</title>
@@ -995,56 +1052,6 @@
       <media:content height="1139" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-zimbabwe-1-blmg/12int-zimbabwe-1-blmg-mediumSquareAt3X.jpg" width="1139"></media:content>
       <media:credit>via Agence France-Presse — Getty Images</media:credit>
       <media:description>A photo posted on social media showing passengers rescued after a ferry capsized in Lake Kariba in Zimbabwe on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
-      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
-      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
-      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:53:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ritesh Shukla/Getty Images</media:credit>
-      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
-    </item>
-    <item>
-      <title>Eclipse chasers stake out their viewing spots in Iceland.</title>
-      <link>https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 17:08:39 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-scene-topart/12europe-eclipse-iceland-scene-topart-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amelia Nierenberg/The New York Times</media:credit>
-      <media:description>Damien Kluczinske was in the Ólafsvík area on his first trip outside the United States.</media:description>
-    </item>
-    <item>
-      <title>A Partial Solar Eclipse Will Be Visible in Parts of the U.S. and Canada</title>
-      <link>https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-us-north-america.html" rel="standout"></atom:link>
-      <description>Parts of the United States and Canada will have the chance to see the moon block at least a small portion of the sun.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 16:43:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangor (Me)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Anchorage (Alaska)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fairbanks (Alaska)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Outer Banks (NC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-north-america-topart-zwkg/12europe-eclipse-north-america-topart-zwkg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cydni Elledge for The New York Times</media:credit>
-      <media:description>Watching an eclipse in Leamington, Ontario, in 2024.</media:description>
     </item>
   </channel>
 </rss>

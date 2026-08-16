@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 20:23:25 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 19:57:59 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:45:58 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 20:35:54 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -314,6 +314,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15int-russia-europe-ukraine-01-wqgp/15int-russia-europe-ukraine-01-wqgp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nina Liashonok/Reuters</media:credit>
       <media:description>Rescue workers at the site of a Russian strike on a residential building in Odesa, Ukraine, this week.</media:description>
+    </item>
+    <item>
+      <title>No Way Out</title>
+      <link>https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html" rel="standout"></atom:link>
+      <description>The U.S. is building an archipelago of overseas detention sites where deportees are often held indefinitely without charge.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 16 Aug 2026 20:35:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eswatini</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/23/magazine/17int-theworld-eswatini-promo/17int-theworld-eswatini-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Moises Saman/Magnum, for The New York Times</media:credit>
+      <media:description>Roberto Mosquera is being held in a maximum-security prison in Eswatini.</media:description>
     </item>
     <item>
       <title>Kushner Holds Talks With Hamas to Advance Trump Gaza Plan</title>
@@ -1097,22 +1115,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
       <media:description>Israeli soldiers patrolling a street Thursday during an operation in the village of Qusra, in the Israeli-occupied West Bank.</media:description>
-    </item>
-    <item>
-      <title>Early-Onset El Niño</title>
-      <link>https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html" rel="standout"></atom:link>
-      <description>The global weather disrupter appears to be taking a toll, and its peak could still be months away.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 19:28:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kiribati</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
     </item>
   </channel>
 </rss>

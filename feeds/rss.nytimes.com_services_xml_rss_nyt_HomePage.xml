@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1786915173439" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 21:19:33 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 21:12:43 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:44:03 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 21:21:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -125,28 +125,23 @@
       <media:description>Galina Bobreneva and her husband, Brent Jindra, at their home in Redwood City, Calif.</media:description>
     </item>
     <item>
-      <title>Democrats Face a Potential Tea Party Moment</title>
-      <link>https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html" rel="standout"></atom:link>
-      <description>A string of primary wins by progressive candidates has revealed the strength of a high-energy insurgent movement but also its possible limitations.</description>
-      <dc:creator>Lisa Lerer and Katie Glueck</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 19:35:06 +0000</pubDate>
+      <title>Could El-Sayed Cost Democrats Michigan?</title>
+      <link>https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html" rel="standout"></atom:link>
+      <description>Not all progressives are equal: Candidates of the activist left typically don’t perform as well as other Democrats.</description>
+      <dc:creator>Nate Cohn</dc:creator>
+      <pubDate>Sun, 16 Aug 2026 19:12:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flanagan, Peggy (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/16pol-progressives/16pol-progressives-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>Bernie Sanders and Zohran Mamdani at a rally last week.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldwin, Tammy Suzanne Green</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/upshot/15the-tilt/15the-tilt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by The New York Times; Photograph by Julia Demaree Nikhinson/Associated Press</media:credit>
     </item>
     <item>
       <title>How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer</title>
@@ -169,25 +164,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16pol-texas-youtuber-01-vkwh/16pol-texas-youtuber-01-vkwh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
       <media:description>Brandon Herrera, a Republican House candidate in Texas, was joined for a campaign event last month by Speaker Mike Johnson.</media:description>
-    </item>
-    <item>
-      <title>Could El-Sayed Cost Democrats Michigan?</title>
-      <link>https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/upshot/michigan-progressives-el-sayed.html" rel="standout"></atom:link>
-      <description>Not all progressives are equal: Candidates of the activist left typically don’t perform as well as other Democrats.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 19:12:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warren, Elizabeth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldwin, Tammy Suzanne Green</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/upshot/15the-tilt/15the-tilt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by The New York Times; Photograph by Julia Demaree Nikhinson/Associated Press</media:credit>
     </item>
     <item>
       <title>What We Know About the Storms Battering the Midwest</title>

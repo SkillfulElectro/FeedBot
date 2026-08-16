@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 14:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 16:01:50 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto investors are looking past market-cap rankings and back to fundamentals]]></title>
+      <link>https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e32c73c877e257ea0e665dae0d3fa751d19cf3cc-1920x1231.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">4b193dac-ac08-435d-95db-12ba49223bc7</guid>
+      <pubDate>Sun, 16 Aug 2026 16:00:00 +0000</pubDate>
+      <description><![CDATA[Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Exclusive]]></category>
+      <category domain="tag"><![CDATA[Bitwise]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info]]></title>
       <link>https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info</link>
@@ -384,23 +399,6 @@
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[JPMorgan]]></category>
       <category domain="tag"><![CDATA[Polymarket]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[U.S. SEC to again delay 'innovation exemption' for tokenization amid Wall Street, White House concerns]]></title>
-      <link>https://www.coindesk.com/policy/2026/08/13/u-s-sec-to-again-delay-innovation-exemption-for-tokenization-amid-wall-street-white-house-concerns</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/027ad48cfa40c0b6f4997f516abebf656a10a0e9-720x406.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">68d5a1b9-6b3f-41b5-82ff-c1b52eb5f8fc</guid>
-      <pubDate>Thu, 13 Aug 2026 23:09:14 +0000</pubDate>
-      <description><![CDATA[The SEC was ready to release at least some part of the innovation exemption alongside its now-canceled open meeting for "Reg Crypto" on Friday.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[SEC]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[Breaking News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

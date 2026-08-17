@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 15:22:45 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 15:21:19 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:49:44 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 15:49:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -68,6 +68,27 @@
       <media:description>Jared Kushner speaking about the Board of Peace, an organization backed by the Trump administration to end the war in Gaza, during the World Economic Forum in Davos, Switzerland, in January.</media:description>
     </item>
     <item>
+      <title>Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates</title>
+      <link>https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html" rel="standout"></atom:link>
+      <description>The armed group, based in Yemen and backed by Iran, said it had launched missiles near the vital maritime trade route, in a conflict that shows no sign of abating.</description>
+      <dc:creator>Ismaeel Naar</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 15:16:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-houthi-saudi-attack-1-jvbl/17int-houthi-saudi-attack-1-jvbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Abdulnasser Alseddik/Associated Press</media:credit>
+      <media:description>Flames and smoke rising from the port of Mokha in Yemen on Friday. The Houthis have bombarded the city with drones and missiles n recent weeks.</media:description>
+    </item>
+    <item>
       <title>U.S. and Iran Blow Past War Deadline, and the Rise of Islamophobia in Texas</title>
       <link>https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/podcasts/the-headlines/us-iran-deadline-war-islamophobia-texas.html</guid>
@@ -84,6 +105,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-mou-headline-cvbh/17int-iran-mou-headline-cvbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>Tehran in July. The United States and Iran appear to be gearing up for a protracted campaign of economic attrition that could easily tip over into renewed warfare, analysts said.</media:description>
+    </item>
+    <item>
+      <title>AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.</title>
+      <link>https://www.nytimes.com/2026/08/17/technology/ai-slop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/technology/ai-slop.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/technology/ai-slop.html" rel="standout"></atom:link>
+      <description>Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.</description>
+      <dc:creator>Tiffany Hsu</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 15:36:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LinkedIn Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/business/00biz-ai-slop/00biz-ai-slop-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lia Sued C.</media:credit>
     </item>
     <item>
       <title>China Wants Its Data to Power the World’s A.I.</title>
@@ -154,15 +194,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
     </item>
     <item>
-      <title>Supreme Court Again Refuses Trump’s Request to Review Carroll Judgment</title>
-      <link>https://www.nytimes.com/live/2026/08/17/us/trump-news/275fea82-9350-5fdb-a0e9-d98777a69ca8?smid=url-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/17/us/trump-news/275fea82-9350-5fdb-a0e9-d98777a69ca8?smid=url-share</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/17/us/trump-news/275fea82-9350-5fdb-a0e9-d98777a69ca8?smid=url-share" rel="standout"></atom:link>
-      <description>The justices refused to review a $5 million civil judgment against President Trump after a jury found that he sexually abused and defamed E. Jean Carroll.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 15:21:19 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17trump-Jean-Carroll-khzw/17trump-Jean-Carroll-khzw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <title>Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment</title>
+      <link>https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html" rel="standout"></atom:link>
+      <description>The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.</description>
+      <dc:creator>Ann E. Marimow</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 15:38:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carroll, E Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1372" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17dc-scotus-carroll-photo-zpwq/17dc-scotus-carroll-photo-zpwq-mediumSquareAt3X.jpg" width="1372"></media:content>
       <media:credit>Adam Gray/Reuters</media:credit>
+      <media:description>E. Jean Carroll outside the U.S. Court of Appeals for the Second Circuit in 2024. A federal jury in New York has found President Trump liable for sexually abusing and defaming Ms. Carroll.</media:description>
     </item>
     <item>
       <title>Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General</title>
@@ -230,7 +278,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/17/arts/design/korean-papermaker-hanji.html" rel="standout"></atom:link>
       <description>Aimee Lee learned to make hanji with Korean masters. Now she practices their traditional technique in the United States.</description>
       <dc:creator>Elie Levine and Sasha Arutyunova</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 09:00:29 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 15:26:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Handicrafts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Paper and Pulp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Korean-Americans</category>
@@ -246,7 +294,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/17/us/florida-primaries-democratic-socialists.html" rel="standout"></atom:link>
       <description>Three primaries for the House and the Senate on Tuesday pose a fresh test for the left, this time in a conservative-leaning state where socialism is often seen as a dirty word.</description>
       <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 09:03:46 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 15:47:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -322,45 +370,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-ukraine-satellite-flmv/17int-ukraine-satellite-flmv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>A Ukrainian soldier preparing a drone for a strike on a Russian target in the Zaporizhzhia region of Ukraine last month.</media:description>
-    </item>
-    <item>
-      <title>There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting</title>
-      <link>https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html" rel="standout"></atom:link>
-      <description>Prosecutors say Duane Davis and three other men who are now deceased were involved in the fatal confrontation in 1996.</description>
-      <dc:creator>Jonathan Abrams</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 09:03:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Witnesses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Duane Keith (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Knight, Marion (Suge Knight)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakur, Tupac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
-    </item>
-    <item>
-      <title>Duane Davis, Who Wrote About Role in Tupac’s Murder, Now Says Memoir Was Fiction</title>
-      <link>https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html" rel="standout"></atom:link>
-      <description>Duane Davis’s book boasted of his role in the killing of Tupac Shakur. The memoir, which he now disavows, has become prime evidence in his murder trial, which starts this week.</description>
-      <dc:creator>Julia Jacobs</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:02:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakur, Tupac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Duane Keith (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bad Boy Entertainment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bloods (Gang)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crips (Gang)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Death Row Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Combs, Sean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Knight, Marion (Suge Knight)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Compton Street Legend: Notorious Keffe D&#39;s Street-Level Accounts of Tupac and Biggie Murders, Death Row Origins, Suge Knight, Puffy Combs, and Crooked Cops (Book)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/arts/10cul-tupac-memoir-PROMO/10cul-tupac-memoir-PROMO-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Illustration by The New York Times; Photo: Raymond Boyd/Getty Images</media:credit>
     </item>
     <item>
       <title>The Democrats Aren’t in Tea Party Territory — Yet</title>

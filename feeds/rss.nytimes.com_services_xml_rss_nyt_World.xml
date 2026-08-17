@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 21:27:37 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 21:23:29 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:26:04 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 22:23:32 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -253,6 +253,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16int-iran-mou-01-jzwl/16int-iran-mou-01-jzwl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Ali Saeedi/Getty Images</media:credit>
       <media:description>Ships anchored this month in the Strait of Hormuz off the coast of Bandar Abbas, Iran.</media:description>
@@ -327,7 +328,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html" rel="standout"></atom:link>
       <description>Venezuela and Japan both experienced major quakes this summer. Their responses differed, and not just because of money.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 20:58:34 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 21:33:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
@@ -401,6 +402,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eswatini</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/23/magazine/17int-theworld-eswatini-promo/17int-theworld-eswatini-promo-mediumSquareAt3X.jpg" width="1800"></media:content>

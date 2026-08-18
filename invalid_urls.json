@@ -18,5 +18,6 @@
   "https://cointelegraph.com/rss": "HTTPSConnectionPool(host='cointelegraph.com', port=443): Read timed out. (read timeout=30)",
   "https://news.bitcoin.com/feed/": "HTTPSConnectionPool(host='news.bitcoin.com', port=443): Read timed out. (read timeout=30)",
   "https://www.france24.com/en/rss": "404 Client Error: Not Found for url: https://www.france24.com/en/rss",
-  "https://www.pbs.org/newshour/feeds/rss/politics": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+  "https://www.pbs.org/newshour/feeds/rss/politics": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+  "https://www.msnbc.com/feeds/latest": "403 Client Error: Forbidden for url: https://www.ms.now/feeds/latest"
 }

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 20:23:42 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 20:17:05 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:48:43 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 20:41:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -59,11 +59,10 @@
       <pubDate>Tue, 18 Aug 2026 16:56:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Maritime Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/Biz-Hormuz-Shipping-bchf/Biz-Hormuz-Shipping-bchf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Vessels near the Strait of Hormuz, as seen from Musandam, Oman, on Monday. Traffic through the strait has dwindled since the conflict began.</media:description>
@@ -107,27 +106,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18pol-google-campaign-ads-zwmh/18pol-google-campaign-ads-zwmh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kelsey McClellan for The New York Times</media:credit>
       <media:description>Google has updated Gmail’s policy to allow political committees to more easily bypass its spam filter when sending emails for donations, allowing more political ads to land in inboxes.</media:description>
-    </item>
-    <item>
-      <title>Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race</title>
-      <link>https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html" rel="standout"></atom:link>
-      <description>Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.</description>
-      <dc:creator>Kellen Browning and Christopher Miller</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 19:54:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel J (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Petersburg (Alaska)</category>
     </item>
     <item>
       <title>What Florida Has Taught Our Reporter About National Politics</title>
@@ -204,6 +182,50 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18dc-igs01a-photo-qkzg/18dc-igs01a-photo-qkzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Trump has inserted a conservative operative to take over the inspector general’s office in charge of any internal investigation into his botched repairs of the Lincoln Memorial Reflecting Pool.</media:description>
+    </item>
+    <item>
+      <title>ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses</title>
+      <link>https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html" rel="standout"></atom:link>
+      <description>The network asked a court to stop the agency from taking steps that could force ABC stations off the air and accused the F.C.C. of violating its First Amendment rights.</description>
+      <dc:creator>Jim Rutenberg and John Koblin</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 19:49:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ABC Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carr, Brendan Thomas (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18Biz-Abc-FCC-pgvk/18Biz-Abc-FCC-pgvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Samuel Corum for The New York Times</media:credit>
+      <media:description>The F.C.C. reviewed ABC’s television licenses after the network’s late-night host, Jimmy Kimmel, angered President Trump with a monologue joke.</media:description>
+    </item>
+    <item>
+      <title>It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs</title>
+      <link>https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html" rel="standout"></atom:link>
+      <description>Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?</description>
+      <dc:creator>Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 20:24:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carlos Osorio/Reuters</media:credit>
+      <media:description>The Gordie Howe International Bridge, connecting Windsor, Ontario, and Detroit, on the day after it opened last month. President Trump had threatened to block the bridge’s opening.</media:description>
     </item>
     <item>
       <title>Childhood Friends, Adopted From India, Discover They’re Sisters</title>
@@ -295,6 +317,26 @@
       <media:content height="1046" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/18cul-panettiere-Struggles-02/18cul-panettiere-Struggles-02-mediumSquareAt3X.jpg" width="1046"></media:content>
       <media:credit>Margaret Norton/NBC, via Getty Images</media:credit>
       <media:description>Hayden Panettiere with Jay Leno in 1996, when she was a 7-year-old actress.</media:description>
+    </item>
+    <item>
+      <title>Frank Beard, Beardless Drummer for ZZ Top, Dies at 77</title>
+      <link>https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html" rel="standout"></atom:link>
+      <description>The only member of the Texas power trio without a beard, he propelled the band’s blend of boogie, Southern rock and blues for more than a half-century.</description>
+      <dc:creator>Ishani Desai</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 20:41:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beard, Frank (1949-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ZZ Top</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hill, Dusty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gibbons, Billy (1949-)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18xp-beard-zcjk/18xp-beard-zcjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gary Miller/Getty Images</media:credit>
+      <media:description>Frank Beard performing with ZZ Top in Salina, Kan., in August 2025.</media:description>
     </item>
     <item>
       <title>Humans Love Having Pets. Seems Like Some Other Primates Do, Too.</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 10:30:31 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 10:00:07 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:22:50 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 11:17:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,6 +43,16 @@
       <dc:creator>Kellen Browning and Christopher Miller</dc:creator>
       <pubDate>Tue, 18 Aug 2026 09:02:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel J (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Personal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
     </item>
     <item>
       <title>Trump’s $47 Billion-Dollar Border Wall Plan, and Why a Tupac Murder Trial Is Starting After 30 Years</title>
@@ -51,10 +61,11 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/podcasts/the-headlines/trump-border-wall-tupac-murder-trial.html" rel="standout"></atom:link>
       <description>Plus, inside the scramble to track cyclospora.</description>
       <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart and Michael Paulson</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 10:00:07 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 10:00:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakur, Tupac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18theheadlines-bend-ckbw/18theheadlines-bend-ckbw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brandon Bell/Getty Images</media:credit>
       <media:description>Big Bend National Park in Texas this month. The Trump administration has been carving a path through some of the park’s major natural attractions.</media:description>
@@ -112,7 +123,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html" rel="standout"></atom:link>
       <description>Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 04:01:06 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 11:15:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
@@ -231,13 +242,31 @@
       <media:credit>Patrick Leger</media:credit>
     </item>
     <item>
+      <title>OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow</title>
+      <link>https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html" rel="standout"></atom:link>
+      <description>The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 11:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-openai-teens-bmcg/18biz-openai-teens-bmcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
+      <media:description>A workshop about artificial intelligence at Walla Walla High School in Washington in 2023. ChatGPT will turn on its teen mode if it detects signals that the user is younger than 18, OpenAI said. </media:description>
+    </item>
+    <item>
       <title>‘Les Miz’ Offers a Lifeline to a Battered Theater Industry</title>
       <link>https://www.nytimes.com/2026/08/18/theater/les-miserables.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/theater/les-miserables.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/18/theater/les-miserables.html" rel="standout"></atom:link>
       <description>Regional theaters can once again produce “Les Misérables” because a national tour has ended. One veteran actor called the popular show “an instant moneymaker.”</description>
       <dc:creator>Michael Paulson and Roger Kisby</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 09:00:54 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 10:37:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St George (Utah)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
@@ -294,7 +323,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html" rel="standout"></atom:link>
       <description>The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.</description>
       <dc:creator>Christopher Cox</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 09:01:49 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 10:47:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
@@ -374,6 +403,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Toner, Helen</category>
       <media:content height="943" medium="image" url="https://static01.nyt.com/images/2026/08/18/opinion/18eks-toner-image/18eks-toner-image-mediumSquareAt3X.jpg" width="943"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Working Capital</title>
+      <link>https://www.nytimes.com/2026/08/18/briefing/buy-now-pay-later.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/briefing/buy-now-pay-later.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/briefing/buy-now-pay-later.html" rel="standout"></atom:link>
+      <description>We look into the exploding business of buy-now-pay-later loans.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 10:39:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit Cards</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18themorning-nl-bnpl-top-wzbj/18themorning-nl-bnpl-top-wzbj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chona Kasinger for The New York Times</media:credit>
     </item>
     <item>
       <title>Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’</title>

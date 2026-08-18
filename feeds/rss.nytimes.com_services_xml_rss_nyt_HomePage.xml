@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?theme=dark" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 19:27:12 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 19:22:50 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:47:14 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 19:39:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -75,7 +75,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html" rel="standout"></atom:link>
       <description>American and Syrian officials said Israel carried out the attack, the latest in a series of military interventions in Syria over the past two years.</description>
       <dc:creator>Christina Goldbaum and Reham Mourshed</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 17:41:00 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 19:39:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )</category>
@@ -337,25 +337,50 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Primates (Journal)</category>
     </item>
     <item>
-      <title>The A.I.s Are Already Out of Control</title>
-      <link>https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/opinion/ezra-klein-podcast-helen-toner.html" rel="standout"></atom:link>
-      <description>Helen Toner, who served on OpenAI’s board, hopes the recent hack by that company’s models serves as a warning.</description>
-      <dc:creator>Ezra Klein, Rollin Hu and Jack McCordick</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 09:02:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Toner, Helen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="943" medium="image" url="https://static01.nyt.com/images/2026/08/18/opinion/18eks-toner-image/18eks-toner-image-mediumSquareAt3X.jpg" width="943"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <title>The New Physics of Power</title>
+      <link>https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html" rel="standout"></atom:link>
+      <description>It doesn’t take much for small powers to gain a big advantage over the powerful.</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 19:31:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18friedman-fbzg/18friedman-fbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gregory Halpern for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How to Find Your Daughter’s Therapy Speak Less Traumatizing</title>
+      <link>https://www.nytimes.com/2026/08/18/opinion/therapy-speak-daughter-trauma-anxiety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/opinion/therapy-speak-daughter-trauma-anxiety.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/opinion/therapy-speak-daughter-trauma-anxiety.html" rel="standout"></atom:link>
+      <description>Step 1: Take it seriously, not literally.</description>
+      <dc:creator>Suzanne Garfinkle-Crowell</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 17:09:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attention Deficit Hyperactivity Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
     </item>
     <item>
       <title>How NASA Engineers Are Keeping the Voyagers Alive</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 19:27:56 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 19:08:15 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:48:00 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 19:40:27 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html" rel="standout"></atom:link>
       <description>They made a risky bid to reunite after three years of separation, illness and deprivation — the kind of ordeal suffered by many thousands of families torn apart by the war in eastern Ukraine.</description>
       <dc:creator>Kim Barker, Dzvinka Pinchuk and Oksana Parafeniuk</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 14:51:04 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 19:37:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -103,7 +103,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html" rel="standout"></atom:link>
       <description>American and Syrian officials said Israel carried out the attack, the latest in a series of military interventions in Syria over the past two years.</description>
       <dc:creator>Christina Goldbaum and Reham Mourshed</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 17:41:00 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 19:39:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )</category>
@@ -311,6 +311,21 @@
       <media:description>Flames and smoke rising from the port of Mokha in Yemen on Friday. The Houthis have bombarded the city with drones and missiles n recent weeks.</media:description>
     </item>
     <item>
+      <title>A Rescue Mission in Remote Colombia</title>
+      <link>https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html</guid>
+      <atom:link href="https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html" rel="standout"></atom:link>
+      <description>Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.</description>
+      <dc:creator>Federico Rios, Leila Medina and Joey Sendaydiego</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 19:33:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+    </item>
+    <item>
       <title>Childhood Friends, Adopted From India, Discover They’re Sisters</title>
       <link>https://www.nytimes.com/2026/08/18/world/europe/friends-adopted-sisters-india-netherlands.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/europe/friends-adopted-sisters-india-netherlands.html</guid>
@@ -370,11 +385,9 @@
       <dc:creator>Katrin Bennhold</dc:creator>
       <pubDate>Tue, 18 Aug 2026 04:13:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto Prefecture (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Kanye</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Panettiere, Hayden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18int-theworld-venezuela-quake-01-twlh-promo/18int-theworld-venezuela-quake-01-twlh-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
     </item>
@@ -1150,23 +1163,6 @@
       <media:content height="1182" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-denmark-wolf-new-kblw/14int-denmark-wolf-new-kblw-mediumSquareAt3X-v2.jpg" width="1182"></media:content>
       <media:credit>Ritzau Scanpix/Sipa USA, via Associated Press</media:credit>
       <media:description>A wild wolf in West Jutland, Denmark, last year. The return of the animals to a country with few predators has recently come under scrutiny after a wolf was spotted near a small town, apparently unafraid of people.</media:description>
-    </item>
-    <item>
-      <title>Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead</title>
-      <link>https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html" rel="standout"></atom:link>
-      <description>Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.</description>
-      <dc:creator>Mara Hvistendahl</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 01:00:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
     </item>
   </channel>
 </rss>

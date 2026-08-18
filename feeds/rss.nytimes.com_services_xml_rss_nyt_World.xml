@@ -3,17 +3,60 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 06:43:51 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 05:49:07 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:37:15 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 07:25:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Chocó, Colombia, Faces Deeper Hardship After an Earthquake</title>
+      <link>https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html" rel="standout"></atom:link>
+      <description>In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.</description>
+      <dc:creator>Genevieve Glatsky and Federico Rios</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 05:17:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Choco, Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Aid</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18int-colombia-quake-choco-promo/18int-colombia-quake-choco-wfjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>Soldiers and volunteers offloading aid supplies from a helicopter San José del Palmar, Colombia, a remote town close to the earthquake’s epicenter.</media:description>
+    </item>
+    <item>
+      <title>It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs</title>
+      <link>https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html" rel="standout"></atom:link>
+      <description>Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?</description>
+      <dc:creator>Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 04:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carlos Osorio/Reuters</media:credit>
+      <media:description>The Gordie Howe International Bridge, connecting Windsor, Ontario, and Detroit, on the day after it opened last month. President Trump had threatened to block the bridge’s opening.</media:description>
+    </item>
     <item>
       <title>Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing</title>
       <link>https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html</link>
@@ -285,43 +328,6 @@
       <media:description>The State Department overseen by Marco Rubio has restored the visas of political figures in Central America once penalized by the U.S. government and has revoked visas for others.</media:description>
     </item>
     <item>
-      <title>Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily</title>
-      <link>https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html" rel="standout"></atom:link>
-      <description>The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 07:31:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Messina, Antonello da</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Messina (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Accascina Regional Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <media:content height="933" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16int-italy-theft-HP-promp/16int-italy-theft-HP-promp-mediumSquareAt3X.jpg" width="933"></media:content>
-      <media:credit>Museo Regionale Accascina Messina, via Reuters</media:credit>
-    </item>
-    <item>
-      <title>Liechtenstein Changes Its Law to Allow Women to Ascend the Throne</title>
-      <link>https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html" rel="standout"></atom:link>
-      <description>The move puts the principality in the majority among nearby nations with royal families.</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 22:10:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adam, Hans II</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akishino, Crown Prince of Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liechtenstein</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16int-Liechtenstein-Royals-blhq/16int-Liechtenstein-Royals-blhq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Romina Amato/Reuters</media:credit>
-      <media:description>Hereditary Prince Alois of Liechtenstein, arriving at the country’s National Day celebrations in Vaduz, the capital, on Saturday.</media:description>
-    </item>
-    <item>
       <title>1 Dead After Student Livestreams School Shooting in the Philippines</title>
       <link>https://www.nytimes.com/2026/08/18/world/asia/philippines-school-shooting-zamboanga-city.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/asia/philippines-school-shooting-zamboanga-city.html</guid>
@@ -336,49 +342,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17xp-shooting-blqc/17xp-shooting-blqc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>The shooting took place around 8 a.m. local time in the junior high school building of Ateneo de Zamboanga University.</media:description>
-    </item>
-    <item>
-      <title>Chocó, Colombia, Faces Deeper Hardship After an Earthquake</title>
-      <link>https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html" rel="standout"></atom:link>
-      <description>In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.</description>
-      <dc:creator>Genevieve Glatsky and Federico Rios</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 05:17:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Choco, Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Aid</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18int-colombia-quake-choco-promo/18int-colombia-quake-choco-wfjl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Soldiers and volunteers offloading aid supplies from a helicopter San José del Palmar, Colombia, a remote town close to the earthquake’s epicenter.</media:description>
-    </item>
-    <item>
-      <title>It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs</title>
-      <link>https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html" rel="standout"></atom:link>
-      <description>Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?</description>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 04:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carlos Osorio/Reuters</media:credit>
-      <media:description>The Gordie Howe International Bridge, connecting Windsor, Ontario, and Detroit, on the day after it opened last month. President Trump had threatened to block the bridge’s opening.</media:description>
     </item>
     <item>
       <title>Zambia Says President Won Re-election After Tumultuous Campaign</title>
@@ -472,6 +435,26 @@
       <media:description>In his post on Sunday, President Trump did not mention a rift in relations with North Korea in 2017, when Kim Jong Un called him a “mentally deranged dotard.” </media:description>
     </item>
     <item>
+      <title>Liechtenstein Changes Its Law to Allow Women to Ascend the Throne</title>
+      <link>https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html" rel="standout"></atom:link>
+      <description>The move puts the principality in the majority among nearby nations with royal families.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Sun, 16 Aug 2026 22:10:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adam, Hans II</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Akishino, Crown Prince of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liechtenstein</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16int-Liechtenstein-Royals-blhq/16int-Liechtenstein-Royals-blhq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Romina Amato/Reuters</media:credit>
+      <media:description>Hereditary Prince Alois of Liechtenstein, arriving at the country’s National Day celebrations in Vaduz, the capital, on Saturday.</media:description>
+    </item>
+    <item>
       <title>No Way Out</title>
       <link>https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html</guid>
@@ -509,6 +492,23 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16trump-news-update-cvjg/16trump-news-update-cvjg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saul Loeb/Agence France-Presse — Getty Images</media:credit>
       <media:description>Jared Kushner earlier this year.</media:description>
+    </item>
+    <item>
+      <title>Art Heist: 4 Antonello da Messina Paintings Stolen From Sicily</title>
+      <link>https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/16/world/europe/italy-renaissance-art-heist.html" rel="standout"></atom:link>
+      <description>The works, by Antonello da Messina, were taken as the Sicilian city of Messina held a religious celebration.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 07:31:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Messina, Antonello da</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Messina (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Accascina Regional Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <media:content height="933" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16int-italy-theft-HP-promp/16int-italy-theft-HP-promp-mediumSquareAt3X.jpg" width="933"></media:content>
+      <media:credit>Museo Regionale Accascina Messina, via Reuters</media:credit>
     </item>
     <item>
       <title>How a Ukrainian Bank Worker Came to Face Life in a Russian Prison</title>

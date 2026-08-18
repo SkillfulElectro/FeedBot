@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 21:23:20 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 21:16:37 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:45:41 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 21:34:16 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -318,7 +318,7 @@
       <dc:creator>Ephrat Livni and Abu Bakr Bashir</dc:creator>
       <pubDate>Tue, 18 Aug 2026 21:13:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
@@ -326,6 +326,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza City (Gaza Strip)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18int-gaza-1-zcwv/18int-gaza-1-zcwv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saher Alghorra for The New York Times</media:credit>
       <media:description>Palestinians mourned loved ones at Al-Shifa Hospital in Gaza City on Tuesday after a cafe near the Gaza port was attacked.</media:description>
@@ -1153,30 +1154,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15int-belgium-heat-deaths-01-vmlz/15int-belgium-heat-deaths-01-vmlz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ksenia Kuleshova for The New York Times</media:credit>
       <media:description>Treating a 77-year-old woman for heat-related illness last month at MontLégia hospital in the Belgian city of Liège.</media:description>
-    </item>
-    <item>
-      <title>Wary of Trump, Europe Seeks Role in Eventual Russia-Ukraine Talks</title>
-      <link>https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/15/world/europe/europe-russia-ukraine-talks.html" rel="standout"></atom:link>
-      <description>French, German and British diplomats are working on a format for future negotiations — even if Russia has shown little interest.</description>
-      <dc:creator>Steven Erlanger</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 04:01:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15int-russia-europe-ukraine-01-wqgp/15int-russia-europe-ukraine-01-wqgp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nina Liashonok/Reuters</media:credit>
-      <media:description>Rescue workers at the site of a Russian strike on a residential building in Odesa, Ukraine, this week.</media:description>
     </item>
   </channel>
 </rss>

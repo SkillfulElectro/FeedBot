@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 12:50:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:42:54 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,34 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Beyond crypto funding rates: Ethena diversifies USDe backing with $1 billion FalconX facility]]></title>
+      <link>https://www.coindesk.com/business/2026/08/19/beyond-crypto-funding-rates-ethena-diversifies-usde-backing-with-usd1-billion-falconx-facility</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c48dd32903d41ec222f4a093c9aefa108c259b98-2960x1665.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">04f50460-9798-45dc-be6b-0b1d15a7cb27</guid>
+      <pubDate>Wed, 19 Aug 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[The warehouse facility gives Ethena another source of returns for the assets backing USDe while channeling onchain capital into overcollateralized institutional loans.]]></description>
+      <dc:creator>Jamie Crawley</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[FalconX]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Strengthen the Clarity Act]]></title>
+      <link>https://www.coindesk.com/opinion/2026/08/19/strengthen-the-clarity-act</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a34df3ab0252390fe6f4e09740e01eae5c504e19-5195x3493.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">2cd3a6f9-fbe0-4e62-8470-6bd7d81589e7</guid>
+      <pubDate>Wed, 19 Aug 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[The American Bankers Association seeks to strengthen the Clarity Act, not kill it, argues Rob Nichols, president and CEO of the ABA.]]></description>
+      <dc:creator>Rob Nichols</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck]]></title>
       <link>https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet</link>
@@ -131,13 +159,14 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%]]></title>
+      <title><![CDATA[Live updates: Bitcoin tops $65,000 as Treasury move sends yields lower]]></title>
       <link>https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8</link>
       <guid isPermaLink="false">f1346347-86fb-4e4f-9b86-99bd5b1d1a78</guid>
       <pubDate>Wed, 19 Aug 2026 09:05:45 +0000</pubDate>
-      <description><![CDATA[U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.]]></description>
+      <description><![CDATA[Led by Scott Bessent, the U.S. Treasury announced at least a doubling in the size of its long-dated bond buybacks.]]></description>
       <dc:creator>James Van Straten</dc:creator>
       <dc:creator>Shaurya Malwa</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -147,7 +176,7 @@
       <category domain="https://www.coindesk.com/">live_news</category>
     </item>
     <item>
-      <title><![CDATA[Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million]]></title>
+      <title><![CDATA[Maya Protocol exploit drains bitcoin and other assets as pool value drops by $11 million]]></title>
       <link>https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/5844591d4fc53908b4ecc1fda0511af88a269620-6024x4024.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">858051fa-6cad-40ec-a1ce-316bac634339</guid>
@@ -353,35 +382,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Digital Asset Treasury]]></category>
       <category domain="tag"><![CDATA[Japan]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[HashKey taps Hong Kong's first regulated stablecoin to settle insurance and trade deals]]></title>
-      <link>https://www.coindesk.com/business/2026/08/18/hashkey-taps-hong-kong-s-first-regulated-stablecoin-to-settle-insurance-and-trade-deals</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">f61b4075-05a4-4d1b-8644-4b4c2b16a79a</guid>
-      <pubDate>Tue, 18 Aug 2026 14:03:27 +0000</pubDate>
-      <description><![CDATA[Following institutional trials, the HKD-pegged asset is being put to work to capture part of Hong Kong's $49 billion trade corridor with the United Arab Emirates]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Hong Kong]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Citi plans to launch bitcoin custody for institutional clients later this year]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/18/citi-plans-to-launch-bitcoin-custody-for-institutional-clients-later-this-year</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/bcd5d98587f7945fb8a233356ae9e3cafed381e3-4368x2912.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">8d888a05-98c3-48f6-8231-94f63e53434b</guid>
-      <pubDate>Tue, 18 Aug 2026 13:25:13 +0000</pubDate>
-      <description><![CDATA[The Wall Street bank plans to let clients hold bitcoin alongside traditional assets through its new Custody+ platform.]]></description>
-      <dc:creator>Helene Braun</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Custody]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

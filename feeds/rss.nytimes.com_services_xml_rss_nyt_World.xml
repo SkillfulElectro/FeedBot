@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?provincie=Zuid-Holland&amp;functie=marketeer" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 19:47:43 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 19:00:14 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:27:15 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 20:18:49 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -59,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/world/canada/trump-canada-tariffs-carney-deal-trade.html" rel="standout"></atom:link>
       <description>After a deadline extension, the latest U.S. tariff threats seemed headed toward resolution on Wednesday, but questions lingered about what Canada would give up, and what it would get in exchange.</description>
       <dc:creator>Matina Stevis-Gridneff and Ana Swanson</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 18:17:19 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 20:14:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -97,7 +97,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html" rel="standout"></atom:link>
       <description>Two high-profile cases that had spurred international condemnation of the country’s conduct in Gaza were transferred to the military police. Such investigations have rarely led to convictions.</description>
       <dc:creator>Isabel Kershner</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 19:00:14 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 20:18:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
@@ -313,6 +313,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-china-workers-literature1-ftpz/17int-china-workers-literature1-ftpz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jade Gao/Agence France-Presse — Getty Images</media:credit>
       <media:description>Hu Anyan’s memoir, “I Deliver Parcels in Beijing,” became a best seller in China and was later translated into English. It is a diaristic account of the 19 jobs he held over two decades across China.</media:description>
+    </item>
+    <item>
+      <title>More Than 100 Dead in Central African Republic Gold Mine Collapse</title>
+      <link>https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html" rel="standout"></atom:link>
+      <description>The country’s small-scale gold mining sector has been booming in recent years, leading to a series of deadly accidents.</description>
+      <dc:creator>Ruth Maclean</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 20:03:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central African Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cameroon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1664" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-car-goldmine-1-lmkw/19int-car-goldmine-1-lmkw-mediumSquareAt3X.jpg" width="1664"></media:content>
+      <media:credit>Thierry Bresilion/Anadolu Agency, via Getty Images</media:credit>
+      <media:description>A gold mine in Bambari, Central African Republic, in 2014. Thousands of people across many African countries work in what is known as artisanal and small-scale mining.</media:description>
     </item>
     <item>
       <title>Send Us Your Questions About the Iran War</title>
@@ -1180,23 +1201,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marylise Vigneau for The New York Times</media:credit>
       <media:description>Musab Abu Rukbah, right, and Roman Valach, one of Mr. Abu Rukbah’s lawyers, leaving a Vienna courtroom after a hearing in June.</media:description>
-    </item>
-    <item>
-      <title>Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects</title>
-      <link>https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html" rel="standout"></atom:link>
-      <description>Iran said the airmen have been held since March 2 when their fighter jets were shot down. The Qatari government denies detaining any Iranian pilots.</description>
-      <dc:creator>Yeganeh Torbati and Leily Nikounazar</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 02:43:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing in Action</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15int-iran-qatar-wjhm/15int-iran-qatar-wjhm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mohammed Salem/Reuters</media:credit>
-      <media:description>Smoke rising from an Iranian missile attack in Doha, Qatar, in March.</media:description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 10:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:16:39 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Fed decision making comes into focus as bitcoin holds steady, bond yields surge]]></title>
+      <link>https://www.coindesk.com/daybook-us/2026/08/19/fed-decision-making-comes-into-focus-as-bitcoin-holds-steady-bond-yields-surge</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/478cd68540a907e1a2111186e0144a0c1edc2676-5088x2862.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">76e743cd-cf29-44a5-a561-82e7e4082ee5</guid>
+      <pubDate>Wed, 19 Aug 2026 11:14:50 +0000</pubDate>
+      <description><![CDATA[Your day-ahead look for Aug. 19, 2026]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades]]></title>
       <link>https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades</link>
@@ -82,6 +96,7 @@
       <pubDate>Wed, 19 Aug 2026 09:05:45 +0000</pubDate>
       <description><![CDATA[U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.]]></description>
       <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Shaurya Malwa</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
@@ -373,20 +388,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Exclusive]]></category>
       <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Ethereum’s next upgrade breaks the '21,000 gas' rule wallets rely on]]></title>
-      <link>https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ab4b4ef3ea79c164c0b08b3c99452c33eac9a552-1500x1042.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">20cb97ac-afa4-48ce-b597-bca976a38ea4</guid>
-      <pubDate>Tue, 18 Aug 2026 12:17:05 +0000</pubDate>
-      <description><![CDATA[Sending ETH to a brand-new address will cost more than sending to an existing one, and software built around a flat fee will get the sum wrong.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Ethereum News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

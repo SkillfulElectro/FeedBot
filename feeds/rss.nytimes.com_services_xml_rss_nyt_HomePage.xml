@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 03:46:12 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 02:49:13 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:35:18 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 04:34:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -79,7 +79,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html" rel="standout"></atom:link>
       <description>Minutes from the Federal Reserve’s July gathering showed broadening support for higher borrowing costs to stamp out lingering price pressures.</description>
       <dc:creator>Colby Smith</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 19:46:15 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 19:46:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
@@ -214,21 +214,6 @@
       <media:description>Queen Camilla in 2024, visiting a London support center run by Maggie’s, a cancer charity where she serves as president. </media:description>
     </item>
     <item>
-      <title>U.S. Debt Hits $40 Trillion</title>
-      <link>https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html" rel="standout"></atom:link>
-      <description>Also, Trump nominates a Kennedy ally to lead the F.D.A. Here’s the latest at the end of Wednesday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 21:43:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/19evening-nl-trump-debt-promo/19evening-nl-trump-debt-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-    </item>
-    <item>
       <title>More of Trump’s Chosen Candidates Lose Republican Primaries</title>
       <link>https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html</guid>
@@ -309,35 +294,25 @@
       <media:description>At least a dozen Freedom Caucus incumbents were ousted from the Wyoming Legislature.</media:description>
     </item>
     <item>
-      <title>Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer</title>
-      <link>https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html" rel="standout"></atom:link>
-      <description>Wispr Flow is supposed to make writing effortless and magical. So I “wrote” this column with it.</description>
-      <dc:creator>Amy X. Wang</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 09:00:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <title>Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89</title>
+      <link>https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html" rel="standout"></atom:link>
+      <description>Werner Kalecinski is a social media sensation among young Germans. How did he go from heartbroken widower to partying on a yacht?</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?</title>
-      <link>https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html" rel="standout"></atom:link>
-      <description>The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?</description>
-      <dc:creator>Brian X. Chen and Minh Connors</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 19:06:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Germany</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/12int-germany-grandpa-profile-75573-cover/12int-germany-grandpa-profile-75573-cover-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lena Mucha for The New York Times</media:credit>
     </item>
     <item>
       <title>North Korean Official Dismisses Reduced Drills Between US and South Korea</title>
@@ -421,24 +396,35 @@
       <media:description>Hayden Panettiere was twice nominated for Golden Globes for her role in “Nashville.”</media:description>
     </item>
     <item>
-      <title>‘It’s Bonkers’: Jennifer Hegseth’s Hands-On Role in Her Husband’s Pentagon</title>
-      <link>https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html" rel="standout"></atom:link>
-      <description>After an 18-year career at Fox News, she is now her husband’s most influential adviser and de facto producer, shaping the job like no Pentagon spouse has before.</description>
-      <dc:creator>Elisabeth Bumiller</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 17:32:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Jennifer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19ST-jennifer-hegseth-01-mfwp/19ST-jennifer-hegseth-01-mfwp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Jennifer Hegseth, wife of Defense Secretary Pete Hegseth, was appointed to lead the President’s Military Spouse Commission in an Oval Office ceremony this month.</media:description>
+      <title>Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer</title>
+      <link>https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html" rel="standout"></atom:link>
+      <description>Wispr Flow is supposed to make writing effortless and magical. So I “wrote” this column with it.</description>
+      <dc:creator>Amy X. Wang</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 09:00:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?</title>
+      <link>https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html" rel="standout"></atom:link>
+      <description>The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?</description>
+      <dc:creator>Brian X. Chen and Minh Connors</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 19:06:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
     </item>
     <item>
       <title>Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides</title>
@@ -484,21 +470,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19met-housing-shortage-hjkq/19met-housing-shortage-hjkq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
       <media:description>New York’s housing shortage will require the city to build hundreds of thousands of new units over the next decade, according to a new report.</media:description>
-    </item>
-    <item>
-      <title>For Caitlin Simmers, Surfing Is a Dance Born on the Waves</title>
-      <link>https://www.nytimes.com/2026/08/19/arts/dance/caitlin-simmers-surf-dance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/arts/dance/caitlin-simmers-surf-dance.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/arts/dance/caitlin-simmers-surf-dance.html" rel="standout"></atom:link>
-      <description>Caitlin Simmers, a world champion surfer, sees her sport as dance. How does this translate? She’s as seamless as a ribbon.</description>
-      <dc:creator>Gia Kourlas</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 09:00:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simmers, Caitlin (2005- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surfing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rockaway Peninsula (Queens, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
       <title>Status Defines Friendship for Too Many Americans</title>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 02:35:09 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 02:22:33 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:46:12 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 02:49:13 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -197,6 +197,23 @@
       <media:description>Meghan, Duchess of Sussex, and Prince Harry, Duke of Sussex, posed for a selfie with children and their families during a visit to the Royal Children’s Hospital in Melbourne, Australia, earlier this year.</media:description>
     </item>
     <item>
+      <title>Queen Camilla Says It Was ‘Difficult’ to Keep Charles’s Cancer a Secret</title>
+      <link>https://www.nytimes.com/2026/08/19/world/europe/camilla-charles-cancer-diagnosis-secret-charity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/europe/camilla-charles-cancer-diagnosis-secret-charity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/world/europe/camilla-charles-cancer-diagnosis-secret-charity.html" rel="standout"></atom:link>
+      <description>“I was just longing to let it out,” Camilla said in rare public comments about the king’s 2024 diagnosis, which was not immediately revealed. “But obviously I couldn’t.”</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 11:28:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Camilla, Queen Consort of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19uk-camilla-jfpv/19uk-camilla-jfpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Paul Grover</media:credit>
+      <media:description>Queen Camilla in 2024, visiting a London support center run by Maggie’s, a cancer charity where she serves as president. </media:description>
+    </item>
+    <item>
       <title>U.S. Debt Hits $40 Trillion</title>
       <link>https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/briefing/us-debt-hits-40-trillion.html</guid>
@@ -248,6 +265,28 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19nat-black-vote-jwqm/19nat-black-vote-jwqm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Charity Rachelle for The New York Times</media:credit>
       <media:description>Representative Shomari Figures, left, is joined onstage by Doug Jones, Democratic nominee for governor of Alabama, in Troy, Ala.</media:description>
+    </item>
+    <item>
+      <title>Missouri Judge Says Redrawn Congressional Map May Be Used in Midterms</title>
+      <link>https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html" rel="standout"></atom:link>
+      <description>The decision was a win for Republicans, who have been pushing for the new map in an effort to help maintain the party’s narrow control in the U.S. House in November.</description>
+      <dc:creator>Madaleine Rubin</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 02:49:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19nat-missouri-redistricting-vhzt/19nat-missouri-redistricting-vhzt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael B. Thomas/Getty Images</media:credit>
+      <media:description>Missouri was one of the first states to try to redraw its maps as part of President Trump’s national push to increase Republicans’ chances of keeping the U.S. House in the midterms.</media:description>
     </item>
     <item>
       <title>In Wyoming’s G.O.P. Primaries, an Emphatic Rebuke of the Hard Right</title>

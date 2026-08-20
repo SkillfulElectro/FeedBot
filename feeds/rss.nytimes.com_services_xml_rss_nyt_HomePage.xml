@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 10:32:21 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 10:31:21 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:27:28 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 11:13:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,10 +41,11 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/podcasts/the-headlines/us-debt-vaccine-skin-cancer.html" rel="standout"></atom:link>
       <description>Plus, could tweaking flight paths reduce global warming?</description>
       <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart and Isabel Kershner</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 10:00:10 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 10:41:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20thehealdines-trump-tvbk/20thehealdines-trump-tvbk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Trump has promised to restore fiscal order, though his biggest initiatives to cut spending and increase revenue have failed to materialize.</media:description>
@@ -74,9 +75,11 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html" rel="standout"></atom:link>
       <description>At least a half-dozen federal agencies have taken action against the state that has long led the nation in environmental protections.</description>
       <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:03:46 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 09:03:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
@@ -90,11 +93,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Coastal Commission</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sable Offshore Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Barbara (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20CLI-CALIFORNIA-01-lbfm/20CLI-CALIFORNIA-01-lbfm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
       <media:description>An oil platform seen from Sands Beach next to Coal Oil Point Natural Reserve in Santa Barbara, Calif.</media:description>
@@ -178,6 +180,23 @@
       <media:description>A butcher in Tehran in July. The United States appears to be betting that putting Iran in a tighter economic stranglehold will succeed where military strikes have not.</media:description>
     </item>
     <item>
+      <title>Oil Prices Jump After Trump’s Latest Iran Threat</title>
+      <link>https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html" rel="standout"></atom:link>
+      <description>Bond markets remained volatile, as investors assessed the geopolitical turmoil.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 10:51:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20biz-osg-tmqp/20biz-osg-tmqp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+    </item>
+    <item>
       <title>What to Know About Iran’s Economic Ties With Gulf Countries</title>
       <link>https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html</guid>
@@ -205,48 +224,35 @@
       <description>A legal loophole allows the government to sell mustangs on the cheap, stripping them of protections and clearing their path to destruction.</description>
       <dc:creator>Dave Philipps and Erin Schaff</dc:creator>
       <pubDate>Thu, 20 Aug 2026 09:00:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-    </item>
-    <item>
-      <title>Moderna’s Shift to Cancer Company Lifts Stock Up 177%</title>
-      <link>https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html" rel="standout"></atom:link>
-      <description>The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.</description>
-      <dc:creator>Rebecca Robbins</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:04:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meatpacking Plants and Slaughterhouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Land Management</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bancel, Stephane</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/business/19biz-moderna-alt/19biz-moderna-alt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adam Glanzman/Bloomberg</media:credit>
-      <media:description>A lab at Moderna’s headquarters in Cambridge, Mass., in 2024.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mandate for Leadership (Project 2025) (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heritage Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
     </item>
     <item>
-      <title>Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.</title>
-      <link>https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html" rel="standout"></atom:link>
-      <description>The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.</description>
+      <title>As Harry and Meghan Plan Their Return, Britain Wonders: What Changed?</title>
+      <link>https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html" rel="standout"></atom:link>
+      <description>Just last year, Prince Harry said he couldn’t imagine ever bringing his family back home from America.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 06:51:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <pubDate>Thu, 20 Aug 2026 10:37:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mountbatten-Windsor, Lilibet Diana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Archie, Earl of Dumbarton</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-harry-1-hpwq/19int-harry-1-hpwq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Leal/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Prince Harry and his wife, Meghan, in London in 2020.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Prince of Wales</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Jonathan Brday</media:credit>
+      <media:description>Prince Harry and his wife, Meghan, in Sydney, Australia, in April.</media:description>
     </item>
     <item>
       <title>Harry and Meghan’s Break With Britain and Planned Return: a Timeline</title>
@@ -268,6 +274,30 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-Timeline-Meghan-Harry-mchl/19int-Timeline-Meghan-Harry-mchl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Asanka Ratnayake/Getty Images</media:credit>
       <media:description>Meghan, Duchess of Sussex, and Prince Harry, Duke of Sussex, posed for a selfie with children and their families during a visit to the Royal Children’s Hospital in Melbourne, Australia, earlier this year.</media:description>
+    </item>
+    <item>
+      <title>Moderna’s Shift to Cancer Company Lifts Stock Up 177%</title>
+      <link>https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html" rel="standout"></atom:link>
+      <description>The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.</description>
+      <dc:creator>Rebecca Robbins</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 09:04:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Melanomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/business/19biz-moderna-alt/19biz-moderna-alt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Glanzman/Bloomberg</media:credit>
+      <media:description>A lab at Moderna’s headquarters in Cambridge, Mass., in 2024.</media:description>
     </item>
     <item>
       <title>Ken Paxton’s $1,000 Pen Incident Resurfaces in Texas Senate Race</title>
@@ -336,7 +366,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html" rel="standout"></atom:link>
       <description>Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.</description>
       <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 10:04:11 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 10:04:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
@@ -391,7 +421,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/style/ai-data-centers-teens.html" rel="standout"></atom:link>
       <description>Gen Z-ers are forming after-school clubs, speaking at community meetings — and sometimes wrestling with their own dependence on the technology.</description>
       <dc:creator>Callie Holtermann</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:00:54 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 11:13:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -433,6 +463,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>We’re Doing Drugs</title>
+      <link>https://www.nytimes.com/2026/08/20/briefing/were-doing-drugs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/briefing/were-doing-drugs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/briefing/were-doing-drugs.html" rel="standout"></atom:link>
+      <description>We look at a new study about Americans’ use of cannabis.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 11:11:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle Age (Demographic)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20themorning-nl-cannabis-02-ghtj/20themorning-nl-cannabis-02-ghtj-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:credit>Janelle Jones for The New York Times</media:credit>
     </item>
     <item>
       <title>Jimmy Fallon Teases Trump’s Efforts to Rekindle North Korea Bromance</title>

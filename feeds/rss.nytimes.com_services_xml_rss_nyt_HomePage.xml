@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 18:41:13 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 18:36:05 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:29:16 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 19:21:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -79,7 +79,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html" rel="standout"></atom:link>
       <description>While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.</description>
       <dc:creator>Ian Austen and Ana Swanson</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 16:46:04 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:13:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
@@ -200,11 +200,10 @@
       <dc:creator>Amelia Nierenberg</dc:creator>
       <pubDate>Thu, 20 Aug 2026 13:58:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1660" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg" width="1660"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>Prince Harry and Meghan visiting Bondi Beach in Sydney, Australia, in April.</media:description>
@@ -236,18 +235,49 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/magazine/tick-season-lone-star-alpha-gal-syndrome-lyme.html" rel="standout"></atom:link>
       <description>A scientific and civilizational horror story.</description>
       <dc:creator>Benjamin Wallace</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 18:18:35 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 18:18:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ticks (Insects)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lyme Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Allergies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamptons (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shelter Island (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Martha&#39;s Vineyard (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/20/magazine/20mag-ticks/20mag-ticks-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ben Salb for The New York Times</media:credit>
       <media:description>A blacklegged tick in its nymph stage. Roughly the size of poppy seeds, nymphs are responsible for more disease transmission than adults.</media:description>
+    </item>
+    <item>
+      <title>Hochul’s Advice for Mamdani: Focus on New York City</title>
+      <link>https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html" rel="standout"></atom:link>
+      <description>In a wide-ranging interview, Gov. Kathy Hochul stressed the values she shares with Mayor Zohran Mamdani and talked about President Trump, taxes and ICE.</description>
+      <dc:creator>Grace Ashford</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 18:44:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19met-hochul-mamdani-zjqp/19met-hochul-mamdani-zjqp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Gov. Kathy Hochul, a moderate Democrat, and Mayor Zohran Mamdani, a democratic socialist, have emphasized their shared policy priorities, such as expanding child care.</media:description>
     </item>
     <item>
       <title>Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say</title>
@@ -361,7 +391,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html" rel="standout"></atom:link>
       <description>At times this year, the Democratic Party’s centrist wing has felt under siege from the left. But it has won several tough primaries recently.</description>
       <dc:creator>Bayliss Wagner</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 17:09:45 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 18:45:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moskowitz, Jared (1980- )</category>
@@ -443,6 +473,25 @@
       <media:description>Andres Rodriguez, 30, and Ellen Froliklong, 33, met on Dateability and have been seeing each other regularly since last December.</media:description>
     </item>
     <item>
+      <title>Woman Arrested in Plot to Bomb New York State Capitol</title>
+      <link>https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html" rel="standout"></atom:link>
+      <description>Federal prosecutors say the woman met with an F.B.I. informant several times to plan an attack on the building, which houses the governor’s office.</description>
+      <dc:creator>Benjamin Oreskes and William K. Rashbaum</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 18:58:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-albany-bomb-fpwb/20met-albany-bomb-fpwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cindy Schultz for The New York Times</media:credit>
+      <media:description>The woman was arrested on Wednesday, according to people with knowledge of the arrest.</media:description>
+    </item>
+    <item>
       <title>The Scales Can’t Fall From Our Eyes Fast Enough</title>
       <link>https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html</guid>
@@ -457,23 +506,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-    </item>
-    <item>
-      <title>We’re Doing Drugs</title>
-      <link>https://www.nytimes.com/2026/08/20/briefing/were-doing-drugs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/briefing/were-doing-drugs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/briefing/were-doing-drugs.html" rel="standout"></atom:link>
-      <description>We look at a new study about Americans’ use of cannabis.</description>
-      <dc:creator>Sam Sifton</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 12:42:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Marijuana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Middle Age (Demographic)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20themorning-nl-cannabis-02-ghtj/20themorning-nl-cannabis-02-ghtj-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Janelle Jones for The New York Times</media:credit>
     </item>
     <item>
       <title>Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself</title>

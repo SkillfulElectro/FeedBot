@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 11:55:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:55:15 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Optimism-funded team's deciding vote shifts $49 million in OP tokens away from users]]></title>
+      <link>https://www.coindesk.com/web3/2026/08/20/optimism-funded-team-s-deciding-vote-shifts-usd49-million-in-op-tokens-away-from-users</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/060af3ed3f5d2b59c0f5e667dc87bfe6c68907fc-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">4f0946ac-e881-4ee0-a817-833d8c38551a</guid>
+      <pubDate>Thu, 20 Aug 2026 12:00:25 +0000</pubDate>
+      <description><![CDATA[The approved plan reallocates 546.9 million OP from user airdrops to a Foundation-controlled Strategic Ecosystem Fund.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/web3"><![CDATA[Web3]]></category>
+      <category domain="tag"><![CDATA[Crypto News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern]]></title>
       <link>https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern</link>
@@ -119,14 +134,14 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin jumps above $72,000, ETF inflows of $700 million were largest in months]]></title>
+      <title><![CDATA[Live updates: Bitcoin rises to $72,000; ETF inflows of $700 million were largest in months]]></title>
       <link>https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ca0ed25f53e417eaa5bdbad915398aaf0f884b27-1080x1006.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">aeecf0bd-1ab7-459e-81e3-3907b2b59481</guid>
       <pubDate>Thu, 20 Aug 2026 06:21:17 +0000</pubDate>
       <description><![CDATA[Spot bitcoin ETFs pulled in $517 million and ether funds $189 million on Aug. 19, the strongest daily hauls in months, as a broad rally torched $2.7 billion in bearish bets.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
@@ -371,19 +386,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
       <category domain="https://www.coindesk.com/">Opinion</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin is flashing 8 of 12 capitulation signals, but bottom's not yet in, says VanEck]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/19/bitcoin-is-flashing-8-of-12-capitulation-signals-but-its-not-a-bottom-yet</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b5c969ee70de7444f1035edf7701cc88d16ae253-3000x2001.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6b0f97ec-540d-423a-b615-5425b3f98ad6</guid>
-      <pubDate>Wed, 19 Aug 2026 12:45:35 +0000</pubDate>
-      <description><![CDATA[Similar setups have historically produced below-average 90-day and 180-day bitcoin returns, said the asset manager.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

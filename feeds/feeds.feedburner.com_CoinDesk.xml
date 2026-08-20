@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 18:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:06:33 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails]]></title>
+      <link>https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3211fa7939c28f624c2b9b14fdc888817b3e9cbe-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">fe29c8e3-8d8b-41ee-a526-3cb5aa0e4f43</guid>
+      <pubDate>Thu, 20 Aug 2026 18:54:18 +0000</pubDate>
+      <description><![CDATA[Commodity Futures Trading Commission Chairman Mike Selig told the inaugural gathering of the Innovation Advisory Committee that his agency won't sit idle.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[CFTC]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist]]></title>
       <link>https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000</link>
@@ -368,23 +382,6 @@
       <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
       <category domain="tag"><![CDATA[Crypto Long & Short]]></category>
       <category domain="tag"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[HSBC, Standard Chartered execute first live banking transaction on Swift’s 24/7 ledger]]></title>
-      <link>https://www.coindesk.com/business/2026/08/19/hsbc-standard-chartered-execute-first-live-banking-transaction-on-swift-s-24-7-ledger</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/508c78185616861e76dfe16cc9d55787a0ff9c41-1500x1000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">3911da17-53f1-43a2-9ff8-98741acae8b4</guid>
-      <pubDate>Wed, 19 Aug 2026 14:50:33 +0000</pubDate>
-      <description><![CDATA[The cross-border transaction is Swift’s first in a pilot project as it tests settlement in its push to remain relevant as stablecoins and tokenized deposits become widely used worldwide.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Standard chartered]]></category>
-      <category domain="tag"><![CDATA[banks]]></category>
-      <category domain="tag"><![CDATA[Ledger]]></category>
-      <category domain="tag"><![CDATA[tokenized deposits]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

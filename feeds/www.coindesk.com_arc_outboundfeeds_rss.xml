@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 05:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:44:50 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,33 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/23fa099137d86dc3a7c75a6cd70903bc53b38cee-1064x1040.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">11212c3d-0f30-46a4-95b6-901fb31e035f</guid>
+      <pubDate>Fri, 21 Aug 2026 06:43:24 +0000</pubDate>
+      <description><![CDATA[Spot bitcoin ETFs pulled in $606 million on Aug. 20 and ether funds $221 million, both bigger than the prior day, confirming the institutional bid behind bitcoin's run.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Live News]]></category>
+      <category domain="https://www.coindesk.com/">live_news</category>
+    </item>
+    <item>
+      <title><![CDATA[MANTRA token plunges 18% to record low as blockchain halts after exploit]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/36b08d944e964cea3642474c76fe72e4fc96fd0d-1280x853.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">61c0d2d6-b7b7-493a-83be-0d4fca4e9d52</guid>
+      <pubDate>Fri, 21 Aug 2026 05:52:27 +0000</pubDate>
+      <description><![CDATA[The token touched $0.004126 minutes before the network stopped producing blocks, while MANTRA later said an attacker exploited a vulnerability in software used by the chain.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Ripple backs an RLUSD credit fund amid XRP's best week in months]]></title>
       <link>https://www.coindesk.com/markets/2026/08/21/ripple-backs-an-rlusd-credit-fund-amid-xrp-s-best-week-in-months</link>
@@ -346,36 +373,6 @@
       <category domain="tag"><![CDATA[Coinbase]]></category>
       <category domain="tag"><![CDATA[Ripple]]></category>
       <category domain="tag"><![CDATA[Gemini]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto campaign fund Fairshake faces $2 million setback in Florida primaries]]></title>
-      <link>https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/373914597fe9e651f11877c6224a99eba2c5fb52-4209x2492.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6bf125d4-e7b8-4853-943a-c620f5de7510</guid>
-      <pubDate>Wed, 19 Aug 2026 18:10:10 +0000</pubDate>
-      <description><![CDATA[In a race that drew criticism to crypto's leading political action committee for featuring fake headlines in ads, Fairshake's expensive effort fell short. ]]></description>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Election 2026]]></category>
-      <category domain="tag"><![CDATA[PACs]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6eb2747023363cfbe065c8a674c044f684490782-1520x856.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">dfd8fa05-efdf-4c16-bf12-507652d4f09f</guid>
-      <pubDate>Wed, 19 Aug 2026 16:18:04 +0000</pubDate>
-      <description><![CDATA[BTC rose about 6% while ether, solana and crypto stocks climbed after the Treasury doubled the size of its bond buybacks.]]></description>
-      <dc:creator>Helene Braun</dc:creator>
-      <dc:creator>Oliver Knight</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

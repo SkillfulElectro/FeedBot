@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 18:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:00:46 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Pass the Clarity Act]]></title>
+      <link>https://www.coindesk.com/opinion/2026/08/21/pass-the-clarity-act</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/58712d20eab11dfa564aadb29ca1d33c9bfd3029-5365x3579.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">309d6b73-c8d5-4705-9f0c-6ac345b048ff</guid>
+      <pubDate>Fri, 21 Aug 2026 19:00:00 +0000</pubDate>
+      <description><![CDATA[Reopening a settled provision four weeks before a vote would sink the bill, argues Summer Mersinger, CEO of the Blockchain Association.]]></description>
+      <dc:creator>Summer Mersinger</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[Ethena's ENA token surges 48%, but altcoin season will have to wait]]></title>
       <link>https://www.coindesk.com/markets/2026/08/21/ethena-surges-48-as-altcoins-pull-away-from-bitcoin</link>
@@ -154,6 +167,7 @@
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>Stephen Alpher</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Helene Braun</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
@@ -355,20 +369,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Elon Musk's X is exploring stablecoins to pay influencers and content providers]]></title>
-      <link>https://www.coindesk.com/business/2026/08/20/elon-musk-s-x-is-exploring-stablecoins-to-pay-influencers-and-content-providers</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/acee6ae1d9fb1fcc92ccab7e5384aa3bce474936-1209x680.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">d45965a2-9d6d-42e7-acc8-4a6d97f2f93f</guid>
-      <pubDate>Thu, 20 Aug 2026 09:40:25 +0000</pubDate>
-      <description><![CDATA[Conversations with X are ongoing, according to a person who also works with other social media platforms testing stablecoins to pay influencers. ]]></description>
-      <dc:creator>Ian Allison</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

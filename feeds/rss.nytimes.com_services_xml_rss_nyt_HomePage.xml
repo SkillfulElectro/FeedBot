@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 01:21:41 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 01:08:14 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 02:45:29 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 02:15:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -142,7 +142,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html" rel="standout"></atom:link>
       <description>The Department of Homeland Security told Nevada election officials that it identified 185 “potential” noncitizens on the state’s voter rolls, not the nearly 16,000 it claimed last month.</description>
       <dc:creator>Nick Corasaniti</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 22:32:51 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 02:13:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
@@ -167,6 +167,25 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18HFO-POL-SWALWELL-WAHAB-mklw/18HFO-POL-SWALWELL-WAHAB-mklw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Heather Diehl/Getty Images</media:credit>
       <media:description>State Senator Aisha Wahab addresses the news media at her election-night watch party in Hayward, Calif., on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Florida Counts Its Election Ballots Fast. Why Can’t California Keep Up?</title>
+      <link>https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/us/florida-california-election-ballots.html" rel="standout"></atom:link>
+      <description>Florida counted most of its primary ballots within hours on Tuesday night, well ahead of the days California took to report the results of its major election.</description>
+      <dc:creator>Bayliss Wagner</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 02:15:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21pol-ballot-counting-bpwz/21pol-ballot-counting-bpwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lynne Sladky/Associated Press</media:credit>
+      <media:description>Election workers sort vote-by-mail ballots at the Miami-Dade County Supervisor of Elections Office for the Florida primary election in Doral, Fla., on Tuesday.</media:description>
     </item>
     <item>
       <title>‘The Necessary Conversation’ Puts Family Political Arguments On Full Display</title>
@@ -209,29 +228,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/19/multimedia/19pol-sc-senate-runoff-mgjz/19pol-sc-senate-runoff-mgjz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sean Rayford/Getty Images</media:credit>
       <media:description>Senator Darline Graham is campaigning to hold on to the seat of her late brother, Lindsey Graham.</media:description>
-    </item>
-    <item>
-      <title>Targeted by an Islamophobic Provocateur, a City’s Muslims Are on Edge</title>
-      <link>https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html" rel="standout"></atom:link>
-      <description>Jake Lang has descended four times on Dearborn, Mich., which is majority Arab American. His rhetoric and protests have stirred fear among residents.</description>
-      <dc:creator>Richard Fausset</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 00:28:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arab-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dearborn, Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jake Lang</category>
-      <category domain="">islamophobia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20nat-dearborn-vqlc/20nat-dearborn-vqlc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nic Antaya for The New York Times</media:credit>
-      <media:description>Jake Lang, far right protester, outside a City Council meeting on Tuesday in Dearborn, Mich. </media:description>
     </item>
     <item>
       <title>Can We Do Anything About Tick-Borne Diseases Like Alpha-Gal Syndrome?</title>
@@ -436,7 +432,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html" rel="standout"></atom:link>
       <description>A foreign policy specialist, she was politically savvy and well versed in global issues, and traveled widely with her husband, Henry A. Kissinger, on his diplomatic missions.</description>
       <dc:creator>Robert D. McFadden</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 22:53:47 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 02:14:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kissinger, Nancy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kissinger, Henry A</category>
@@ -469,6 +465,24 @@
       <media:description>The reality road trip series tracks Transportation Secretary Sean Duffy, his wife, their nine children and his son-in-law.</media:description>
     </item>
     <item>
+      <title>A Man in a Chucky-Style Mask Was Scaring Philadelphians. Then He Picked the Wrong Woman.</title>
+      <link>https://www.nytimes.com/2026/08/20/us/chucky-doll-mask-kick-philadelphia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/chucky-doll-mask-kick-philadelphia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/us/chucky-doll-mask-kick-philadelphia.html" rel="standout"></atom:link>
+      <description>When Jameka Wilson encountered a man wearing a Chucky-style Halloween mask, her stage combat training kicked in. Now she’s a minor local celebrity.</description>
+      <dc:creator>Sopan Deb</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 22:37:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks (Costume)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <media:content height="1181" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20xp-chucky-mask/20xp-chucky-mask-mediumSquareAt3X.jpg" width="1181"></media:content>
+      <media:credit>Philadelphia Police Department</media:credit>
+      <media:description>A masked man was harassing people in Philadelphia early last week. The police are searching for him. </media:description>
+    </item>
+    <item>
       <title>America Has a Surrogacy Problem</title>
       <link>https://www.nytimes.com/2026/08/19/opinion/when-surrogacy-goes-wrong.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/opinion/when-surrogacy-goes-wrong.html</guid>
@@ -491,23 +505,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
-      <title>FBI Arrests Woman in Plot to Bomb New York State Capitol Building</title>
-      <link>https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/albany-isis-plot-bomb-capitol.html" rel="standout"></atom:link>
-      <description>Federal prosecutors say the woman met with an F.B.I. informant several times to plan an attack on the building, which houses the governor’s office.</description>
-      <dc:creator>Benjamin Oreskes and William K. Rashbaum</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 21:20:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-albany-bomb-fpwb/20met-albany-bomb-fpwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cindy Schultz for The New York Times</media:credit>
-      <media:description>The woman was arrested on Wednesday, according to people with knowledge of the arrest.</media:description>
+      <title>Targeted by an Islamophobic Provocateur, a City’s Muslims Are on Edge</title>
+      <link>https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/jake-lang-dearborn-michigan.html" rel="standout"></atom:link>
+      <description>Jake Lang has descended four times on Dearborn, Mich., which is majority Arab American. His rhetoric and protests have stirred fear among residents.</description>
+      <dc:creator>Richard Fausset</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 00:28:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arab-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dearborn, Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jake Lang</category>
+      <category domain="">islamophobia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20nat-dearborn-vqlc/20nat-dearborn-vqlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nic Antaya for The New York Times</media:credit>
+      <media:description>Jake Lang, far right protester, outside a City Council meeting on Tuesday in Dearborn, Mich. </media:description>
     </item>
   </channel>
 </rss>

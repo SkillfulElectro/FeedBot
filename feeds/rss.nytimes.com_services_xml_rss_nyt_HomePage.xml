@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?DF=ZFlcBq1L" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 14:19:05 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 13:35:43 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:45:58 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 14:35:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -333,7 +333,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html" rel="standout"></atom:link>
       <description>To create a new $699 bootcamp for entrepreneurs, Harvard Business School made A.I. versions of its faculty.</description>
       <dc:creator>Sarah Kessler</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 12:00:04 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 14:35:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
@@ -449,14 +449,14 @@
       <description>One of the longest-serving prisoners in American history, he was sent to death row in 1950 before his sentence was commuted to life imprisonment.</description>
       <dc:creator>Richard Sandomir</dc:creator>
       <pubDate>Sat, 22 Aug 2026 13:32:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Frank (1924-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Probation and Parole</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis Clifford Smith (1925-2026)</category>
     </item>
   </channel>
 </rss>

@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?DF=ZFlcBq1L" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 13:32:26 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 13:07:41 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:19:05 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 13:35:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html" rel="standout"></atom:link>
       <description>Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 12:49:15 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 13:35:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -442,23 +442,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
     </item>
     <item>
-      <title>Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War</title>
-      <link>https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html" rel="standout"></atom:link>
-      <description>President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel.</description>
-      <dc:creator>Christina Goldbaum</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 09:02:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aoun, Joseph (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22Lebanon-Assess-01-vpgh/22Lebanon-Assess-01-vpgh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Guttenfelder/The New York Times</media:credit>
-      <media:description>A demonstration showing support for Hezbollah and opposition to the decision of Lebanese authorities to engage in direct negotiations with Israel, in Beirut in April.</media:description>
+      <title>Frank Smith, Who Served 70 Years for Murder, Dies at 101</title>
+      <link>https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html" rel="standout"></atom:link>
+      <description>One of the longest-serving prisoners in American history, he was sent to death row in 1950 before his sentence was commuted to life imprisonment.</description>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 13:32:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Probation and Parole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis Clifford Smith (1925-2026)</category>
     </item>
   </channel>
 </rss>

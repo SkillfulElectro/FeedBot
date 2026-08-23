@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?Lr=mHShiyEh" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 11:20:28 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 11:13:40 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:42:22 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 11:31:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -191,7 +191,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html" rel="standout"></atom:link>
       <description>Decades ago, the state won funding for a massive Colorado River project by agreeing to be first in line for cuts at a time of deep drought. The Trump administration says that time has come.</description>
       <dc:creator>Reis Thebault and Rebecca Noble</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 09:00:53 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 11:26:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
@@ -282,6 +282,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings (Book)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/23/opinion/23klein/23klein-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Photo Illustration by Hiro Tanaka</media:credit>
+    </item>
+    <item>
+      <title>A Murder Trial in Massachusetts</title>
+      <link>https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html" rel="standout"></atom:link>
+      <description>How the trial of Lindsay Clancy has become a proxy for how people view society’s ills.</description>
+      <dc:creator>Shaila Dewan</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 11:31:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23themorning-clancy-kzmf/23themorning-clancy-kzmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Mark Chavous</media:credit>
+      <media:description>A close-up of Lindsay Clancy in court on Friday.</media:description>
     </item>
     <item>
       <title>Echoing Trump, Latin America’s Leaders Boost Allies Across Borders</title>

@@ -3,11 +3,11 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1787528774481" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 23:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 01:24:09 +0000</lastBuildDate>
     <pubDate>Sun, 23 Aug 2026 22:42:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
@@ -391,28 +391,52 @@
       <media:credit>Bryan Tarnowski for The New York Times</media:credit>
     </item>
     <item>
-      <title>Twitter Broke the Left. X Will Break the Right.</title>
-      <link>https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html" rel="standout"></atom:link>
-      <description>Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.</description>
-      <dc:creator>Ezra Klein</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 14:10:10 +0000</pubDate>
+      <title>How to Fix the Housing Crisis: Look to WWII</title>
+      <link>https://www.nytimes.com/2026/08/23/opinion/housing-crisis-world-war-ii-shortage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/opinion/housing-crisis-world-war-ii-shortage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/opinion/housing-crisis-world-war-ii-shortage.html" rel="standout"></atom:link>
+      <description>World War II proves the government can intervene directly to fix the housing crisis.</description>
+      <dc:creator>Christopher Serkin and Daniel J. Sharfstein</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 13:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lord of the Rings (Book)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/23/opinion/23klein/23klein-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Photo Illustration by Hiro Tanaka</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public and Subsidized Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prefabricated Buildings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Farm Security Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roosevelt, Franklin Delano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Frank Lloyd</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/opinion/16Serkin-Sharfstein-xi-li/16Serkin-Sharfstein-xi-li-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Xi Li for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.</title>
+      <link>https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html" rel="standout"></atom:link>
+      <description>Four years at Harvard won’t corrupt your children.</description>
+      <dc:creator>David French</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 10:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duffy, Sean P</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23french-bhzk/23french-bhzk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amani Willett for The New York Times</media:credit>
     </item>
     <item>
       <title>3 Cyclists Die in One Week in Hit-and-Runs in New York City</title>

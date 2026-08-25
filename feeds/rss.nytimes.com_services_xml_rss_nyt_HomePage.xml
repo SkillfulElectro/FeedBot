@@ -3,36 +3,54 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 21:29:56 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 21:29:44 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:25:52 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 22:14:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Hegseth’s Purge of Top Generals Leaves the Army Rudderless</title>
-      <link>https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html" rel="standout"></atom:link>
-      <description>The leadership vacuum comes as the Army is trying to adapt to a new kind of war dominated by deadly drones.</description>
-      <dc:creator>Greg Jaffe, Eric Schmitt, Helene Cooper and Adam Entous</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 20:14:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <title>In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues</title>
+      <link>https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html" rel="standout"></atom:link>
+      <description>While the president remains the most dominant figure in the world, other leaders and institutions are pushing back more vigorously than at the beginning of his second term.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 22:11:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George, Randy (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26dc-army-hegseth-hlqj/26dc-army-hegseth-hlqj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25dc-trump-qkcv/25dc-trump-qkcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>World leaders and domestic institutions are showing less willingness to submit to President Trump’s will.</media:description>
+    </item>
+    <item>
+      <title>The Evening: Canada Retaliates With New U.S. Tariffs</title>
+      <link>https://www.nytimes.com/2026/08/25/briefing/tariffs-dolly-parton-cte.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/briefing/tariffs-dolly-parton-cte.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/briefing/tariffs-dolly-parton-cte.html" rel="standout"></atom:link>
+      <description>Plus, Dolly Parton dies at 80. Here’s the latest at the end of Tuesday.</description>
+      <dc:creator>Evan Gorelick</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 22:04:10 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25evening-nl-trump-news/25evening-nl-trump-news-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrej Ivanov/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Prime Minister Mark Carney at Davie Shipyard in Levis, Quebec yesterday.</media:description>
     </item>
     <item>
       <title>Dolly Parton, Country Music Superstar Whose Songs Spoke to Millions, Dies at 80</title>
@@ -77,7 +95,7 @@
       <dc:creator>Jim Farber</dc:creator>
       <pubDate>Tue, 25 Aug 2026 19:43:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parton, Dolly</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">9 to 5 (Song)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/arts/25cul-dolly-playlist-hcj1/25cul-dolly-playlist-hcj1-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -127,31 +145,38 @@
       <media:description>President Trump has invoked a little-known statute to impose his latest tariffs on Canada.</media:description>
     </item>
     <item>
-      <title>How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War</title>
-      <link>https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html" rel="standout"></atom:link>
-      <description>Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.</description>
-      <dc:creator>Matina Stevis-Gridneff and Ana Swanson</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 20:42:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <title>Hegseth’s Purge of Top Generals Leaves the Army Rudderless</title>
+      <link>https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html" rel="standout"></atom:link>
+      <description>The leadership vacuum comes as the Army is trying to adapt to a new kind of war dominated by deadly drones.</description>
+      <dc:creator>Greg Jaffe, Eric Schmitt, Helene Cooper and Adam Entous</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 20:14:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George, Randy (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeBlanc, Dominic (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the United States Trade Representative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-trade-ticktok-kwvm/ooint-canada-trade-ticktok-kwvm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrej Ivanov/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada speaking about the trade dispute with the United States on Monday at the Davie Shipyard in Levis, Quebec.</media:description>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26dc-army-hegseth-hlqj/26dc-army-hegseth-hlqj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Where to Eat in New York City Right Now</title>
+      <link>https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html</guid>
+      <atom:link href="https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html" rel="standout"></atom:link>
+      <description>Our favorite restaurants of the moment in the city that never stops eating.</description>
+      <dc:creator>Ligaya Mishan, Luke Fortney, Mahira Rivers and Ryan Sutton</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 16:52:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25FD-NYC-CITY-GUIDE-PROMO-03-jhpz/25FD-NYC-CITY-GUIDE-PROMO-03-jhpz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Janice Chung for The New York Times</media:credit>
     </item>
     <item>
       <title>Major Study Finds at Least 1 in 4 NFL Players Gets CTE</title>
@@ -201,20 +226,6 @@
       <media:description>Chronic traumatic encephalopathy can be diagnosed only posthumously.</media:description>
     </item>
     <item>
-      <title>Where to Eat in New York City Right Now</title>
-      <link>https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html</guid>
-      <atom:link href="https://www.nytimes.com/article/where-to-eat-nyc-restaurants.html" rel="standout"></atom:link>
-      <description>Our favorite restaurants of the moment in the city that never stops eating.</description>
-      <dc:creator>Ligaya Mishan, Luke Fortney, Mahira Rivers and Ryan Sutton</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 16:52:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25FD-NYC-CITY-GUIDE-PROMO-03-jhpz/25FD-NYC-CITY-GUIDE-PROMO-03-jhpz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Janice Chung for The New York Times</media:credit>
-    </item>
-    <item>
       <title>Fringe Views in Primary Campaigns Rattle Florida Jews</title>
       <link>https://www.nytimes.com/2026/08/25/us/james-fishback-florida-jewish-voters.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/james-fishback-florida-jewish-voters.html</guid>
@@ -232,48 +243,22 @@
       <media:description>Signs to vote in Florida’s primary last week in St. Petersburg, Fla.</media:description>
     </item>
     <item>
-      <title>What’s More Than ‘Maximum’? Trump Faces Limits on Iran Sanctions.</title>
-      <link>https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/trump-iran-maximum-sanctions.html" rel="standout"></atom:link>
-      <description>President Trump’s “Economic D-Day” is intended to break the stalemate with Iran. But decades of sanctions have done little to change the country’s behavior.</description>
-      <dc:creator>Michael Crowley</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 19:14:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assets, Frozen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <title>Conservative Gay Rights Group Ends Support for Trans Causes</title>
+      <link>https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/log-cabin-republicans-transgender.html" rel="standout"></atom:link>
+      <description>The Log Cabin Republicans, which is dedicated to gay causes, says that trans rights advocates focus too much on minors.</description>
+      <dc:creator>Richard Fausset</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 21:58:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Log Cabin Republicans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26dc-iran-diplo-ptjh/26dc-iran-diplo-ptjh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>President Trump has bombarded Iran with new sanctions during his second term, targeting virtually the country’s entire economy.</media:description>
-    </item>
-    <item>
-      <title>China Pushes Back After Trump Tightens the Screws on Iran</title>
-      <link>https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html" rel="standout"></atom:link>
-      <description>The Trump administration risks a clash with Beijing as it tries to cut off Iran’s economic lifelines without upending a fragile U.S.-China truce.</description>
-      <dc:creator>Alexandra Stevenson, Aaron Krolik and Keith Bradsher</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 14:59:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hong Kong</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25Biz-China-Iran-01-jvcw/25Biz-China-Iran-01-jvcw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Chinese refiners have bought heavily discounted Iranian crude oil.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25nat-logcabin-trans-ftgq/25nat-logcabin-trans-ftgq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Brochstein/Sipa, via Associated Press</media:credit>
+      <media:description>A Log Cabin Republicans table at the 2025 Conservative Political Action Conference in Oxon Hill, Md. The organization had embraced trans rights issues in 2015 before its reversal.</media:description>
     </item>
     <item>
       <title>She Was Absolved of a Heinous Crime. Why Won’t They Leave Her Alone?</title>
@@ -300,7 +285,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/what-to-know-trump-executive-order-mail-voting.html" rel="standout"></atom:link>
       <description>The Supreme Court on Monday allowed the Trump administration to continue with plans to curtail mail-in voting, but the fast-moving, high-stakes legal fight continues.</description>
       <dc:creator>Adam Sella and Abbie VanSickle</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 20:36:04 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 20:36:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
@@ -461,7 +446,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/nyregion/rebel-wilson-the-deb-producer-amanda-ghost.html" rel="standout"></atom:link>
       <description>New documents filed on Tuesday in Los Angeles appear to show that Ms. Wilson, the actress, was heavily involved in disparaging Amanda Ghost, a producer on her movie, “The Deb.”</description>
       <dc:creator>Debra Kamin</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 21:10:31 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 21:48:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Rebel (1980- )</category>

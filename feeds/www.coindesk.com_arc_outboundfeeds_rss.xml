@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 25 Aug 2026 08:48:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:27:00 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Solana ETFs extend growth streak to 5 days after year's biggest inflows]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/25/solana-etfs-extend-growth-streak-to-5-days-after-year-s-biggest-inflows</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ebb5a0f62882b8a5af36fcacd210933b3a4950a7-3770x2122.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">81204bc7-7259-48ba-8a47-780e8cd8933d</guid>
+      <pubDate>Tue, 25 Aug 2026 10:25:32 +0000</pubDate>
+      <description><![CDATA[Monday's $33.5 million was the largest single-day inflow since December, pushing cumulative net inflows to a record $1.22 billion and trading volume to $166.8 million.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Solana News]]></category>
+      <category domain="tag"><![CDATA[ETFs]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[U.S. widens Iran crackdown to encompass crypto, gold, shipping and technology]]></title>
       <link>https://www.coindesk.com/policy/2026/08/25/u-s-widens-iran-crackdown-to-encompass-crypto-gold-shipping-and-technology</link>
@@ -371,21 +386,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Live News]]></category>
       <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[Ether is crushing bitcoin and the 'golden cross' says it may not be done yet]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/9397622644d18dfc13339815e362fb5d33182da7-2108x1488.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">05784b33-1499-448c-b597-e6ccceb9c972</guid>
-      <pubDate>Mon, 24 Aug 2026 06:50:58 +0000</pubDate>
-      <description><![CDATA[The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether could extend its outperformance against bitcoin.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[ETH]]></category>
-      <category domain="tag"><![CDATA[Technical Analysis]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

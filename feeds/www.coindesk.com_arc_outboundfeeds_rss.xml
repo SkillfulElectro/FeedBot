@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 12:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:41:45 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,34 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Ethereum developers propose first step to protect ETH staking from quantum attacks]]></title>
+      <link>https://www.coindesk.com/tech/2026/08/26/ethereum-developers-propose-first-step-to-protect-eth-staking-from-quantum-attacks</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a83de4fa-79df-4dc6-9143-514c2907c435</guid>
+      <pubDate>Wed, 26 Aug 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[A draft proposal would allow validators to deposit with quantum-resistant keys, then permanently stop accepting the format the network runs on today.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Ethereum News]]></category>
+      <category domain="tag"><![CDATA[quantum computing]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[The evidence doesn't support the banks' case against stablecoin rewards]]></title>
+      <link>https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/5acd70c391d10b236041caf2c43b0c229681b641-7145x4763.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">280b10eb-e8a6-4015-91d8-8ff4c2580a6c</guid>
+      <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
+      <description/>
+      <dc:creator>Faryar Shirzad</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity]]></title>
       <link>https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity</link>
@@ -124,7 +152,7 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings]]></title>
+      <title><![CDATA[Live updates: Bitcoin flat near $78,500 ahead of Nvidia earnings]]></title>
       <link>https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally</link>
       <guid isPermaLink="false">b95dae6a-ae0c-42c7-b839-8d15b6680738</guid>
       <pubDate>Wed, 26 Aug 2026 08:51:18 +0000</pubDate>
@@ -141,7 +169,7 @@
     <item>
       <title><![CDATA[A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility]]></title>
       <link>https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/433dc66ccff9e405374f8e47dd644523e988eda5-2400x1200.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/725fd5cf1e29c5ea29afc1076ff02545ad6c0c57-1920x1060.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">b24e045d-a4d3-45fd-891d-f7847e72988f</guid>
       <pubDate>Wed, 26 Aug 2026 08:01:09 +0000</pubDate>
       <description><![CDATA[Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices.]]></description>
@@ -346,34 +374,6 @@
       <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
       <category domain="tag"><![CDATA[Fraud]]></category>
       <category domain="tag"><![CDATA[Cryptocurrency]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin's surging price faces 1 key level that could signal if the bear market is really over]]></title>
-      <link>https://www.coindesk.com/daybook-us/2026/08/25/bitcoin-s-surging-price-faces-1-key-level-that-could-signal-if-the-bear-market-is-really-over</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cc6f410c5f87e5e284a155f4701d48f056220818-1500x931.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">75d97200-9046-4cf5-8c96-4a6fb08f0f9f</guid>
-      <pubDate>Tue, 25 Aug 2026 11:15:02 +0000</pubDate>
-      <description><![CDATA[Your day-ahead look for Aug. 25, 2026]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[A bitcoin short squeeze for the ages as futures open interest collapses]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/25/a-bitcoin-short-squeeze-for-the-ages-as-futures-open-interest-collapses</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3a55120c2741c39c5d76c6ad39c34292d2129a3a-3200x1800.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">bc156adf-1003-4260-b097-8c2e83099200</guid>
-      <pubDate>Tue, 25 Aug 2026 10:57:02 +0000</pubDate>
-      <description><![CDATA[Falling open interest and subdued funding rates suggest the rally remains structurally healthy.]]></description>
-      <dc:creator>James Van Straten</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

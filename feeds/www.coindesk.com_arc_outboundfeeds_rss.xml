@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 11:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:46:27 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Dallas Fed warns tokenized deposits could strip $700 billion from U.S. banks' lending capacity]]></title>
+      <link>https://www.coindesk.com/business/2026/08/26/dallas-fed-warns-tokenized-deposits-could-strip-usd700-billion-from-u-s-banks-lending-capacity</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9bb64cb5-44cb-48df-abef-ee3ff2897a71</guid>
+      <pubDate>Wed, 26 Aug 2026 11:46:19 +0000</pubDate>
+      <description><![CDATA[Programmable deposits and AI agents may enable instantaneous, automated bank switching for higher yields, driving up bank funding costs.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears]]></title>
       <link>https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says</link>
@@ -109,14 +124,14 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally]]></title>
+      <title><![CDATA[Live updates: Bitcoin flat near $78,500 ahead Nvidia earnings]]></title>
       <link>https://www.coindesk.com/business/2026/08/26/live-updates-zcash-pulls-back-8-as-its-grayscale-etf-goes-live-capping-a-60-rally</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/01a18fc46c4e26a250bc9e85e92b715fe4a43c69-1510x848.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">b95dae6a-ae0c-42c7-b839-8d15b6680738</guid>
       <pubDate>Wed, 26 Aug 2026 08:51:18 +0000</pubDate>
-      <description><![CDATA[The privacy coin's spot ETF began NYSE trading Tuesday, which was one of the catalysts behind its surge to an eight-year high. Now traders are selling the news, with leverage stacked into the move.]]></description>
+      <description><![CDATA[Markets are also looking ahead to Fed Chair Kevin Warsh's keynote speech at the Jackson Hole conference on Friday.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
@@ -359,20 +374,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin extends 7-day advance to roughly 25% ]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/25/bitcoin-extends-7-day-advance-to-roughly-25</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/da9df256ec221c9e88238b69eb757d3b56013646-1520x855.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">24c5b91e-cd0e-4f08-aeab-a019497f2084</guid>
-      <pubDate>Tue, 25 Aug 2026 10:52:03 +0000</pubDate>
-      <description><![CDATA[Bitcoin crossed $80,000 for the first time since May, extending its seven-day advance to roughly 25%. ]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -20,5 +20,6 @@
   "https://www.france24.com/en/rss": "404 Client Error: Not Found for url: https://www.france24.com/en/rss",
   "https://www.pbs.org/newshour/feeds/rss/politics": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
   "https://www.msnbc.com/feeds/latest": "403 Client Error: Forbidden for url: https://www.ms.now/feeds/latest",
-  "https://rss.nytimes.com/services/xml/rss/nyt/World.xml": "404 Client Error: Not Found for url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+  "https://rss.nytimes.com/services/xml/rss/nyt/World.xml": "404 Client Error: Not Found for url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+  "https://www.aljazeera.com/xml/rss/all.xml": "403 Client Error: Forbidden for url: https://www.aljazeera.com/xml/rss/all.xml"
 }

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:02:52 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[A massive $6.4 billion bitcoin options expiry on Friday could amplify volatility]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/25/a-massive-usd6-4-billion-bitcoin-options-expiry-on-friday-could-amplify-volatility</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/433dc66ccff9e405374f8e47dd644523e988eda5-2400x1200.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">b24e045d-a4d3-45fd-891d-f7847e72988f</guid>
+      <pubDate>Wed, 26 Aug 2026 08:01:09 +0000</pubDate>
+      <description><![CDATA[Friday’s expiry follows bitcoin’s surge from $62,000 to $80,000, leaving market makers with increased exposure to manage around several key strike prices.]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[BlackRock cuts bitcoin ETF swap minimum to $1 million: Report]]></title>
       <link>https://www.coindesk.com/markets/2026/08/26/E</link>
@@ -358,21 +372,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin traders place $2.9 million bet on a rapid price jump above $82,000]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/25/bitcoin-traders-place-usd2-9-million-bet-on-a-rapid-price-jump-above-usd82-000</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/182de5fa38718c7d7513c132ebd58b4ad7663cc9-6016x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">8df9bb97-10e5-4c26-a33b-afe54e2dd430</guid>
-      <pubDate>Tue, 25 Aug 2026 05:51:52 +0000</pubDate>
-      <description><![CDATA[Traders are spending millions to position for further Bitcoin upside after its staggering rally to $80,000, though demand for downside protection remains firm, according to Laevitas.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[crypto options]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

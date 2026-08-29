@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 07:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:02:14 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Tokenized assets are busier than the data shows]]></title>
+      <link>https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/8063c00aa61892be74b3d456dde16b88df485efc-8000x4099.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">023b7b4e-60d3-48e7-975a-f3a2e8f25f78</guid>
+      <pubDate>Sat, 29 Aug 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[When you strip out what was never mobile, correct for who's holding what and why, add back what works off-contract, the utilization of tokenized assets looks close to 20%, argues Katana’s Matthew Fisher.]]></description>
+      <dc:creator>Matthew Fisher</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges]]></title>
       <link>https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges</link>
@@ -367,20 +380,6 @@
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[DeFi]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[GTA 6 leaker cashes out of his own memecoin hours before Rockstar's gameplay reveal]]></title>
-      <link>https://www.coindesk.com/business/2026/08/27/gta-6-leaker-cashes-out-of-his-own-memecoin-hours-before-rockstar-s-gameplay-reveal</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/62388bde80f8e4232ed973e0da85eeaedabd3d79-7959x5306.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">3414f57e-42d7-4f37-8863-3afe2063ceee</guid>
-      <pubDate>Thu, 27 Aug 2026 16:32:38 +0000</pubDate>
-      <description><![CDATA[The token hit a $25 million market cap on the back of nine days of unreleased Grand Theft Auto VI footage. Its creator has now sold his stack — hours before Rockstar's first official gameplay reveal.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Memecoin]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

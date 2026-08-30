@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 06:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:01:58 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto market makers are cashing in on bitcoin's rally - without betting on direction]]></title>
+      <link>https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3ec0faabb4311a9cbb3b547c5d4d2d107b6d405e-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">5fc01376-dd40-4306-96bf-a34649f054bd</guid>
+      <pubDate>Sun, 30 Aug 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[As bitcoin surges back above $80,000, sophisticated trading firms are quietly collecting yield rather than making directional bet.]]></description>
+      <dc:creator>Oliver Knight</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Crypto Trading]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[A $1.1 million crypto card hack crashed a neobank's token 49%]]></title>
       <link>https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49</link>
@@ -371,21 +385,6 @@
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin is trading at a premium on Coinbase after a long time. Here's what it means]]></title>
-      <link>https://www.coindesk.com/markets/2026/08/28/bitcoin-is-trading-at-a-premium-on-coinbase-after-a-long-time</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7f9a8bf8731625906738faac957eee0f6ad99369-2315x1277.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">9eba0484-4b1e-4819-a5b6-35b00383430e</guid>
-      <pubDate>Fri, 28 Aug 2026 05:02:22 +0000</pubDate>
-      <description><![CDATA[The indictor has flipped positive for the first time since May as BTC looks to establish a foothold above $80,000.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[Markets]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

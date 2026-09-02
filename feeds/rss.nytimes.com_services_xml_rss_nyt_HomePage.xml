@@ -7,32 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 20:40:39 +0000</lastBuildDate>
-    <pubDate>Wed, 02 Sep 2026 20:26:33 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:05:07 +0000</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 23:02:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms</title>
-      <link>https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html" rel="standout"></atom:link>
-      <description>Election fraud is exceedingly rare, but President Trump has fixated on rooting it out this year, claiming without evidence that tens of thousands of noncitizens are registered to vote.</description>
-      <dc:creator>Nick Corasaniti and Hamed Aleaziz</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 20:05:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02pol-dhs-noncitizen-01-gbzh/02pol-dhs-noncitizen-01-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Valerie Plesch for The New York Times</media:credit>
-      <media:description>The Department of Homeland Security is scouring state voter rolls for evidence of fraud ahead of the November elections.</media:description>
-    </item>
     <item>
       <title>Trump Returns to a Familiar Playbook as the War With Iran Flares Up Again</title>
       <link>https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html</link>
@@ -74,22 +55,81 @@
       <media:description>Crew members on the flight deck of the U.S.S. Abraham Lincoln as it arrived at the port of Laem Chabang near Pattaya, Thailand, on Wednesday.</media:description>
     </item>
     <item>
-      <title>U.S. and Iran Survey the Damage After a Night of Intense Strikes</title>
-      <link>https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html" rel="standout"></atom:link>
-      <description>The American military said its barrage was retaliation against recent attacks on U.S. forces and marine traffic. Iranian officials said a wedding was hit and civilians killed.</description>
-      <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 17:38:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
-      <media:content height="1252" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02iran-US-Strikes-01-hpkv/02iran-US-Strikes-01-hpkv-mediumSquareAt3X.jpg" width="1252"></media:content>
-      <media:credit>Iranian Red Crescent Society, via Reuters</media:credit>
-      <media:description>A still from a video provided by the Iranian Red Crescent rescue service showed damage in Kuhestak, southern Iran, on Wednesday.</media:description>
+      <title>Trump Administration Launches Hunt For Noncitizen Voter Fraud Before Midterms</title>
+      <link>https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html" rel="standout"></atom:link>
+      <description>Election fraud is exceedingly rare, but President Trump has fixated on rooting it out this year, claiming without evidence that tens of thousands of noncitizens are registered to vote.</description>
+      <dc:creator>Nick Corasaniti and Hamed Aleaziz</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 20:05:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02pol-dhs-noncitizen-01-gbzh/02pol-dhs-noncitizen-01-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Valerie Plesch for The New York Times</media:credit>
+      <media:description>The Department of Homeland Security is scouring state voter rolls for evidence of fraud ahead of the November elections.</media:description>
+    </item>
+    <item>
+      <title>USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order</title>
+      <link>https://www.nytimes.com/2026/09/02/us/politics/postal-service-ballot-screening-system.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/politics/postal-service-ballot-screening-system.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/us/politics/postal-service-ballot-screening-system.html" rel="standout"></atom:link>
+      <description>Election officials warn that the creation of a new online portal for states to upload voter information is already fueling confusion and could ultimately disenfranchise voters.</description>
+      <dc:creator>Eileen Sullivan</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 20:38:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whistle-Blowers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Robert (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morelle, Joseph D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Postal Workers Union</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02dc-uspsmailballots-hkmp/02dc-uspsmailballots-hkmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philip Cheung for The New York Times</media:credit>
+      <media:description>Workers in the City of Industry, Calif., sorting through ballots cast during a statewide special election last November.</media:description>
+    </item>
+    <item>
+      <title>States Sue Over Move to End to Federal Funds for Transgender Youth for Transition Care</title>
+      <link>https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/us/politics/youth-gender-transition-lawsuit-federal-money.html" rel="standout"></atom:link>
+      <description>The Trump administration wants to bar Medicaid and the Children’s Health Insurance Program from paying for gender-transition medication and surgery for transgender adolescents.</description>
+      <dc:creator>Amy Harmon</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 22:48:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Medicare and Medicaid Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Oz, Mehmet C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02nat-trans-suit-SWAP2-qchj/02nat-trans-suit-SWAP2-qchj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nathan Frandino/Reuters</media:credit>
+      <media:description>Rob Bonta, the attorney general of California, was among state officials behind the lawsuit.</media:description>
+    </item>
+    <item>
+      <title>Trump Administration Hunts for Elusive Noncitizen Voters</title>
+      <link>https://www.nytimes.com/2026/09/02/briefing/dhs-voter-fraud-google-monopoly.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/briefing/dhs-voter-fraud-google-monopoly.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/briefing/dhs-voter-fraud-google-monopoly.html" rel="standout"></atom:link>
+      <description>Also, George Lucas’s legacy project is finally ready for its close-up. Here’s the latest at the end of Wednesday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 21:52:14 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02evening-nl-dhs-noncitizen-gjbp/02evening-nl-dhs-noncitizen-gjbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jim Vondruska for The New York Times</media:credit>
     </item>
     <item>
       <title>How the Met’s Galliano Show Fell Apart</title>
@@ -111,42 +151,6 @@
       <media:description>One high-level donor called the Metropolitan Museum of Art’s plan to honor the designer John Galliano “insane.”</media:description>
     </item>
     <item>
-      <title>Deadlocked Jury in Lindsay Clancy Trial Again Says It Can’t Reach a Verdict</title>
-      <link>https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html" rel="standout"></atom:link>
-      <description>After roughly 30 hours of debate, jurors told the judge for a second time that they couldn’t reach unanimous agreement. He sent them back for one last try.</description>
-      <dc:creator>Maia Spoto and Mark Arsenault</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 19:59:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02nat-clancy-trial-zktc/02nat-clancy-trial-zktc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Greg Derr</media:credit>
-      <media:description>Lindsay Clancy doesn’t deny killing her children in 2023, but she has mounted an insanity defense. </media:description>
-    </item>
-    <item>
-      <title>Lindsay Clancy’s Trial Prompts Patients and Doctors to Rethink Postpartum Care</title>
-      <link>https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html" rel="standout"></atom:link>
-      <description>Requests for advice from women with maternal mental health conditions, as well as health providers who care for them, have surged.</description>
-      <dc:creator>Pam Belluck</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 20:15:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/00WELL-CLANCY-IMPACT1-lmwb/00WELL-CLANCY-IMPACT1-lmwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Greg Derr</media:credit>
-    </item>
-    <item>
       <title>What Is ‘Narrative Art?’ The Lucas Museum Finally Shows Us Its Vision.</title>
       <link>https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/arts/design/george-lucas-museum-narrative-art-opening.html</guid>
@@ -164,6 +168,42 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02cul-lucas-museum-pmkw/02cul-lucas-museum-pmkw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The Lucas Museum of Narrative Art intends to present the images and objects that make stories come alive.</media:description>
+    </item>
+    <item>
+      <title>Deadlocked Jury in Lindsay Clancy Trial Again Says It Can’t Reach a Verdict</title>
+      <link>https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html" rel="standout"></atom:link>
+      <description>Jurors say they cannot reach a unanimous agreement after about 30 hours of deliberations. The judge is bringing them back for one last try.</description>
+      <dc:creator>Maia Spoto, Mark Arsenault and Jacey Fortin</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 22:09:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02nat-clancy-trial-zktc/02nat-clancy-trial-zktc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Greg Derr</media:credit>
+      <media:description>Lindsay Clancy doesn’t deny killing her children in 2023, but she has mounted an insanity defense. </media:description>
+    </item>
+    <item>
+      <title>Lindsay Clancy’s Trial Prompts Patients and Doctors to Rethink Postpartum Care</title>
+      <link>https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/well/doctors-patients-postpartum-mental-health-clancy-trial.html" rel="standout"></atom:link>
+      <description>Requests for advice from women with maternal mental health conditions, as well as health providers who care for them, have surged.</description>
+      <dc:creator>Pam Belluck</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 22:04:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fear (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/00WELL-CLANCY-IMPACT1-lmwb/00WELL-CLANCY-IMPACT1-lmwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Greg Derr</media:credit>
     </item>
     <item>
       <title>In Nepal and Tibet, Pollution on Glaciers Could Fuel More Flood Disasters</title>
@@ -199,105 +239,39 @@
       <media:description>A meltwater lake on the Ngozumpa Glacier in Nepal in 2025.</media:description>
     </item>
     <item>
-      <title>The ‘Miracle House’ That Survived Nepal’s Floods</title>
-      <link>https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html" rel="standout"></atom:link>
-      <description>People are coming to take photos of the green-painted house, which kept the Pyakurel family safe as the area all around them was destroyed by rampaging floodwaters.</description>
-      <dc:creator>Mujib Mashal and Binod Ghimire</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 17:55:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Balconies and Terraces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02int-nepal-house-thumbnail-lvhq/02int-nepal-house-thumbnail-lvhq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arun Sankar/Agence France-Presse — Getty Images</media:credit>
+      <title>Cassandra Wilson, Star Jazz Singer, Dies at 70</title>
+      <link>https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html" rel="standout"></atom:link>
+      <description>With a low and smoky voice, she conjured the blues tradition of her native Mississippi in both her own songs and in covers.</description>
+      <dc:creator>Will Friedwald and Adam Bernstein</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 21:55:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Cassandra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jazz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jackson (Miss)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coleman, Steve</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marsalis, Wynton</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02obits-Wilson-lmbp/00obits-Wilson-lmbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroyuki Ito for The New York Times</media:credit>
+      <media:description>Cassandra Wilson in 2014.</media:description>
     </item>
     <item>
-      <title>In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules</title>
-      <link>https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html" rel="standout"></atom:link>
-      <description>In a long-awaited decision, a federal judge said Google must change its ad tech business to address antitrust issues, but did not disclose the measures.</description>
-      <dc:creator>David McCabe and Tripp Mickle</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 18:56:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brinkema, Leonie M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/12/29/multimedia/00biz-google-hfo-phtj/00biz-google-hfo-phtj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lucia Vazquez for The New York Times</media:credit>
-      <media:description>The government had asked the court to require Google to sell off parts of its business.</media:description>
-    </item>
-    <item>
-      <title>Woman Killed in Times Square Stabbing Identified as Bank of America VP</title>
-      <link>https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html" rel="standout"></atom:link>
-      <description>The New York Police Department is still trying to piece together what led a 49-year-old woman to stab two strangers, one fatally.</description>
-      <dc:creator>Maria Cramer, Chelsia Rose Marcius and Mark Bonamo</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 16:06:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Times Square and 42nd Street (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Piacenti, Erin (1994-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cisneros, Pamela (1977-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of America Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chester (NJ)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/01/multimedia/01met-victims-01-khqb/01met-victims-01-khqb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>A knife-wielding 49-year-old woman attacked two people in Times Square before she was shot and fatally wounded by the police.</media:description>
-    </item>
-    <item>
-      <title>‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner</title>
-      <link>https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html" rel="standout"></atom:link>
-      <description>Pamela Cisneros was killed by the police in Times Square after she stabbed two people, one fatally. Her father said she had stopped going with him to her mental health appointments.</description>
-      <dc:creator>Chelsia Rose Marcius, Miles G. Cohen, Amy Julia Harris and Katelyn Ferral</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 02:02:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cisneros, Pamela (1977-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Times Square and 42nd Street (Manhattan, NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/01/multimedia/01met-attacker-01-gwfc/01met-attacker-01-gwfc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>Pamela Cisneros fatally stabbed a 32-year-old woman and wounded a 68-year-old man in Times Square on Monday, the police said.</media:description>
-    </item>
-    <item>
-      <title>Times Square Police Shooting Was Justified but Put Others at Risk, Experts Say</title>
-      <link>https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/01/nyregion/times-square-shooting-stabbing-nypd.html" rel="standout"></atom:link>
-      <description>Officers who stood around a woman wielding two kitchen knives, and then opened fire without clearing the area, risked harming themselves or passers-by, the experts said.</description>
-      <dc:creator>Andy Newman</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 01:37:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <title>2 Police Officers Among Multiple People Injured in Minneapolis Shooting</title>
+      <link>https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html" rel="standout"></atom:link>
+      <description>Their conditions were not immediately known. The authorities urged people to avoid the area of downtown where the shooting occurred.</description>
+      <dc:creator>Ishani Desai</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 23:02:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Times Square and 42nd Street (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cisneros, Pamela (1977-2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/01/multimedia/TACTICS-01-bplz/TACTICS-01-bplz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>The police said a woman stabbed two people in Times Square on Monday, killing a 32-year-old woman.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Minneapolis, Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02xp-minneapolis-shooting-jcpf/02xp-minneapolis-shooting-jcpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ellen Schmidt/Associated Press</media:credit>
+      <media:description>Reports of a shooting drew a large police response to an intersection on the south side of downtown Minneapolis on Wednesday afternoon.</media:description>
     </item>
     <item>
       <title>Leanne Morgan, the 60-Year-Old Breakout Comedy Star</title>
@@ -348,47 +322,6 @@
       <media:description>Representative David Valadao of California said that President Trump had a part to play in the midterm elections, but that navigating around a deeply unpopular president and his policies was a challenge.</media:description>
     </item>
     <item>
-      <title>Billionaires Sent Montana Prices Soaring. Can Democrats Capitalize?</title>
-      <link>https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/us/politics/montana-house-sam-forstag-billionaires.html" rel="standout"></atom:link>
-      <description>For years, Democrats have failed to harness the anger of Montanans contending with out-of-state wealth driving up costs. This year, a smokejumper thinks he can succeed.</description>
-      <dc:creator>Jack Healy</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 15:56:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Forstag, Sam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montana</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02nat-montana-forstag-1-tcvl/02nat-montana-forstag-1-tcvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Will Warasila for The New York Times</media:credit>
-      <media:description>Sam Forstag, a telegenic firefighter and union leader, is the Democratic candidate for a House race in Montana.</media:description>
-    </item>
-    <item>
-      <title>How New York Times Reporters Traced Dark Money in Politics</title>
-      <link>https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/insider/how-reporters-trace-dark-money-in-politics.html" rel="standout"></atom:link>
-      <description>About $1 billion in anonymous contributions is coursing through midterm races across the country. Figuring out where the funds are coming from is no easy task.</description>
-      <dc:creator>Mike Abrams, Theodore Schleifer and Amy Gardner</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 19:13:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Election Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/04/01/multimedia/02insider-politics/01nat-darkmoney-explainer-jqtz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Travis Dove for The New York Times</media:credit>
-      <media:description>Political campaigns are awash in money with obscured origins.</media:description>
-    </item>
-    <item>
       <title>The Filipino Star at the U.S. Open Igniting a Neighborhood in Queens</title>
       <link>https://www.nytimes.com/2026/09/02/nyregion/alex-eala-us-open-philippines-little-manila.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/nyregion/alex-eala-us-open-philippines-little-manila.html</guid>
@@ -408,26 +341,35 @@
       <media:description>Alex Eala fans wave the Philippines flag during her exhibition match at the U.S. Open last week.</media:description>
     </item>
     <item>
-      <title>Deaths of 2 Men in Los Angeles Police Custody Set Off Investigations</title>
-      <link>https://www.nytimes.com/2026/09/02/us/los-angeles-jail-inmate-beating.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/us/los-angeles-jail-inmate-beating.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/us/los-angeles-jail-inmate-beating.html" rel="standout"></atom:link>
-      <description>Mayor Karen Bass questioned police training to handle mental health crises after the city released graphic video footage of officers’ actions.</description>
-      <dc:creator>Jill Cowan and Shawn Hubler</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 09:04:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Los Angeles, Calif)</category>
+      <title>Trump’s Fantasy-Reality Problem Is Deepening</title>
+      <link>https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html" rel="standout"></atom:link>
+      <description>The president’s unusual relationship to the objective world leaves him dangerously unable to pivot, shift gears or change course.</description>
+      <dc:creator>Jamelle Bouie</dc:creator>
+      <pubDate>Wed, 02 Sep 2026 22:06:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US-Venezuela Conflict (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02bouie-jgkf/02bouie-jgkf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
     <item>
       <title>Is Steve Hilton the Future of Trumpism?</title>
       <link>https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html" rel="standout"></atom:link>
-      <description>Steve Hilton wants to ‘Make California Golden Again.’</description>
+      <description>Steve Hilton wants to “Make California Golden Again.”</description>
       <dc:creator>Samuel Earle</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 17:52:20 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 21:42:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hilton, Steve (1969- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
@@ -438,26 +380,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cameron, David</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/02/multimedia/02earle1-gzhv/02earle1-gzhv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/05/multimedia/02earle1-gzhv/02earle1-gzhv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jamie Lee Taete for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>I Went to Princeton to Become a So-So Indian</title>
-      <link>https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html" rel="standout"></atom:link>
-      <description>I realized that in this country Indians were not supposed to be happy or to pursue happiness. We were supposed to suffer and to pursue suffering.</description>
-      <dc:creator>David Treuer</dc:creator>
-      <pubDate>Wed, 02 Sep 2026 13:01:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Princeton University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graduate Schools and Students</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/02/opinion/02treuer/02treuer-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jeremy Dennis</media:credit>
     </item>
     <item>
       <title>Ask Us Anything About Our Midterm Reporting</title>

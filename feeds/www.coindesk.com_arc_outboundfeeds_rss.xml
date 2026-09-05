@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 11:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:01:51 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million]]></title>
+      <link>https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/54662a5b70f0b4676e2b252594789b82117e88e3-1920x1281.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">80b5e112-1340-41b3-a0f6-1dc80a5dd1e3</guid>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[XRP Ledger has fewer active accounts than last year, but bigger trades and more value]]></title>
       <link>https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value</link>
@@ -372,21 +386,6 @@
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live updates: Bitcoin jumps above $81,000 as rates fall, dollar weakens]]></title>
-      <link>https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015</link>
-      <guid isPermaLink="false">5d2d0bb5-f0ff-40bd-859c-5367a3b5e792</guid>
-      <pubDate>Thu, 03 Sep 2026 10:42:15 +0000</pubDate>
-      <description><![CDATA[The government's employment data (due tomorrow) is usually the main economic report of the month, but this time around it's next week's inflation numbers that will decide Fed policy.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <dc:creator>Stephen Alpher</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
     </item>
   </channel>
 </rss>

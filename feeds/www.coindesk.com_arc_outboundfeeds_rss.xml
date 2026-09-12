@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 10:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:02:24 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Staked ether should be seen as the benchmark of the decentralized economy]]></title>
+      <link>https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3f541ca1c4a292027ccea331a59077292160ec46-5700x3800.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">39b243fb-8950-44d1-8f77-3586983765ee</guid>
+      <pubDate>Sat, 12 Sep 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[The yield-generating asset has a special place in the digital asset investor’s portfolio, argues GlobalStake’s Ryan Haczynski.]]></description>
+      <dc:creator>Ryan Haczynski</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/opinion"><![CDATA[Opinion]]></category>
+      <category domain="https://www.coindesk.com/">Opinion</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin activity, passports exposed after Revolut falls for fake government request]]></title>
       <link>https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request</link>
@@ -366,21 +379,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
       <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[MoneyGram unveils stablecoin-backed card as digital dollars move into everyday spending]]></title>
-      <link>https://www.coindesk.com/business/2026/09/08/moneygram-unveils-stablecoin-backed-card-as-digital-dollars-move-into-everyday-spending</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d7959f555e24e90cf0a41c4677d90edb55b5cd06-2048x1152.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">8a2dd2d7-8030-4323-a806-fd06f0be4392</guid>
-      <pubDate>Thu, 10 Sep 2026 14:30:00 +0000</pubDate>
-      <description><![CDATA[The remittance giant is rolling out a Visa card that lets customers hold dollars and spend from a stablecoin-backed balance.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="tag"><![CDATA[MoneyGram]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

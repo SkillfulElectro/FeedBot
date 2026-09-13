@@ -3,17 +3,41 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1789292376173" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 09:39:36 +0000</lastBuildDate>
-    <pubDate>Sun, 13 Sep 2026 04:09:24 +0000</pubDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:05:26 +0000</lastBuildDate>
+    <pubDate>Sun, 13 Sep 2026 13:52:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers</title>
+      <link>https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html" rel="standout"></atom:link>
+      <description>President Trump has been at the forefront of the “what-me-worry?” crowd, refusing to engage on how to balance the risks and rewards of A.I.</description>
+      <dc:creator>David E. Sanger and Dustin Volz</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 13:37:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cybersecurity and Infrastructure Security Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coxon, Jacob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/12/multimedia/12dc-AI-paralysis-topart-mqwl/12dc-AI-paralysis-topart-mqwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lucas Foglia for The New York Times</media:credit>
+      <media:description>The OpenAI offices in San Francisco. </media:description>
+    </item>
     <item>
       <title>Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown</title>
       <link>https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html</link>
@@ -23,46 +47,24 @@
       <dc:creator>Mike Isaac</dc:creator>
       <pubDate>Sun, 13 Sep 2026 00:15:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coxon, Jacob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepMind Technologies Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/12/multimedia/12biz-anthropic-01-hwpt/12biz-anthropic-01-hwpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
       <media:description>Dario Amodei, Anthropic’s chief executive, in February. “Over the last few months, I have become convinced that fully addressing the risks requires even more prudence,” he wrote in an essay.</media:description>
-    </item>
-    <item>
-      <title>Inside the Discussions at AI Companies Over a Superintelligence Doomsday</title>
-      <link>https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html" rel="standout"></atom:link>
-      <description>Researchers at Anthropic, OpenAI, Meta and Google are increasingly trying to raise awareness about the risks of artificial intelligence.</description>
-      <dc:creator>Mike Isaac and Kate Conger</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 22:57:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doomsday</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coxon, Jacob</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/12/multimedia/12biz-ai-employees-4-tpbk/12biz-ai-employees-4-tpbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>A demonstration of Anthropic’s Claude Cowork A.I. agent in May. The company’s employees have been talking about the risks of artificial intelligence after a colleague, citing dangers, resigned this week.</media:description>
     </item>
     <item>
       <title>Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda</title>
@@ -83,230 +85,223 @@
       <media:description>Former President Barack Obama speaks during the dedication ceremony for the Obama Presidential Center in June.</media:description>
     </item>
     <item>
-      <title>How Trump Is Wielding Power to Stifle Speech</title>
-      <link>https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html" rel="standout"></atom:link>
-      <description>President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.</description>
-      <dc:creator>Jim Rutenberg and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 21:02:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carr, Brendan Thomas (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ABC Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walt Disney Company</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/10/multimedia/00dc-trump-media-bqck/00dc-trump-media-bqck-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
+      <title>How Iran’s Hard-liners Blew Up the Peace Deal with Trump</title>
+      <link>https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html" rel="standout"></atom:link>
+      <description>Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 09:02:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme National Security Council (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taeb, Hossein</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vahidi, Ahmad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/13/multimedia/13int-iran-escalate-mcjh/13int-iran-escalate-mcjh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>President Masoud Pezeshkian of Iran, next to the honor guard, at the funeral for Ayatollah Ali Khamenei in Tehran in July.</media:description>
     </item>
     <item>
-      <title>Judge Rules Homeland Security Plan to Cut FEMA Staff in Half Is Unlawful</title>
-      <link>https://www.nytimes.com/2026/09/12/us/politics/fema-cuts-homeland-security-trump-judge-rules.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/us/politics/fema-cuts-homeland-security-trump-judge-rules.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/us/politics/fema-cuts-homeland-security-trump-judge-rules.html" rel="standout"></atom:link>
-      <description>The judge said the plan would hinder the agency’s ability to respond to disasters.</description>
-      <dc:creator>Mack Liederman</dc:creator>
-      <pubDate>Sun, 13 Sep 2026 04:06:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Cameron (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Illston, Susan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noem, Kristi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Federation of Government Employees</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/11dc-fema/11dc-fema-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>FEMA headquarters in Washington. A judge on Friday ruled that a Department of Homeland Security plan to reduce staffing at the agency was unlawful.</media:description>
+      <title>Iran Will Meet With Gulf Arab States as Mideast Conflict Widens</title>
+      <link>https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html" rel="standout"></atom:link>
+      <description>Talks are expected tomorrow, officials said. Diplomacy to end the war with the United States has stalled and Iranian-allied forces have advanced in Yemen.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 11:52:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mokha (Yemen)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/13/multimedia/13iran-gulf-meeting-zlhv/13iran-gulf-meeting-zlhv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <media:description>A motorboat passing a cargo ship anchored in the Strait of Hormuz, off Bandar Abbas, Iran, last week.</media:description>
     </item>
     <item>
-      <title>Trump Demands Smithsonian Install ‘Colossus’ George Washington Statue</title>
-      <link>https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/arts/design/trump-smithsonian-washington-statue.html" rel="standout"></atom:link>
-      <description>The president’s latest attack on the National Museum of American History reflects his longstanding desire for “patriotic” history.</description>
-      <dc:creator>Jennifer Schuessler</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 19:32:41 +0000</pubDate>
+      <title>Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career</title>
+      <link>https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html" rel="standout"></atom:link>
+      <description>Mr. Paxton, the Texas attorney general now running for the U.S. Senate, was accused of abusing the power of his office to protect a campaign donor. He was acquitted on all counts.</description>
+      <dc:creator>Beth Reinhard and Lauren McGaughy</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 13:52:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/15/multimedia/13pol-paxton-impeach-qzfb/13pol-paxton-impeach-qzfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
+      <media:description>Attorney General Ken Paxton of Texas at the final day of his 2023 impeachment trial.</media:description>
+    </item>
+    <item>
+      <title>Angie Nixon, Candidate for Senate, Takes Florida by Storm</title>
+      <link>https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/us/politics/angie-nixon-florida-senate.html" rel="standout"></atom:link>
+      <description>The Democratic nominee for Senate faces strong headwinds in a decidedly Republican-leaning state. She has been a fighter, and an underdog, for years.</description>
+      <dc:creator>Patricia Mazzei</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 09:03:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jacksonville (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Angela (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+    </item>
+    <item>
+      <title>For Populist Democrats, a Movement Fueled by Anger at Both Parties</title>
+      <link>https://www.nytimes.com/2026/09/13/us/democrats-populists.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/us/democrats-populists.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/us/democrats-populists.html" rel="standout"></atom:link>
+      <description>A generation shaped by the pandemic and rising prices has helped drive an emergence of Democratic candidates who say they are as fed up as voters are.</description>
+      <dc:creator>Robert Draper</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 09:02:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Populism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiros, Melat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Forstag, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Poindexter, Brian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+    </item>
+    <item>
+      <title>How Candidates Have Addressed Affordability in the Midterm Campaigns</title>
+      <link>https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/us/politics/political-candidates-affordability-midterms.html" rel="standout"></atom:link>
+      <description>Inflation and the cost of living have been the biggest drivers of campaigns this year, but the broad term “affordability” breaks down into specific issues, from housing to health care.</description>
+      <dc:creator>Audra D. S. Burch</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 09:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smithsonian Institution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Museum of American History</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+    </item>
+    <item>
+      <title>How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up</title>
+      <link>https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html" rel="standout"></atom:link>
+      <description>A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas. Did Wim Dijkman really find the bones of the fourth musketeer? We may never know.</description>
+      <dc:creator>Jeanna Smialek</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 11:51:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">d&#39;Artagnan (Charles de Batz de Castelmore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dumas, Alexandre</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Deventer (Netherlands)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maastricht (Netherlands)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/09/multimedia/00int-dartagnan-02-lvwk/00int-dartagnan-02-lvwk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ilvy Njiokiktjien for The New York Times</media:credit>
+      <media:description>The Church of Saint Peter and Paul in Maastricht, where the bones were found.</media:description>
+    </item>
+    <item>
+      <title>The Fix Was Almost In</title>
+      <link>https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html" rel="standout"></atom:link>
+      <description>The midterms dodge their first MAGA bullet. It won’t be the last.</description>
+      <dc:creator>David French</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 10:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supreme Courts (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/13/multimedia/13french-glcq/13french-glcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Liz Rymarev</media:credit>
+      <media:description>Denny Hoskins the Missouri secretary of state.</media:description>
+    </item>
+    <item>
+      <title>This Is Really Bad</title>
+      <link>https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html" rel="standout"></atom:link>
+      <description>We can no longer pretend that A.I. is safe.</description>
+      <dc:creator>Stephen Witt</dc:creator>
+      <pubDate>Fri, 11 Sep 2026 20:51:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">METR (Model Evaluation &amp; Threat Research) (Nonprofit)</category>
+    </item>
+    <item>
+      <title>The College Catwalk</title>
+      <link>https://www.nytimes.com/2026/09/13/briefing/college-fashion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/briefing/college-fashion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/briefing/college-fashion.html" rel="standout"></atom:link>
+      <description>We take a look at what’s cool on campus.</description>
+      <dc:creator>Matt Yan</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 11:16:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+    </item>
+    <item>
+      <title>Did Trump Win the Battle Over the Smithsonian?</title>
+      <link>https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/13/arts/design/did-trump-win-the-battle-over-the-smithsonian.html" rel="standout"></atom:link>
+      <description>Lonnie G. Bunch III, who has led the institution since 2019, parried the White House until deciding it was time to go.</description>
+      <dc:creator>Robin Pogrebin</dc:creator>
+      <pubDate>Sun, 13 Sep 2026 09:03:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Freedom 250 (Nonprofit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smithsonian Institution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bunch, Lonnie G III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, George (1732-99)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/12/multimedia/12cul-trump-smithsonian-lbqk/12cul-trump-smithsonian-lbqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finn Gomez/Getty Images</media:credit>
-      <media:description>In a post on social media, President Trump also called for the Smithsonian’s National Museum of American History to host a five-year exhibition about Washington’s legacy “beginning now.”</media:description>
-    </item>
-    <item>
-      <title>Iran Finds Escalation Is Fruitful Path to Leverage in War With U.S.</title>
-      <link>https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html" rel="standout"></atom:link>
-      <description>Iran and its allies now hold sway over two key oil shipping routes, and Tehran is setting the stage for a diplomatic win that could enhance its stature.</description>
-      <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 18:07:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BRICS Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/13/multimedia/13int-iran-assess-02-kztm/13int-iran-assess-02-kztm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Vessels in the Strait of Hormuz, as seen from Bandar Abbas, Iran, this week.</media:description>
-    </item>
-    <item>
-      <title>Saudi Arabia’s Oil ‘Lifeline’ Was Attacked. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/world/middleeast/saudi-arabia-oil-pipeline-attack.html" rel="standout"></atom:link>
-      <description>A drone attack from Iraq forced Saudi Arabia to close its East-West pipeline, the kingdom said, threatening a key workaround to Iran’s Persian Gulf blockade.</description>
-      <dc:creator>Ismaeel Naar and Aaron Boxerman</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 18:02:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <media:content height="1312" medium="image" url="https://static01.nyt.com/images/2026/09/12/world/12int-saudi-pipeline-explainer-afak/12int-saudi-pipeline-explainer-afak-mediumSquareAt3X.jpg" width="1312"></media:content>
-      <media:credit>2026 Planet Labs Pbc, via Reuters</media:credit>
-      <media:description>Satellite images released by Planet Labs on Saturday showed the East-West pipeline facility in the Hejaz Region of Saudi Arabia on Sept. 8, and again, after sustaining damage, on Sept. 11.</media:description>
-    </item>
-    <item>
-      <title>Republican Campaign Aide Is Fired Over Nazi Photo</title>
-      <link>https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html" rel="standout"></atom:link>
-      <description>Senator Jon Husted, running in a high-stakes race in Ohio, dismissed his political director because of social media activity displaying a “complete lack” of judgment, a spokeswoman said.</description>
-      <dc:creator>Neil Vigdor and Tim Balk</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 18:21:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Husted, Jon A (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/11/multimedia/11pol-husted-aide-gcqt/11pol-husted-aide-gcqt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ruth Fremson/The New York Times</media:credit>
-      <media:description>Senator Jon Husted at the Republican midterm convention on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Republican Groups Rush to Paxton’s Aid in Texas After Staying on Sidelines</title>
-      <link>https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/us/politics/paxton-republican-pac-spending-midterms.html" rel="standout"></atom:link>
-      <description>An organization allied with Senate G.O.P. leaders has booked more than $51 million in ads. Now, Ken Paxton has a financial edge after months of being outspent by his Democratic rival.</description>
-      <dc:creator>Theodore Schleifer</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 14:59:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/12/multimedia/12pol-paxton-money-01-fkbg/12pol-paxton-money-01-fkbg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Shelby Tauber for The New York Times</media:credit>
-      <media:description>Ken Paxton on the second day of the Republican midterm convention in Dallas on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Naomi Klein and Astra Taylor Say the End of the World Is Now on the Table</title>
-      <link>https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/magazine/naomi-klein-astra-taylor-interview.html" rel="standout"></atom:link>
-      <description>In a new book, the writers argue that a powerful coalition of “end times fascists” is just fine with the earth’s demise.</description>
-      <dc:creator>David Marchese</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 09:15:06 +0000</pubDate>
-      <category domain="">climateissue2026</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andreessen, Marc L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klein, Naomi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sacks, David O</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Astra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thiel, Peter A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zionism</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/20/magazine/20mag-interview-klein-taylor/20mag-interview-klein-taylor-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Philip Montgomery for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>The Truth About Brain Rot: It’s a Cry for Help</title>
-      <link>https://www.nytimes.com/2026/09/08/opinion/gen-z-tiktok-ig-reels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/08/opinion/gen-z-tiktok-ig-reels.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/08/opinion/gen-z-tiktok-ig-reels.html" rel="standout"></atom:link>
-      <description>Maybe consuming meaningless content is the only way to be free online.</description>
-      <dc:creator>Maxi Heitmayer</dc:creator>
-      <pubDate>Wed, 09 Sep 2026 15:09:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-    </item>
-    <item>
-      <title>Moldova Has to Choose Between Russia and Europe</title>
-      <link>https://www.nytimes.com/2026/09/12/opinion/moldova-russia-european-union.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/opinion/moldova-russia-european-union.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/opinion/moldova-russia-european-union.html" rel="standout"></atom:link>
-      <description>Moldova is a fault line in a new geopolitical reality.</description>
-      <dc:creator>Frankie Mills</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 17:03:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moldova</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandu, Maia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Party of Action and Solidarity (Moldova)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gagauzia (Moldova)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Transnistria (Moldova)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-    </item>
-    <item>
-      <title>How Client Advocates Are Helping Overworked Public Defenders</title>
-      <link>https://www.nytimes.com/2026/09/12/headway/can-a-teach-for-america-model-save-public-defense.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/headway/can-a-teach-for-america-model-save-public-defense.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/headway/can-a-teach-for-america-model-save-public-defense.html" rel="standout"></atom:link>
-      <description>Public defenders are overworked and underpaid. A growing corps of client advocates is helping defendants in communities across the U.S.</description>
-      <dc:creator>Issie Lapowsky</dc:creator>
-      <pubDate>Sat, 12 Sep 2026 09:00:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Defenders and Court-Appointed Lawyers (Criminal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Aid for the Poor (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Partners for Justice (Nonprofit)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware County (Pa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-phil</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/00hw-partners-for-justice-01-jvpw/00hw-partners-for-justice-01-jvpw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rachel Wisniewski for The New York Times</media:credit>
-      <media:description>Melissa Simon, left, and Peter Brown, center, Partners for Justice client advocates, lead a training session at the Delaware County Public Defenders Office in Media, Pa.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/13/multimedia/13cul-smithsonian-winner-zqkt/13cul-smithsonian-winner-zqkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carolyn Kaster/Associated Press</media:credit>
+      <media:description>Mr. Bunch was named the secretary of the Smithsonian in 2019, during Mr. Trump’s first term.</media:description>
     </item>
   </channel>
 </rss>

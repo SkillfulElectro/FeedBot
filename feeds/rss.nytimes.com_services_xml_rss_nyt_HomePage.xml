@@ -3,17 +3,66 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1789431990299" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 00:26:30 +0000</lastBuildDate>
-    <pubDate>Tue, 15 Sep 2026 00:26:19 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:11:39 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Sep 2026 05:09:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots</title>
+      <link>https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html" rel="standout"></atom:link>
+      <description>The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.</description>
+      <dc:creator>Abbie VanSickle</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 04:25:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/09/multimedia/00dc-scotus-ballots-gqkf/00dc-scotus-ballots-gqkf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mike Kai Chen for The New York Times</media:credit>
+      <media:description>A resident drops off her mail ballot in Livermore, Calif., last month.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Effort to Assert Control Over Elections Continues Despite Supreme Court Loss</title>
+      <link>https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html" rel="standout"></atom:link>
+      <description>President Trump has launched a broad, governmentwide effort to take more control of state-run elections and sow doubt about the outcome.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 01:16:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14trump-scotus-qkcl/14trump-scotus-qkcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rebecca Noble for The New York Times</media:credit>
+      <media:description>Mail ballots await their mailing date in Phoenix in 2022.</media:description>
+    </item>
     <item>
       <title>Trump Administration Moves to Integrate A.I. Into Medical Care Despite Concerns</title>
       <link>https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html</link>
@@ -127,16 +176,84 @@
       <media:description>The president’s eldest son, Donald Trump Jr., accepted the gifts from Umar Kremlev, the president of the International Boxing Association, according to people with knowledge of the matter.</media:description>
     </item>
     <item>
-      <title>Trump Rejects Calls for an A.I. Slowdown</title>
-      <link>https://www.nytimes.com/2026/09/14/briefing/trump-ai-slowdown-epa-pollution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/briefing/trump-ai-slowdown-epa-pollution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/briefing/trump-ai-slowdown-epa-pollution.html" rel="standout"></atom:link>
-      <description>Also, the E.P.A. erases limits on climate pollution from power plants. Here’s the latest at the end of Monday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 21:56:41 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14evening-nl-trump-ai-tgkv/14evening-nl-trump-ai-tgkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pete Marovich for The New York Times</media:credit>
-      <media:description>Jensen Huang at the White House in April.</media:description>
+      <title>Architects of Japan’s Easy-Money Policies Are Changing Their Minds</title>
+      <link>https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html" rel="standout"></atom:link>
+      <description>As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.</description>
+      <dc:creator>River Akira Davis and Hisako Ueno</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 04:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yen (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/15/multimedia/15Biz-Japan-Economy-01-bljz/15Biz-Japan-Economy-01-bljz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Caballero-Reynolds/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A wholesale market in Tokyo. For most of the past four years, inflation has remained above the Bank of Japan’s 2 percent target.</media:description>
+    </item>
+    <item>
+      <title>‘Widow’s Bay’ Dominates, and 7 Other Takeaways From the 2026 Emmys</title>
+      <link>https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html" rel="standout"></atom:link>
+      <description>The Apple TV horror-comedy about a haunted island took home 14 Emmys, including the awards for best comedy, lead actor, writing, directing and supporting actor and actress.</description>
+      <dc:creator>John Koblin</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 03:22:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emmy Awards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple TV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Box Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colbert, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Field, Sally</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fox, Michael J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hargitay, Mariska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Janney, Allison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhys, Matthew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Seehorn, Rhea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smart, Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wyle, Noah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEntire, Reba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Widow&#39;s Bay (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hacks (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Pitt (TV Program)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14emmy-awards-takeaways-hpml/14emmy-awards-takeaways-hpml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mario Anzuoni/Reuters</media:credit>
+      <media:description>Katie Dippold and the cast and crew of “Widow’s Bay” accepting the Emmy Award for Outstanding Comedy Series on Monday night.</media:description>
+    </item>
+    <item>
+      <title>Have Thoughts on the Emmy’s Red Carpet? Join Our Readers in the Comments.</title>
+      <link>https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-reader-comments.html" rel="standout"></atom:link>
+      <description>Television’s biggest stars have walked the carpet. Now that you’ve seen what everyone is wearing and voted for your favorite looks, we invite you to comment on a few of the styles.</description>
+      <dc:creator>The Styles Desk</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 02:27:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
+    </item>
+    <item>
+      <title>Emmy Winners 2026: See the Full List</title>
+      <link>https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html" rel="standout"></atom:link>
+      <description>Here are the winners from the 78th Emmy Awards.</description>
+      <dc:creator>Shivani Gonzalez</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 04:06:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emmy Awards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14cul-emmy-winners-list-COMEDY-02-hgfm/14cul-emmy-winners-list-COMEDY-02-hgfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mario Anzuoni/Reuters</media:credit>
+      <media:description>Katie Dippold accepted the best comedy Emmy on Monday night for her hit Apple TV show “Widow’s Bay,” which won 14 statuettes this year, more than any other series.</media:description>
     </item>
     <item>
       <title>Mitch McConnell Returns to Senate After Three Month Absence</title>
@@ -206,43 +323,34 @@
       <dc:creator>Nick Corasaniti and Hamed Aleaziz</dc:creator>
       <pubDate>Mon, 14 Sep 2026 19:52:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whistle-Blowers</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14pol-dhs-whistleblower-jpzm/14pol-dhs-whistleblower-jpzm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Matt Gade/Associated Press</media:credit>
       <media:description>New citizens registered to vote following a naturalization ceremony at Mount Rushmore in South Dakota last year.</media:description>
     </item>
     <item>
-      <title>Emmys Red Carpet Photos: Mariska Hargitay, Noah Wyle and More Stars</title>
-      <link>https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-photos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-photos.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-photos.html" rel="standout"></atom:link>
-      <description>Stars are arriving at the 78th Emmy Awards in Los Angeles. See what they’re wearing to celebrate TV’s biggest night.</description>
-      <dc:creator>The Styles Desk</dc:creator>
-      <pubDate>Tue, 15 Sep 2026 00:03:32 +0000</pubDate>
-      <media:content height="1408" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14ST-EMMYS-RED-CARPET-topper-mbkt/14ST-EMMYS-RED-CARPET-topper-mbkt-mediumSquareAt3X.jpg" width="1409"></media:content>
-      <media:credit>Monica Schipper/Getty Images</media:credit>
-      <media:description>Zendaya, nominated for best actress in a drama for “Euphoria.”</media:description>
-    </item>
-    <item>
-      <title>Emmy Winners 2026: See the Updating List</title>
-      <link>https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html" rel="standout"></atom:link>
-      <description>The list of winners for the 78th Emmy Awards.</description>
-      <dc:creator>Shivani Gonzalez</dc:creator>
-      <pubDate>Tue, 15 Sep 2026 00:26:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emmy Awards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14cul-emmy-winners-list-Smart-02-fkzg/14cul-emmy-winners-list-Smart-02-fkzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kevin Winter/Getty Images</media:credit>
-      <media:description>Jean Smart won for her performance in the final season of the Emmys darling “Hacks.” She has won the lead actress Emmy for each of the four previous seasons of the HBO Max comedy.</media:description>
+      <title>An Heir to a Thai Beer Empire Accused His Brother of Sexual Abuse. Then He Took on His Family.</title>
+      <link>https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html" rel="standout"></atom:link>
+      <description>Siranudh Scott, an heir to Thailand’s Singha beer empire, has prompted a rare public reckoning about a topic considered taboo.</description>
+      <dc:creator>Sui-Lee Wee</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 04:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boon Rawd Brewery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/00int-thailand-heir-01-gvml/00int-thailand-heir-01-gvml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lauren DeCicca for The New York Times</media:credit>
+      <media:description> Siranudh Scott at home in Bangkok.</media:description>
     </item>
     <item>
       <title>Immigrants’ Lawyers Say U.S. Is Redacting Documents Proving Legal Status</title>
@@ -288,54 +396,21 @@
       <media:description>A Haitian immigrant who works at a supermarket in Key West leaves home less often since losing Temporary Protected Status in July. </media:description>
     </item>
     <item>
-      <title>Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher</title>
-      <link>https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html" rel="standout"></atom:link>
-      <description>The Treasury secretary had dared “Bloomberg terminal bros” to bet against him and they did.</description>
-      <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 16:49:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14dc-bessent-tenyear-2-lqbg/14dc-bessent-tenyear-2-lqbg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>In an interview last week, Treasury Secretary Scott Bessent insisted that “Bloomberg terminal bros” are misguided about the state of the Iran war.</media:description>
-    </item>
-    <item>
-      <title>What Is Driving Diesel Prices Up? Energy Chaos Caused by Two Wars.</title>
-      <link>https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/business/energy-environment/trump-diesel-russia-ukraine-iran.html" rel="standout"></atom:link>
-      <description>President Trump recently blamed Ukrainian attacks on Russian refineries for causing a spike in diesel prices, but analysts say the Iran war is probably a bigger factor.</description>
-      <dc:creator>Lauren McCarthy</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 19:58:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
+      <title>Judge Blocks Trump Rule Aimed at International Students and Journalists</title>
+      <link>https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/14/us/politics/foreign-students-visas-trump-ruling.html" rel="standout"></atom:link>
+      <description>Judge F. Dennis Saylor IV wrote that the administration’s reasons for a rule limiting the length of stay for academics and journalists were “exceptionally weak.”</description>
+      <dc:creator>Chris Cameron</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 01:31:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saylor, F Dennis IV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refineries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14biz-russia-diesel-1-vptk/14biz-russia-diesel-1-vptk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jeff Chiu/Associated Press</media:credit>
-      <media:description>Diesel prices in the United States are up about 65 percent since Feb. 28, when the U.S.-Israel attacks on Iran began.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14dc-immig-visa-1-cjwt/14dc-immig-visa-1-cjwt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lucy Lu for The New York Times</media:credit>
+      <media:description>A rally in support of international students at Harvard University last year. The Trump administration rule would have shortened the length of visas for international students, academics and foreign journalists.</media:description>
     </item>
     <item>
       <title>Bob Mackie, Cher and the Ultimate Revenge Dress</title>
@@ -344,7 +419,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/14/style/bob-mackie-cher-tina-turner.html" rel="standout"></atom:link>
       <description>The designer’s bedazzling, feathered creations made waves onstage, including at the Oscars in 1986.</description>
       <dc:creator>Jacob Bernstein</dc:creator>
-      <pubDate>Tue, 15 Sep 2026 00:06:12 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 05:09:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cher (1946- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackie, Bob</category>
@@ -362,7 +437,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/14/style/bob-mackie-dead.html" rel="standout"></atom:link>
       <description>His sequined gowns and outrageous costumes threw clouds of glitter at American fashion for over half a century.</description>
       <dc:creator>Penelope Green</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 22:06:24 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 22:06:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackie, Bob</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
@@ -401,68 +476,23 @@
       <media:credit>Celeste Sloman for The New York Times</media:credit>
     </item>
     <item>
-      <title>‘I Have a Lot to Say’: Brain Implant Helps a Disabled Patient Speak</title>
-      <link>https://www.nytimes.com/2026/09/14/well/brain-implant-helps-woman-communicate-in-real-time.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/well/brain-implant-helps-woman-communicate-in-real-time.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/well/brain-implant-helps-woman-communicate-in-real-time.html" rel="standout"></atom:link>
-      <description>In the latest advance in brain-computer interfaces, a company said its wireless device enabled speech even when a patient just imagined saying words.</description>
-      <dc:creator>Pam Belluck</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 17:41:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Implants</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/well/14WELL-BCI-Photos-04/14WELL-BCI-Photos-04-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>University of Michigan and Paradromics</media:credit>
-      <media:description>A woman with a paralyzing disease used a brain implant to converse in real time, even while simply imagining the words, the device company reported.</media:description>
-    </item>
-    <item>
-      <title>Taryn Simon’s Giant Exhibition at the Guggenheim Tells the Story of America</title>
-      <link>https://www.nytimes.com/2026/09/14/magazine/taryn-simon-guggenheim-exhibition.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/magazine/taryn-simon-guggenheim-exhibition.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/magazine/taryn-simon-guggenheim-exhibition.html" rel="standout"></atom:link>
-      <description>Taryn Simon’s new show at the Guggenheim Museum is an audacious attempt to document the story of modern America through the life of one F.B.I. agent.</description>
-      <dc:creator>Sasha Weiss</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 17:43:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simon, Taryn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guggenheim, Solomon R, Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
-      <media:content height="1797" medium="image" url="https://static01.nyt.com/images/2026/09/27/magazine/27Mag-Simon-02/27Mag-Simon-02-mediumSquareAt3X-v3.jpg" width="1797"></media:content>
-      <media:credit>Stephen Shore for The New York Times</media:credit>
-      <media:description>Simon during the installation of her Guggenheim show. “You feel it on some cellular level,” she says of the huge effort behind her photographic projects. “All these little steps. This is what makes it of value.”</media:description>
-    </item>
-    <item>
-      <title>Risks for Clicks: Why Online Influencers Push Shock Content</title>
-      <link>https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/12/us/influencers-social-media-algorithm.html" rel="standout"></atom:link>
-      <description>A growing number of social media creators are pushing the boundaries of safety and good taste to feed algorithms and win followers.</description>
-      <dc:creator>Mark Walker</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 17:25:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Violence (Media and Entertainment)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Speech</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indecency, Obscenity and Profanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kick.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eatherly, Dalton (Chud the Builder)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jacob, Trevor (1993- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clarksville (Tenn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Loudoun County (Va)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <title>Europe Doesn’t Know What It Is</title>
+      <link>https://www.nytimes.com/2026/09/15/opinion/europe-immigration-ceuta-far-right.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/15/opinion/europe-immigration-ceuta-far-right.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/15/opinion/europe-immigration-ceuta-far-right.html" rel="standout"></atom:link>
+      <description>Immigration has become a prism through which all the continent’s ills are viewed.</description>
+      <dc:creator>Anton Jäger</dc:creator>
+      <pubDate>Tue, 15 Sep 2026 05:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilders, Geert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saxony-Anhalt (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
     </item>
     <item>
       <title>They Could Afford to Stand Up to Trump. Why Didn’t They?</title>
@@ -471,7 +501,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/14/opinion/institutions-power-trump.html" rel="standout"></atom:link>
       <description>The more the logic of capitalism pervades the rest of life, the less room there is for compassion, honor or heroism.</description>
       <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Tue, 15 Sep 2026 00:03:37 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 00:31:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Profiles in Cowardice: A Study of Collaboration in the Trump Era (Book)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karp, Brad S</category>
@@ -490,19 +520,18 @@
       <media:credit>Sam Gulliver for The New York Times</media:credit>
     </item>
     <item>
-      <title>Steve Kolb, Head of C.F.D.A., Placed on Leave After PETA Protester Confrontation</title>
-      <link>https://www.nytimes.com/2026/09/14/style/steve-kolb-cfda-leave.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/style/steve-kolb-cfda-leave.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/14/style/steve-kolb-cfda-leave.html" rel="standout"></atom:link>
-      <description>The Council of Fashion Designers of America said its chief executive, Steve Kolb, would be placed on leave “pending a full review” of an incident at the Cos fashion show.</description>
-      <dc:creator>Jacob Bernstein and Vanessa Friedman</dc:creator>
-      <pubDate>Mon, 14 Sep 2026 23:08:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Council of Fashion Designers of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kolb, Steven</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/KOLB-HFO-gjcw/KOLB-HFO-gjcw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Charly Triballeau/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Steve Kolb, the head of the Council of Fashion Designers of America, drew widespread attention when he tangled with protesters at a runway show during New York Fashion Week.</media:description>
+      <title>A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco</title>
+      <link>https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html" rel="standout"></atom:link>
+      <description>City officials — and one determined mother — are working to stop the spread of cychlorphine, which is far more potent than fentanyl.</description>
+      <dc:creator>Heather Knight</dc:creator>
+      <pubDate>Mon, 14 Sep 2026 21:59:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fentanyl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
     </item>
   </channel>
 </rss>

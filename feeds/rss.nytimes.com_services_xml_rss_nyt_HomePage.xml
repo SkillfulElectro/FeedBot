@@ -3,17 +3,55 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?Ho=brY4DWgq" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 03:44:18 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 03:24:57 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:02:56 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Sep 2026 08:54:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico</title>
+      <link>https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html" rel="standout"></atom:link>
+      <description>Judge Timothy J. Kelly issued a temporary restraining order and told the White House to immediately restore the press credentials for the employees of the three news outlets.</description>
+      <dc:creator>Erik Wemple</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 08:13:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MS NOW</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politico, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-media-ban-ruling-hfo-hclw/23biz-media-ban-ruling-hfo-hclw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>CNN, MS Now and Politico had sued the administration after they were banned from the White House.</media:description>
+    </item>
+    <item>
+      <title>Iowa Judge Dismisses Trump’s Lawsuit Against The Des Moines Register</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html" rel="standout"></atom:link>
+      <description>The suit challenged a poll that showed Trump trailing Kamala Harris in the final weeks of the 2024 race. A judge warned that similar legal challenges could have a chilling effect on news reporting.</description>
+      <dc:creator>Ishani Desai</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 02:07:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Selzer, Ann (1956- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/23xp-selzer-mqkb/23xp-selzer-mqkb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chip Somodevilla/Getty Images</media:credit>
+      <media:description>A poll published by The Des Moines Register in 2024 showed Donald J. Trump trailing Kamala Harris in Iowa. Mr. Trump went on to win the state by double digits.</media:description>
+    </item>
     <item>
       <title>As Xi Visits Washington, Trump Plays Down China’s Actions Against U.S. Interests</title>
       <link>https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html</link>
@@ -38,7 +76,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html" rel="standout"></atom:link>
       <description>The Treasury secretary, who is leading talks with China, said the countries had agreed to extend a trade truce until January.</description>
       <dc:creator>Ana Swanson and Keith Bradsher</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 01:32:50 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 08:25:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
@@ -69,16 +107,44 @@
       <media:credit>Arfa Momin/The New York Times</media:credit>
     </item>
     <item>
-      <title>At the U.N., Iran Says It Will Not Give Up Its Nuclear Program</title>
-      <link>https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/briefing/at-the-un-iran-says-it-will-not-give-up-its-nuclear-program.html" rel="standout"></atom:link>
-      <description>Also, hackers say they stole thousands of sensitive F.B.I. records. Here’s the latest at the end of Wednesday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 21:57:16 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/23evening-nl-iran/23evening-nl-iran-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>President Masoud Pezeshkian at the U.N. General Assembly today.</media:description>
+      <title>Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html" rel="standout"></atom:link>
+      <description>Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 03:24:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/22/multimedia/00pol-peltola-conflict-top-zqvc/00pol-peltola-conflict-top-zqvc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kerry Tasker/Reuters</media:credit>
+      <media:description>Former Representative Mary Peltola of Alaska is facing Senator Dan Sullivan, a Republican, in a competitive race that could be crucial for Senate control. </media:description>
+    </item>
+    <item>
+      <title>Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html" rel="standout"></atom:link>
+      <description>Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority.</description>
+      <dc:creator>Theodore Schleifer</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 01:42:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mellon, Timothy (1942- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thune, John R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/us/23pol-timothy-mellon/23pol-timothy-mellon-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Timothy Mellon, seen here in 1981, is a reclusive Wyoming billionaire who is a grandson of the Gilded Age industrialist Andrew Mellon.</media:description>
     </item>
     <item>
       <title>Trump Invites Putin to Attend Group of 20 Summit in Miami</title>
@@ -123,82 +189,26 @@
       <media:description>Secretary of State Marco Rubio speaks to the media in New York Wednesday. He said that as part of any negotiations Iran’s control of the Strait of Hormuz must be addressed.</media:description>
     </item>
     <item>
-      <title>Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html" rel="standout"></atom:link>
-      <description>Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos.</description>
-      <dc:creator>Kellen Browning</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 03:24:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/22/multimedia/00pol-peltola-conflict-top-zqvc/00pol-peltola-conflict-top-zqvc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kerry Tasker/Reuters</media:credit>
-      <media:description>Former Representative Mary Peltola of Alaska is facing Senator Dan Sullivan, a Republican, in a competitive race that could be crucial for Senate control. </media:description>
-    </item>
-    <item>
-      <title>Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html" rel="standout"></atom:link>
-      <description>Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority.</description>
-      <dc:creator>Theodore Schleifer</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 01:42:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mellon, Timothy (1942- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thune, John R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/us/23pol-timothy-mellon/23pol-timothy-mellon-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Associated Press</media:credit>
-      <media:description>Timothy Mellon, seen here in 1981, is a reclusive Wyoming billionaire who is a grandson of the Gilded Age industrialist Andrew Mellon.</media:description>
-    </item>
-    <item>
-      <title>Judge Holds Off on Immediate Ruling on White House’s Media Ban</title>
-      <link>https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-ban-ruling.html" rel="standout"></atom:link>
-      <description>Judge Timothy J. Kelly heard arguments about President Trump’s recent decision to bar CNN, MS NOW and Politico from the White House grounds. He said he would issue a decision about it “as soon as possible.”</description>
-      <dc:creator>Erik Wemple</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 00:27:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MS NOW</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politico, The</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/23biz-media-ban-ruling-hfo-hclw/23biz-media-ban-ruling-hfo-hclw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Judge Timothy J. Kelly handled a similar case in November 2018, when President Trump, in his first term, expelled CNN’s Jim Acosta from the White House complex.</media:description>
-    </item>
-    <item>
-      <title>Iowa Judge Dismisses Trump’s Lawsuit Against The Des Moines Register</title>
-      <link>https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html" rel="standout"></atom:link>
-      <description>The suit challenged a poll that showed Trump trailing Kamala Harris in the final weeks of the 2024 race. A judge warned that similar legal challenges could have a chilling effect on news reporting.</description>
-      <dc:creator>Ishani Desai</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 02:07:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Selzer, Ann (1956- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/23xp-selzer-mqkb/23xp-selzer-mqkb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chip Somodevilla/Getty Images</media:credit>
-      <media:description>A poll published by The Des Moines Register in 2024 showed Donald J. Trump trailing Kamala Harris in Iowa. Mr. Trump went on to win the state by double digits.</media:description>
+      <title>From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations</title>
+      <link>https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html" rel="standout"></atom:link>
+      <description>Balendra Shah, 36, comes to the U.N. as a sun-glassed symbol of Gen Z political power. But concerns about his style are growing at home after devastating floods left thousands dead or missing.</description>
+      <dc:creator>Hannah Beech</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 04:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shah, Balendra (Balen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24int-nepal-unga-ghfc/24int-nepal-unga-ghfc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hannah Reyes Morales for The New York Times</media:credit>
+      <media:description>Balendra Shah, the former mayor of Kathmandu, during his campaign to become the next prime minister of Nepal, in February.</media:description>
     </item>
     <item>
       <title>Mark Carney Interview: Canada’s Leader Lays Out Vision for Breaking Reliance on U.S.</title>
@@ -285,13 +295,13 @@
       <media:description>OpenAI’s offices in San Francisco. At least four times this year, the company’s artificial intelligence hacked or tried to break into government and university websites without being instructed to do so.</media:description>
     </item>
     <item>
-      <title>Australia Says OpenAI ‘Infiltrated’ Public Health Care Portal</title>
-      <link>https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/world/asia/australia-openai-agent-infiltration.html" rel="standout"></atom:link>
+      <title>Australia Investigates OpenAI Hack on Public Health Care Site</title>
+      <link>https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html" rel="standout"></atom:link>
       <description>Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.</description>
       <dc:creator>Victoria Kim</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 02:42:32 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 05:32:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
@@ -304,25 +314,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24int-oz-aihack-tvcg/24int-oz-aihack-tvcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hollie Adams/Reuters</media:credit>
       <media:description>Australian ministers at a news conference in Sydney on Thursday after it was revealed an A.I. agent developed by OpenAI had infiltrated a government website in June.</media:description>
-    </item>
-    <item>
-      <title>He Changed the World of Organ Transplants. Would He Die Waiting for His Own?</title>
-      <link>https://www.nytimes.com/2026/09/23/well/heart-transplant-surgeon-pig-kidney.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/well/heart-transplant-surgeon-pig-kidney.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/well/heart-transplant-surgeon-pig-kidney.html" rel="standout"></atom:link>
-      <description>A New York transplant surgeon’s experience waiting for a heart transplant laid bare the challenges of a system he had spent decades trying to fix.</description>
-      <dc:creator>Roni Caryn Rabin</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 21:41:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organ Donation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University Langone Health</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/00WELL-TRANSPLANT-DOC-14-fkgz/00WELL-TRANSPLANT-DOC-14-fkgz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
     </item>
     <item>
       <title>A Powerful Nor’easter Is Taking Shape. How It Could Affect Your Forecast.</title>
@@ -368,48 +359,61 @@
       <media:description>First Lady Melania Trump spoke at her “Fostering the Future” event at the White House in August.</media:description>
     </item>
     <item>
-      <title>How Trump’s Iran War May Sink Republican Midterm Chances</title>
-      <link>https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html" rel="standout"></atom:link>
-      <description>The president might be supercharging what already looked like a blue wave.</description>
-      <dc:creator>David Wallace-Wells</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 19:55:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <title>The U.S. and China Are Far Apart on A.I. Safety</title>
+      <link>https://www.nytimes.com/2026/09/24/opinion/us-china-summit-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/opinion/us-china-summit-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/opinion/us-china-summit-ai.html" rel="standout"></atom:link>
+      <description>Beijing and Washington may use the same language of A.I. safety, but they are trying to protect very different things.</description>
+      <dc:creator>John Garnaut</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 05:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepMind Technologies Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/opinion/24garnaut-2/24garnaut-2-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times</media:credit>
     </item>
     <item>
-      <title>Jensen Huang Thinks A.I. Alarmism Has Gone Too Far</title>
-      <link>https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/23/opinion/ezra-klein-podcast-jensen-huang.html" rel="standout"></atom:link>
-      <description>Jensen Huang, the chief executive of Nvidia, does not want you to be afraid of A.I.</description>
-      <dc:creator>Ezra Klein and Rollin Hu</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 22:47:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/09/23/opinion/23eks-huang-image-01/23eks-huang-image-01-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>The Ezra Klein Show</media:credit>
+      <title>Our Forests Are Demanding a Sacrifice</title>
+      <link>https://www.nytimes.com/2026/09/23/opinion/wildfires-trees-scientific-animism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/opinion/wildfires-trees-scientific-animism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/23/opinion/wildfires-trees-scientific-animism.html" rel="standout"></atom:link>
+      <description>Wildfire converted me from a tree-hugger to a tree-worshipper.</description>
+      <dc:creator>Robert Moor</dc:creator>
+      <pubDate>Wed, 23 Sep 2026 20:51:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+    </item>
+    <item>
+      <title>Desi Lydic Doesn’t Think We Need Any More ‘Melania’</title>
+      <link>https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/arts/television/desi-lydic-doesnt-think-we-need-any-more-melania.html" rel="standout"></atom:link>
+      <description>“Another Melania documentary?” Lydic said. “Melania, I love you, but unless you’re living with Nathan Fielder in this thing, no one is asking for this.”</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 06:35:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gutfeld, Greg</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily Show with Jon Stewart (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lydic, Desi (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyers, Seth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
     </item>
     <item>
       <title>Hayden Panettiere Was Found Surrounded by Drugs, Report Details</title>
@@ -418,7 +422,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/23/arts/television/hayden-panettiere-death-cause-fentanyl-overdose.html" rel="standout"></atom:link>
       <description>The actress had completed a stint in rehab before she died last month from an overdose, the coroner’s office said. Her death was ruled an accident.</description>
       <dc:creator>Derrick Bryson Taylor</dc:creator>
-      <pubDate>Wed, 23 Sep 2026 20:23:38 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 06:57:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>

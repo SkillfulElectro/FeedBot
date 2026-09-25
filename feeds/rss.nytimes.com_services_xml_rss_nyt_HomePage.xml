@@ -3,17 +3,54 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1790296754034" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 22:01:14 +0000</lastBuildDate>
-    <pubDate>Thu, 24 Sep 2026 21:55:10 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:39:14 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 00:23:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>As Trump Hosts State Dinner Honoring Xi, See the Menu</title>
+      <link>https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html" rel="standout"></atom:link>
+      <description>The White House said that the three-course menu, including sea bass and bok choy, featured American ingredients with a “subtle Chinese influence.”</description>
+      <dc:creator>Leo Sands</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 19:43:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24trump-xi-menu-topart-jmkf/24trump-xi-menu-topart-jmkf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump is hosting a state dinner for President Xi Jinping of China on Thursday evening.</media:description>
+    </item>
+    <item>
+      <title>Trump Struggles to Find Leverage With Xi Over Chinese Exports</title>
+      <link>https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html" rel="standout"></atom:link>
+      <description>The Trump administration, like its predecessors, has struggled to deal with China’s excess industrial capacity.</description>
+      <dc:creator>Alan Rappeport and Ana Swanson</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 17:34:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-overcapacity-kcbp/24dc-overcapacity-kcbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump and China’s leader, Xi Jinping, are meeting this week in Washington.</media:description>
+    </item>
     <item>
       <title>White House Restores Access for CNN, MS NOW and Politico</title>
       <link>https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html</link>
@@ -21,7 +58,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html" rel="standout"></atom:link>
       <description>A judge ordered President Trump to reverse his ban on three media outlets, but it took several hours for them to get back in. The White House TV pool remains suspended.</description>
       <dc:creator>Michael M. Grynbaum</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 20:45:57 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 23:07:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
@@ -81,41 +118,16 @@
       <media:description>Judge Timothy J. Kelly on Thursday ordered the Trump administration to restore White House access to journalists from CNN, MS NOW and Politico.</media:description>
     </item>
     <item>
-      <title>As Trump Hosts State Dinner Honoring Xi, See the Menu</title>
-      <link>https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html" rel="standout"></atom:link>
-      <description>The White House said that the three-course menu, including sea bass and bok choy, featured American ingredients with a “subtle Chinese influence.”</description>
-      <dc:creator>Leo Sands</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 19:43:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24trump-xi-menu-topart-jmkf/24trump-xi-menu-topart-jmkf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump is hosting a state dinner for President Xi Jinping of China on Thursday evening.</media:description>
-    </item>
-    <item>
-      <title>Trump Struggles to Find Leverage With Xi Over Chinese Exports</title>
-      <link>https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html" rel="standout"></atom:link>
-      <description>The Trump administration, like its predecessors, has struggled to deal with China’s excess industrial capacity.</description>
-      <dc:creator>Alan Rappeport and Ana Swanson</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 17:34:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-overcapacity-kcbp/24dc-overcapacity-kcbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump and China’s leader, Xi Jinping, are meeting this week in Washington.</media:description>
+      <title>Trump Hosts China’s Leader for a State Visit</title>
+      <link>https://www.nytimes.com/2026/09/24/briefing/trump-xi-state-visit-mortgage-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/briefing/trump-xi-state-visit-mortgage-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/briefing/trump-xi-state-visit-mortgage-rates.html" rel="standout"></atom:link>
+      <description>Also, mortgage rates hit 7 percent. Here’s the latest at the end of Thursday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 21:36:19 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/24evening-nl-top/25int-theworld-xi-hvmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>The official welcome at the White House today. </media:description>
     </item>
     <item>
       <title>Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech</title>
@@ -140,35 +152,27 @@
       <media:description>Prime Minister Benjamin Netanyahu of Israel took aim at Mayor Zohran Mamdani of New York during his address to the United Nations General Assembly on Thursday.</media:description>
     </item>
     <item>
-      <title>Abbas Presses Case for Palestinian State in Taped General Assembly Address</title>
-      <link>https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/world/middleeast/abbas-general-assembly-palestinians.html" rel="standout"></atom:link>
-      <description>The Palestinian leader renewed his call for a two-state solution on Thursday, as he accused Israel of prosecuting “a genocidal war” against Palestinians.</description>
-      <dc:creator>Farnaz Fassihi and Zane Irwin</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 19:33:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board of Peace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <title>About 100 Are Arrested in Protests Against Netanyahu</title>
+      <link>https://www.nytimes.com/2026/09/24/nyregion/un-protest-netanyahu-israel-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/nyregion/un-protest-netanyahu-israel-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/nyregion/un-protest-netanyahu-israel-gaza.html" rel="standout"></atom:link>
+      <description>Large groups gathered in Midtown Manhattan to demonstrate as the Israeli prime minister spoke to the General Assembly.</description>
+      <dc:creator>Liam Stack, Miles G. Cohen and Sean Piccoli</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 00:03:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/world/middleeast/24vid-abbas-unga-cover-image/24vid-abbas-unga-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Caitlin Ochs/Reuters</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jewish Voice for Peace Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24met-unga-protest-flgq/24met-unga-protest-flgq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban for The New York Times</media:credit>
+      <media:description>Protesters near the United Nations headquarters on Thursday.</media:description>
     </item>
     <item>
       <title>Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market</title>
@@ -177,7 +181,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html" rel="standout"></atom:link>
       <description>The average rate on a 30-year mortgage in the United States jumped to 7.03 percent, putting pressure on housing affordability.</description>
       <dc:creator>Gregory Schmidt</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 16:36:50 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 22:52:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
@@ -188,21 +192,24 @@
       <media:credit>Jillian Vordick/The New York Times</media:credit>
     </item>
     <item>
-      <title>Bond Markets Are Volatile and Oil Prices Rise</title>
-      <link>https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html" rel="standout"></atom:link>
-      <description>The rise came a day after a sharp sell-off in government debt.</description>
-      <dc:creator>Joe Rennison and Veronica Majerol</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 20:06:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24biz-osg-promo-pic2-ghvp/24biz-osg-promo-pic2-ghvp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
+      <title>Dale Caldwell, New Jersey’s Lt. Governor, Violated Workplace Policies, Report Finds</title>
+      <link>https://www.nytimes.com/2026/09/24/nyregion/dale-caldwell-ethics-report-new-jersey-mikie-sherrill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/nyregion/dale-caldwell-ethics-report-new-jersey-mikie-sherrill.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/nyregion/dale-caldwell-ethics-report-new-jersey-mikie-sherrill.html" rel="standout"></atom:link>
+      <description>Investigators found that New Jersey’s lieutenant governor, Dale Caldwell, sought a promotion for his girlfriend and made a sexually charged comment to a staff member.</description>
+      <dc:creator>Tracey Tully</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 00:18:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caldwell, Dale G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sherrill, Mikie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Porrino, Christopher S</category>
+      <media:content height="1262" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/HFO-00met-nj-lieutenant-governor-01-jmlp/HFO-00met-nj-lieutenant-governor-01-jmlp-mediumSquareAt3X.jpg" width="1262"></media:content>
+      <media:credit>Kriston Jae Bethel for The New York Times</media:credit>
+      <media:description>Lt. Governor Dale Caldwell was found to have violated state workplace and ethics policies in a report released Thursday.</media:description>
     </item>
     <item>
       <title>In Alaska, Rowdy Members of Congress Are a Tradition</title>
@@ -226,24 +233,56 @@
       <media:description>Mary Peltola drew criticism from Republicans who suggested that revelations this week about her conduct toward staff showed her unfitness for the Senate seat she is seeking.</media:description>
     </item>
     <item>
-      <title>South Asians Face Surging Racism in America</title>
-      <link>https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/south-asian-indian-american-racism.html" rel="standout"></atom:link>
-      <description>Social media posts, including from the Department of Homeland Security and a Texas Republican candidate, have helped stir fear among people of South Asian heritage.</description>
-      <dc:creator>Amy Qin</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 19:00:30 +0000</pubDate>
+      <title>Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs</title>
+      <link>https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html" rel="standout"></atom:link>
+      <description>Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 03:24:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/22/multimedia/00pol-peltola-conflict-top-zqvc/00pol-peltola-conflict-top-zqvc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Kerry Tasker/Reuters</media:credit>
+      <media:description>Former Representative Mary Peltola of Alaska is facing Senator Dan Sullivan, a Republican, in a competitive race that could be crucial for Senate control.</media:description>
+    </item>
+    <item>
+      <title>Republicans in Red-State Races Are Starting to Break From Trump</title>
+      <link>https://www.nytimes.com/video/us/politics/100000011170300/republicans-in-red-state-races-are-starting-to-break-from-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011170300/republicans-in-red-state-races-are-starting-to-break-from-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/video/us/politics/100000011170300/republicans-in-red-state-races-are-starting-to-break-from-trump.html" rel="standout"></atom:link>
+      <description>Our national political correspondent, Shane Goldmacher, explains how a growing number of Republican candidates in key battleground states are making calculated decisions to distance themselves from President Trump and his policies.</description>
+      <dc:creator>Shane Goldmacher, Paul Abowd, Jon Miller, Nikolay Nikolov, Edward Vega and Gabriel Blanco</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 21:49:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/21/multimedia/21nat-southasian-qwkl/21nat-southasian-qwkl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Callaghan O&#39;Hare/Reuters</media:credit>
-      <media:description>Bo French, a Republican running for statewide office in Texas, made a post that drew backlash from many South Asians who saw it as racist.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+    </item>
+    <item>
+      <title>Florida Charges 20 People with Voter Fraud</title>
+      <link>https://www.nytimes.com/2026/09/24/us/florida-illegal-voting-charges-noncitizens-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/florida-illegal-voting-charges-noncitizens-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/florida-illegal-voting-charges-noncitizens-election.html" rel="standout"></atom:link>
+      <description>Most cases involved noncitizens who registered to vote, attesting that they were U.S. citizens, state officials said.</description>
+      <dc:creator>David Ovalle</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 22:08:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24midterms-florida-arrests1-zchl/24midterms-florida-arrests1-zchl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <media:description>Earlier this year, Gov. Ron DeSantis of Florida signed into a law requiring people registering to vote show proof of U.S. citizenship.</media:description>
     </item>
     <item>
       <title>Bernadine Bluntly’s Brand Was Tradwife. Then She Got Divorced.</title>
@@ -254,130 +293,52 @@
       <dc:creator>Amanda Hess</dc:creator>
       <pubDate>Thu, 24 Sep 2026 16:28:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neeleman, Hannah</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Nara Aziza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barber, Bernadine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24ST-POST-TRAD-pjhv/24ST-POST-TRAD-pjhv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael B. Thomas for The New York Times</media:credit>
       <media:description>Bernadine Bluntly once argued the tradwife’s cause with passionate intensity. Yet privately, she said, she was considering leaving her marriage — a step she took last year.</media:description>
     </item>
     <item>
-      <title>Carney Says He Would Consider a Second Term, Depending on State of U.S.-Canada Relations</title>
-      <link>https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/world/canada/carney-economy-trade-war.html" rel="standout"></atom:link>
-      <description>As he tries to break Canada’s dependence on the United States, Prime Minister Mark Carney said he knows Canadians will feel pain from the trade war.</description>
-      <dc:creator>Matina Stevis-Gridneff and Sydney Ember</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 17:28:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Party (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canadian Federal Election (2019)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24canada-carney-challenges-tjpk/24canada-carney-challenges-tjpk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Berehulak/The New York Times</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada at The New York Times headquarters on Wednesday.</media:description>
+      <title>Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast</title>
+      <link>https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html" rel="standout"></atom:link>
+      <description>Rain, flooding and gusty winds are all in the forecast for the Northeast this weekend, but just how much is still a little uncertain.</description>
+      <dc:creator>Judson Jones and Nazaneen Ghaffar</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 18:36:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coast Erosion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Cod (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/09/24/weather/2026-09-24-outlooks-index-promo/2026-09-24-outlooks-index-promo-mediumSquareAt3X-v11.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Canada Goose Is Ensnared in Trump’s Tariff War With Canada</title>
-      <link>https://www.nytimes.com/2026/09/24/business/canada-goose-tariffs-trade-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/canada-goose-tariffs-trade-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/canada-goose-tariffs-trade-war.html" rel="standout"></atom:link>
-      <description>The United States is a key market for brands that manufacture jackets and parkas in Canada, such as Canada Goose and Moose Knuckles.</description>
-      <dc:creator>Kim Bhasin</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 13:04:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coats and Jackets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canada Goose Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arc&#39;teryx Equipment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Modes Moose Inc (Moose Knuckles)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vancouver (British Columbia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/19/multimedia/00biz-canada-coat-tariffs-1-fqpb/00biz-canada-coat-tariffs-1-fqpb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Scott Olson/Getty Images</media:credit>
-      <media:description>Canadian coats have become a coveted luxury item, with prices for Canada Goose parkas, for example, starting above $1,000.</media:description>
-    </item>
-    <item>
-      <title>Federal Council Terminates Review of Arch’s Effects on Historic Sites</title>
-      <link>https://www.nytimes.com/2026/09/24/upshot/arch-trump-washington.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/upshot/arch-trump-washington.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/upshot/arch-trump-washington.html" rel="standout"></atom:link>
-      <description>Trump’s allies end a legally required step, one of the final hurdles for the project to advance.</description>
-      <dc:creator>Emily Badger</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 20:05:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Capital Planning Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/24/us/up-arch-new/up-arch-new-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Leyden for The New York Times</media:credit>
-      <media:description>Crews working behind tarps on Thursday at the proposed site of the triumphal arch in Washington, with Arlington Memorial Bridge in the background.</media:description>
-    </item>
-    <item>
-      <title>Haiti Turns to Roger Stone To Lobby Trump Administration</title>
-      <link>https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/world/americas/haiti-roger-stone-migration.html" rel="standout"></atom:link>
-      <description>The Haitian government hired Mr. Stone, a confidant of President Trump, weeks after hundreds of thousands of Haitians lost deportation protection. The contract is worth nearly $800,000, a document shows.</description>
-      <dc:creator>David C. Adams</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 21:55:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Haitian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fils-Aime, Alix Didier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stone, Roger J Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24int-haiti-stone-vgmw/24int-haiti-stone-vgmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rebecca Noble for The New York Times</media:credit>
-      <media:description>The political operative Roger J. Stone Jr. has secured a lucrative contract to lobby the Trump administration on Haiti’s behalf, according to a document filed with the Justice Department.</media:description>
-    </item>
-    <item>
-      <title>American Bar Association Fights to Keep Power to Vet Law Schools</title>
-      <link>https://www.nytimes.com/2026/09/24/us/politics/aba-law-schools-dei-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/aba-law-schools-dei-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/aba-law-schools-dei-trump.html" rel="standout"></atom:link>
-      <description>Losing its accreditation ability would be a blow to the nation’s largest association of lawyers and another example of how the Trump administration is reshaping higher education.</description>
-      <dc:creator>Michael C. Bender</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 19:59:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Bar Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accreditation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diversity Initiatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Jay P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/23dc-trump-aba-pcbl/23dc-trump-aba-pcbl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aaron Schwartz/Sipa USA, Reuters</media:credit>
-      <media:description>The Trump administration could strip the American Bar Association of its role in accrediting law schools in the United States.</media:description>
-    </item>
-    <item>
-      <title>In a New Anthropic Lab, A.I. Turns to Biology</title>
+      <title>Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery.</title>
       <link>https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html</guid>
       <atom:link href="https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html" rel="standout"></atom:link>
       <description>Scientists at the company announced their first finding: a group of enzymes whose function is unknown.</description>
       <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 21:08:54 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 22:12:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
@@ -410,72 +371,110 @@
       <media:description>A DraftKings advertisement in Boston. The chair of the Massachusetts Gaming Commission said it would look into how betting companies in the state were using artificial intelligence.</media:description>
     </item>
     <item>
-      <title>Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast</title>
-      <link>https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html" rel="standout"></atom:link>
-      <description>Rain, flooding and gusty winds are all in the forecast for the Northeast this weekend, but just how much is still a little uncertain.</description>
-      <dc:creator>Judson Jones and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 18:36:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coast Erosion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Cod (Mass)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/09/24/weather/2026-09-24-outlooks-index-promo/2026-09-24-outlooks-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Trump’s Failure to Lead Is Costing America and the World</title>
-      <link>https://www.nytimes.com/2026/09/24/opinion/trump-xi-washington-summit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/opinion/trump-xi-washington-summit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/opinion/trump-xi-washington-summit.html" rel="standout"></atom:link>
-      <description>Trump’s flailing presidency leaves Americans with the thinnest of hopes for this week’s summit: that he does not further damage the national interest.</description>
-      <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 18:53:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/27/opinion/24uschina-editorial1/24uschina-editorial1-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Julia Demaree Nikhinson/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval</title>
-      <link>https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html" rel="standout"></atom:link>
-      <description>The vote came as a growing number of Republicans have broken from President Trump on the conflict, reflecting voters’ concerns ahead of midterm elections.</description>
-      <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 20:44:21 +0000</pubDate>
+      <title>Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown</title>
+      <link>https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html" rel="standout"></atom:link>
+      <description>In a report Thursday, the Government Accountability Office said the Trump administration squandered millions of dollars to expand detention.</description>
+      <dc:creator>Eileen Sullivan</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 00:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alligator Alcatraz (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Accountability Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durbin, Richard J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/11/13/multimedia/24dc-ice-gao/13DC-GITMO-SUB-print-wftk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>U.S. forces erected a tent city at Guantánamo Bay, Cuba, to house migrants. </media:description>
+    </item>
+    <item>
+      <title>Trump Administration Asks Supreme Court to Allow Deportations to Third Countries</title>
+      <link>https://www.nytimes.com/2026/09/24/us/politics/trump-supreme-court-third-country-deportations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/trump-supreme-court-third-country-deportations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/trump-supreme-court-third-country-deportations.html" rel="standout"></atom:link>
+      <description>A lower federal court on Wednesday imposed restrictions on deporting migrants to countries other than their own.</description>
+      <dc:creator>Abbie VanSickle</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 22:11:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-scotus-deport-vlft/24dc-scotus-deport-vlft-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>The Trump administration asked the Supreme Court to allow it to continue its program to deport immigrants to countries other than their own.</media:description>
+    </item>
+    <item>
+      <title>Bob Pettit, N.B.A. Great for the Hawks, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/09/24/obituaries/bob-pettit-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/obituaries/bob-pettit-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/obituaries/bob-pettit-dead.html" rel="standout"></atom:link>
+      <description>A prolific scorer and rebounder, in 1958 he delivered one of the most remarkable performances in playoff history.</description>
+      <dc:creator>Richard Goldstein</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 22:36:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">All Star Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">NBA Championship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">College Athletics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">NCAA Basketball Championships (Men)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlanta Hawks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Basketball Hall of Fame</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louisiana State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Collegiate Athletic Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Selvy, Frank (1932-2024)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24Bob-Pettit/24Bob-Pettit-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Bob Pettit was named Most Valuable Player of the N.B.A. All-Star Game in 1958.</media:description>
+    </item>
+    <item>
+      <title>Trump the Destroyer</title>
+      <link>https://www.nytimes.com/2026/09/24/opinion/trump-arch-macklemore-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/opinion/trump-arch-macklemore-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/opinion/trump-arch-macklemore-israel.html" rel="standout"></atom:link>
+      <description>The president has an edifice complex.</description>
+      <dc:creator>Frank Bruni and Bret Stephens</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 16:45:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Triumphal Arch</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/00dc-warpowers-kbzw/00dc-warpowers-kbzw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>Mourners at the Iranian school that was hit by strikes on the first day of the United States’ war with Iran.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macklemore (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/24conversation-glpv/24conversation-glpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Ribar for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Edward Lehner, Who Made Dog Owners Pick ‘It’ Up, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/09/24/nyregion/edward-h-lehner-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/nyregion/edward-h-lehner-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/nyregion/edward-h-lehner-dead.html" rel="standout"></atom:link>
+      <description>Before the law passed, navigating New York was a harrowing exercise in dog-feces avoidance. As he put it, sometimes “you would come home and have it all over you.”</description>
+      <dc:creator>Sarah Lyall</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 23:25:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lehner, Edward H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22obit-lehner-jfcq/22obit-lehner-jfcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Neal Boenzi/The New York Times</media:credit>
+      <media:description>Edward Lehner, center, in Central Park in 1978.</media:description>
     </item>
   </channel>
 </rss>

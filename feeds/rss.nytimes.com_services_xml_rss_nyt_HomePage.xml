@@ -3,17 +3,59 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1790296754034" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 00:39:14 +0000</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 00:23:18 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:54:37 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 05:47:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So.</title>
+      <link>https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html" rel="standout"></atom:link>
+      <description>The showdown over President Trump’s partial media ban played out as he welcomed President Xi Jinping, whose government is ranked among the most repressive in the world.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 00:38:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MS NOW</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politico, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-memo-cbzj/24dc-memo-cbzj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Xi Jinping’s arrival at the White House was celebrated with pomp and circumstance that were not covered by American television networks, which were still boycotting the White House press pool.</media:description>
+    </item>
+    <item>
+      <title>Flyovers and Pandas Masked Divides in Trump and Xi’s U.S.-China Summit</title>
+      <link>https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html" rel="standout"></atom:link>
+      <description>President Trump pressed his personal brand of diplomacy as President Xi Jinping of China made his first trip to the White House in more than a decade.</description>
+      <dc:creator>Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 03:10:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/24/multimedia/24dc-prexy-pjmv/24dc-prexy-pjmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Trump, Melania Trump, President Xi Jinping of China and Madame Peng Liyuan at the White House during a state visit on Thursday.</media:description>
+    </item>
     <item>
       <title>As Trump Hosts State Dinner Honoring Xi, See the Menu</title>
       <link>https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html</link>
@@ -21,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html" rel="standout"></atom:link>
       <description>The White House said that the three-course menu, including sea bass and bok choy, featured American ingredients with a “subtle Chinese influence.”</description>
       <dc:creator>Leo Sands</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 19:43:18 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 19:43:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
@@ -34,100 +76,22 @@
       <media:description>President Trump is hosting a state dinner for President Xi Jinping of China on Thursday evening.</media:description>
     </item>
     <item>
-      <title>Trump Struggles to Find Leverage With Xi Over Chinese Exports</title>
-      <link>https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html" rel="standout"></atom:link>
-      <description>The Trump administration, like its predecessors, has struggled to deal with China’s excess industrial capacity.</description>
-      <dc:creator>Alan Rappeport and Ana Swanson</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 17:34:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-overcapacity-kcbp/24dc-overcapacity-kcbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump and China’s leader, Xi Jinping, are meeting this week in Washington.</media:description>
-    </item>
-    <item>
-      <title>White House Restores Access for CNN, MS NOW and Politico</title>
-      <link>https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html" rel="standout"></atom:link>
-      <description>A judge ordered President Trump to reverse his ban on three media outlets, but it took several hours for them to get back in. The White House TV pool remains suspended.</description>
-      <dc:creator>Michael M. Grynbaum</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 23:07:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MS NOW</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politico, The</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24biz-media-still-barred-jvlc/24biz-media-still-barred-jvlc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump and President Xi Jinping of China walk past the media after Mr. Trump gave Mr. Xi a tour of the Helipad and Marine One at the White House on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Conservative Outlets Offer Trump Feed While White House TV Pool Is Suspended</title>
-      <link>https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-tv-pool-conservative-news.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-tv-pool-conservative-news.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/media/trump-white-house-press-ban-tv-pool-conservative-news.html" rel="standout"></atom:link>
-      <description>Real America’s Voice and LindellTV have teamed up to provide a feed of daily presidential events.</description>
-      <dc:creator>Katie Robertson</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 19:02:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Real America&#39;s Voice LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LindellTV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parker Sigg</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24trump-media-alt-pool-jhkz/24trump-media-alt-pool-jhkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>A news anchor with Real America’s Voice does a standup video on the White House grounds on Monday.</media:description>
-    </item>
-    <item>
-      <title>Who Is the Trump-Appointed Judge Who Blocked the White House Media Ban?</title>
-      <link>https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/who-is-tim-kelly-media-judge.html" rel="standout"></atom:link>
-      <description>Judge Timothy J. Kelly had worked as counsel for Senator Charles E. Grassley, who called him a “very talented attorney” in 2017.</description>
-      <dc:creator>Mattathias Schwartz</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 19:17:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ARNOLD &amp; PORTER</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federalist Society</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, Timothy J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-kelly-wvgq/24dc-kelly-wvgq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tom Williams/CQ Roll Cal, Associated Press</media:credit>
-      <media:description>Judge Timothy J. Kelly on Thursday ordered the Trump administration to restore White House access to journalists from CNN, MS NOW and Politico.</media:description>
-    </item>
-    <item>
-      <title>Trump Hosts China’s Leader for a State Visit</title>
-      <link>https://www.nytimes.com/2026/09/24/briefing/trump-xi-state-visit-mortgage-rates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/briefing/trump-xi-state-visit-mortgage-rates.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/briefing/trump-xi-state-visit-mortgage-rates.html" rel="standout"></atom:link>
-      <description>Also, mortgage rates hit 7 percent. Here’s the latest at the end of Thursday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 21:36:19 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/24evening-nl-top/25int-theworld-xi-hvmg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>The official welcome at the White House today. </media:description>
+      <title>Netanyahu, Addressing U.N., Denounces Israel’s Critics as ‘Moral Cowards’</title>
+      <link>https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html" rel="standout"></atom:link>
+      <description>Prime Minister Benjamin Netanyahu also reserved some of his ire for the mayor of the city hosting him, Zohran Mamdani.</description>
+      <dc:creator>Isabel Kershner, Farnaz Fassihi, Max Bearak and Michael Levenson</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 00:40:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mahmoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24int-unga-ledeall/24int-unga-ledeall-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>“Shame on you!” Prime Minister Benjamin Netanyahu said to Israel’s critics as he addressed the General Assembly on Thursday.</media:description>
     </item>
     <item>
       <title>Mamdani Accuses Netanyahu of Spreading ‘Baseless Lies’ After U.N. Speech</title>
@@ -136,7 +100,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html" rel="standout"></atom:link>
       <description>The Israeli prime minister accused Mayor Zohran Mamdani, an outspoken critic of Israel, of antisemitism. The mayor has become a political foil for the prime minister.</description>
       <dc:creator>Liam Stack</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 21:09:02 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 00:57:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
@@ -175,21 +139,67 @@
       <media:description>Protesters near the United Nations headquarters on Thursday.</media:description>
     </item>
     <item>
-      <title>Mortgage Rates Hit 7% as Iran War Fallout Crushes a Weak Housing Market</title>
-      <link>https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/mortgage-rates-7-percent.html" rel="standout"></atom:link>
-      <description>The average rate on a 30-year mortgage in the United States jumped to 7.03 percent, putting pressure on housing affordability.</description>
-      <dc:creator>Gregory Schmidt</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 22:52:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <title>Iran Proposes 7-Day Plan to End War</title>
+      <link>https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html" rel="standout"></atom:link>
+      <description>Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived.</description>
+      <dc:creator>Farnaz Fassihi and Pranav Baskar</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 05:27:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/2026-biz-sept-promos-mortgage-rates/2026-biz-sept-promos-mortgage-rates-mediumSquareAt3X-v7.png" width="1000"></media:content>
-      <media:credit>Jillian Vordick/The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Assembly (UN)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1680" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24unga-live-iran-offer-tglq/24unga-live-iran-offer-tglq-mediumSquareAt3X.jpg" width="1680"></media:content>
+      <media:credit>Mike Segar/Reuters</media:credit>
+      <media:description>The Iranian foreign minister, Abbas Araghchi, at the General Assembly on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval</title>
+      <link>https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html" rel="standout"></atom:link>
+      <description>The vote came as a growing number of Republicans have broken from President Trump on the conflict, reflecting voters’ concerns ahead of midterm elections.</description>
+      <dc:creator>Robert Jimison</dc:creator>
+      <pubDate>Thu, 24 Sep 2026 20:44:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/00dc-warpowers-kbzw/00dc-warpowers-kbzw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Mourners at the Iranian school that was hit by strikes on the first day of the United States’ war with Iran.</media:description>
+    </item>
+    <item>
+      <title>France to Send Soldiers to Saudi Arabia to Help Secure Energy Sites</title>
+      <link>https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/world/middleeast/france-saudi-arabia-red-sea-yemen-houthis.html" rel="standout"></atom:link>
+      <description>Attacks on Saudi cities on the Red Sea by the Iran-backed Houthi militia in Yemen have added to pressure on global oil supplies.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 02:59:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Aden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/25int-France-Saudi-hbqz/25int-France-Saudi-hbqz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>President Emmanuel Macron of France, speaking before the United Nations General Assembly in New York on Tuesday.</media:description>
     </item>
     <item>
       <title>Dale Caldwell, New Jersey’s Lt. Governor, Violated Workplace Policies, Report Finds</title>
@@ -198,7 +208,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/24/nyregion/dale-caldwell-ethics-report-new-jersey-mikie-sherrill.html" rel="standout"></atom:link>
       <description>Investigators found that New Jersey’s lieutenant governor, Dale Caldwell, sought a promotion for his girlfriend and made a sexually charged comment to a staff member.</description>
       <dc:creator>Tracey Tully</dc:creator>
-      <pubDate>Fri, 25 Sep 2026 00:18:05 +0000</pubDate>
+      <pubDate>Fri, 25 Sep 2026 02:39:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
@@ -210,6 +220,31 @@
       <media:content height="1262" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/HFO-00met-nj-lieutenant-governor-01-jmlp/HFO-00met-nj-lieutenant-governor-01-jmlp-mediumSquareAt3X.jpg" width="1262"></media:content>
       <media:credit>Kriston Jae Bethel for The New York Times</media:credit>
       <media:description>Lt. Governor Dale Caldwell was found to have violated state workplace and ethics policies in a report released Thursday.</media:description>
+    </item>
+    <item>
+      <title>Justice Department Scraps Dozens of School Desegregation Cases</title>
+      <link>https://www.nytimes.com/2026/09/24/us/politics/justice-department-desegregation-cases.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/justice-department-desegregation-cases.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/justice-department-desegregation-cases.html" rel="standout"></atom:link>
+      <description>Critics said the changes, mostly in the South, moved the nation “back toward the Jim Crow era.” Justice Department officials said the decrees were outdated.</description>
+      <dc:creator>Michael C. Bender</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 03:04:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Assn for the Advancement of Colored People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dhillon, Harmeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marshall, Steve (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-desegregation-ghmw/24dc-desegregation-ghmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gerald Herbert/Associated Press</media:credit>
+      <media:description>Vidalia High School, part of Louisiana’s Concordia Parish School District, operated under a court-ordered desegregation plan dating to 1965 until a federal appeals court ended the oversight in July.</media:description>
     </item>
     <item>
       <title>In Alaska, Rowdy Members of Congress Are a Tradition</title>
@@ -285,26 +320,25 @@
       <media:description>Earlier this year, Gov. Ron DeSantis of Florida signed into a law requiring people registering to vote show proof of U.S. citizenship.</media:description>
     </item>
     <item>
-      <title>Bernadine Bluntly’s Brand Was Tradwife. Then She Got Divorced.</title>
-      <link>https://www.nytimes.com/2026/09/24/style/ex-tradwife-influencer-bernadine-bluntly.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/style/ex-tradwife-influencer-bernadine-bluntly.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/style/ex-tradwife-influencer-bernadine-bluntly.html" rel="standout"></atom:link>
-      <description>What happens when a trad influencer leaves her husband, questions her beliefs, stops selling anti-feminism T-shirts — and still needs to make a living online?</description>
-      <dc:creator>Amanda Hess</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 16:28:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neeleman, Hannah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Nara Aziza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barber, Bernadine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24ST-POST-TRAD-pjhv/24ST-POST-TRAD-pjhv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael B. Thomas for The New York Times</media:credit>
-      <media:description>Bernadine Bluntly once argued the tradwife’s cause with passionate intensity. Yet privately, she said, she was considering leaving her marriage — a step she took last year.</media:description>
+      <title>Hurricane Nolo Takes Aim at Hawaii</title>
+      <link>https://www.nytimes.com/2026/09/24/weather/hurricane-nolo-hawaii.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/weather/hurricane-nolo-hawaii.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/weather/hurricane-nolo-hawaii.html" rel="standout"></atom:link>
+      <description>Though likely to avoid a direct hit, parts of the state could receive nearly three feet of rain, forecasters warned.</description>
+      <dc:creator>Amy Graff and Judson Jones</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 03:09:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Honolulu (Hawaii)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, Josh (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maui (Hawaii)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/09/13/multimedia/cyclone-tracker-2025-fifteen-e-ep152026-satellite_map/cyclone-tracker-2025-fifteen-e-ep152026-satellite_map-mediumSquareAt3X-v92.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast</title>
@@ -332,87 +366,42 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Anthropic’s A.I. Is Teaching Itself Biology. Now It’s Made Its First Discovery.</title>
-      <link>https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/science/anthropic-biology-lab-enzyme.html" rel="standout"></atom:link>
-      <description>Scientists at the company announced their first finding: a group of enzymes whose function is unknown.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 22:12:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proteins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/23/science/23SCI-ANTHROPIC-ENZYME/23SCI-ANTHROPIC-ENZYME-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry/Bloomberg</media:credit>
-      <media:description>Anthropic’s San Francisco headquarters.</media:description>
+      <title>‘America’s Bishop’ Was Beatified. 50,000 Catholics Showed Up.</title>
+      <link>https://www.nytimes.com/2026/09/24/us/fulton-sheen-catholic-saint.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/fulton-sheen-catholic-saint.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/24/us/fulton-sheen-catholic-saint.html" rel="standout"></atom:link>
+      <description>Archbishop Fulton J. Sheen, who was the country’s most visible Roman Catholic clergyman of the 20th century, is one step closer to sainthood after a ceremony in St. Louis.</description>
+      <dc:creator>Ruth Graham</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 01:09:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheen, Fulton J (1895-1979)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24nat-american-saint-qvmb-copy/24nat-american-saint-qvmb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Houston Cofield for The New York Times</media:credit>
+      <media:description>Beatification typically requires evidence of a miracle resulting from prayer to the person in question. In Archbishop Fulton J. Sheen’s case, the parents of a stillborn boy in the diocese of Peoria, Ill., in 2010 prayed to him to intervene.</media:description>
     </item>
     <item>
-      <title>Massachusetts Is Investigating Gambling Companies’ Use of A.I.</title>
-      <link>https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/business/massachusetts-draftkings-ai-gambling.html" rel="standout"></atom:link>
-      <description>In response to a New York Times report on DraftKings, the state’s gaming commission said it would evaluate how each company deployed the technology.</description>
-      <dc:creator>Jenny Vrentas, Alex Klavens and Walt Bogdanich</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 20:50:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DraftKings Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Gaming Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24biz-draftkings-massachusetts-tvpl/24biz-draftkings-massachusetts-tvpl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tony Luong for The New York Times</media:credit>
-      <media:description>A DraftKings advertisement in Boston. The chair of the Massachusetts Gaming Commission said it would look into how betting companies in the state were using artificial intelligence.</media:description>
-    </item>
-    <item>
-      <title>Unused Tents and Uneaten Food: Watchdog Finds ‘Waste’ in Immigration Crackdown</title>
-      <link>https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html" rel="standout"></atom:link>
-      <description>In a report Thursday, the Government Accountability Office said the Trump administration squandered millions of dollars to expand detention.</description>
-      <dc:creator>Eileen Sullivan</dc:creator>
-      <pubDate>Fri, 25 Sep 2026 00:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alligator Alcatraz (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Accountability Office</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durbin, Richard J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/11/13/multimedia/24dc-ice-gao/13DC-GITMO-SUB-print-wftk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>U.S. forces erected a tent city at Guantánamo Bay, Cuba, to house migrants. </media:description>
-    </item>
-    <item>
-      <title>Trump Administration Asks Supreme Court to Allow Deportations to Third Countries</title>
-      <link>https://www.nytimes.com/2026/09/24/us/politics/trump-supreme-court-third-country-deportations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/us/politics/trump-supreme-court-third-country-deportations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/us/politics/trump-supreme-court-third-country-deportations.html" rel="standout"></atom:link>
-      <description>A lower federal court on Wednesday imposed restrictions on deporting migrants to countries other than their own.</description>
-      <dc:creator>Abbie VanSickle</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 22:11:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-scotus-deport-vlft/24dc-scotus-deport-vlft-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The Trump administration asked the Supreme Court to allow it to continue its program to deport immigrants to countries other than their own.</media:description>
+      <title>Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France</title>
+      <link>https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/25/world/europe/pope-leo-france-visit.html" rel="standout"></atom:link>
+      <description>After touring Africa, Pope Leo’s four-day visit to France shows how he is seeking to appeal to Roman Catholicism’s original heartlands as well as to the church’s newest strongholds.</description>
+      <dc:creator>Motoko Rich and Mark Landler</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 04:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Notre Dame Cathedral (Paris, France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion-State Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Churches (Buildings)</category>
+      <media:content height="1337" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/25int-pope-france-01-gmqf/25int-pope-france-01-gmqf-mediumSquareAt3X.jpg" width="1337"></media:content>
+      <media:credit>Remo Casilli/Reuters</media:credit>
+      <media:description>Pope Leo at the Vatican on Wednesday. His varied choice of travel destinations sets him apart from his predecessor, Francis.</media:description>
     </item>
     <item>
       <title>Bob Pettit, N.B.A. Great for the Hawks, Dies at 93</title>
@@ -460,21 +449,23 @@
       <media:credit>Daniel Ribar for The New York Times</media:credit>
     </item>
     <item>
-      <title>Edward Lehner, Who Made Dog Owners Pick ‘It’ Up, Dies at 93</title>
-      <link>https://www.nytimes.com/2026/09/24/nyregion/edward-h-lehner-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/24/nyregion/edward-h-lehner-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/24/nyregion/edward-h-lehner-dead.html" rel="standout"></atom:link>
-      <description>Before the law passed, navigating New York was a harrowing exercise in dog-feces avoidance. As he put it, sometimes “you would come home and have it all over you.”</description>
-      <dc:creator>Sarah Lyall</dc:creator>
-      <pubDate>Thu, 24 Sep 2026 23:25:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lehner, Edward H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/22/multimedia/22obit-lehner-jfcq/22obit-lehner-jfcq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Neal Boenzi/The New York Times</media:credit>
-      <media:description>Edward Lehner, center, in Central Park in 1978.</media:description>
+      <title>Cambridge Abandons Plans to Fully Investigate Its Hiring of Jason Arday</title>
+      <link>https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/25/world/europe/cambridge-jason-arday-investigation.html" rel="standout"></atom:link>
+      <description>The professor became a flashpoint in debates over diversity efforts in higher education.</description>
+      <dc:creator>Mara Hvistendahl</dc:creator>
+      <pubDate>Fri, 25 Sep 2026 05:46:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diversity Initiatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambridge (England)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/25/multimedia/25int-uk-arday-investigation-zkfl/25int-uk-arday-investigation-zkfl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chris Radburn/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Tributes to Jason Arday outside Jesus College at the University of Cambridge in England in August.</media:description>
     </item>
   </channel>
 </rss>

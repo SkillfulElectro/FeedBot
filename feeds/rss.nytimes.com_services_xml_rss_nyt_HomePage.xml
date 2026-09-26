@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 16:36:04 +0000</lastBuildDate>
-    <pubDate>Sat, 26 Sep 2026 16:32:21 +0000</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:32:16 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2026 19:27:13 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html" rel="standout"></atom:link>
       <description>The agency has lost its independence and nearly a third of its staff, as Health Secretary Robert F. Kennedy Jr. and associates have tightened control.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Sat, 26 Sep 2026 13:09:05 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 13:09:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html" rel="standout"></atom:link>
       <description>Most member nations spoke in support of the declaration, but some rich countries had strong objections.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Sat, 26 Sep 2026 01:29:51 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 19:15:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
@@ -58,15 +58,36 @@
       <media:description>The United States rejected a declaration by member countries of the United Nations pledging international collaboration and solidarity in preparing for and responding to pandemics.</media:description>
     </item>
     <item>
-      <title>Live Updates: Powerful Nor’easter Bears Down on East Coast</title>
+      <title>Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding</title>
       <link>https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston</guid>
       <atom:link href="https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston" rel="standout"></atom:link>
-      <description>Rain, flooding and damaging winds are in the forecast for much of the coastal Northeast, including the New York metropolitan area and Boston.</description>
+      <description>The storm flooded low-lying areas, knocked out power and forced the cancellation of several major events and hundreds of flights.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 26 Sep 2026 16:32:21 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26met-noreaster-promo-xxx-1230pm-copy/26met-noreaster-promo-xxx-1230pm-copy-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <pubDate>Sat, 26 Sep 2026 19:27:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>How El Niño Is Shaping Storms on Two Sides of the U.S.</title>
+      <link>https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/climate/el-nino-hurricane-noreaster.html" rel="standout"></atom:link>
+      <description>Hurricanes near Hawaii. A nor’easter on the East Coast. The ocean phenomenon’s influence on storms around the country may just be getting started.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 17:23:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coast Erosion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26cli-storms-elnino-klgb/26cli-storms-elnino-klgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Flooding in Point Pleasant Beach, N.J., on Saturday.</media:description>
     </item>
     <item>
       <title>A 7-Day Standoff That Said So Much About Trump and the Media</title>
@@ -131,13 +152,13 @@
       <media:description>President Trump threatened Iran in a speech on the first day of the United Nations General Assembly on Tuesday.</media:description>
     </item>
     <item>
-      <title>Rahm Emanuel Makes His 2026 Play</title>
+      <title>Rahm Emanuel, Eyeing 2028, Makes His 2026 Play</title>
       <link>https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html</guid>
       <atom:link href="https://www.nytimes.com/2026/09/26/us/politics/rahm-emanuel-midterms-house.html" rel="standout"></atom:link>
-      <description>The longtime Democratic insider has emerged as a behind-the-scenes force in his party’s push to win back Congress. After that, he’ll think about 2028.</description>
+      <description>The longtime Democratic insider has emerged as a behind-the-scenes force in his party’s push to win back Congress. After that, he’ll think about the next presidential race.</description>
       <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Sat, 26 Sep 2026 09:02:14 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 19:18:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Rahm</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
@@ -146,6 +167,29 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26pol-rahm-emanuel-midterms-ftqj/26pol-rahm-emanuel-midterms-ftqj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lexi Parra/The New York Times</media:credit>
       <media:description>Rahm Emanuel, the former Chicago mayor and chief of staff to President Barack Obama, has been recruiting Democratic House candidates and helping to guide their campaigns.</media:description>
+    </item>
+    <item>
+      <title>VoteVets Spends Millions to Elect Democrats, Shaping Midterms</title>
+      <link>https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/us/politics/votevets-midterm-elections.html" rel="standout"></atom:link>
+      <description>The organization, founded in 2006 to back Democratic veterans opposing the Iraq war, is pouring huge sums into this year’s elections amid intense voter antipathy for another conflict in the Middle East.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 13:22:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">VoteVets Political Action Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Soltz, Jon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/24dc-votevets--01-ctkq/24dc-votevets--01-ctkq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>KC McGinnis for The New York Times</media:credit>
+      <media:description>Josh Turek, a Democratic candidate for Senate, received $9.7 million on digital and television advertising from VoteVets.</media:description>
     </item>
     <item>
       <title>Bobby Pulido, a Texan Singer, Puts Republicans on Defense</title>
@@ -216,69 +260,75 @@
       <media:credit>Philip Montgomery for The New York Times</media:credit>
     </item>
     <item>
-      <title>Why Does Trump Think He Can Act Like a King?</title>
-      <link>https://www.nytimes.com/2026/09/26/opinion/trump-voting-mail-supreme-court.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/trump-voting-mail-supreme-court.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/trump-voting-mail-supreme-court.html" rel="standout"></atom:link>
-      <description>The Supreme Court has had a lot to do with it.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Sat, 26 Sep 2026 15:18:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-sub-only-nl</category>
+      <title>What Happens if the A.I. Bubble Bursts</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html" rel="standout"></atom:link>
+      <description>It’s as though 2008 never even happened.</description>
+      <dc:creator>Bethany McLean</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 16:17:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subprime Mortgage Crisis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/09/26/multimedia/26bouie-newsletter-lbvt/26bouie-newsletter-lbvt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/26/opinion/26mclean-image/26mclean-image-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Illustration by Olivia James/The New York Times</media:credit>
     </item>
     <item>
-      <title>The W.N.B.A. Should Take Care of Its Own</title>
-      <link>https://www.nytimes.com/2026/09/26/opinion/wnba-playoffs-culture-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/wnba-playoffs-culture-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/wnba-playoffs-culture-war.html" rel="standout"></atom:link>
-      <description>The league has an invaluable opportunity right now; it can be a reflection of the world as it could be, not merely as it is.</description>
-      <dc:creator>Roxane Gay</dc:creator>
-      <pubDate>Sat, 26 Sep 2026 14:08:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Women&#39;s National Basketball Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clark, Caitlin (2002- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cunningham, Sophie (1996- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Engelbert, Catherine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chicago Sky</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indiana Fever</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Collegiate Athletic Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoenix Mercury</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kanter, Enes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ogwumike, Nnemkadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reese, Angel (2002- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Iowa</category>
+      <title>‘The MAGA Flag Is in Tatters’</title>
+      <link>https://www.nytimes.com/2026/09/26/opinion/midterm-elections-midwest-political-realignment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/opinion/midterm-elections-midwest-political-realignment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/26/opinion/midterm-elections-midwest-political-realignment.html" rel="standout"></atom:link>
+      <description>This week in politics: Midwest realignment and what’s next for conservatives.</description>
+      <dc:creator>Robert Siegel, E.J. Dionne Jr., Timothy P. Carney and Derek Arthur</dc:creator>
+      <pubDate>Sat, 26 Sep 2026 11:32:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evangelical Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suburbs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Transition (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Enterprise Institute for Public Policy Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leavitt, Karoline</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/27/multimedia/26gay-lfcm/26gay-lfcm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Elle Perez for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Free Rein</title>
-      <link>https://www.nytimes.com/2026/09/26/briefing/free-rein.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/26/briefing/free-rein.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/26/briefing/free-rein.html" rel="standout"></atom:link>
-      <description>Fall weekends bring an imperative to get things done, but we need not over-engineer our days to get the most out of them.</description>
-      <dc:creator>Melissa Kirsch</dc:creator>
-      <pubDate>Sat, 26 Sep 2026 10:27:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autumn (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beshear, Andrew G (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Sherrod</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harkin, Tom</category>
+      <media:content height="720" medium="image" url="https://static01.nyt.com/images/2026/09/26/opinion/26opinions-roundtable-horizontal-image/26opinions-roundtable-horizontal-image-mediumSquareAt3X-v2.png" width="720"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>The Homeless Community in Portland That Became Self-Governed</title>

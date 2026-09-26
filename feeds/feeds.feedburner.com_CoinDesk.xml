@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 22:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:01:41 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,47 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Solana’s 150-millisecond settlement upgrade reaches second public test network]]></title>
+      <link>https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">100b2cba-7e49-4f89-8113-588b5b53e894</guid>
+      <pubDate>Sat, 26 Sep 2026 05:00:00 +0000</pubDate>
+      <description><![CDATA[Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets]]></title>
+      <link>https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">4e3afdfc-0e98-4569-adc2-020b5762a762</guid>
+      <pubDate>Sat, 26 Sep 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules]]></title>
+      <link>https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/bb91f522b50463896027288e6037d9a39f937ae2-5472x3648.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a5ca0471-ae18-4e87-b3eb-2470edec7974</guid>
+      <pubDate>Sat, 26 Sep 2026 04:02:13 +0000</pubDate>
+      <description><![CDATA[Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="tag"><![CDATA[Privacy]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[U.S. SEC's steadiest crypto advocate, Hester Peirce, to depart next week]]></title>
       <link>https://www.coindesk.com/policy/2026/09/25/u-s-sec-s-steadiest-crypto-advocate-hester-peirce-to-depart-next-week</link>
@@ -336,50 +377,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto casino Duelbits goes offline after $7 million hot wallet hack]]></title>
-      <link>https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/70172f53cfba9b4db9ca138599dd8ee6f4d188da-1920x1080.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">782008e1-3270-4a1d-8385-0ef3ebad78d4</guid>
-      <pubDate>Thu, 24 Sep 2026 15:48:20 +0000</pubDate>
-      <description><![CDATA[Attackers drained Duelbits' hot wallets across four blockchains; about $6 million in stolen funds now sits in a single Ethereum address.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Hack]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin’s bear markets are getting milder. Bull markets may be next]]></title>
-      <link>https://www.coindesk.com/markets/2026/09/24/bitcoin-s-bear-markets-are-getting-milder-the-bull-markets-may-be-next</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b18259d0df35543019d1ba0311d7775aec49d301-6000x4000.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">635c2526-7bd2-40d6-81f1-9e3f87cc40bf</guid>
-      <pubDate>Thu, 24 Sep 2026 15:26:34 +0000</pubDate>
-      <description><![CDATA[Bitcoin’s latest bear market was milder than past crashes as ETFs, institutional investors and a maturing market reshape its cycles.]]></description>
-      <dc:creator>Helene Braun</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[UK’s largest banks complete world’s first interbank transactions using tokenized deposits ]]></title>
-      <link>https://www.coindesk.com/business/2026/09/24/uk-s-largest-banks-complete-world-s-first-interbank-transactions-using-tokenized-deposits</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6a55120319f442a7083bbe28359db7f277af29df-5745x3830.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">388650d7-6ab4-4ec3-9da4-05732827d316</guid>
-      <pubDate>Thu, 24 Sep 2026 15:07:18 +0000</pubDate>
-      <description><![CDATA[Barclays, NatWest, and HSBC and others used tokenized deposits for remortgages and a marketplace-payment test, taking bank-issued digital cash beyond a single institution.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[UK]]></category>
-      <category domain="tag"><![CDATA[tokenized deposits]]></category>
-      <category domain="tag"><![CDATA[banks]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

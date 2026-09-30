@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 23:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:39:56 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Bitcoin rally shows signs of cooling even as a 'bull score' gauge nears its perfect score]]></title>
+      <link>https://www.coindesk.com/markets/2026/09/30/bitcoin-rally-shows-signs-of-cooling-even-as-a-bull-score-gauge-nears-its-perfect-score</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/b47e660b984cc83ef37291fa83d553654781579e-1500x836.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">2068bd0a-7c48-4549-bc65-90f013c5f851</guid>
+      <pubDate>Wed, 30 Sep 2026 04:38:18 +0000</pubDate>
+      <description><![CDATA[A trend guage tracked on onchain analysis firm CryptoQuant is near its ceiling. The buyers who drove BTC to an eight-month high are already pulling back.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Robinhood adds AI agents, perps and weekend trading in push to win active traders]]></title>
       <link>https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders</link>
@@ -356,21 +369,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Live News]]></category>
       <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[Eyes on key U.S. employment data as crypto bulls take a breather: Crypto Week Ahead]]></title>
-      <link>https://www.coindesk.com/markets/2026/09/28/bitcoin-rally-takes-a-breather-ahead-of-key-u-s-employment-data-crypto-week-ahead</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6f1b0d6a21e1b90fcb2e94a08e782b25a7ac1d71-2592x1458.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">68780838-2c0e-41e9-9405-a14dd8941807</guid>
-      <pubDate>Mon, 28 Sep 2026 09:45:55 +0000</pubDate>
-      <description><![CDATA[Your look at what's coming in the week starting Sept. 28.]]></description>
-      <dc:creator>Jamie Crawley</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[week ahead]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
 </rss>

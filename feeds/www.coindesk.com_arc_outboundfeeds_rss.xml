@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:44:24 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal]]></title>
+      <link>https://www.coindesk.com/news-analysis/2026/09/30/crypto-industry-gave-usd8-million-to-clarity-act-lobbyists-who-didn-t-close-the-deal</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/73ff5902b975f54122994ceeb39606463e975438-2732x1535.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">aae5dfb1-54bc-455f-a89a-5ec5d919c3b0</guid>
+      <pubDate>Wed, 30 Sep 2026 17:16:31 +0000</pubDate>
+      <description><![CDATA[In the first half of this year, the sector poured millions into lobbying, with most of it tied to pushing the U.S. market structure bill to a goal it never reached.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/news-analysis"><![CDATA[News Analysis]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="tag"><![CDATA[Clarity Act]]></category>
+      <category domain="tag"><![CDATA[Coinbase]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Open USD takes on Tether, Circle with a different stablecoin model that's 'building money']]></title>
       <link>https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money</link>
@@ -161,11 +177,12 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin returns to $84,000, giving up early gains]]></title>
+      <title><![CDATA[Live updates: Bitcoin closing out best quarter since 2024, ether its best since 2021]]></title>
       <link>https://www.coindesk.com/markets/2026/09/30/live-updates-bitcoin-below-usd84-000-ahead-of-pce-inflation-data-micron-earnings</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/6948f871754de816bd3923576efd6644823d9c78-1920x1030.png?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">852d952c-97c0-4ced-8aa7-3f6d6fefef14</guid>
       <pubDate>Wed, 30 Sep 2026 10:18:34 +0000</pubDate>
-      <description><![CDATA[Core PCE prices rose just 0.2% in August versus the 0.3% forecast, and were higher by 3% year-over-year versus the 3.3% estimate.]]></description>
+      <description><![CDATA[Crypto prices rose early Wednesday after better-than-forecast inflation data, but gave up those gains as interest rates continued to surge.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
       <dc:creator>Omkar Godbole</dc:creator>
@@ -359,19 +376,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Zcash developers begin moving Tachyon code into faster private-payment software]]></title>
-      <link>https://www.coindesk.com/tech/2026/09/29/zcash-s-faster-private-payment-code-is-being-rebuilt-for-its-bigger-scaling-plan</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e1f96db8eb916e3fbb2aec102f6317fceb95edad-1500x1026.jpg?fm=jpg&amp;w=1920&amp;h=1080&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">ee9e71e1-0470-411b-a814-9bbcfa41e826</guid>
-      <pubDate>Tue, 29 Sep 2026 11:15:30 +0000</pubDate>
-      <description><![CDATA[Developers are starting to fold Project Tachyon into Zakura Common as they work toward a long-term target of more than 50,000 private payments a second.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

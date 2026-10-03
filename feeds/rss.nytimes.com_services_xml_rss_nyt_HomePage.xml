@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 19:08:01 +0000</lastBuildDate>
-    <pubDate>Sat, 03 Oct 2026 18:40:49 +0000</pubDate>
+    <lastBuildDate>Sat, 03 Oct 2026 22:16:23 +0000</lastBuildDate>
+    <pubDate>Sat, 03 Oct 2026 22:12:13 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -53,56 +53,28 @@
       <media:description>The negotiations about the Lukoil deal show that personal business interests in President Trump’s inner circle are also in play. Lukoil is Russia’s biggest private oil company.</media:description>
     </item>
     <item>
-      <title>Trump, Putin, Ukraine and an Oil Deal: 5 Takeaways</title>
-      <link>https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html" rel="standout"></atom:link>
-      <description>A proposal to bolster relations with the Kremlin through the purchase of Russian energy assets is striking even for an administration that regularly mixes personal business interests with foreign policy.</description>
-      <dc:creator>Eric Lipton and Anton Troianovski</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 09:03:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Affinity Partners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lukoil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carlyle Group LP</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">US International Development Finance Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Liberty Financial</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boehly, Todd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khayyat, Moutaz Al- (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khayyat, Ramez Al- (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nahyan, Tahnoon bin Zayed al- (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Witkoff, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03dc-Lukoil-takeaways-tkqw/03dc-Lukoil-takeaways-tkqw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anastasia Barashkova/Reuters</media:credit>
-      <media:description>Cars waited to refuel at a Lukoil fuel station amid fuel shortages in August.</media:description>
-    </item>
-    <item>
-      <title>Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline</title>
-      <link>https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html" rel="standout"></atom:link>
-      <description>The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 17:47:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro River (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bridges and Tunnels</category>
+      <title>With Elon Musk’s Return to Washington, Possible Conflicts of Interest Resurface</title>
+      <link>https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/us/politics/elon-musk-pentagon-returns-to-washington.html" rel="standout"></atom:link>
+      <description>The founder of SpaceX, with billions of dollars in military contracts, joins several other defense industry executives on a Pentagon advisory board.</description>
+      <dc:creator>Kate Kelly</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 21:14:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03int-ukraine-bridges-qcpk/03int-ukraine-bridges-qcpk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
-      <media:description>A Russian drone striking a bridge, in Kyiv, Ukraine, on Friday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anduril Industries Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palantir Technologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gingrich, Newt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lonsdale, Joe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/00DC-MUSK-01-wqft/00DC-MUSK-01-wqft-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>As a co-director of a new Pentagon initiative, Elon Musk is back in Washington.</media:description>
     </item>
     <item>
       <title>Senate Races in Republican States Tilt Toward Democrats, Polls Find</title>
@@ -145,7 +117,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html" rel="standout"></atom:link>
       <description>Five new Times/Siena polls continue a run of strong results for Democrats in states that President Trump won easily in 2024.</description>
       <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 15:16:05 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 22:02:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -164,7 +136,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html" rel="standout"></atom:link>
       <description>Frank Strada, who oversaw the process that left Christa Pike unconscious and hospitalized, quit as an independent review began.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 18:23:29 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 19:57:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strada, Frank (1966- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
@@ -178,61 +150,27 @@
       <media:description>Frank Strada, the embattled Tennessee prison chief, is stepping down after the failed execution of Christa Pike.</media:description>
     </item>
     <item>
-      <title>Tennessee Prison Chief Was Hired Despite a Trail of Troubled Executions</title>
-      <link>https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/us/frank-strada-tennessee-executions-arizona-christa-pike.html" rel="standout"></atom:link>
-      <description>The failed execution of Christa Pike has prompted new scrutiny of Frank Strada, who resigned as the state’s top prison official on Saturday, and his past role overseeing executions in Arizona.</description>
-      <dc:creator>Eduardo Medina, Jack Healy and Emily Cochrane</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 15:41:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strada, Frank (1966- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <title>‘How Does That Happen?’: America’s Execution System Is Long Flawed</title>
+      <link>https://www.nytimes.com/2026/10/03/us/death-penalty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/death-penalty.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/us/death-penalty.html" rel="standout"></atom:link>
+      <description>The failed execution of Christa Pike, which left her clinging to life in Tennessee, was the latest grisly error to take place in an American execution chamber.</description>
+      <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 09:02:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pike, Christa (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Death Penalty Information Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carruthers, Tony (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Creech, Thomas (1950- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grant, John Marion (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, William Byron (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02nat-tn-strada-pqcl/02nat-tn-strada-pqcl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Mark Humphrey/Associated Press</media:credit>
-      <media:description>Frank Strada speaking at Riverbend Maximum Security Institution in Nashville after an execution in August.</media:description>
-    </item>
-    <item>
-      <title>How a Failed Execution Left Christa Pike Hovering Between Life and Death</title>
-      <link>https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/03/us/christa-pike-tennessee-execution.html" rel="standout"></atom:link>
-      <description>Her legal team had repeatedly warned that her execution could go wrong. On Wednesday, they were proven right.</description>
-      <dc:creator>Shaila Dewan and Emily Cochrane</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 09:03:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pike, Christa (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Riverbend Maximum Security Institution (Nashville, Tenn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slemmer, Colleen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/03/multimedia/03nat-tn-ticktock-hmfk/03nat-tn-ticktock-hmfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Denny Simmons/The Tennessean, via USA Today Network, via Reuters</media:credit>
-      <media:description>Emergency vehicles arrived at Riverbend Maximum Security Institution on Wednesday after the failed execution of Christa Pike.</media:description>
-    </item>
-    <item>
-      <title>D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence</title>
-      <link>https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html" rel="standout"></atom:link>
-      <description>Records show that campus police officers informed Tompkins County prosecutors that they had conducted additional interviews beyond taking a statement from the woman who said she was raped.</description>
-      <dc:creator>Michael Rothfeld and Hurubie Meko</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 13:11:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Houten, Matthew</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tompkins County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02met-cornell-da-jgqp/02met-cornell-da-jgqp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lauren Petracca/Reuters</media:credit>
-      <media:description>The Cornell University Police Department gathered additional evidence in its investigation into allegations that several fraternity members had sexually assaulted a woman.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00nat-executions-qvjm/00nat-executions-qvjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Denny Simmons / The Tennessean/USA TODAY NETWORK, via Reuters</media:credit>
+      <media:description>Emergency vehicles arrived at Riverbend Maximum Security Institution in Nashville after the failed execution of Christa Pike.</media:description>
     </item>
     <item>
       <title>Cornell Case Revives Anger About Handling of Campus Sexual Assault Cases</title>
@@ -256,49 +194,24 @@
       <media:description>On the campus of Cornell University and beyond, women are talking about their own experiences of sexual assault. </media:description>
     </item>
     <item>
-      <title>American High School Students Are Selling Guns Bound for Cartels</title>
-      <link>https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/03/world/americas/high-school-arms-dealing-mexican-cartels.html" rel="standout"></atom:link>
-      <description>Drawn by money and status, teenagers in Arizona are buying, stealing and selling weapons destined for criminal groups in Mexico.</description>
-      <dc:creator>Paulina Villegas and Adriana Zehbrauskas</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 18:40:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Alcohol, Tobacco, Firearms and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/10/multimedia/00int-mexico-guns-promo/00int-mexico-guns-jbkp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
-      <media:description>Two teenage American weapons traffickers — who provide weapons to Mexico’s deadly drug cartels — practice shooting at targets in the desert outside of Phoenix, Ariz.</media:description>
-    </item>
-    <item>
-      <title>What We Learned About American Teenagers Supplying Guns to Cartels</title>
-      <link>https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/03/world/americas/american-teenage-gun-traffickers.html" rel="standout"></atom:link>
-      <description>Our reporting revealed how Mexican criminal groups are relying on teenagers and young adults in border states like Arizona to help supply their weapons.</description>
-      <dc:creator>Paulina Villegas</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 16:36:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Signal (Open Whisper Systems)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/21/multimedia/int-mexico-guns-takeaways-ktfh/int-mexico-guns-takeaways-ktfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
-      <media:description>Two teenage American weapons traffickers known as El Flaco, left, and Chuy, in the desert outside Phoenix, where they shot rifles.</media:description>
+      <title>D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence</title>
+      <link>https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html" rel="standout"></atom:link>
+      <description>Records show that campus police officers informed Tompkins County prosecutors that they had conducted additional interviews beyond taking a statement from the woman who said she was raped.</description>
+      <dc:creator>Michael Rothfeld and Hurubie Meko</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 13:11:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Houten, Matthew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tompkins County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/02met-cornell-da-jgqp/02met-cornell-da-jgqp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lauren Petracca/Reuters</media:credit>
+      <media:description>The Cornell University Police Department gathered additional evidence in its investigation into allegations that several fraternity members had sexually assaulted a woman.</media:description>
     </item>
     <item>
       <title>Chris Rock Has Been Thinking About Forgiveness</title>
@@ -337,6 +250,22 @@
       <media:credit>Philip Montgomery for The New York Times</media:credit>
     </item>
     <item>
+      <title>Affordability Is a Winning Message for Democrats. But There’s an Even Better One.</title>
+      <link>https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html" rel="standout"></atom:link>
+      <description>If Democrats can embrace what affordability is really about, they might do even more than win elections.</description>
+      <dc:creator>Tim Wu</dc:creator>
+      <pubDate>Fri, 02 Oct 2026 17:17:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capitalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
       <title>What the Cornell Lawsuit Reveals About Sexual Violence in America</title>
       <link>https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/opinion/cornell-rape-lawsuit-politics-morality.html</guid>
@@ -364,42 +293,23 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>‘Attention Infidelity’ Is Ruining Romance</title>
-      <link>https://www.nytimes.com/2026/09/30/opinion/attention-infidelity-ruin-romance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/30/opinion/attention-infidelity-ruin-romance.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/09/30/opinion/attention-infidelity-ruin-romance.html" rel="standout"></atom:link>
-      <description>Your full attention is a gift. Give it more often.</description>
-      <dc:creator>Jessica Grose</dc:creator>
-      <pubDate>Fri, 02 Oct 2026 02:43:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Enterprise Institute for Public Policy Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-    </item>
-    <item>
-      <title>Omani Co-Pilot on FlyDubai Flight Is Said to Have Extremist Views</title>
-      <link>https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/03/world/middleeast/oman-flydubai-flight-1073-pilot-radicalized.html" rel="standout"></atom:link>
-      <description>It was unclear what background checks had been carried out before he was allowed to fly to Israel.</description>
-      <dc:creator>Julian E. Barnes, Aaron Boxerman and Jane Bradley</dc:creator>
-      <pubDate>Sat, 03 Oct 2026 12:58:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hijacking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flydubai</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Machchhar, Smit</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/02/multimedia/00int-flydubai-copilot-qpgw/00int-flydubai-copilot-qpgw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A FlyDubai aircraft that returned passengers who had been aboard Flight 1073, at Ben Gurion Airport in Tel Aviv on Wednesday.</media:description>
+      <title>‘Digger,’ Warner Bros.’ Last Release Before Merger, Is a Major Flop</title>
+      <link>https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html" rel="standout"></atom:link>
+      <description>The film, starring Tom Cruise, grossed an estimated $8 million in its opening weekend. That could put the movie on track to lose at least $125 million.</description>
+      <dc:creator>Nicole Sperling</dc:creator>
+      <pubDate>Sat, 03 Oct 2026 22:12:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Brothers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruise, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hathaway, Anne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Inarritu, Alejandro G</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/04/multimedia/04biz-boxoffice-diggers-1-gvcm/04biz-boxoffice-diggers-1-gvcm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angel Delgado/Getty Images</media:credit>
+      <media:description>Alejandro G. Iñárritu, left, the director of “Diggers,” and Tom Cruise, who plays a gray-haired billionaire in the film. They were in Mexico late last month promoting it.</media:description>
     </item>
   </channel>
 </rss>

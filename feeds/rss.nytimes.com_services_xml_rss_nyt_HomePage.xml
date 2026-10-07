@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?widgetName=rssfeed&amp;widgetContentId=714290&amp;getXmlFeed=true" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 00:53:58 +0000</lastBuildDate>
-    <pubDate>Wed, 07 Oct 2026 00:52:09 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:01:36 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Oct 2026 06:07:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -75,21 +75,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pike, Christa (1976- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slemmer, Colleen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, William Byron (1959- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/05/multimedia/05nat-tn-christa-gpbt/05nat-tn-christa-gpbt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>George Walker IV/Associated Press</media:credit>
       <media:description>Emergency vehicles arrive at Riverbend Maximum Security Institution after the execution of Christa Pike was halted.</media:description>
     </item>
     <item>
-      <title>Discontent Grips France</title>
-      <link>https://www.nytimes.com/2026/10/06/briefing/discontent-grips-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/briefing/discontent-grips-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/briefing/discontent-grips-france.html" rel="standout"></atom:link>
-      <description>Also, an ex-C.I.A. officer admits to a $145 million scam. Here’s the latest at the end of Tuesday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 21:51:50 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06evening-france-protests/06evening-france-protests-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kai Pfaffenbach/Reuters</media:credit>
-      <media:description>Demonstrators in Strasbourg today.</media:description>
+      <title>Takeaways From the First Maine Senate Debate Between Susan Collins and Troy Jackson</title>
+      <link>https://www.nytimes.com/2026/10/06/us/politics/maine-senate-debate-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/us/politics/maine-senate-debate-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/us/politics/maine-senate-debate-takeaways.html" rel="standout"></atom:link>
+      <description>Senator Susan Collins, one of the most vulnerable Republicans in the midterms, clashed with the Democratic challenger Troy Jackson over President Trump, ICE and more.</description>
+      <dc:creator>Lisa Lerer, Tim Balk and Emily Davies</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 02:43:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Troy D (1968- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06pol-debate-takeaways-promo/06pol-debate-takeaways-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ryan David Brown for The New York Times</media:credit>
+      <media:description>Susan Collins, Troy Jackson</media:description>
     </item>
     <item>
       <title>What, Exactly, Did Trump Say About Iran Taking Out Los Angeles and San Diego?</title>
@@ -118,7 +124,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/us/politics/trump-advisers-republika-srpska.html" rel="standout"></atom:link>
       <description>James Blair and Chris LaCivita, who are leading the president’s congressional campaign operation, traveled to Republika Srpska to provide election advice.</description>
       <dc:creator>Kenneth P. Vogel</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 22:19:12 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 01:39:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dodik, Milorad</category>
@@ -158,20 +164,21 @@
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
     </item>
     <item>
-      <title>Secret Billionaires, Mafia Brides, Alpha Kings: The Insane World of Microdramas</title>
-      <link>https://www.nytimes.com/2026/10/06/magazine/microdramas-tv-shows-hollywood-entertainment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/magazine/microdramas-tv-shows-hollywood-entertainment.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/magazine/microdramas-tv-shows-hollywood-entertainment.html" rel="standout"></atom:link>
-      <description>Vertical soap operas for your phone have taken over film and TV production, and they may soon need no humans at all.</description>
-      <dc:creator>Daniel Kolitz</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 19:21:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ReelShort (Mobile App)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Web-Original Programming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quibi Holdings LLC</category>
+      <title>It Can Keep Cancer in Remission. Why Is No One Talking About It?</title>
+      <link>https://www.nytimes.com/2026/10/06/well/cancer-prevention-exercise-treatment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/well/cancer-prevention-exercise-treatment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/well/cancer-prevention-exercise-treatment.html" rel="standout"></atom:link>
+      <description>Despite mounting evidence that exercise programs can improve cancer outcomes, access to them remains limited.</description>
+      <dc:creator>Nina Agrawal</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 09:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/23/multimedia/00WELL-CANCER-EXERCISE1-hqfw/00WELL-CANCER-EXERCISE1-hqfw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Jeff Swensen for The New York Times</media:credit>
     </item>
     <item>
       <title>People of All Ages Join French Student Protests, as Movement Broadens</title>
@@ -180,7 +187,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/world/europe/french-student-protest-unions-college.html" rel="standout"></atom:link>
       <description>Union members, parents, teachers and others took part in mass demonstrations around the country, backing student demands that the government invest more in schools.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 16:14:08 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 03:04:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
@@ -252,6 +259,46 @@
       <media:description>Eva Marie Saint and Cary Grant in Alfred Hitchcock’s “North by Northwest” in 1959. She said some of the easiest work in her entire professional life involved the many retakes required to film their kissing scenes.</media:description>
     </item>
     <item>
+      <title>10 Great Eva Marie Saint Performances to Stream</title>
+      <link>https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-streaming.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-streaming.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/movies/eva-marie-saint-streaming.html" rel="standout"></atom:link>
+      <description>From “On the Waterfront” to “North by Northwest,” Saint specialized in complex sympathetic women who did their best to weather domestic and cultural storms.</description>
+      <dc:creator>Scott Tobias</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 02:17:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saint, Eva Marie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">All Fall Down (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Exodus (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Loving (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">North by Northwest (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Nothing in Common (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">On the Waterfront (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Russians Are Coming, the Russians Are Coming (Movie)</category>
+    </item>
+    <item>
+      <title>The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?</title>
+      <link>https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html" rel="standout"></atom:link>
+      <description>Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and a mock Bayeux Tapestry. But the challenge from Reform U.K. remains.</description>
+      <dc:creator>Stephen Castle</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 04:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Birmingham (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Badenoch, Kemi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/07int-uk-conservatives-ltjm/07int-uk-conservatives-ltjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hannah Mckay/Reuters</media:credit>
+      <media:description>The Conservative Party leader Kemi Badenoch in Birmingham on Sunday.</media:description>
+    </item>
+    <item>
       <title>Ex-C.I.A. Officer Who Stashed Gold Bars Admits to Far Larger $145 Million Scam</title>
       <link>https://www.nytimes.com/2026/10/06/us/politics/cia-officer-gold-bars-guilty-plea.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/us/politics/cia-officer-gold-bars-guilty-plea.html</guid>
@@ -277,7 +324,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/06/us/bill-harris-dead.html" rel="standout"></atom:link>
       <description>He was a disillusioned Vietnam veteran looking for purpose when he joined a revolutionary group known as the Symbionese Liberation Army.</description>
       <dc:creator>Alex Williams</dc:creator>
-      <pubDate>Wed, 07 Oct 2026 00:26:14 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 02:19:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Bill (1945-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Symbionese Liberation Army</category>
@@ -320,48 +367,74 @@
       <media:description>Six members of the S.L.A. died in a shootout with Los Angeles police in May 1974. Clockwise from top left, Camilla Hall, William Wolfe, Donald DeFreeze, Patricia Soltysik, Nancy Ling Perry and Angela Atwood.</media:description>
     </item>
     <item>
-      <title>Two Democracy Heroes on America</title>
-      <link>https://www.nytimes.com/2026/10/06/opinion/middle-east-democracy-iran-us-yemen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/opinion/middle-east-democracy-iran-us-yemen.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/opinion/middle-east-democracy-iran-us-yemen.html" rel="standout"></atom:link>
-      <description>Sitting on your hands is not an option when democracy is at stake.</description>
-      <dc:creator>Thomas L. Friedman</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 21:59:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Athens Democracy Forum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saleh, Ali Abdullah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Greece)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Jerusalem</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/07/multimedia/06friedman-czgp/06friedman-czgp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Will Matsuda for The New York Times</media:credit>
+      <title>Putin’s Desperate, Dangerous Game in Europe</title>
+      <link>https://www.nytimes.com/2026/10/07/opinion/putin-russia-ukraine-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/opinion/putin-russia-ukraine-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/opinion/putin-russia-ukraine-europe.html" rel="standout"></atom:link>
+      <description>Vladimir Putin wants Europe to turn off its support to Ukraine, and he’s becoming more blatant in his warnings.</description>
+      <dc:creator>Lawrence Freedman</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 05:57:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/07/opinion/07freedman/07freedman-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by The New York Times; source photograph via Getty Images </media:credit>
     </item>
     <item>
-      <title>A.I. Is Lying to You. Here’s How to Fight Back.</title>
-      <link>https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/06/opinion/ai-propaganda-information-spy.html" rel="standout"></atom:link>
-      <description>In the age of A.I. disinformation, we all need to use the tools of counterespionage to find the truth.</description>
-      <dc:creator>Anthony Vinci</dc:creator>
-      <pubDate>Tue, 06 Oct 2026 23:49:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/06/opinion/06vinci-image/06vinci-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by Sam Whitney/The New York Times</media:credit>
+      <title>What It Will Take for Israel to Overcome the Ghosts of Oct. 7</title>
+      <link>https://www.nytimes.com/2026/10/06/opinion/israel-palestinians-netanyahu-flydubai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/opinion/israel-palestinians-netanyahu-flydubai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/opinion/israel-palestinians-netanyahu-flydubai.html" rel="standout"></atom:link>
+      <description>What it will take for Israel to overcome the ghosts of Oct. 7.</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Tue, 06 Oct 2026 09:03:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/06/multimedia/06stephens-zgjl/06stephens-zgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ofir Berman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Jimmy Kimmel Shames Trump for Suggesting Iran Could Bomb California</title>
+      <link>https://www.nytimes.com/2026/10/07/arts/television/jimmy-kimmel-trump-iran-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/07/arts/television/jimmy-kimmel-trump-iran-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/07/arts/television/jimmy-kimmel-trump-iran-california.html" rel="standout"></atom:link>
+      <description>“You know what? I’m going to report him to the F.C.C.,” Kimmel said.</description>
+      <dc:creator>Trish Bendix</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 06:07:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meyers, Seth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night with Seth Meyers (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Daily Show with Jon Stewart (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kosta, Michael (1979- )</category>
+    </item>
+    <item>
+      <title>University of Arizona Suspends Fraternity Activities, Citing Misconduct Reports</title>
+      <link>https://www.nytimes.com/2026/10/06/us/arizona-university-fraternities-suspended.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/06/us/arizona-university-fraternities-suspended.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/06/us/arizona-university-fraternities-suspended.html" rel="standout"></atom:link>
+      <description>The university said it was putting its fraternity chapters on “activities suspension” while it investigated allegations that included assault, drug use and hazing.</description>
+      <dc:creator>Jennifer Sinco Kelleher</dc:creator>
+      <pubDate>Wed, 07 Oct 2026 03:46:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Discipline (Students)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organizations, Societies and Clubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tucson (Ariz)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/15/multimedia/06xp-az-frats/00nat-student-visas-01-zfmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Caitlin O&#39;Hara for The New York Times</media:credit>
+      <media:description>The University of Arizona campus in Tucson. The university said this week that it was placing its fraternity chapters on “interim activities suspension,” citing misconduct allegations.</media:description>
     </item>
   </channel>
 </rss>

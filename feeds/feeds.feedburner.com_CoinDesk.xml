@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:25:09 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -19,12 +19,27 @@
       <link>https://www.coindesk.com/</link>
     </image>
     <item>
+      <title><![CDATA[U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e677de9a7fbe496bd8405a8d8976d6448ebd0b86-4184x2354.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">2ae93f2b-3de3-4b2f-842a-a5f511189661</guid>
+      <pubDate>Fri, 09 Oct 2026 21:21:54 +0000</pubDate>
+      <description><![CDATA[The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight. ]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
       <title><![CDATA[Robinhood Chain considers technology that gives paying traders priority]]></title>
       <link>https://www.coindesk.com/business/2026/10/09/robinhood-chain-considers-technology-that-gives-paying-traders-priority</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/89aa4fc6f8aa83f920b7053236bf63a3c1793418-6240x4160.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">b239c4b1-3977-410f-8a9a-c590bfdb446f</guid>
       <pubDate>Fri, 09 Oct 2026 18:11:00 +0000</pubDate>
-      <description><![CDATA[A recently updated version of the paid-for transaction-ordering technology “Time Boost” will be available on Arbitrum, Robinhood Chain’s infrastructure provider. ]]></description>
+      <description><![CDATA[Arbitrum recently replaced its Timeboost transaction-ordering system with a new model called Priority Gas Auctions.]]></description>
       <dc:creator>Ian Allison</dc:creator>
       <content:encoded/>
       <dc:description/>
@@ -194,13 +209,14 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin steadies near $83,000 as crypto recovers from Thursday selloff]]></title>
+      <title><![CDATA[Live updates: Bitcoin slips from day's highs, set to close week with a loss]]></title>
       <link>https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows</link>
       <guid isPermaLink="false">951e9ab3-0f0c-4fbc-acd9-b6d80367fe77</guid>
       <pubDate>Fri, 09 Oct 2026 06:51:32 +0000</pubDate>
       <description><![CDATA[Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>Stephen Alpher</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
@@ -366,21 +382,6 @@
       <category domain="tag"><![CDATA[Stablecoins]]></category>
       <category domain="tag"><![CDATA[MiCA]]></category>
       <category domain="tag"><![CDATA[Regulation]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Crypto for Advisors: Digital assets outran stocks and gold in Q3 ]]></title>
-      <link>https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cec422381be05e630231b39452614ed9fe8e30d9-1029x545.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6c1848b0-0c2d-4f05-8d13-7c53eef138fe</guid>
-      <pubDate>Thu, 08 Oct 2026 15:11:15 +0000</pubDate>
-      <description/>
-      <dc:creator>Kevin Tam</dc:creator>
-      <dc:creator>Joshua de Vos</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
-      <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

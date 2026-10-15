@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 17:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:01:44 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[At the White House, crypto policy vacancy looms large]]></title>
+      <link>https://www.coindesk.com/news-analysis/2026/10/15/at-the-white-house-crypto-policy-vacancy-looms-large</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a557d00cbe2a4f9b6f42b53082f2cd587490332b-4031x2267.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">f791d75f-ea39-43e0-99bc-a8769c3ebcab</guid>
+      <pubDate>Thu, 15 Oct 2026 18:48:02 +0000</pubDate>
+      <description><![CDATA[The departure of President Donald Trump's crypto adviser, Patrick Witt, leaves the digital assets office vacant and its policy aims uncertain. ]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/news-analysis"><![CDATA[News Analysis]]></category>
+      <category domain="tag"><![CDATA[White House]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules]]></title>
       <link>https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules</link>
@@ -92,11 +107,11 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin bounces after first fall below $80,000 in one month]]></title>
+      <title><![CDATA[Live updates: Bitcoin bounces back to $82,000 after first fall below $80,000 in one month]]></title>
       <link>https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens</link>
       <guid isPermaLink="false">422c4d36-8184-46da-b11c-576d88b6ef52</guid>
       <pubDate>Thu, 15 Oct 2026 10:16:15 +0000</pubDate>
-      <description><![CDATA[Stocks have also turned positive after big early losses, helped by sharply lower bond yields.]]></description>
+      <description><![CDATA[Stocks also turned positive after big early losses, helped by sharply lower bond yields.]]></description>
       <dc:creator>Shaurya Malwa</dc:creator>
       <dc:creator>James Van Straten</dc:creator>
       <dc:creator>Omkar Godbole</dc:creator>
@@ -372,21 +387,6 @@
       <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
       <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="tag"><![CDATA[Stablecoins]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag]]></title>
-      <link>https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ed334c7526ca675825caee4912b564d76c0e5b3d-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6daf3e14-1309-46a6-8968-c70d3abda68c</guid>
-      <pubDate>Wed, 14 Oct 2026 10:51:39 +0000</pubDate>
-      <description><![CDATA[Bitcoin briefly reached $84,000 before easing back, while the CoinDesk 80 fell 0.6% since midnight as traders waited for U.S. inflation data.]]></description>
-      <dc:creator>Oliver Knight</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Crypto Markets Today]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

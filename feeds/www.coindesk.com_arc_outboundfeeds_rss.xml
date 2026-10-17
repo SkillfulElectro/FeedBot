@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 05:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 09:42:25 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery]]></title>
+      <link>https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2297ea2e470af647418127b13e7a3275fed8827a-1920x1200.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">93336604-2bdb-49b0-abe8-cb04f443a781</guid>
+      <pubDate>Sat, 17 Oct 2026 06:39:48 +0000</pubDate>
+      <description><![CDATA[Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn’t gone anywhere.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough]]></title>
       <link>https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough</link>
@@ -369,21 +382,6 @@
       <category domain="tag"><![CDATA[Cryptocurrency]]></category>
       <category domain="tag"><![CDATA[SEC]]></category>
       <category domain="tag"><![CDATA[Crime]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt]]></title>
-      <link>https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/7ac986e95de8943f9daaadd64fd86aee424071d3-2937x1693.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">b94f8196-a076-4370-a121-fa231c628aae</guid>
-      <pubDate>Thu, 15 Oct 2026 06:17:58 +0000</pubDate>
-      <description><![CDATA[BlackRock's CEO says "a moratorium of some sort" on data center buildouts would put the U.S. in a recession. ]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[BlackRock]]></category>
-      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

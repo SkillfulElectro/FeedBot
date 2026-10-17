@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 09:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:01:39 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Banks could slow stablecoin growth by paying savers more, BIS paper finds]]></title>
+      <link>https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">a3cda781-8f38-4500-82a6-e60cfa39d633</guid>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[banks]]></category>
+      <category domain="tag"><![CDATA[Stablecoins]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery]]></title>
       <link>https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery</link>
@@ -366,22 +381,6 @@
       <category domain="tag"><![CDATA[Regulation]]></category>
       <category domain="tag"><![CDATA[Australia]]></category>
       <category domain="tag"><![CDATA[Cryptocurrency]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Hex founder Richard Heart arrested in Istanbul, Turkish media report]]></title>
-      <link>https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/03e37489ed1eae296cbd07f255ddf7baed72214e-2826x1554.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">60116bbe-3018-4094-850a-b25ef9635e82</guid>
-      <pubDate>Thu, 15 Oct 2026 09:20:57 +0000</pubDate>
-      <description><![CDATA[Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Cryptocurrency]]></category>
-      <category domain="tag"><![CDATA[SEC]]></category>
-      <category domain="tag"><![CDATA[Crime]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

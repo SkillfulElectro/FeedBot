@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 07:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:02:11 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,22 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO]]></title>
+      <link>https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">6fb281fd-4811-43a3-b88f-aa268af04abd</guid>
+      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Clarity Act]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet]]></title>
       <link>https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet</link>
@@ -361,22 +377,6 @@
       <category domain="tag"><![CDATA[India]]></category>
       <category domain="tag"><![CDATA[Predictions]]></category>
       <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack]]></title>
-      <link>https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides</link>
-      <guid isPermaLink="false">60a7e30b-ae1a-4b9f-9484-93abb2e9a707</guid>
-      <pubDate>Thu, 22 Oct 2026 09:54:26 +0000</pubDate>
-      <description><![CDATA[The Nasdaq is down more than 2% as the AI bull market trade continues to unwind. U.S. interest rates are plunging even as oil surges.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>Stephen Alpher</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
     </item>
   </channel>
 </rss>

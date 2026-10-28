@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1793213749500" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 18:55:49 +0000</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 18:55:35 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:06:22 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 23:04:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html" rel="standout"></atom:link>
       <description>Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.</description>
       <dc:creator>Ana Ionova, Edward Wong, Alice Maciel and Lucía Cholakian Herrera</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 18:55:35 +0000</pubDate>
+      <pubDate>Wed, 28 Oct 2026 23:04:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
@@ -36,7 +36,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eva Marie Uzcategui/Reuters</media:credit>
-      <media:description>Flávio Bolsonaro arriving at Opa-locka airport near Miami on Wednesday.</media:description>
+      <media:description>Flávio Bolsonaro arriving at Miami Opa-Locka Airport on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election</title>
+      <link>https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html" rel="standout"></atom:link>
+      <description>With street talk and tactics from the far-right’s playbook, André Janones used a WhatsApp channel to help organize millions of Brazilians online.</description>
+      <dc:creator>Adam B. Ellick and Victor Moriyama</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 20:35:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/00brazil-election-influencer-promo/00brazil-election-influencer-cbkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>The Brazilian congressman André Janones created a digital “army” by setting up WhatsApp groups and posting on Instagram, which helped mobilized the vote for the reelection of President Luiz Inácio Lula da Silva.</media:description>
     </item>
     <item>
       <title>What to Know About Brazil’s Election and Flávio Bolsonaro’s Departure</title>
@@ -55,6 +75,18 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/25/multimedia/26xp-brazil-wwk-1/26xp-brazil-wwk-1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amanda Perobelli/Reuters</media:credit>
       <media:description>President Luiz Inácio Lula da Silva of Brazil delivered his victory speech on Sunday after the election.</media:description>
+    </item>
+    <item>
+      <title>A Ballot-Stacking Effort in Alaska</title>
+      <link>https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/briefing/alaska-ballot-stacking-horror-bookshops.html" rel="standout"></atom:link>
+      <description>Also, Life magazine rises again. Here’s the latest at the end of Wednesday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 21:40:48 +0000</pubDate>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28evening-nl-alaska-dems-zclv/28evening-nl-alaska-dems-zclv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kerry Tasker/Reuters</media:credit>
+      <media:description>Mary Peltola in Anchorage this month.</media:description>
     </item>
     <item>
       <title>Inside Democrats’ Secret Effort to Stack Alaska’s Midterm Ballot With Another Dan Sullivan</title>
@@ -79,59 +111,44 @@
       <media:description>A sample ballot showing candidates for next week’s U.S. Senate race in Alaska lists two Dan Sullivans (highlight added here to both), along with Mary Peltola, the Democrat, and a fourth candidate named Gerald Heikes.</media:description>
     </item>
     <item>
-      <title>Spain Crash Survivor Describes a ‘Twisted Tangle of Metal’</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-survivor.html" rel="standout"></atom:link>
-      <description>Fernando Seco, 62, said he and others moved at least a dozen wounded passengers from the crash site, using parts of the wreckage as makeshift stretchers.</description>
-      <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 17:29:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <title>Spain Train Crash Kills at Least 68</title>
+      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html" rel="standout"></atom:link>
+      <description>The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.</description>
+      <dc:creator>Jason Horowitz, José Bautista and Carlos Barragán</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 20:26:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-passenger-lqtk/28spain-crash-passenger-lqtk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ana Beltran/Reuters</media:credit>
-      <media:description>The scene of the crash on Wednesday, near Toledo, Spain.</media:description>
-    </item>
-    <item>
-      <title>What We Know About the Deadly Train Crash in Spain</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html" rel="standout"></atom:link>
-      <description>A train accident near Toledo, Spain, which killed at least 68 people, was one of the deadliest in the country’s history.</description>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 16:41:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (Jan 18, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seville (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="">Spain Tran Crash (Oct. 28, 2026)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-train-2-gbkt/28int-spain-train-2-gbkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manu Fernandez/Associated Press</media:credit>
-      <media:description>A train en route to Seville slammed into another that was parked on the tracks on Wednesday. </media:description>
+      <media:description>Emergency services work at the scene of a crash between two trains in Urda, Spain, on Wednesday.</media:description>
     </item>
     <item>
-      <title>A Punishing Housing Market Is Squeezing Renters</title>
-      <link>https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html" rel="standout"></atom:link>
-      <description>Higher mortgage rates and slowing residential construction are again giving landlords the upper hand.</description>
-      <dc:creator>Sydney Ember</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 18:43:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28biz-rents-vbmw/28biz-rents-vbmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Grant Hindsley for The New York Times</media:credit>
-      <media:description>Higher mortgage rates are pushing aspiring homeowners to keep renting, intensifying competition in the rental market.</media:description>
+      <title>Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve</title>
+      <link>https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html" rel="standout"></atom:link>
+      <description>The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.</description>
+      <dc:creator>Lauren Hirsch</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 21:57:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WEIL GOTSHAL &amp; MANGES</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Kelly/Reuters</media:credit>
+      <media:description>Founded nearly a century ago, Weil Gotshal was once the marquee for bankruptcy advice but has more recently had difficulty competing with giant law firms.</media:description>
     </item>
     <item>
       <title>What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?</title>
@@ -176,15 +193,15 @@
       <atom:link href="https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html" rel="standout"></atom:link>
       <description>She founded the United Farm Workers with Cesar Chavez. In early 2026, she told The Times that she had been raped by him decades earlier. She was 96.</description>
       <dc:creator>Robert D. McFadden</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 16:49:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <pubDate>Wed, 28 Oct 2026 19:31:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huerta, Dolores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Farm Workers of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Cesar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Farm Workers of America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mexican-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Cesar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2022/01/25/obituaries/00Huerta-01/00Huerta-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>George Ballis/Take Stock/The Image Works, via PBS Distribution</media:credit>
       <media:description>Ms. Huerta organizing marchers in Coachella, Calif., in 1969. Ms. Huerta was the vice president of the United Farm Workers for nearly four decades.</media:description>
@@ -230,6 +247,27 @@
       <media:description>Andy Stumpf, a former member of U.S. Navy SEAL Team 6 and now host of the podcast “Cleared Hot,” in his Montana studio.</media:description>
     </item>
     <item>
+      <title>CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access</title>
+      <link>https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html" rel="standout"></atom:link>
+      <description>The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.</description>
+      <dc:creator>Erik Wemple</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 20:47:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Associated Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MS NOW</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politico, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/00biz-cnn-lawsuit-cwzm/00biz-cnn-lawsuit-cwzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Harnik/Getty Images</media:credit>
+      <media:description>Betsy Klein, a CNN reporter, in the White House in September.</media:description>
+    </item>
+    <item>
       <title>RFK Jr. to Allow Broad Use of Unapproved Peptide Injections</title>
       <link>https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html</guid>
@@ -268,62 +306,52 @@
       <media:description>Education Secretary Linda McMahon in her old office in Washington last year.</media:description>
     </item>
     <item>
-      <title>Apple Unveils Its First Touch-Screen MacBook Pro</title>
-      <link>https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html" rel="standout"></atom:link>
-      <description>Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.</description>
-      <dc:creator>Kalley Huang and Brian X. Chen</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 18:30:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laptop Computers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tablet Computers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Fouts for The New York Times</media:credit>
-      <media:description>The new Mac, with a starting price of $2,899, is the latest step into a new era for the consumer electronics giant.</media:description>
-    </item>
-    <item>
-      <title>Trump Cannot Be the End of the Story</title>
-      <link>https://www.nytimes.com/2026/10/28/opinion/trump-law-lawlessness-presidency-congress.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/opinion/trump-law-lawlessness-presidency-congress.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/opinion/trump-law-lawlessness-presidency-congress.html" rel="standout"></atom:link>
-      <description>Trump has no use for pretense and he’s not interested in playing along.</description>
-      <dc:creator>Jamelle Bouie</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 18:05:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, George (1732-99)</category>
+      <title>Worried About A.I. Taking Your Job? This Is for You.</title>
+      <link>https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/opinion/ai-job-replacement-unions-san-francisco.html" rel="standout"></atom:link>
+      <description>We can learn a lot from a long-dead labor leader about how to reckon with technology that threatens our jobs.</description>
+      <dc:creator>Jillian Weinberger, Binyamin Appelbaum and Steph Khoury</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 21:45:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Fifties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Perplexity AI Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Deutsche Lufthansa AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">H &amp; M Hennes &amp; Mauritz AB</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28bouie-mjcf/28bouie-mjcf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry Bridges</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
     </item>
     <item>
-      <title>Brain Disease Is Pervasive in N.F.L., New Estimate Suggests</title>
-      <link>https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html" rel="standout"></atom:link>
-      <description>Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death.</description>
-      <dc:creator>Carolyn Y. Johnson and John Branch</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 16:31:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Traumatic Encephalopathy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/10/28/science/28SCI-CTE-BRAINBANK/28SCI-CTE-BRAINBANK-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Owen C. Shaw/Getty Images</media:credit>
-      <media:description>Junior Seau, No. 55, during a San Diego Chargers game in 2002 against the San Francisco 49ers. His family donated his brain to research after his death in 2012, and he was later diagnosed with C.T.E.</media:description>
+      <title>Cornell Faculty Senate Moves Ahead With No-Confidence Vote Over Handling of Rape Case</title>
+      <link>https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/28/nyregion/cornell-faculty-no-confidence-vote.html" rel="standout"></atom:link>
+      <description>After fierce debate, faculty members will begin voting Thursday on a resolution to condemn the administration’s handling of campus sexual assault.</description>
+      <dc:creator>Sharon Otterman</dc:creator>
+      <pubDate>Wed, 28 Oct 2026 23:02:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kotlikoff, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yates, Sally Q (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28met-cornell-senate-bfwz/28met-cornell-senate-bfwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lauren Petracca for The New York Times</media:credit>
+      <media:description>Protests have been held on the Cornell campus since Jane Doe filed a lawsuit alleging she had been raped at a fraternity. </media:description>
     </item>
   </channel>
 </rss>

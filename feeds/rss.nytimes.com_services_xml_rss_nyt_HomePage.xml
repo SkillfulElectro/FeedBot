@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 09:33:19 +0000</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 09:03:24 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:39:01 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 16:28:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html" rel="standout"></atom:link>
       <description>A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.</description>
       <dc:creator>Jonathan Swan, Maggie Haberman, Ana Swanson, Paul Mozur, Tripp Mickle and Julian E. Barnes</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 09:01:51 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 09:01:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
@@ -39,26 +39,85 @@
       <media:description>Jensen Huang, the chief executive of Nvidia, is influential at the White House on technology policy and has developed a close relationship with President Trump.</media:description>
     </item>
     <item>
-      <title>Alaska Governor Orders Criminal Investigation Into Peltola Campaign</title>
-      <link>https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html" rel="standout"></atom:link>
-      <description>President Trump had lashed out at Mary Peltola after The New York Times reported that her campaign and national Democrats helped recruit spoiler candidates to the race. He offered no explanation of what crime may have been committed.</description>
-      <dc:creator>Kellen Browning and Anna Griffin</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 07:22:59 +0000</pubDate>
+      <title>U.S. GDP Increased 3.4% in Third Quarter</title>
+      <link>https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html" rel="standout"></atom:link>
+      <description>The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy.</description>
+      <dc:creator>Ben Casselman</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 15:58:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Economic Analysis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/2026-oct-biz-promos-gdp/2026-oct-biz-promos-gdp-mediumSquareAt3X-v3.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Inflation Accelerated in October, PCE Index Shows</title>
+      <link>https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html" rel="standout"></atom:link>
+      <description>The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady.</description>
+      <dc:creator>Aruni Soni</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 14:31:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Economic Analysis</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/27/multimedia/29biz-inflation-vljt/27biz-inflation-vljt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A factor pushing prices up this year has been a severe energy crunch created by the war with Iran that sent oil prices soaring.</media:description>
+    </item>
+    <item>
+      <title>The Fed Risks Falling Behind in its Inflation Fight</title>
+      <link>https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html" rel="standout"></atom:link>
+      <description>Federal Reserve officials are expected to restart rate increases in December, but the cadence of additional moves will depend on the data.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 16:06:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Lisa D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sahm, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29DC-FED-hzjb/29DC-FED-hzjb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Julia Demaree Nikhinson/Associated Press</media:credit>
+      <media:description>Federal Reserve Board Chairman Kevin Warsh speaking on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year</title>
+      <link>https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html" rel="standout"></atom:link>
+      <description>The other Dan Sullivan in Alaska has drawn the most attention, but both parties are quietly trying to use little-known candidates in other battlegrounds to siphon votes, too.</description>
+      <dc:creator>Reid J. Epstein</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 16:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third-Party Politics (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Libertarian Party (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel J (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elias, Marc E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Senatorial Campaign Committee</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28pol-alaska-ballot-reax-mlfp/28pol-alaska-ballot-reax-mlfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump campaigned this month for Senator Dan S. Sullivan of Alaska, a Republican running for re-election this year against Mary Peltola, a Democrat and former congresswoman.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29pol-third-party-spoilers-mhcq/29pol-third-party-spoilers-mhcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Becky Bohrer/Associated Press</media:credit>
+      <media:description>Dan J. Sullivan, a retired teacher in Alaska, was recruited by Democratic operatives to join the race against Senator Dan S. Sullivan, a Republican, whose allies have been left worrying that voters will be confused. </media:description>
     </item>
     <item>
       <title>The Red States That Could Decide the Senate</title>
@@ -67,7 +126,7 @@
       <atom:link href="https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html" rel="standout"></atom:link>
       <description>Democrats need to flip four Republican-held Senate seats to regain the majority, but some of their targets are in states President Trump won by double digits in 2024. Our election data reporter Evan Reynolds explains just how difficult that might be.</description>
       <dc:creator>Evan Reynolds, Laura Bult, June Kim, Sutton Raphael and Thomas Vollkommer</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 09:01:46 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 14:58:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -75,331 +134,181 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
     </item>
     <item>
-      <title>As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House</title>
-      <link>https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html" rel="standout"></atom:link>
-      <description>The White House has been rocked by turnover and anxiety over the midterms. The president, who is tightening his inner circle, has lashed out at critics, held meandering rallies and feasted on a diet of news clips and “A.I. slop,” as one aide put it.</description>
-      <dc:creator>Katie Rogers</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 07:49:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>Four Scenarios for How the Midterms Could Go</title>
+      <link>https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html" rel="standout"></atom:link>
+      <description>Expectations are cresting for Democrats, and some kind of wave seems likely, but so much will depend on a few close Senate races.</description>
+      <dc:creator>Nate Cohn</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 09:11:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-27-tilt-wave-newsletter-index/2026-10-27-tilt-wave-newsletter-index-mediumSquareAt3X-v4.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>After 28 Years Walking the Globe, Karl Bushby Is Almost Home</title>
+      <link>https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html" rel="standout"></atom:link>
+      <description>Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 12:12:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hikes and Hiking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bering Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">English Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nogales (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Punta Arenas (Chile)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bushby, Karl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00xp-world-walker-end-gbcz-promo/00xp-world-walker-end-gbcz-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sam Bush for The New York Times</media:credit>
+      <media:description>Mr. Bushby in London. He said his journey was a reminder of people’s kindness.</media:description>
+    </item>
+    <item>
+      <title>Ilhan Omar Investigation Involves New Scrutiny of Long-Disputed Marriage</title>
+      <link>https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/us/immigration-fraud-claims-ilhan-omar.html" rel="standout"></atom:link>
+      <description>Several current and former law enforcement officials said an Obama-era investigation found some evidence that Ms. Omar had entered into a sham marriage with a man suspected of being her brother.</description>
+      <dc:creator>Ernesto Londoño</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 12:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omar, Ilhan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elmi, Ahmed Nur Said</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Somali-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Truth Social (Social Network)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harp, Natalie J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leavitt, Karoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maher, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pulte, William J (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wiles, Susie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zacharia, Katie</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28dc-trump-midterms-top-vpqj/28dc-trump-midterms-top-vpqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump after a campaign rally in Mississippi on Monday.</media:description>
-    </item>
-    <item>
-      <title>Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.</title>
-      <link>https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html" rel="standout"></atom:link>
-      <description>As Trump officials stump for Republican candidates facing difficult races, ethics experts say they are being lax about complying with the Hatch Act, a federal anti-corruption law.</description>
-      <dc:creator>Karoun Demirjian</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 04:30:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hatch Act (1939)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Campaign Legal Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Common Cause (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duffy, Sean P</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28dc-hatch-wmjp/28dc-hatch-wmjp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump with Commerce Secretary Howard Lutnick at a campaign rally in North Carolina this month.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-inline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/00nat-omar-immigration-1-blgc/00nat-omar-immigration-1-blgc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>Representative Ilhan Omar at the Capitol in Washington earlier this year.</media:description>
     </item>
     <item>
-      <title>Flávio Bolsonaro Lands in Miami After Fleeing Brazil</title>
-      <link>https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html" rel="standout"></atom:link>
-      <description>Mr. Bolsonaro, who lost Sunday’s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.</description>
-      <dc:creator>Ana Ionova, Edward Wong, Alice Maciel and Lucía Cholakian Herrera</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 06:01:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-bolsonaro-flight-fqlp/28int-bolsonaro-flight-fqlp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eva Marie Uzcategui/Reuters</media:credit>
-      <media:description>Flávio Bolsonaro arriving at Miami Opa-Locka Airport on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>How André Janones Helped Turbocharge Lula’s Comeback in Brazil’s Election</title>
-      <link>https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/andre-janones-whatsapp-lula-brazil-election.html" rel="standout"></atom:link>
-      <description>With street talk and tactics from the far-right’s playbook, André Janones used a WhatsApp channel to help organize millions of Brazilians online.</description>
-      <dc:creator>Adam B. Ellick and Victor Moriyama</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 20:35:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/00brazil-election-influencer-promo/00brazil-election-influencer-cbkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>The Brazilian congressman André Janones created a digital “army” by setting up WhatsApp groups and posting on Instagram, which helped mobilized the vote for the reelection of President Luiz Inácio Lula da Silva.</media:description>
-    </item>
-    <item>
-      <title>Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve</title>
-      <link>https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html" rel="standout"></atom:link>
-      <description>The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.</description>
-      <dc:creator>Lauren Hirsch</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 00:53:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WEIL GOTSHAL &amp; MANGES</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Kelly/Reuters</media:credit>
-      <media:description>Founded nearly a century ago, Weil Gotshal was once the marquee for bankruptcy advice but has more recently had difficulty competing with giant law firms.</media:description>
-    </item>
-    <item>
-      <title>A Ukrainian City in the Kill Zone Relishes a Moment of Peace</title>
-      <link>https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/ukraine-kherson-respite.html" rel="standout"></atom:link>
-      <description>A rare localized peace deal announced by the first lady, Melania Trump, offered a brief respite for Kherson, where Russian drones and artillery have long terrorized civilians.</description>
-      <dc:creator>Siobhán O’Grady, Liubov Sholudko and David Guttenfelder</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 08:30:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro River (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-kherson-dispatch-promo/29int-ukraine-kherson-dispatch-gvpc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Guttenfelder/The New York Times</media:credit>
-      <media:description>Net covered streets in Kherson protect against Russian drone assaults as people take advantage of the relative calm during a local, temporary cease-fire on Wednesday, set up to allow the upcoming evacuation of civilians from neighboring town of Oleshky.</media:description>
-    </item>
-    <item>
-      <title>Spain Train Crash Kills at Least 68</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html" rel="standout"></atom:link>
-      <description>The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country’s history.</description>
-      <dc:creator>Jason Horowitz, José Bautista and Carlos Barragán</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 20:26:04 +0000</pubDate>
+      <title>Spain Crash Investigators Focus on Train Traffic Controllers’ Role</title>
+      <link>https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/spain-train-crash-renfe.html" rel="standout"></atom:link>
+      <description>After the country’s second major rail disaster in a year, Spaniards were confronting questions about the safety of their once-vaunted rail system.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 14:35:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (Jan 18, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High-Speed Rail Projects</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intermodalidad de Levante SA (Iryo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renfe Operadora</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seville (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-train-2-gbkt/28int-spain-train-2-gbkt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manu Fernandez/Associated Press</media:credit>
-      <media:description>Emergency services work at the scene of a crash between two trains in Urda, Spain, on Wednesday.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-spain-crash-01-cjqk/29int-spain-crash-01-cjqk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
+      <media:description>Emergency workers were still searching for survivors and victims at the site of the crash on Thursday.</media:description>
     </item>
     <item>
-      <title>Is There a ‘Safest Seat’ in a Train Crash? Experts Say It’s Not So Simple.</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rail-safety.html" rel="standout"></atom:link>
-      <description>After a high-speed collision near Toledo, Spain, killed at least 68 people, rail safety experts said the rough consensus that it is best to sit in the middle of a train has its limits.</description>
-      <dc:creator>Mark Walker</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 03:16:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spain Train Crash (October 28, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroad Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Spain)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-rail-safety-pbwv/28xp-rail-safety-pbwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Emergency workers at the scene of a crash involving two trains near Toledo, Spain, on Wednesday.</media:description>
+      <title>I Can Finally Hear You Now</title>
+      <link>https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/us/single-sided-deafness-hearing-aids.html" rel="standout"></atom:link>
+      <description>The world can be tough to navigate with one ear. Turns out, even having two comes with challenges.</description>
+      <dc:creator>Scott Dodd</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 11:12:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ears and Hearing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deafness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hearing Aids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montclair (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/27/multimedia/00nat-half-deaf-gthb/00nat-half-deaf-gthb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban/The New York Times</media:credit>
     </item>
     <item>
-      <title>Israel’s Parties Gird for Wrangling to Form a Government, With No Clear Path</title>
-      <link>https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-government-formation-negotiation.html" rel="standout"></atom:link>
-      <description>Votes are still being counted, but it appears that neither Prime Minister Benjamin Netanyahu’s right-wing coalition nor the opposition alliance headed by Gadi Eisenkot will have a majority.</description>
-      <dc:creator>Isabel Kershner, Johnatan Reiss, Aaron Boxerman, Qasim Nauman and Michael Levenson</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 02:27:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28int-israel-ledeall-1-kzpm/28int-israel-ledeall-1-kzpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
-      <media:description>Torn Likud party campaign ad featuring Prime Minister Benjamin Netanyahu of Israel and President Trump in Jerusalem on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Surprise Showing by Arab Parties in Israeli Vote Puts Them in Spotlight</title>
-      <link>https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-arab-parties.html" rel="standout"></atom:link>
-      <description>The Arab parties have long been kept on the political sidelines. But stunning turnout by their supporters makes the Arab minority an Israeli political reality that cannot be ignored.</description>
-      <dc:creator>Aaron Boxerman</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 00:25:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Segalovitz, Yoav (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28israel-arab-parties2-bmlf/28israel-arab-parties2-bmlf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ahmad Gharabli/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Voting in the predominantly Arab town of Tayibe during the Israeli election on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Vance Proposes Restarting Peace Talks in Outreach to Iranian Official</title>
-      <link>https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/us/politics/vance-peace-talks-letter-iran.html" rel="standout"></atom:link>
-      <description>In his letter, the vice president suggested an immediate resumption of comprehensive talks, including about Iran’s nuclear program.</description>
-      <dc:creator>Farnaz Fassihi and Tyler Pager</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 02:15:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme National Security Council (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28dc-vance-iran-hfbj/28dc-vance-iran-hfbj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross for The New York Times</media:credit>
-      <media:description>Vice President JD Vance is said to have made the outreach in a letter sent last week via Qatari meditators and delivered Sunday to an Iranian official, Gen. Mohsen Rezaei.</media:description>
-    </item>
-    <item>
-      <title>Cuauhtémoc Cárdenas, Who Helped End One-Party Rule in Mexico, Dies at 92</title>
-      <link>https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html" rel="standout"></atom:link>
-      <description>Mr. Cárdenas, the only son of a Mexican president, never won the office but became a leading figure in the country’s democratic transformation.</description>
-      <dc:creator>Anthony DePalma</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 05:58:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cuauhtemoc Cardenas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/obituaries/29cardenas/29cardenas-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Luis Barron/Eyepix, via Zuma, via Reuters</media:credit>
-      <media:description>Cuauhtémoc Cárdenas in Mexico City in 2023.</media:description>
-    </item>
-    <item>
-      <title>She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.</title>
-      <link>https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html" rel="standout"></atom:link>
-      <description>A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.</description>
-      <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 01:03:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kissimmee (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Osceola County (Fla)</category>
-      <media:content height="1574" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28nat-arrest-pjqh/28nat-arrest-pjqh-mediumSquareAt3X.jpg" width="1574"></media:content>
-      <media:credit>Osceola County Sheriff’s Office</media:credit>
-      <media:description>The Osceola County Sheriff’s Office released body-cam footage of officers escorting Irene Miller, in the tan suit, off a plane at Orlando International Airport.</media:description>
-    </item>
-    <item>
-      <title>What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?</title>
-      <link>https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html" rel="standout"></atom:link>
-      <description>Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques.</description>
-      <dc:creator>Kim Severson</dc:creator>
-      <pubDate>Wed, 28 Oct 2026 17:55:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cheesecake Factory Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28FD-cheesecake-factory1-jgmh/28FD-cheesecake-factory1-jgmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Timothy Hiatt/Getty Images for The Cheesecake Factory</media:credit>
-      <media:description>The Cheesecake Factory has defined the term “upscale casual dining,” and closely read the psyche and the appetite of the American diner. </media:description>
-    </item>
-    <item>
-      <title>The Midterms May End the Trump Era. Here Are 10 Takeaways.</title>
-      <link>https://www.nytimes.com/2026/10/29/opinion/trump-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/opinion/trump-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/29/opinion/trump-midterms.html" rel="standout"></atom:link>
-      <description>It’s time to take stock. Here are 12 takeaways from the last 10 years.</description>
-      <dc:creator>David Wallace-Wells</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 09:03:24 +0000</pubDate>
+      <title>Billionaire Tax Campaign Pins Its Hopes on Influencers and Social Media</title>
+      <link>https://www.nytimes.com/2026/10/29/us/california-billionaire-tax-influencers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/california-billionaire-tax-influencers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/us/california-billionaire-tax-influencers.html" rel="standout"></atom:link>
+      <description>Supporters of a California wealth tax are short on cash and are relying on cheaper campaign methods to get their word out.</description>
+      <dc:creator>Laurel Rosenhall</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 09:02:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Service Employees International Union-United Healthcare Workers West</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Berkeley</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berkeley (Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28nat-billionaire-tax-backers-lvcm/28nat-billionaire-tax-backers-lvcm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Minh Connors for The New York Times</media:credit>
+      <media:description>Ifeanyi Ifediba usually creates videos about sports, anime and campus life. But he recently agreed to make a political ad to support the billionaire tax.</media:description>
     </item>
     <item>
-      <title>Can Porn Ever Be Ethical?</title>
+      <title>From a Billionaires Tax to Abortion Rights, Voters Will Decide Policy</title>
+      <link>https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/us/elections/ballot-questions-midterms-election.html" rel="standout"></atom:link>
+      <description>More than 140 statewide ballot measures will go before voters during the midterms. Here are the races we’re watching.</description>
+      <dc:creator>Maia Spoto and Leo Dominguez</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 16:20:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29nat-referendums-1-qcfg/29nat-referendums-1-qcfg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Tully for The New York Times</media:credit>
+      <media:description>Voters casting their ballots in Franconia, N.H., in the state’s primary earlier this year.</media:description>
+    </item>
+    <item>
+      <title>Suddenly, Empathy Isn’t So Toxic</title>
+      <link>https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/opinion/toxic-empathy-immigration-ice.html" rel="standout"></atom:link>
+      <description>Deport immigrants? Oh yes. But not this guy.</description>
+      <dc:creator>David French</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 16:28:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Empathy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>Why Are We Having Less Sex? Ask a Pornographer.</title>
       <link>https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html</guid>
       <atom:link href="https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html" rel="standout"></atom:link>
-      <description>A pornographer and conservative Catholic discuss sex and pleasure.</description>
-      <dc:creator>Julia Yost and Raina Raskin</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 09:03:09 +0000</pubDate>
+      <description>Erika Lust wants to excite you.</description>
+      <dc:creator>Julia Yost, Raina Raskin and Charlotte Gartenberg</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 13:39:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pornography</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
@@ -407,30 +316,44 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Education</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lust, Erika</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>In Her Final Months, Dolores Huerta Was Lauded for Revealing a Deep Secret</title>
-      <link>https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/28/us/dolores-huerta-california-legacy.html" rel="standout"></atom:link>
-      <description>Ms. Huerta, a champion for workers and Latinos, revealed this year that she had been sexually assaulted by Cesar Chavez. But some women said she rebuffed their own complaints about abuse within the movement.</description>
-      <dc:creator>Soumya Karlamangla, Orlando Mayorquín and Laurel Rosenhall</dc:creator>
-      <pubDate>Thu, 29 Oct 2026 01:47:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Labor (Agriculture)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <title>Stacking Ballots</title>
+      <link>https://www.nytimes.com/2026/10/29/briefing/alaska-midterms-cheesecake-factory.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/briefing/alaska-midterms-cheesecake-factory.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/briefing/alaska-midterms-cheesecake-factory.html" rel="standout"></atom:link>
+      <description>A tale of political intrigue from Alaska.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 11:03:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/26/multimedia/29themorning-nl-alaska3-promo/29themorning-nl-alaska3-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haven Daley/Associated Press</media:credit>
+      <media:description>A sample election ballot in Alaska.</media:description>
+    </item>
+    <item>
+      <title>Russian Strike on Ukrainian Train Station Kills 14</title>
+      <link>https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html" rel="standout"></atom:link>
+      <description>A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire.</description>
+      <dc:creator>Cassandra Vinograd</dc:creator>
+      <pubDate>Thu, 29 Oct 2026 13:45:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Farm Workers of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chavez, Cesar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huerta, Dolores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bakersfield (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <media:content height="1777" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/28nat-huerta-react-ptgl/28nat-huerta-react-ptgl-mediumSquareAt3X.jpg" width="1777"></media:content>
-      <media:credit>Court Mast/Associated Press</media:credit>
-      <media:description>Dolores Huerta, seen in a 1988 rally, was remembered Wednesday in California as a transformative leader who won rights for Latinos, farm workers and women.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dnipro (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1675" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29int-ukraine-dnipro-tkcz/29int-ukraine-dnipro-tkcz-mediumSquareAt3X.jpg" width="1675"></media:content>
+      <media:credit>Agence France-Presse, via Ukrainian Emergency Service</media:credit>
+      <media:description>A photo released by the Ukrainian Emergency Service after an air attack on a railway station in Dnipro, Ukraine, on Thursday.</media:description>
     </item>
   </channel>
 </rss>

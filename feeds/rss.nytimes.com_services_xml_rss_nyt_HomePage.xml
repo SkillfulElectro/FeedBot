@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1793499838162" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 02:23:58 +0000</lastBuildDate>
-    <pubDate>Sun, 01 Nov 2026 01:37:37 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:32:31 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 09:14:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -32,6 +32,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31nat-corruption-vhbp/31nat-corruption-vhbp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ash Adams for The New York Times</media:credit>
       <media:description>Some recent polls have shown corruption has risen to the top of issues that voters say they care about most.</media:description>
+    </item>
+    <item>
+      <title>El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events</title>
+      <link>https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html" rel="standout"></atom:link>
+      <description>Tensions have flared between Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, and his former primary rival. “I don’t want any distractions,” Dr. El-Sayed said Saturday.</description>
+      <dc:creator>Tim Balk and Reid J. Epstein</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 03:05:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clyburn, James E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dingell, Deborah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stevens, Haley</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="1512" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31midterms-el-sayed-stevens/31midterms-el-sayed-stevens-mediumSquareAt3X.png" width="1512"></media:content>
+      <media:credit>Nic Antaya for The New York Times; Bill Pugliano / AFP via Getty Images</media:credit>
     </item>
     <item>
       <title>As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines</title>
@@ -156,9 +174,9 @@
     </item>
     <item>
       <title>‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories</title>
-      <link>https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/todayspaper/we-are-coming-from-hell-a-ukrainian-citys-evacuees-tell-survival-stories.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/10/31/todayspaper/ukraine-evacuees-oleshky.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/todayspaper/ukraine-evacuees-oleshky.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/todayspaper/ukraine-evacuees-oleshky.html" rel="standout"></atom:link>
       <description>Safely out of Oleshky after enduring years in the combat zone and a harrowing 24-hour journey, weary civilians reunited with family and friends.</description>
       <dc:creator>Carlotta Gall, Oleksandr Chubko and David Guttenfelder</dc:creator>
       <pubDate>Sat, 31 Oct 2026 21:43:34 +0000</pubDate>
@@ -189,53 +207,23 @@
       <media:description>Hailie Uren, a clinical pharmacologist, measured a patient’s blood pressure in Dnipro, Ukraine, last month.</media:description>
     </item>
     <item>
-      <title>Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections</title>
-      <link>https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html" rel="standout"></atom:link>
-      <description>With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.</description>
-      <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 20:04:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A campaign billboard last week in Tel Aviv showing Prime Minister Benjamin Netanyahu of Israel and President Trump.</media:description>
-    </item>
-    <item>
-      <title>Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages</title>
-      <link>https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html" rel="standout"></atom:link>
-      <description>A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.</description>
-      <dc:creator>Euan Ward and Vivian Nereim</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 17:56:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/31/multimedia/31int-syria-mecca-pact-tfhp/31int-syria-mecca-pact-tfhp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Smoke rising in mid-October near Taiz, Yemen, where Saudi-backed forces and the Houthi militia have been battling.</media:description>
+      <title>India’s Congress Party Holds Mass Protest in New Delhi</title>
+      <link>https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html" rel="standout"></atom:link>
+      <description>Many more are still streaming into the city for what organizers hope will be one of the biggest demonstrations yet in a string of recent rallies.</description>
+      <dc:creator>Jeremy W. Peters and Hari Kumar</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 09:14:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indian National Congress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bharatiya Janata Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gandhi, Rahul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/01/multimedia/01int-india-protest-vtgk/01int-india-protest-vtgk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bhawika Chhabra/Reuters</media:credit>
+      <media:description>Demonstrators at a protest organized by the Indian National Congress Party in New Delhi on Sunday.</media:description>
     </item>
     <item>
       <title>Martin McDonagh Says Art Can Change the World. Just Not as Much as Murder.</title>
@@ -285,23 +273,43 @@
       <media:description>Michael Conway, a marathon runner, owns five pairs of running sneakers, each of which cost at least $160.</media:description>
     </item>
     <item>
-      <title>You Should Go to the Basement. Just Don’t Go Alone.</title>
-      <link>https://www.nytimes.com/2026/10/31/opinion/horror-family-father.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/31/opinion/horror-family-father.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/10/31/opinion/horror-family-father.html" rel="standout"></atom:link>
-      <description>Horror isn’t just scary — it can draw people together, especially when they’ve struggled to connect.</description>
-      <dc:creator>Matt Greenberg</dc:creator>
-      <pubDate>Sat, 31 Oct 2026 16:45:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comic Books and Strips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Comedy Central</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Stephen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Romero, George A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whale, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Frankenstein (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Halloween (Movie)</category>
+      <title>Pope Leo XIV, the Tough Guy of ‘High T’ Christianity</title>
+      <link>https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/01/opinion/pope-leo-xiv-hegseth-courage.html" rel="standout"></atom:link>
+      <description>The pontiff draws on his missionary background for a show of fortitude.</description>
+      <dc:creator>Daniel Burke and Scott Detrow</dc:creator>
+      <pubDate>Sun, 01 Nov 2026 08:16:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jos (Nigeria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/01/multimedia/01burke-wkbh/01burke-wkbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Teresa Suarez</media:credit>
+    </item>
+    <item>
+      <title>Why Are We Having Less Sex? Ask a Pornographer.</title>
+      <link>https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html" rel="standout"></atom:link>
+      <description>Erika Lust wants to excite you.</description>
+      <dc:creator>Julia Yost, Raina Raskin and Charlotte Gartenberg</dc:creator>
+      <pubDate>Fri, 30 Oct 2026 19:44:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lust, Erika</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/29/opinion/29itpod-lust-image/29itpod-lust-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Trump Calls Former Lawyer’s $50 Million Deal ‘Obnoxious and Outrageous’</title>

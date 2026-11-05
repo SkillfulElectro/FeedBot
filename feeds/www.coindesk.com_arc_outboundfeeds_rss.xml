@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 02:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 10:20:41 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,103 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">ce1bc7ee-7f9c-4ce0-84ba-3f662b9138ed</guid>
+      <pubDate>Thu, 05 Nov 2026 08:35:37 +0000</pubDate>
+      <description><![CDATA[Crypto firms must collect customer and transaction data from 2027, with Hong Kong sharing the information with overseas tax authorities from 2028.]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Regulation]]></category>
+      <category domain="tag"><![CDATA[Tax]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI says its AI can break into Linux at scale. Here's what it means for crypto]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d2b4b82edc6ff0637b37466e20cadf90ebe36839-1920x1280.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">9cf12453-df49-47f4-9a3e-b507584a1e8e</guid>
+      <pubDate>Thu, 05 Nov 2026 08:26:26 +0000</pubDate>
+      <description><![CDATA[OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Zcash is about to freeze $16 million in its oldest privacy pool]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">5c019be2-06b9-4136-8b3b-e1b10612fd92</guid>
+      <pubDate>Thu, 05 Nov 2026 05:47:01 +0000</pubDate>
+      <description><![CDATA[About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[The pile of lawsuits against Kalshi just grew by one]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/25deab562fefe405fbe634578dcaba46f54198d5-4032x2268.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">f41df9f5-9a6e-48da-9439-1a0d38e19187</guid>
+      <pubDate>Thu, 05 Nov 2026 05:28:52 +0000</pubDate>
+      <description><![CDATA[Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <dc:creator>AI Boost</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Kalshi]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">87ec19ce-d46a-4985-843c-8098f1392af8</guid>
+      <pubDate>Thu, 05 Nov 2026 05:25:06 +0000</pubDate>
+      <description><![CDATA[The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/404b8eb998600da19c91062fd5ec6d2d99b27e39-1504x842.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7c15e32e-81e6-48cd-b825-afa3edf3c6c4</guid>
+      <pubDate>Thu, 05 Nov 2026 05:13:45 +0000</pubDate>
+      <description><![CDATA[Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/de278a5c492ab4bde63167f3534082ff55913519-1577x1233.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7bc0f921-92d0-47ad-8377-27b31d096e31</guid>
+      <pubDate>Thu, 05 Nov 2026 04:11:33 +0000</pubDate>
+      <description><![CDATA[A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty]]></title>
       <link>https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty</link>
@@ -286,105 +383,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e1212396afff9d6b25bf11fb589808a5d8146ef0-3000x2000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6d5a4e6b-b1b7-427a-b6db-40018fcabe15</guid>
-      <pubDate>Wed, 04 Nov 2026 06:06:04 +0000</pubDate>
-      <description><![CDATA[The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d6f20a6f26ff57096fc0cc17219d64764de9cfce-1500x1000.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">93928cd7-621b-4b41-9e63-078ef14547c4</guid>
-      <pubDate>Wed, 04 Nov 2026 05:14:12 +0000</pubDate>
-      <description><![CDATA[Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[South Korea's ruling party wants to delay its crypto tax again]]></title>
-      <link>https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/d942a1634dad0f09e3b8e09b5f0184eaa796bc57-4240x2385.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">4be58ceb-0fcd-4df5-b1c3-5115b18933b3</guid>
-      <pubDate>Wed, 04 Nov 2026 05:09:40 +0000</pubDate>
-      <description><![CDATA[South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[South Korea]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Democrats surge toward Senate, House majorities, with crypto braced for new direction]]></title>
-      <link>https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/caec31dc55cc7c42632a6e66446cb54afa747d9c-3547x2365.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6e557261-17c4-480c-8f58-6686e298904e</guid>
-      <pubDate>Wed, 04 Nov 2026 04:55:11 +0000</pubDate>
-      <description><![CDATA[The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands.]]></description>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Election 2026]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/70ac619427cbf3ad3b8fa678cd17cdc2e4b34f35-1516x842.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">80850ab0-a0f9-41fb-b615-21bdcc6bd1cc</guid>
-      <pubDate>Wed, 04 Nov 2026 04:48:16 +0000</pubDate>
-      <description><![CDATA[Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide]]></title>
-      <link>https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog</link>
-      <guid isPermaLink="false">719e295c-8196-49d2-8310-9754f1f449f8</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.]]></description>
-      <dc:creator>Nikhilesh De</dc:creator>
-      <dc:creator>Jesse Hamilton</dc:creator>
-      <dc:creator>Aoyon Ashraf</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <dc:creator>Stephen Alpher</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[What voters said about their views on crypto]]></title>
-      <link>https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/3967c89f5c7de3fc06e758f28b8bf64b2de1a51b-5500x3667.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">045b3be7-30bf-444a-bc6f-49fcd6ae5538</guid>
-      <pubDate>Tue, 03 Nov 2026 23:19:44 +0000</pubDate>
-      <description><![CDATA[A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry. ]]></description>
-      <dc:creator>Nikhilesh De</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
-      <category domain="tag"><![CDATA[Election 2026]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

@@ -3,63 +3,17 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?zq=1793922325121859" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 23:45:25 +0000</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 22:56:32 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:38:40 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 05:01:24 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech</title>
-      <link>https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html" rel="standout"></atom:link>
-      <description>The S&amp;P 500 slumped to its worst daily decline since April 2025 and the tech-heavy Nasdaq entered correction territory, as investors fretted about the durability of the A.I. build-out.</description>
-      <dc:creator>Joe Rennison</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 22:51:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nasdaq Composite Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-    </item>
-    <item>
-      <title>Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep</title>
-      <link>https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html" rel="standout"></atom:link>
-      <description>Many donated money to President Trump’s favored causes and became his allies. Now that political alignment may be a liability.</description>
-      <dc:creator>Eli Tan, Theodore Schleifer and Erin Griffith</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:14:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fairshake (Political Action Committee)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andreessen, Marc L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brin, Sergey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hoffman, Reid Garrett</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/05biz-tech-billionaires-gwfm/05biz-tech-billionaires-gwfm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump met with leaders of the artificial intelligence industry at the White House in September.</media:description>
-    </item>
     <item>
       <title>Trump Tried to Undermine the Nation’s Elections. It Didn’t Work.</title>
       <link>https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html</link>
@@ -67,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/05/us/election-deniers-midterms-trump.html" rel="standout"></atom:link>
       <description>Millions of Americans cast their ballots on Tuesday in an election that showed the resiliency of democracy. The president said he would accept the results.</description>
       <dc:creator>Richard Fausset and Nick Corasaniti</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:37:28 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 02:47:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
@@ -75,27 +29,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05pol-election-integrity-01-phqv/05pol-election-integrity-01-phqv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kaylee Greenlee/Reuters</media:credit>
       <media:description>A person wears a ‘Stop the Steal’ hat at a rally to support Ken Paxton, the defeated Republican nominee for Senate in Texas, at a rally in Lubbock last month.</media:description>
-    </item>
-    <item>
-      <title>U.S. Finds Subdued Foreign Meddling Operations in Midterm Elections</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/midterm-elections-foreign-meddling.html" rel="standout"></atom:link>
-      <description>Russia was linked to influence campaigns targeting Democrats that gained little traction, but the Kremlin may be more focused on France’s elections in the spring.</description>
-      <dc:creator>Dustin Volz and Julian E. Barnes</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 22:31:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05dc-meddling-vptc/05dc-meddling-vptc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anastasia Barashkova/Reuters</media:credit>
-      <media:description>Red Square in Moscow in September. Current and former U.S. officials said they were unsure why Russia and Iran both appeared to engage in less meddling than in years past, including the 2024 election.</media:description>
     </item>
     <item>
       <title>Why a Merciless Supreme Court Rebuke on Election Eve Matters</title>
@@ -119,121 +52,226 @@
       <media:description>A polling place in California on Tuesday.</media:description>
     </item>
     <item>
-      <title>The Evening: The Blue Wave Swells</title>
-      <link>https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html" rel="standout"></atom:link>
-      <description>Plus, Gov. Gavin Newsom clears California’s death row. Here’s the latest at the end of Thursday.</description>
-      <dc:creator>Whet Moser</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 22:48:30 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05evening-nl-midterms-colom-zbwl/05evening-nl-midterms-colom-zbwl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rory Doyle for The New York Times</media:credit>
-      <media:description>Scott Colom in Jackson, Miss. today.</media:description>
-    </item>
-    <item>
-      <title>The Machine, and the Messaging, That Won Texas for Democrats</title>
-      <link>https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html" rel="standout"></atom:link>
-      <description>Years of organizing met a moment of voter discontent, as James Talarico and Gina Hinojosa offered Texans a vision of economic relief and political change.</description>
-      <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 16:18:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>The Many Meanings of James Talarico’s Winning Cowboy Boots</title>
+      <link>https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html" rel="standout"></atom:link>
+      <description>Obviously, the Texas election was about more than shoes. But the symbolism mattered.</description>
+      <dc:creator>Vanessa Friedman</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 02:25:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shoes and Boots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lucchese Brand LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/us/05nat-texas-dem-tick-tock-1/05nat-texas-dem-tick-tock-1-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>James Talarico and Gina Hinojosa at a campaign rally in Austin, Texas, a day before the midterm election.</media:description>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/29/multimedia/29TALARICO-LUCCHESE-btkz/29TALARICO-LUCCHESE-btkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Gonzalez/Associated Press</media:credit>
+      <media:description>James Talarico has traversed Texas for months in his signature Lucchese boots. </media:description>
     </item>
     <item>
-      <title>How Democrats Won Across the South</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html" rel="standout"></atom:link>
-      <description>They won Senate races in North Carolina, South Carolina and Georgia, with a Mississippi race still too close to call. Their wins lifted down-ballot candidates too.</description>
-      <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 18:18:12 +0000</pubDate>
+      <title>Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass</title>
+      <link>https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html" rel="standout"></atom:link>
+      <description>The 45-year-old City Council member defeated the incumbent mayor, Karen Bass, 73, a sweeping success for a new generation of progressive leaders.</description>
+      <dc:creator>Shawn Hubler, Jill Cowan and Orlando Mayorquín</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 03:35:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raman, Nithya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, Karen Ruth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04nat-lamayor-raman-zjvb/04nat-lamayor-raman-zjvb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Philip Cheung for The New York Times</media:credit>
+      <media:description>Nithya Raman gives a speech during her election night watch party at the Greek Theatre in Los Angeles.</media:description>
+    </item>
+    <item>
+      <title>In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized</title>
+      <link>https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html" rel="standout"></atom:link>
+      <description>A phalanx of lawyers, observers and campaign officials are watching the counting of votes in the race for Senate, where a Democratic challenger has a slim lead.</description>
+      <dc:creator>Emily Cochrane and Campbell Robertson</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 01:03:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrews, Annie (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colom, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Roy A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ossoff, Jon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/12/04/multimedia/04midterms-southern-democrats-lkbq/04midterms-southern-democrats-lkbq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nicole Craine for The New York Times</media:credit>
-      <media:description>The crowd reacting at Senator Jon Ossoff’s election night party in Atlanta.</media:description>
-    </item>
-    <item>
-      <title>How Colom Changed a Long Shot in Mississippi Into a Race Too Close to Call</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/mississippi-senate-race-democrat-colom-hyde-smith.html" rel="standout"></atom:link>
-      <description>Scott Colom, a Democrat, ran a viral ad and courted Republicans at a Trump rally before winning virtually the same number of votes as Senator Cindy Hyde-Smith, a Republican.</description>
-      <dc:creator>John Yoon and Jim Beaugez</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 22:10:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colom, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hyde-Smith, Cindy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04pol-midterms-colom1-tlkv/04pol-midterms-colom1-tlkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rogelio V. Solis/Getty Images</media:credit>
-      <media:description>Scott Colom, a Democrat running for Senate in Mississippi, greeting supporters in Jackson, the state capital, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Across the South, Black Voters Help Propel Democratic Wins</title>
-      <link>https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/black-voters-south-democratic-wins.html" rel="standout"></atom:link>
-      <description>Democrats in the South used anger over redistricting, cuts to key federal programs and attacks on Black history to help galvanize a crucial bloc of voters to the polls.</description>
-      <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:33:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carter, Troy (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Figures, Shomari</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican National Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colom, Scott</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hyde-Smith, Cindy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04nat-black-south-01-kmth/04nat-black-south-01-kmth-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nicole Craine for The New York Times</media:credit>
-      <media:description>In Georgia, Black voters helped elevate Keisha Lance Bottoms, the Democratic former mayor of Atlanta, to the governor’s mansion.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05nat-mississippi-senate-01-fbjg/05nat-mississippi-senate-01-fbjg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rory Doyle for The New York Times</media:credit>
+      <media:description>Voting machines and ballot bags used in the midterm elections remain at the Hinds County Election Commission building in Jackson, Miss.</media:description>
     </item>
     <item>
-      <title>Newsom Commutes the Sentences of California’s 548 Death Row Inmates</title>
-      <link>https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html" rel="standout"></atom:link>
-      <description>Gov. Gavin Newsom, who is considering a run for president, called capital punishment morally objectionable. Though California hasn’t executed anyone for 20 years, that represents about a quarter of death sentences nationwide.</description>
-      <dc:creator>Laurel Rosenhall</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:36:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klaas, Polly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryan, George H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05nat-newsom-deathpenalty-zjql/05nat-newsom-deathpenalty-zjql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
-      <media:description>Gov. Gavin Newsom of California reduced every death sentence in the state to life in prison without parole, a sweeping move expected to face legal challenges.</media:description>
+      <title>A Summit in China With Trump and Putin? That Might be Awkward for Xi.</title>
+      <link>https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html" rel="standout"></atom:link>
+      <description>A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.</description>
+      <dc:creator>David Pierson and Berry Wang</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 05:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Treaties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steinmeier, Frank-Walter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Torigian, Joseph</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenzhen (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yalta (Crimea, Ukraine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>The Chinese leader Xi Jinping with President Donald Trump at the National Archives Museum in Washington in September.</media:description>
+    </item>
+    <item>
+      <title>Hegseth Lashes Out at Critics Calling for His Firing</title>
+      <link>https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html" rel="standout"></atom:link>
+      <description>In a new video, the defense secretary vowed to “finish what we have started.” Some Republicans say the Iran war was a big factor in their party’s midterm losses.</description>
+      <dc:creator>Greg Jaffe</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 23:30:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05dc-hegseth-fcbw/05dc-hegseth-fcbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Defense Secretary Pete Hegseth’s defiant video is unlikely to quell calls for his impeachment or his dismissal.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Triumphal Arch Wins Commission Approval Despite Court Challenges</title>
+      <link>https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html" rel="standout"></atom:link>
+      <description>President Trump’s 250-foot arch project was approved on Thursday by a federal planning board led by his allies. Court action and Democrats’ upcoming control of Congress could halt the plans.</description>
+      <dc:creator>Luke Broadwater and Emily Badger</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 03:33:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House East Wing and Ballroom (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arlington National Cemetery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Capital Planning Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Trust for Historic Preservation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chutkan, Tanya S</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/24/multimedia/05dc-arch/24dc-trump-security-p1-gwmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>A model of President Trump’s proposed arch, seen in June.</media:description>
+    </item>
+    <item>
+      <title>Rubio Dismisses Reports He Will Leave His Jobs to Run for President</title>
+      <link>https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html" rel="standout"></atom:link>
+      <description>President Trump’s secretary of state and national security adviser said he intended to stick with the administration to the end.</description>
+      <dc:creator>Tyler Pager and Anatoly Kurmanaev</dc:creator>
+      <pubDate>Thu, 05 Nov 2026 22:49:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05dc-rubio-mfpc/05dc-rubio-mfpc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Secretary of State Marco Rubio has said that he would support Vice President JD Vance if he ran for president.</media:description>
+    </item>
+    <item>
+      <title>Trump Moves to Make Oval Office a National Monument</title>
+      <link>https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html" rel="standout"></atom:link>
+      <description>The president’s announcement reinforced his post-midterm elections preoccupation on White House renovation projects.</description>
+      <dc:creator>Erica L. Green</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 01:24:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-tzcf/05dc-trump-tzcf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>President Trump in the Oval Office on Thursday.</media:description>
+    </item>
+    <item>
+      <title>12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/12-planes-in-12-days-pope-begins-major-latin-america-tour-weeks-after-surgery.html" rel="standout"></atom:link>
+      <description>Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.</description>
+      <dc:creator>Motoko Rich</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 05:01:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Keiko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <media:content height="1616" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg" width="1617"></media:content>
+      <media:credit>Remo Casilli/Reuters</media:credit>
+      <media:description>Pope Leo XIV offering Mass in St. Peter’s Basilica at the Vatican on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Pope Leo’s Trip to Latin America: What to Know</title>
+      <link>https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html" rel="standout"></atom:link>
+      <description>Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.</description>
+      <dc:creator>Motoko Rich, Emma Bubola and Julie Turkewitz</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 05:01:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Uruguay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Keiko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Popes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Remo Casilli/Reuters</media:credit>
+      <media:description>Pope Leo greeting a child in St. Peter’s Square at the Vatican on Wednesday. His trip to Latin America will be a test of his stamina.</media:description>
     </item>
     <item>
       <title>Up in the Clouds With the Pope, It’s Still Commercial</title>
@@ -259,13 +297,51 @@
       <media:description>Pope Leo XIV and Gennaro Anastasio, a senior cabin manager on many papal flights, after arriving in Turkey in 2025.</media:description>
     </item>
     <item>
+      <title>Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech</title>
+      <link>https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html" rel="standout"></atom:link>
+      <description>The S&amp;P 500 slumped to its worst daily decline since April 2025 and the tech-heavy Nasdaq entered correction territory, as investors fretted about the durability of the A.I. build-out.</description>
+      <dc:creator>Joe Rennison</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 00:48:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nasdaq Composite Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+    </item>
+    <item>
+      <title>Newsom Commutes the Sentences of California’s 548 Death Row Inmates</title>
+      <link>https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html" rel="standout"></atom:link>
+      <description>Gov. Gavin Newsom, who is considering a run for president, called capital punishment morally objectionable. Though California hasn’t executed anyone for 20 years, that represents about a quarter of death sentences nationwide.</description>
+      <dc:creator>Laurel Rosenhall</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 00:44:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klaas, Polly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ryan, George H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05nat-newsom-deathpenalty-zjql/05nat-newsom-deathpenalty-zjql-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+      <media:description>Gov. Gavin Newsom of California reduced every death sentence in the state to life in prison without parole, a sweeping move expected to face legal challenges.</media:description>
+    </item>
+    <item>
       <title>DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade</title>
       <link>https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html" rel="standout"></atom:link>
       <description>Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.</description>
       <dc:creator>Jodi Kantor and Michael S. Schmidt</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:42:17 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 01:10:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
@@ -287,35 +363,13 @@
       <media:description>Protesters gathered at the Supreme Court in May 2022 after a draft of the decision to overturn Roe v. Wade was leaked. </media:description>
     </item>
     <item>
-      <title>Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome</title>
-      <link>https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html" rel="standout"></atom:link>
-      <description>The conservative justice has told friends he does not plan to step down before the end of the court’s term, even as Democrats are set to seize the Senate in January.</description>
-      <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 16:39:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alito, Samuel A Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Clarence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05dc-scotus-alito-wqvp/05dc-scotus-alito-wqvp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Justice Samuel A. Alito Jr., 76, has been a forceful conservative and reliable vote in favor of President Trump’s policies.</media:description>
-    </item>
-    <item>
       <title>Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns</title>
       <link>https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html" rel="standout"></atom:link>
       <description>The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.</description>
       <dc:creator>Glenn Thrush, Michael C. Bender and Alan Feuer</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:05:11 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 01:36:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -354,25 +408,6 @@
       <media:description>The National Guard deployment in Washington reached a high of 5,148 troops in July, as part of a surge of military forces ordered for the country’s 250th anniversary.</media:description>
     </item>
     <item>
-      <title>He Felt Stuck in New York. So He Started Walking to California.</title>
-      <link>https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html" rel="standout"></atom:link>
-      <description>A Bronx native who’d spent his whole life in the city left on foot in May.</description>
-      <dc:creator>Dodai Stewart and Mark Abramson</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:05:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Walking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Carson City (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Road Trips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05met-walking-america-promo/05met-walking-america-hmlk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mark Abramson for The New York Times</media:credit>
-    </item>
-    <item>
       <title>How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says</title>
       <link>https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html</guid>
@@ -397,90 +432,13 @@
       <media:description>Flávio Bolsonaro, the right-wing Brazilian senator who lost last month’s presidential election, in Aventura, Fla., on Wednesday after fleeing Brazil.</media:description>
     </item>
     <item>
-      <title>Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport</title>
-      <link>https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html" rel="standout"></atom:link>
-      <description>A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.</description>
-      <dc:creator>Emma Bubola, Diego Bogarin and Lucía Cholakian Herrera</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:51:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Flavio</category>
-      <media:content height="1084" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/04int-argentina-bolsonaro01-photo-jtkl/04int-argentina-bolsonaro01-photo-jtkl-mediumSquareAt3X.jpg" width="1085"></media:content>
-      <media:credit>Ricardo Arduengo/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Flávio Bolsonaro stepping off a plane in Miami last month after fleeing Brazil.</media:description>
-    </item>
-    <item>
-      <title>RFK Jr.’s Appointees to Health Task Force Included Four Allowed to Keep Drug Stocks</title>
-      <link>https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/well/rfk-jr-uspstf-stocks.html" rel="standout"></atom:link>
-      <description>New members of the influential U.S. Preventive Services Task Force were given waivers to serve with financial conflicts.</description>
-      <dc:creator>Maggie Astor</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 19:47:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <media:content height="1373" medium="image" url="https://static01.nyt.com/images/2026/11/04/multimedia/WELL-USPSTF-CONFLICTS2-lckj/WELL-USPSTF-CONFLICTS2-lckj-mediumSquareAt3X.jpg" width="1373"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Infant Bleeding Surged as Parents Rejected Vitamin K Shots, Studies Find</title>
-      <link>https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/well/live/vitamin-k-shot-newborn-bleeding.html" rel="standout"></atom:link>
-      <description>One study found a 347 percent increase in cases as fewer babies received the shot, which helps blood clot.</description>
-      <dc:creator>Maggie Astor</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 17:39:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vitamins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/well/05WELL-VITAMINK-swap/05WELL-VITAMINK-swap-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Getty Images</media:credit>
-    </item>
-    <item>
-      <title>How Melania Trump Became a Dark-Horse Diplomat on Ukraine</title>
-      <link>https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html" rel="standout"></atom:link>
-      <description>Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.</description>
-      <dc:creator>Siobhán O’Grady and Katie Rogers</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 21:07:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leo XIV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-oleshky-hgtc/05int-ukraine-oleshky-hgtc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Melania Trump receiving a humanitarian award from Dmytro Lubinets, the Ukrainian human rights ombudsman, at the White House on Thursday.</media:description>
-    </item>
-    <item>
       <title>Russell Brand Is Found Guilty of Rape and Sexual Assault</title>
       <link>https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html" rel="standout"></atom:link>
       <description>The judge in London said the popular conspiratorial YouTuber and former movie star would be sentenced to “significant custodial time.”</description>
       <dc:creator>Alex Marshall</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:08:29 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2026 20:08:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brand, Russell</category>
@@ -509,13 +467,33 @@
       <media:description>Russell Brand heading to court on Thursday in London.</media:description>
     </item>
     <item>
+      <title>In French City Hit by Terrorist Attack, Residents Blame Far-Right Rhetoric</title>
+      <link>https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/world/europe/france-shooting-trappes.html" rel="standout"></atom:link>
+      <description>In Trappes, a suburb of Paris with a large immigrant population, residents believe that a shooting rampage was fueled by years of anti-immigrant sentiment.</description>
+      <dc:creator>Ségolène Le Stradic</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 05:01:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Trappes (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rabeh, Ali</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/00int-france-shooting-01-hfwq/00int-france-shooting-01-hfwq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pedro Nunes/Reuters</media:credit>
+      <media:description>Ali Rabeh, the mayor of Trappes, France, speaking at a gathering in the city last week. He has criticized how right-wing critics have portrayed the city.</media:description>
+    </item>
+    <item>
       <title>Elon Musk’s Very Bad Night</title>
       <link>https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html" rel="standout"></atom:link>
       <description>The midterms vote was an epic rebuke of Silicon Valley.</description>
       <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 12:19:50 +0000</pubDate>
+      <pubDate>Fri, 06 Nov 2026 00:28:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -558,32 +536,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
     </item>
     <item>
-      <title>Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan</title>
-      <link>https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html" rel="standout"></atom:link>
-      <description>Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.</description>
-      <dc:creator>Declan Walsh</dc:creator>
-      <pubDate>Thu, 05 Nov 2026 20:38:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lana Nusseibeh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Fasher (Sudan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rapid Support Forces (Sudan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Security Council (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-sudan-lana-2-kgtq/05int-sudan-lana-2-kgtq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee/Reuters</media:credit>
-      <media:description>Minister of State Lana Nusseibeh of the United Arab Emirates is a candidate to become the next secretary general of the United Nations.</media:description>
+      <title>6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year</title>
+      <link>https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html" rel="standout"></atom:link>
+      <description>Six people died in a blaze at a home in Sunset Park, the deadliest fire in the city this year. The cause is not yet clear, but Mayor Zohran Mamdani raised concerns about electric bikes.</description>
+      <dc:creator>Emma G. Fitzsimmons, Andrea Barnes, David Cheung and Christopher Maag</dc:creator>
+      <pubDate>Fri, 06 Nov 2026 02:18:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sunset Park (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/nyregion/05xp-fire1-promo/05xp-fire1-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

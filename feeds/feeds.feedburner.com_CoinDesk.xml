@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 19:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:39:25 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,20 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/0ce426499b0ff515dc82a647f9da45b765043ee8-7508x5103.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">5dfa2541-3949-4457-90b6-fe54b2dc563c</guid>
+      <pubDate>Fri, 06 Nov 2026 20:09:18 +0000</pubDate>
+      <description><![CDATA[Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.]]></description>
+      <dc:creator>Krisztian Sandor</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Tokenization]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[U.S. prediction markets regulator issues demand that clashes directly with courts]]></title>
       <link>https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts</link>
@@ -96,11 +110,11 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report]]></title>
+      <title><![CDATA[Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close]]></title>
       <link>https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite</link>
       <guid isPermaLink="false">86f02e90-36bc-4034-81b3-49812fc6d006</guid>
       <pubDate>Fri, 06 Nov 2026 11:58:40 +0000</pubDate>
-      <description><![CDATA[Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.]]></description>
+      <description><![CDATA[The Nasdaq gained just 1.1%, while the S&P 500 only edged higher, and the DJIA lost more ground.]]></description>
       <dc:creator>Jamie Crawley</dc:creator>
       <dc:creator>Stephen Alpher</dc:creator>
       <content:encoded/>
@@ -374,21 +388,6 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/daybook-us"><![CDATA[Crypto Daybook Americas]]></category>
       <category domain="tag"><![CDATA[Crypto Daybook Americas]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin miners are oversold following 35% October rout, VanEck says]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2f8f0af7ccc034c06cbbfaf318c734fc0eb012fe-1069x719.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">a94eee63-381e-4daa-a501-54deb65af27c</guid>
-      <pubDate>Thu, 05 Nov 2026 11:49:23 +0000</pubDate>
-      <description><![CDATA[Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.]]></description>
-      <dc:creator>Jamie Crawley</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin Mining]]></category>
-      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

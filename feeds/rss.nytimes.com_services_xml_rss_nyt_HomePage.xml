@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1794089303196" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 18:08:49 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 18:04:26 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:08:23 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 22:06:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html" rel="standout"></atom:link>
       <description>The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.</description>
       <dc:creator>Zolan Kanno-Youngs and Hamed Aleaziz</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 17:31:19 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 18:29:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
@@ -39,45 +39,32 @@
       <media:credit>Eric Lee/The New York Times</media:credit>
     </item>
     <item>
-      <title>Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html" rel="standout"></atom:link>
-      <description>A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.</description>
-      <dc:creator>Chris Cameron</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 23:53:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wiles, Susie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dhillon, Harmeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <title>Trump’s D.C. Construction Blitz May Be About to Get Tougher</title>
+      <link>https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/06/us/politics/trump-construction-projects-washington.html" rel="standout"></atom:link>
+      <description>The president has bulldozed through obstacles as he has sought to remake the face of Washington. But newly empowered Democrats and angry judges are setting up a high-stakes showdown.</description>
+      <dc:creator>Luke Broadwater and Emily Badger</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 03:08:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06trump-wiles-women1-tbkh/06trump-wiles-women1-tbkh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump talking with Susie Wiles at the White House last year.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House East Wing and Ballroom (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commission of Fine Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Capital Planning Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07dc-trump-makeover-top2-fpwz/07dc-trump-makeover-top2-fpwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
     </item>
     <item>
-      <title>What to Know About Stephen Miller, Trump’s New Chief of Staff</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html" rel="standout"></atom:link>
-      <description>The architect of President Trump’s mass deportation campaign, Mr. Miller has been the public face of many of Mr. Trump’s immigration policies.</description>
-      <dc:creator>Chris Cameron</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 02:56:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/06trump-wiles-stephen-miller1/06trump-wiles-stephen-miller1-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Stephen Miller in the White House with President Trump.</media:description>
-    </item>
-    <item>
-      <title>Schumer Is on Track to Remain Democratic Leader in Senate After Election Blowout, Aides Say</title>
+      <title>Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout</title>
       <link>https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html" rel="standout"></atom:link>
@@ -133,113 +120,107 @@
       <media:description>Erika Kirk, chief executive of Turning Point USA, during a Turning Point Action event in Phoenix in April.</media:description>
     </item>
     <item>
-      <title>How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html" rel="standout"></atom:link>
-      <description>Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.</description>
-      <dc:creator>Theodore Schleifer</dc:creator>
-      <pubDate>Fri, 06 Nov 2026 21:05:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <title>After the Midterms, the Average Age in the Senate Falls to 63</title>
+      <link>https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html" rel="standout"></atom:link>
+      <description>Incoming senators are nearly 15 years younger than departing ones, on average. But the chamber’s overall age isn’t shifting much.</description>
+      <dc:creator>Francesca Paris and C.J. Robinson</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 20:17:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America PAC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05pol-musk-midterms-kmfc-copy/05pol-musk-midterms-kmfc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>Elon Musk has become by far the Republican Party’s biggest megadonor, spending nearly $500 million during the 2025-26 midterm election cycle.</media:description>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms</title>
-      <link>https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html" rel="standout"></atom:link>
-      <description>In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.</description>
-      <dc:creator>Shane Goldmacher and Tim Balk</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 10:03:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-    </item>
-    <item>
-      <title>Inside the Operation That Helped Ukraine Reverse Some Russian War Gains</title>
-      <link>https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html" rel="standout"></atom:link>
-      <description>After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.</description>
-      <dc:creator>Carlotta Gall, Kamila Hrabchuk and Mauricio Lima</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 10:01:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Remote Control Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donbas (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="">Operation Vivaldi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mauricio Lima for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>U.S. Cleared Nvidia Chips to Chinese Firms With Empty Offices and Troubling Ties</title>
-      <link>https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html" rel="standout"></atom:link>
-      <description>The Commerce Department has approved dozens of Chinese companies to handle Nvidia’s H200 chips, some of which have ties to firms under sanctions over national security.</description>
-      <dc:creator>Ana Swanson, Kalley Huang and Keith Bradsher</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 10:00:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07dc-china-chips-01-fjhg/07dc-china-chips-01-fjhg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-new-senate-ages-index/2026-11-06-new-senate-ages-index-mediumSquareAt3X-v3.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-      <media:description>An industrial park for high-tech companies in Beijing. The company New Matrix lists the building as its address, but a company directory does not include the firm.</media:description>
     </item>
     <item>
-      <title>China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html" rel="standout"></atom:link>
-      <description>A memo that circulated among U.S. policymakers cited intelligence that Alice Huang, a Chinese executive who developed a relationship with Nvidia’s leader, was an asset of Beijing’s Ministry of State Security.</description>
-      <dc:creator>Julian E. Barnes, Tripp Mickle, Paul Mozur and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 02:18:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taipei (Taiwan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zhejiang Province (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06dc-Spy-Chip-qtkm/06dc-Spy-Chip-qtkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
-      <media:description>Jensen Huang, an influential ally of President Trump’s, is a pivotal figure in the intense global competition for A.I. supremacy. </media:description>
+      <title>Why White Working-Class Voters Shifted Left in the Midterms</title>
+      <link>https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html" rel="standout"></atom:link>
+      <description>White voters without a college degree, a cornerstone of the Republican base in the Trump era, moved left this year. Some cited high prices, the war with Iran and more in their decisions.</description>
+      <dc:creator>Bayliss Wagner</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 18:22:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07pol-white-working-class-tcwv/07pol-white-working-class-tcwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rachel Mummey for The New York Times</media:credit>
+      <media:description>Kylee Wilson, at her house in Prairie City, Iowa, said she voted for Democrats after voting for President Trump three times. “Trump put a target on America’s back,” she said. </media:description>
+    </item>
+    <item>
+      <title>Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html" rel="standout"></atom:link>
+      <description>Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.</description>
+      <dc:creator>Ephrat Livni and Aaron Boxerman</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 19:50:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herzog, Isaac</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-politics-eisenkot-HFO-vbtf/08int-israel-politics-eisenkot-HFO-vbtf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Shir Torem/Reuters</media:credit>
+      <media:description>Gadi Eisenkot, shown in Tel Aviv last month, has the daunting task of forming an Israeli coalition from disparate parties.</media:description>
+    </item>
+    <item>
+      <title>Eisenkot Seeks to Oust Netanyahu as Prime Minister. Here’s How.</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html" rel="standout"></atom:link>
+      <description>Gadi Eisenkot gets the chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 21:52:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Amit Elkayam for The New York Times</media:credit>
+      <media:description>Gadi Eisenkot, a former military chief and the leading opposition candidate, at a campaign event in September in Haifa, Israel.</media:description>
+    </item>
+    <item>
+      <title>How Cardiologists’ High Hopes for Two Drugs Were Dashed</title>
+      <link>https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html" rel="standout"></atom:link>
+      <description>By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 14:50:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novartis AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>Illeana Douglas Looks Back on Hollywood’s Biggest ‘Cat Fight’</title>
@@ -263,64 +244,60 @@
       <media:description>Douglas says she has learned to be “very strong and very direct.”</media:description>
     </item>
     <item>
-      <title>We the People Finally Turn on Trump</title>
-      <link>https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html" rel="standout"></atom:link>
-      <description>A Norma Desmond crash-out to end all crash-outs.</description>
-      <dc:creator>Maureen Dowd</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 16:47:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <title>The Midterms Were Spectacular. Here’s What They Showed.</title>
+      <link>https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html" rel="standout"></atom:link>
+      <description>Five signals from the Democrats’ extraordinary string of victories.</description>
+      <dc:creator>Lydia Polgreen</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 16:44:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/07dowd-hlqm/07dowd-hlqm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Daniel Ribar for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaswamy, Vivek (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08polgreen-hpcv/08polgreen-hpcv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by Jaclyn Wright for The New York Times</media:credit>
     </item>
     <item>
-      <title>Hunkering Down</title>
-      <link>https://www.nytimes.com/2026/11/07/briefing/hunkering-down.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/briefing/hunkering-down.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/briefing/hunkering-down.html" rel="standout"></atom:link>
-      <description>The urge to hibernate comes on strong as the days get shorter. But there are good reasons to resist, at least a little.</description>
-      <dc:creator>Melissa Kirsch</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 11:24:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hibernation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <title>What Michelle Goldberg Learned From the Most Exciting Democrats</title>
+      <link>https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html" rel="standout"></atom:link>
+      <description>Michelle Goldberg reported on the Democrats’ most exciting campaigns. Here’s what she saw.</description>
+      <dc:creator>Ezra Klein and Annie Galvin</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 14:45:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldberg, Michelle (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ossoff, Jon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hinojosa, Gina (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/opinion/07eks-goldberg-image01/07eks-goldberg-image01-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>The Ezra Klein Show</media:credit>
     </item>
     <item>
-      <title>This Israeli Vows to Oust Netanyahu. Here’s How.</title>
-      <link>https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html" rel="standout"></atom:link>
-      <description>Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister. But the obstacles are formidable.</description>
-      <dc:creator>David M. Halbfinger</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 12:42:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Avigdor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yisrael Beiteinu (Israeli Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lapid, Yair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbas, Mansour</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Torah Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Raam Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Joint List (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yashar Party (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Amit Elkayam for The New York Times</media:credit>
-      <media:description>Gadi Eisenkot, a former military chief and the leading opposition candidate, at a campaign event in September in Haifa, Israel.</media:description>
+      <title>More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War</title>
+      <link>https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html" rel="standout"></atom:link>
+      <description>Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.</description>
+      <dc:creator>Shuaib Almosawa and Ismaeel Naar</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 16:39:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiz (Yemen)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07int-YEMEN-DEATHS-mgcp/07int-YEMEN-DEATHS-mgcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Khaled Abdullah/Reuters</media:credit>
+      <media:description>A boy being treated after being injured in a strike near Sanaa, Yemen, on Saturday.</media:description>
     </item>
   </channel>
 </rss>

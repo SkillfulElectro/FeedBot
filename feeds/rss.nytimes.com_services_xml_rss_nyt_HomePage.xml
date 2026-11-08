@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1794089303196" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 22:08:23 +0000</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 22:06:05 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:39:09 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 00:05:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -64,6 +64,45 @@
       <media:credit>Alex Kent/The New York Times</media:credit>
     </item>
     <item>
+      <title>South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham</title>
+      <link>https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html" rel="standout"></atom:link>
+      <description>Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr. Graham’s team of pushing her to run despite her lack of experience.</description>
+      <dc:creator>Emily Davies</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 14:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/05/multimedia/05pol-darline-blame-jcwg/05pol-darline-blame-jcwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump campaigned with Senator Darline Graham in Rock Hill, S.C., a few days before the election.</media:description>
+    </item>
+    <item>
+      <title>After the Midterms, the Average Age in the Senate Falls to 63</title>
+      <link>https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html" rel="standout"></atom:link>
+      <description>Incoming senators are nearly 15 years younger than departing ones, on average. But the chamber’s overall age isn’t shifting much.</description>
+      <dc:creator>Francesca Paris and C.J. Robinson</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 20:17:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-new-senate-ages-index/2026-11-06-new-senate-ages-index-mediumSquareAt3X-v3.png" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
       <title>Chuck Schumer Is on Track to Become Senate Majority Leader After Election Blowout</title>
       <link>https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/politics/schumer-election-democrats-senate.html</guid>
@@ -92,53 +131,6 @@
       <media:description>Senator Chuck Schumer, Democrat of New York, and his political team engaged in a $550 million push to put more Senate seats in play and increase their chances of regaining the majority.</media:description>
     </item>
     <item>
-      <title>Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.</title>
-      <link>https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html" rel="standout"></atom:link>
-      <description>Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.</description>
-      <dc:creator>Reis Thebault and Sejal Govindarao</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 10:02:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Turning Point USA</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ayotte, Kelly A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biggs, Andy (1958- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirk, Charlie (1993- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirk, Erika (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kolodin, Alexander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swoboda, Gina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/07/multimedia/07nat-turningpoint-midterms-01-thwk/07nat-turningpoint-midterms-01-thwk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Erika Kirk, chief executive of Turning Point USA, during a Turning Point Action event in Phoenix in April.</media:description>
-    </item>
-    <item>
-      <title>After the Midterms, the Average Age in the Senate Falls to 63</title>
-      <link>https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/upshot/senators-midterm-elections-age.html" rel="standout"></atom:link>
-      <description>Incoming senators are nearly 15 years younger than departing ones, on average. But the chamber’s overall age isn’t shifting much.</description>
-      <dc:creator>Francesca Paris and C.J. Robinson</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 20:17:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-06-new-senate-ages-index/2026-11-06-new-senate-ages-index-mediumSquareAt3X-v3.png" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
       <title>Why White Working-Class Voters Shifted Left in the Midterms</title>
       <link>https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/us/politics/white-working-class-voters-midterms-democrats-trump.html</guid>
@@ -164,7 +156,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html" rel="standout"></atom:link>
       <description>Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.</description>
       <dc:creator>Ephrat Livni and Aaron Boxerman</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 19:50:21 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 23:03:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
@@ -244,23 +236,21 @@
       <media:description>Douglas says she has learned to be “very strong and very direct.”</media:description>
     </item>
     <item>
-      <title>The Midterms Were Spectacular. Here’s What They Showed.</title>
-      <link>https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/07/opinion/america-midterms-democrats-trump.html" rel="standout"></atom:link>
-      <description>Five signals from the Democrats’ extraordinary string of victories.</description>
-      <dc:creator>Lydia Polgreen</dc:creator>
-      <pubDate>Sat, 07 Nov 2026 16:44:09 +0000</pubDate>
+      <title>We the People Finally Turn on Trump</title>
+      <link>https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html" rel="standout"></atom:link>
+      <description>A Norma Desmond crash-out to end all crash-outs.</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 07 Nov 2026 16:47:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramaswamy, Vivek (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/08polgreen-hpcv/08polgreen-hpcv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Photo Illustration by Jaclyn Wright for The New York Times</media:credit>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/08/multimedia/07dowd-hlqm/07dowd-hlqm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Daniel Ribar for The New York Times</media:credit>
     </item>
     <item>
       <title>What Michelle Goldberg Learned From the Most Exciting Democrats</title>

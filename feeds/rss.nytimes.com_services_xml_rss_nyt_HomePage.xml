@@ -3,148 +3,256 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1794514391300" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 12:18:54 +0000</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 12:17:15 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:13:11 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 20:08:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Nvidia’s Board Is Weighing Jensen Huang’s Future</title>
-      <link>https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html" rel="standout"></atom:link>
-      <description>Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with an executive at his A.I. chip company.</description>
-      <dc:creator>Tripp Mickle and Maggie Haberman</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 05:53:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
+      <title>Nvidia Stock Plunges After Jensen Huang Resigns as CEO</title>
+      <link>https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html" rel="standout"></atom:link>
+      <description>News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.</description>
+      <dc:creator>Aruni Soni, Eshe Nelson and Jason Karaian</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:09:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wachtell Lipton Rosen &amp; Katz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/00biz-jensen-huang-gzlb/00biz-jensen-huang-gzlb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
-      <media:description>Few Silicon Valley executives have been as synonymous with their companies as Jensen Huang, the co-founder and chief executive of Nvidia.</media:description>
-    </item>
-    <item>
-      <title>Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him</title>
-      <link>https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html" rel="standout"></atom:link>
-      <description>Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.</description>
-      <dc:creator>Ryan Mac, Tripp Mickle and Georgia Gee</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 01:57:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
-      <media:description>Nvidia’s chief executive, Jensen Huang, at the company’s annual conference in San Jose, Calif., in March.</media:description>
-    </item>
-    <item>
-      <title>Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO</title>
-      <link>https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html" rel="standout"></atom:link>
-      <description>News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.</description>
-      <dc:creator>Michael Corkery and Jason Karaian</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 02:40:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manami Yamada/Reuters</media:credit>
     </item>
     <item>
-      <title>In China’s Spy Operations, Romance Can Be a Long Game</title>
-      <link>https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html" rel="standout"></atom:link>
-      <description>Jensen Huang’s affair with a woman U.S. officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage.</description>
-      <dc:creator>Lily Kuo</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 09:31:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <title>Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?</title>
+      <link>https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html" rel="standout"></atom:link>
+      <description>Ms. Kress, the company’s chief financial officer, joined Nvidia in 2013.</description>
+      <dc:creator>Adam Satariano and Kalley Huang</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:54:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stasi (East Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kress, Colette</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-CFO-topart-mzjt/12biz-nvidia-CFO-topart-mzjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nvidia, via Reuters</media:credit>
+      <media:description>Colette Kress, Nvidia’s chief financial officer, in a photo distributed by the company on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed</title>
+      <link>https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html" rel="standout"></atom:link>
+      <description>In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.</description>
+      <dc:creator>Paul Mozur</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 19:19:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swalwell, Eric M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">M Butterfly (Play)</category>
-      <media:content height="600" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12int-china-espionage-01-qvpc/12int-china-espionage-01-qvpc-mediumSquareAt3X.jpg" width="600"></media:content>
-      <media:credit>Obtained By Reuters</media:credit>
-      <media:description>Jensen Huang, the Nvidia chief executive, and Alice Huang in Taipei, Taiwan, in 2024. American officials say that a spy agency recruited her to collect intelligence on Mr. Huang.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Taryn Ng/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Megaspeed’s office in Singapore. The company is run by Alice Huang, the woman at the center of the spy plot involving Nvidia’s chief executive, Jensen Huang.</media:description>
     </item>
     <item>
-      <title>A Second Affair Revelation Rocks Nvidia, and a Democrat Wins Mississippi in a Major Senate Upset</title>
-      <link>https://www.nytimes.com/2026/11/12/podcasts/the-headlines/jensen-huang-nvidia-scott-colom-mississippi-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/podcasts/the-headlines/jensen-huang-nvidia-scott-colom-mississippi-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/podcasts/the-headlines/jensen-huang-nvidia-scott-colom-mississippi-senate.html" rel="standout"></atom:link>
-      <description>Plus, the downfall of Russia’s most daring newspaper.</description>
-      <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Ryan Mac and Valerie Hopkins</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 11:00:15 +0000</pubDate>
+      <title>What to Know About the Deadly Building Collapse in Brooklyn</title>
+      <link>https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html" rel="standout"></atom:link>
+      <description>At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed, officials said.</description>
+      <dc:creator>Maia Coleman, Caitlyn Freeman and Max Bearak</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 19:38:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flatbush, Brooklyn, Building Collapse (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buildings Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bichotte Hermelyn, Rodneyse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flatbush (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Little Haiti (Brooklyn, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bing Guan for The New York Times</media:credit>
+      <media:description>The building that collapsed, at 1321 Flatbush Avenue, had four apartments, according to city records.</media:description>
+    </item>
+    <item>
+      <title>A Frantic Search for Survivors in the Brooklyn Building Collapse</title>
+      <link>https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html" rel="standout"></atom:link>
+      <description>At one moment, an apartment building was standing. At another, it had tumbled into a hole. Ruin, and death, followed.</description>
+      <dc:creator>Ana Ley and Dave Sanders</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 19:43:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flatbush, Brooklyn, Building Collapse (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/11/12/lens/BUILDING-IN-ONE-IMAGE-promo/BUILDING-IN-ONE-IMAGE-promo-mediumSquareAt3X.png" width="1080"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign</title>
+      <link>https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html" rel="standout"></atom:link>
+      <description>The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 19:38:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colom, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12headlines-Huang-spy-lmbf/12headlines-Huang-spy-lmbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sean Gallup/Getty Images</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Vice President JD Vance has blamed the war against Iran for Republicans’ midterm election wipeout.</media:description>
     </item>
     <item>
-      <title>Scott Colom, a Democrat, Wins Mississippi Senate Election</title>
-      <link>https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html" rel="standout"></atom:link>
-      <description>Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.</description>
-      <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 09:11:07 +0000</pubDate>
+      <title>Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?</title>
+      <link>https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html" rel="standout"></atom:link>
+      <description>Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:18:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colom, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hyde-Smith, Cindy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Processed and Ultraprocessed Foods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11pol-ms-senate/11midterms-02-jgqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rory Doyle for The New York Times</media:credit>
-      <media:description>Scott Colom delivers a victory speech at Tougaloo College in Jackson, Miss., on Wednesday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Democrats Put Targets on Notice as Trump Oversight Takes Shape</title>
+      <link>https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html" rel="standout"></atom:link>
+      <description>Letters sent by two key House committees tell companies and officials not to destroy documents.</description>
+      <dc:creator>Evan Halper</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:07:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on Science, Space and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Natural Resources Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Center for Atmospheric Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12cli-letters-02b-bhpw/12cli-letters-02b-bhpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Will the Supreme Court Thwart Congressional Investigations?</title>
+      <link>https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html" rel="standout"></atom:link>
+      <description>Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:27:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Privilege, Doctrine of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scalia, Antonin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilkinson, J Harvie III</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>The Supreme Court’s immunity rulings may hinder some Congressional investigations.</media:description>
+    </item>
+    <item>
+      <title>Democrats Unite on Economic Populism After Midterm Victories</title>
+      <link>https://www.nytimes.com/2026/11/12/us/politics/democrats-majorities-economic-populism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/politics/democrats-majorities-economic-populism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/us/politics/democrats-majorities-economic-populism.html" rel="standout"></atom:link>
+      <description>Moderate Democrats and progressives have long feuded over who should drive their party’s economic agenda. But many newly elected members say they share the same big goals.</description>
+      <dc:creator>Catie Edmondson</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 18:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Populism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Blue Dog Coalition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conley, Cait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Forstag, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Troy D (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiros, Melat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valdez, Claire (1989- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12dc-dems-populism-hzwp/12dc-dems-populism-hzwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Allison Robbert for The New York Times</media:credit>
+      <media:description>“I think we’ll have a lot of places of agreement in tackling this corporate greed,” said Representative-elect Claire Valdez of New York.</media:description>
     </item>
     <item>
       <title>In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win</title>
       <link>https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html" rel="standout"></atom:link>
-      <description>At Tougaloo College, supporters danced and wept and over Scott Colom’s victory. He will be Mississippi’s first Black U.S. senator since the Reconstruction era.</description>
+      <description>At Tougaloo College, supporters danced and wept over Scott Colom’s victory. He will be Mississippi’s first Black U.S. senator since the Reconstruction era.</description>
       <dc:creator>Emily Cochrane and Jennifer Medina</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:19:10 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 14:14:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -166,198 +274,104 @@
       <media:description>People celebrating Scott Colom’s victory at Tougaloo College in Jackson, Miss. on Wednesday.</media:description>
     </item>
     <item>
-      <title>Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?</title>
-      <link>https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html" rel="standout"></atom:link>
-      <description>Mr. Revels took his seat two days after Mississippi was readmitted to the union after the Civil War. Mr. Bruce served just before white leaders ushered in the Jim Crow era.</description>
-      <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:31:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <title>The Concession Call to an Election Winner Is No Longer a Given</title>
+      <link>https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html" rel="standout"></atom:link>
+      <description>In a hyperpartisan era when norms and traditions cannot be counted on, some politicians are left waiting by the phone.</description>
+      <dc:creator>Sopan Deb and Reid J. Epstein</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 15:00:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colom, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11midterms-miss-history-topart-lfzj/11midterms-miss-history-topart-lfzj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brady-Handy Collection, via Library of Congress</media:credit>
-      <media:description>Hiram Revels became the first Black man to serve in the U.S. Senate after being elected by the Mississippi state legislature in 1870.</media:description>
-    </item>
-    <item>
-      <title>Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts</title>
-      <link>https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html" rel="standout"></atom:link>
-      <description>Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.</description>
-      <dc:creator>Christopher Rowland</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 16:23:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Congressional Budget Office</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">One Big Beautiful Bill Act (2025)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Lee Klafczynski for The New York Times</media:credit>
-      <media:description>Eskenazi Hospital in Indianapolis is dispatching teams into the city’s low-income neighborhoods to help educate patients on keeping their Medicaid coverage.</media:description>
-    </item>
-    <item>
-      <title>Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck</title>
-      <link>https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html" rel="standout"></atom:link>
-      <description>Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.</description>
-      <dc:creator>Victoria Kim and Matthew Abbott</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 11:55:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bougainville (Papua New Guinea)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Papua New Guinea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pearl Harbor (Hawaii)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Secession and Independence Movements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/19/multimedia/00int-yamamoto-plane-still-promo-hgkc/00int-yamamoto-plane-still-promo-hgkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matthew Abbott for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss</title>
-      <link>https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html" rel="standout"></atom:link>
-      <description>The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.</description>
-      <dc:creator>Glenn Thrush and Alan Feuer</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 21:59:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of Legal Counsel (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bondi, Pamela J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dhillon, Harmeet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gaiser, T Elliot</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garcia, Robert (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCotter, Trent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reding Quinones, Jason A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woodward, Stanley Jr (Attorney)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/10/multimedia/00dc-justice-jbhl/00dc-justice-jbhl-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Nathan Howard for The New York Times</media:credit>
-      <media:description>Attorney General Todd Blanche has made clear that he intends to use the Justice Department to fight off any attempts by Congress to investigate the administration.</media:description>
-    </item>
-    <item>
-      <title>Democrats Face Backlash After Missing Hegseth Impeachment Vote</title>
-      <link>https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html" rel="standout"></atom:link>
-      <description>Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories.</description>
-      <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:21:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impeachment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MeidasTouch News</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clark, Katherine M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kamlager-Dove, Sydney</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGovern, Jim (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pettersen, Brittany (1981- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Democratic absences during the vote raised questions about party leaders’ hold on their caucus at a critical time.</media:description>
-    </item>
-    <item>
-      <title>San Antonio Fights Plan to Turn Warehouse Into ICE Detention Center</title>
-      <link>https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html" rel="standout"></atom:link>
-      <description>The city’s lawsuit is part of a wave of legal challenges slowing the Trump administration’s effort to build immigration detention centers across the country.</description>
-      <dc:creator>Edgar Sandoval</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:00:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
-    </item>
-    <item>
-      <title>Trump Hints at Immigration Deal, Then Reverses. He’s Done That Before.</title>
-      <link>https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/us/politics/trump-immigration-election-democrats-republicans.html" rel="standout"></atom:link>
-      <description>Democrats and some Republicans say President Trump is missing an opportunity to find consensus on an issue that has bedeviled past administrations.</description>
-      <dc:creator>Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Wed, 11 Nov 2026 19:50:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <media:content height="1512" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12xp-concessions-promo/12xp-concessions-promo-mediumSquareAt3X.png" width="1512"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times; Victor J. Blue for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>What the Retail Greeting ‘Welcome in’ Says About What Customers Really Want</title>
+      <link>https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html" rel="standout"></atom:link>
+      <description>The phrase has started showing up everywhere. It reveals a lot about our discomforts with both human and robotic interactions.</description>
+      <dc:creator>Nitsuh Abebe</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 10:03:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ritz-Carlton Hotel Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chick-fil-A</category>
+    </item>
+    <item>
+      <title>Data Centers Will Continue to Be Built, Despite Midterm Elections</title>
+      <link>https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html" rel="standout"></atom:link>
+      <description>Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.</description>
+      <dc:creator>Karen Weise</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 14:42:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/11/20/multimedia/11dc-trump-immig/20DC-IMMIG-FINES-bzth-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Victor J. Blue for The New York Times</media:credit>
-      <media:description>Immigration and Customs Enforcement agents conducting a street raid in New York last year.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CoreWeave</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Brotherhood of Electrical Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Acton, Amy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hinojosa, Gina (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Edmon de Haro</media:credit>
     </item>
     <item>
-      <title>Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say</title>
-      <link>https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html" rel="standout"></atom:link>
-      <description>The Israeli authorities said that Hamas had established a command center at the hospital complex, but the militant group said the attack was “a heinous crime targeting a civilian medical facility.”</description>
-      <dc:creator>Abu Bakr Bashir and Ephrat Livni</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:08:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khan Younis (Gaza Strip)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nasser Hospital (Gaza Strip)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/12/11/multimedia/11int-Gaza-Hospital-ktgm/11int-Gaza-Hospital-ktgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ramadan Abed/Reuters</media:credit>
-      <media:description>Damage at Nasser Hospital after an Israeli airstrike in Khan Younis, Gaza, on Thursday.</media:description>
+      <title>SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona</title>
+      <link>https://www.nytimes.com/2026/11/12/business/spacex-data-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/business/spacex-data-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/business/spacex-data-center.html" rel="standout"></atom:link>
+      <description>Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology.</description>
+      <dc:creator>Grace Kay</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 19:45:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12biz-spacex-datacenters-jpcb/12biz-spacex-datacenters-jpcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
+      <media:description>Starbase, the headquarters of SpaceX, in Boca Chica, Texas.</media:description>
     </item>
     <item>
-      <title>Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns</title>
-      <link>https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html" rel="standout"></atom:link>
-      <description>Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.</description>
-      <dc:creator>Adam Rasgon and Natan Odenheimer</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:59:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jaffa (Israel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shin Bet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abed Abu Shehadeh</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jess Flom/JNA Press, via Shutterstock</media:credit>
-      <media:description>Abed Abu Shehadeh returns to Jaffa, Israel, after being released from custody on Sunday.</media:description>
+      <title>We Were Warned of Deceptive A.I. Fakes. We Got Memes.</title>
+      <link>https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html" rel="standout"></atom:link>
+      <description>The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning.</description>
+      <dc:creator>Stuart A. Thompson</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 17:13:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>When Bernice Gottlieb Visited a Community of People With Leprosy</title>
+      <link>https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html" rel="standout"></atom:link>
+      <description>By embracing Korean children stigmatized by the disease, she was a leader in the international adoption movement. She has died at 95.</description>
+      <dc:creator>Maggie Jones</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 19:16:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adoptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Leprosy (Hansen&#39;s Disease)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
     </item>
     <item>
       <title>Is Air Travel Getting Less Safe?</title>
@@ -369,10 +383,17 @@
       <pubDate>Thu, 12 Nov 2026 10:01:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Transportation Safety Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">American Airlines Flight 5342</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Canada Flight 8646</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pan Am Flight 103 (Lockerbie Bombing)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duffy, Sean P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (US)</category>
     </item>
     <item>
       <title>Takeaways From the Times’s Report on Aviation Safety</title>
@@ -381,7 +402,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html" rel="standout"></atom:link>
       <description>How alarmed should we be about the state of air travel?</description>
       <dc:creator>James Fallows</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:03:52 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 19:31:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
@@ -394,13 +415,31 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
     </item>
     <item>
+      <title>What to Know About New Prostate Cancer Screening Recommendations</title>
+      <link>https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html" rel="standout"></atom:link>
+      <description>Universal screening for the disease has long been a subject of controversy.</description>
+      <dc:creator>Nina Agrawal</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 15:04:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostate Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostate Specific Antigen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Cancer Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Preventive Services Task Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/well/12WELL-ACS-PROSTATE2/12WELL-ACS-PROSTATE2-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>ViktorCap/Getty Images</media:credit>
+    </item>
+    <item>
       <title>The First Thing Democrats Should Do to Show They’re Serious on Affordability</title>
       <link>https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html" rel="standout"></atom:link>
       <description>A party that just won an election on affordability should not pass up a chance to deliver immediately.</description>
       <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 11:02:11 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 16:56:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
@@ -420,47 +459,31 @@
       <media:credit>Illustration by Rebecca Chew/The New York Times</media:credit>
     </item>
     <item>
-      <title>Democrats Have Power Now. They Shouldn’t Waste It on Woke.</title>
-      <link>https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html" rel="standout"></atom:link>
-      <description>This leftist thinker is skeptical that they can govern without lecturing the country.</description>
-      <dc:creator>Christine Rosen and Sophia Muniz</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 10:50:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Catherine Liu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winfrey, Oprah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/opinion/12itpod-liu/12itpod-liu-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <title>Dementia Stole His Mother’s Memories. Can Sound Help?</title>
+      <link>https://www.nytimes.com/2026/11/12/opinion/dementia-memory-alaska-wilderness-sounds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/opinion/dementia-memory-alaska-wilderness-sounds.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/opinion/dementia-memory-alaska-wilderness-sounds.html" rel="standout"></atom:link>
+      <description>In the Alaskan wilderness, a deeper truth awaits those who stop to listen.</description>
+      <dc:creator>Taliesin Black-Brown and Hank Lentfer</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 20:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dementia</category>
     </item>
     <item>
-      <title>Soldier Shouts Toward Hegseth to Show ‘Respect’ at Tomb of the Unknown Soldier</title>
-      <link>https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html" rel="standout"></atom:link>
-      <description>A Pentagon spokesman said the sentinel had “reminded everyone to maintain decorum” after laughter was heard from a group visiting the burial site with the Defense Secretary on Wednesday.</description>
-      <dc:creator>Mack Liederman</dc:creator>
-      <pubDate>Thu, 12 Nov 2026 00:53:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans Day (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arlington National Cemetery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arlington (Va)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/11xp-tomb-vkjz/11xp-tomb-vkjz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>Secretary of Defense Pete Hegseth and his wife, Jennifer, during a ceremony at Arlington National Cemetery on Wednesday.</media:description>
+      <title>One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building</title>
+      <link>https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html" rel="standout"></atom:link>
+      <description>The shooting in a busy neighborhood took place at a gym and two nearby locations. A suspect was found with a fatal gunshot wound after barricading in a building, the police said.</description>
+      <dc:creator>Billy Witz, Aishvarya Kavi, Madison Malone Kircher and Christine Hauser</dc:creator>
+      <pubDate>Thu, 12 Nov 2026 17:42:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aaron Schwartz/Reuters</media:credit>
+      <media:description>Emergency workers in the Logan Circle area of Washington, D.C., on Thursday morning.</media:description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sat, 14 Nov 2026 02:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:17:36 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">3deea91a-1395-40ce-a87c-7d6521492144</guid>
+      <pubDate>Sat, 14 Nov 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out]]></title>
       <link>https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out</link>
@@ -364,22 +377,6 @@
       <category domain="tag"><![CDATA[Funding Rounds]]></category>
       <category domain="tag"><![CDATA[Stablecoins]]></category>
       <category domain="tag"><![CDATA[UK]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Ethereum researchers drop faster blocks to race toward quantum defenses in 2027]]></title>
-      <link>https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">5bf0dd90-1b53-4583-a0f8-8f3d1383ef20</guid>
-      <pubDate>Thu, 12 Nov 2026 11:43:41 +0000</pubDate>
-      <description><![CDATA[Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[Ethereum News]]></category>
-      <category domain="tag"><![CDATA[quantum computing]]></category>
-      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

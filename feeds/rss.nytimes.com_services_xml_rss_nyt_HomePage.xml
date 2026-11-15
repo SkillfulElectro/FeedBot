@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1794704906271" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 01:08:26 +0000</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 00:45:45 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:12:39 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 07:15:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -63,6 +63,22 @@
       <media:description>President Trump has been mostly silent after the F.A.A. ground stop, which affected travelers across the country on Friday. </media:description>
     </item>
     <item>
+      <title>What to Know About Continued Flight Disruptions</title>
+      <link>https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/us/flight-delays-cancelations-what-to-know.html" rel="standout"></atom:link>
+      <description>After a nationwide ground stop Friday, travelers are still encountering snags, and it could take several days for flight schedules to return to normal.</description>
+      <dc:creator>Sejal Govindarao</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 02:52:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationwide Ground Stops (Aviation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/12/13/multimedia/14nat-groundstop-wwk/13faa-groundstop-promo-hbjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Although a nationwide ground stop on Friday was lifted after several hours, flight schedules could take several days to return to normal.</media:description>
+    </item>
+    <item>
       <title>After Relative Silence, Joe Rogan Said MAGA Has Lost the “Podcast Bros”</title>
       <link>https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html</guid>
@@ -104,23 +120,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/13/magazine/00mag-democracy/00mag-democracy-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Chip Somodevilla/Getty Images</media:credit>
       <media:description>Supporters of James Talarico on election night. He became the first Democrat elected to the Senate in Texas since 1988.</media:description>
-    </item>
-    <item>
-      <title>Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda</title>
-      <link>https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html" rel="standout"></atom:link>
-      <description>The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.</description>
-      <dc:creator>Catie Edmondson</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 10:01:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/12/11/multimedia/00DC-AFFORDABILITY-plhz/00DC-AFFORDABILITY-plhz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Representative Brendan Boyle in his office at the Capitol this month.</media:description>
     </item>
     <item>
       <title>Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.</title>
@@ -167,26 +166,43 @@
       <media:description>“Jensen drove supply chain brilliantly at Nvidia, but many of those deals were a handshake with Jensen, not a written contract,” Elon Musk said of Jensen Huang in a social media post.</media:description>
     </item>
     <item>
-      <title>How the University of North Carolina Tried to Avoid Trump’s Wrath</title>
-      <link>https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html" rel="standout"></atom:link>
-      <description>The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.</description>
-      <dc:creator>Alan Blinder, Stephanie Saul, Irena Hwang, Benjamin Mueller and Mike Belleme</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 14:12:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of North Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, Lee Harriss</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic Freedom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baric, Ralph Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <title>Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project</title>
+      <link>https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html" rel="standout"></atom:link>
+      <description>Judge Ana C. Reyes, who has been overseeing combative litigation, said the Trump administration would not be responsible for operating the course while the case proceeded.</description>
+      <dc:creator>Zach Montague</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 02:42:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/10/26/us/26nat-unc-science-promo/26nat-unc-science-promo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Mike Belleme for The New York Times</media:credit>
-      <media:description>Students crossing the campus of the University of the University of North Carolina at Chapel Hill in September.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reyes, Ana C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Potomac Park (Washington, DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/us/14dc-golf-new/14dc-golf-new-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Golfers playing East Potomac Golf Links in front of temporary barricades on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Key Witness in Comey Case Attests to Justice Dept.’s Aggressive Tactics</title>
+      <link>https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/us/politics/comey-witness-justice-dept-aggressive-tactics.html" rel="standout"></atom:link>
+      <description>A former aide to James Comey at the F.B.I. said the government had engaged in a “harassment campaign” in its efforts to secure witness testimony.</description>
+      <dc:creator>Alan Feuer</dc:creator>
+      <pubDate>Sat, 14 Nov 2026 21:40:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, James B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14dc-comey-topart-01-tkcf/14dc-comey-topart-01-tkcf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jared Soares for The New York Times</media:credit>
+      <media:description>The Justice Department continues to pursue charges against James B. Comey, the former F.B.I. director. </media:description>
     </item>
     <item>
       <title>When Disaster Hit Next Door in Flatbush</title>
@@ -199,32 +215,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flatbush (Brooklyn, NY)</category>
-    </item>
-    <item>
-      <title>Brooklyn Building Collapse Tragedy Devastates Immigrant Families</title>
-      <link>https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/nyregion/building-collapse-brooklyn-immigrants.html" rel="standout"></atom:link>
-      <description>Theirs was a story as old as New York. On a street in Brooklyn, immigrants had arrived to work and live, until their lives intersected in tragedy.</description>
-      <dc:creator>Luis Ferré-Sadurní and Ana Ley</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 14:48:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flatbush, Brooklyn, Building Collapse (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flatbush (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14met-building-immigrant-top-mzgw/14met-building-immigrant-top-mzgw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>Brenda Vasquez, 25, lost her husband, Edgar Santiago Sapón Gutierrez, 26, when an apartment building collapsed onto a Brooklyn construction site.</media:description>
     </item>
     <item>
       <title>In the Rubble of a Fallen Building, He Rescued a 2-Year-Old</title>
@@ -276,48 +266,83 @@
       <media:credit>Devin Oktar Yalkin for The New York Times</media:credit>
     </item>
     <item>
-      <title>Talarico Wants to Transcend the Pettiness of Modern Politics. Can He?</title>
-      <link>https://www.nytimes.com/2026/11/14/opinion/talarico-midterms-trump-washington.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/opinion/talarico-midterms-trump-washington.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/opinion/talarico-midterms-trump-washington.html" rel="standout"></atom:link>
-      <description>It’s an open question how much unity, healing and love is possible in Trump’s Washington.</description>
-      <dc:creator>Michelle Goldberg</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 20:35:29 +0000</pubDate>
+      <title>Nate Silver’s Unscientific, Totally Subjective Breakdown of the Democrats’ Future Stars</title>
+      <link>https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/15/opinion/nate-silver-democrats-midterms-president.html" rel="standout"></atom:link>
+      <description>A roundup of uniters and fighters, progressives and moderates.</description>
+      <dc:creator>Nate Silver</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 07:15:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Acton, Amy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrews, Annie (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beshear, Andrew G (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buttigieg, Pete (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Forstag, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallego, Ruben (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hinojosa, Gina (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, Mark E (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khanna, Ro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Wes (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ossoff, Jon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pritzker, J B</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pulido, Bobby</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sand, Rob (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro, Josh (1973- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14goldberg-mzvl/14goldberg-mzvl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Mark Peterson for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turek, Josh (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warnock, Raphael G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/15/multimedia/15silver-vfhb/15silver-vfhb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by Aleksey Kondratyev for The New York Times</media:credit>
     </item>
     <item>
-      <title>Jensen Huang’s Fall Is a Dark Consequence of What’s Happening in Silicon Valley</title>
-      <link>https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/14/opinion/jensen-huang-donald-trump-silicon-valley.html" rel="standout"></atom:link>
-      <description>Silicon Valley’s authoritarianism has left itself particularly vulnerable to Donald Trump’s corruptive tendencies.</description>
-      <dc:creator>Amit Seru and David Larcker</dc:creator>
-      <pubDate>Sat, 14 Nov 2026 12:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executives and Management (Theory)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/opinion/14seru-larcker/14seru-larcker-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by The New York Times</media:credit>
+      <title>Thoughts Near the End of a Life</title>
+      <link>https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/15/opinion/death-end-of-life.html" rel="standout"></atom:link>
+      <description>More than anything, I am grateful. For life, especially.</description>
+      <dc:creator>Roger Rosenblatt</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 07:14:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Empathy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Death and Dying</category>
+    </item>
+    <item>
+      <title>The Surf’s Way, Way Up as Huge Waves Pound the California Coast</title>
+      <link>https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html" rel="standout"></atom:link>
+      <description>Officials warned onlookers to stay off the beaches as waves of more than 50 feet in spots posed hazards. The intense conditions were too dangerous for even seasoned surfers at some beaches.</description>
+      <dc:creator>Amy Graff and Jesse Klein</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 04:01:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surfing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/14/multimedia/14wea-big-waves-topart-01-hbqw/14wea-big-waves-topart-01-hbqw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Mike Kai Chen for The New York Times</media:credit>
+      <media:description>Giant waves at Mavericks in Half Moon Bay, Calif., drew a crowd on Saturday. Waves reaching higher than 50 feet crashed into the Northern California shore.</media:description>
     </item>
   </channel>
 </rss>

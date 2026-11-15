@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 00:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:06:19 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -19,7 +19,21 @@
       <link>https://www.coindesk.com/</link>
     </image>
     <item>
-      <title><![CDATA[Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave]]></title>
+      <title><![CDATA[XRP crashes to its lowest since November 2024 as money leaves crypto]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/f5ebb4afb940e3439b9bd9944fc26aaedb49540b-2213x1011.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">8dd3e265-033e-4c68-84a6-9f4605bdb788</guid>
+      <pubDate>Sun, 15 Nov 2026 02:50:57 +0000</pubDate>
+      <description><![CDATA[XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.]]></description>
+      <dc:creator>Omkar Godbole</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[XRP News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave]]></title>
       <link>https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst</link>
       <guid isPermaLink="false">cb982b52-ddb8-4db1-b1d6-45321b251835</guid>
       <pubDate>Sat, 14 Nov 2026 16:33:29 +0000</pubDate>
@@ -363,22 +377,6 @@
       <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
       <category domain="tag"><![CDATA[Tax]]></category>
       <category domain="tag"><![CDATA[Regulation]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout]]></title>
-      <link>https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">5b96a383-df02-4068-a164-df06d3bc6e8d</guid>
-      <pubDate>Thu, 12 Nov 2026 15:45:48 +0000</pubDate>
-      <description><![CDATA[The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc.]]></description>
-      <dc:creator>Krisztian Sandor</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Tokenization]]></category>
-      <category domain="tag"><![CDATA[Tokenized Equities]]></category>
-      <category domain="tag"><![CDATA[Solana News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

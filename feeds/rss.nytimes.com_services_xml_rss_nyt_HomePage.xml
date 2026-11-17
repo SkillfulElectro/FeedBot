@@ -3,146 +3,407 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1794852037462" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 18:00:37 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 17:59:59 +0000</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:57:25 +0000</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 01:56:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip</title>
-      <link>https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html" rel="standout"></atom:link>
-      <description>The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.</description>
-      <dc:creator>Ana Swanson and Tony Romm</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 17:59:59 +0000</pubDate>
+      <title>Trump Administration Divide on China Policy Breaks Into Public View</title>
+      <link>https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html" rel="standout"></atom:link>
+      <description>The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.</description>
+      <dc:creator>Jonathan Swan, Maggie Haberman, Ana Swanson and Shawn McCreesh</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 00:51:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Security Council</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ulet Ifansasti for The New York Times</media:credit>
-      <media:description>A Megaspeed data center under construction in Johor, Malaysia.</media:description>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-nvidia-zblt/16dc-trump-nvidia-zblt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump acknowledged on Monday that the Treasury and commerce secretaries had been at odds over how hard to crack down on a loophole that has allowed China to access advanced A.I. chips through data centers in other countries.</media:description>
     </item>
     <item>
-      <title>Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know</title>
-      <link>https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html" rel="standout"></atom:link>
-      <description>President Trump will also meet with regional leaders, including Australia’s prime minister, who said “we want to see a de-escalation in the conflicts.”</description>
-      <dc:creator>Lily Kuo</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 11:26:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Control and Limitation and Disarmament</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms Trade</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Southeast Asian Nations</category>
+      <title>Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia</title>
+      <link>https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html" rel="standout"></atom:link>
+      <description>Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.</description>
+      <dc:creator>Kalley Huang, Tripp Mickle and Ryan Mac</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 23:29:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Madison</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Asia-Pacific Economic Cooperation</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16int-trump-summit-wtk-qjkm/16int-trump-summit-wtk-qjkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrei Bok/Reuters</media:credit>
-      <media:description>A painting by the Russian artist Alexey Sergienko depicted the leaders of the United States, Russia and China. It was unveiled in St. Petersburg, Russia, on Thursday. </media:description>
-    </item>
-    <item>
-      <title>Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief</title>
-      <link>https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html" rel="standout"></atom:link>
-      <description>As he prepared for a visit to China, the president played down the fallout from Mr. Huang’s affair with a woman officials have identified as an intelligence asset for Beijing.</description>
-      <dc:creator>Shawn McCreesh</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 17:48:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1574" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16dc-trump-huang-jlcm/16dc-trump-huang-jlcm-mediumSquareAt3X.jpg" width="1572"></media:content>
-      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
-      <media:description>Jensen Huang earlier this year. On Monday, President Trump cast doubt on whether the woman with whom Mr. Huang had a relationship was actually a spy.</media:description>
-    </item>
-    <item>
-      <title>Is Jensen Huang Plotting a Comeback?</title>
-      <link>https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html" rel="standout"></atom:link>
-      <description>Prominent figures in Silicon Valley want to see Jensen Huang reinstalled as Nvidia’s boss. Some in the Trump administration don’t want him to return.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 12:45:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gerstner, Brad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kress, Colette</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16db-huang-qzfm/16db-huang-qzfm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-      <media:description>Some figures in Big Tech would like to see Jensen Huang, Nvidia’s ousted C.E.O., reinstalled as the chip maker’s chief.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Spencer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Lori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buck, Ian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">London Business School</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caprez, Nico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maxim Shemetov/Reuters</media:credit>
+      <media:description>Madison Huang, a senior director of product marketing at Nvidia and daughter of Jensen Huang, at the 2026 World Robot Conference, in Beijing in August.</media:description>
     </item>
     <item>
-      <title>Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams</title>
-      <link>https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html" rel="standout"></atom:link>
-      <description>Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.</description>
-      <dc:creator>Sanam Mahoozi and Erika Solomon</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 17:24:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Madani, Kaveh</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Seyed Emami, Kavous</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Abedin Taherkenareh/EPA, via Shutterstock</media:credit>
-      <media:description>The Karun-4 Dam in Chaharmahal and Bakhtiari Province in Iran, near areas that were hit in strikes during the U.S.-Israeli war with Iran.</media:description>
+      <title>Bessent Takes Hawkish Turn in White House Debate on China</title>
+      <link>https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html" rel="standout"></atom:link>
+      <description>The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology.</description>
+      <dc:creator>Alan Rappeport and Ana Swanson</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 22:46:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16dc-bessent-01-tfpz/16dc-bessent-01-tfpz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>Treasury Secretary Scott Bessent, left, and Commerce Secretary Howard Lutnick have a long-running rivalry that recently spilled into the open over Nvidia. </media:description>
+    </item>
+    <item>
+      <title>Trump Administration Aims to Clamp Down on A.I. Chip Loophole</title>
+      <link>https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/briefing/trump-china-ai-loophole.html" rel="standout"></atom:link>
+      <description>Also, new data paves the way for weight-loss drugs for children. Here’s the latest at the end of Monday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 22:27:45 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16evening-nl-trump-chips-jmtk/16evening-nl-trump-chips-jmtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ulet Ifansasti for The New York Times</media:credit>
+      <media:description>A data center under construction in Kota Tinggi, Malaysia.</media:description>
+    </item>
+    <item>
+      <title>United Airlines Flights Resume After ‘Widespread System Outage’</title>
+      <link>https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html" rel="standout"></atom:link>
+      <description>The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.</description>
+      <dc:creator>Jennifer Sinco Kelleher, Niraj Chokshi and Ryley Ober</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 00:59:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16xp-united-czbh/16xp-united-czbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>United Airlines said that “while some flights were delayed” by a “widespread system outage,” there was “no impact on flights in progress, or on United Express flights,” referring to its regional network of smaller carriers. </media:description>
+    </item>
+    <item>
+      <title>Chase Bank Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions</title>
+      <link>https://www.nytimes.com/2026/11/16/us/bank-outages-down.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/bank-outages-down.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/us/bank-outages-down.html" rel="standout"></atom:link>
+      <description>After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 01:25:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of America Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">US Bancorp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wells Fargo &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wells Fargo Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zelle (Early Warning Services LLC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chase Manhattan Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16xp-chase-zpkc/16xp-chase-zpkc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>An Rong Xu for The New York Times</media:credit>
+      <media:description>J.P. Morgan Chase said in a statement it was dealing with a technical issue that was affecting its banking customers. </media:description>
+    </item>
+    <item>
+      <title>Pilots Kept Contact With Controllers During Nationwide Halt to Flights</title>
+      <link>https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/business/faa-ground-stop-pilots-radio-controllers.html" rel="standout"></atom:link>
+      <description>Pilots were generally able to maintain contact with air traffic controllers and airline staff on the ground despite an outage that caused a nearly five-hour halt to departures.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 23:39:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationwide Ground Stops (Aviation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio Spectrum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Allied Pilots Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transport Workers Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Southwest Airlines Company</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16biz-faa-pilots-lqjw/16biz-faa-pilots-lqjw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kamil Krzaczynski/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A plane lands at O’Hare International Airport in Chicago on Friday during the stoppage of flights across the country.</media:description>
+    </item>
+    <item>
+      <title>Robert Pattinson Named as the Next James Bond</title>
+      <link>https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html" rel="standout"></atom:link>
+      <description>The announcement ends years of speculation over who would take over the role after Daniel Craig’s five-film run.</description>
+      <dc:creator>Brooks Barnes</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 22:10:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pattinson, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bond, James (Fictional Character)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Craig, Daniel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/17/world/16cul-james-bond-hfo-bbb/16cul-james-bond-hfo-bbb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dia Dipasupil/FilmMagic</media:credit>
+      <media:description>Robert Pattinson at the Vanity Fair Oscar Party in Los Angeles in March.</media:description>
+    </item>
+    <item>
+      <title>Why Robert Pattinson Could Be a Great James Bond</title>
+      <link>https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html" rel="standout"></atom:link>
+      <description>Robert Pattinson’s gift for portraying petulant losers would seem at odds with the requirements for 007. But the actor may be just what the franchise needs.</description>
+      <dc:creator>Alissa Wilkinson</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 22:03:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pattinson, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Die My Love (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dune: Part Three (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Good Time (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mickey 17 (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Primetime (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Tenet (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Drama (2026) (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lighthouse (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Movie)</category>
+    </item>
+    <item>
+      <title>The Best Thanksgiving Menu Is a Southern Buffet</title>
+      <link>https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu</link>
+      <guid isPermaLink="true">https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu</guid>
+      <atom:link href="https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu" rel="standout"></atom:link>
+      <description>Seconds are encouraged at Eric Kim’s Korean American dinner and love letter to the South.</description>
+      <dc:creator>Eric Kim</dc:creator>
+      <pubDate>Mon, 09 Nov 2026 18:47:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="">Thanksgiving 2026</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/09FD-BIG-MENU-promo-pclj/09FD-BIG-MENU-promo-pclj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Armando Rafael for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Paige Hicks.</media:credit>
+    </item>
+    <item>
+      <title>An Intriguing Approach to Slow Alzheimer’s Shows Mixed Results</title>
+      <link>https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html" rel="standout"></atom:link>
+      <description>The device, a headset delivering light and sound, is based on the theory that audiovisual stimulation can evoke brainwave responses that might help preserve neurological function.</description>
+      <dc:creator>Pam Belluck</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 23:19:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer&#39;s Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Headphones and Headsets</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/16/well/16WELL-ALZHEIMERS-LIGHT-SOUND1/16WELL-ALZHEIMERS-LIGHT-SOUND1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arman Zhenikeyev/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>The Blue Wave Lifted Democrats. But Not All Progressives Rose as High.</title>
+      <link>https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html" rel="standout"></atom:link>
+      <description>The performance gap with moderates narrowed, but progressive candidates underperformed by enough to keep the “electability” debate alive.</description>
+      <dc:creator>Nate Cohn</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 16:44:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/15/upshot/15up-tilt-left-sub/15up-tilt-left-sub-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by Rachel Buigas-Lopez/The New York Times; Photographs by Haiyun Jiang/The New York Times, Eric Lee, Saul Martinez, Mel Musto, Jenn Ackerman, for the New York Times</media:credit>
+    </item>
+    <item>
+      <title>What Pete Buttigieg’s Bet in the 2026 Midterms Could Mean for 2028</title>
+      <link>https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html" rel="standout"></atom:link>
+      <description>No longer a fresh face, he is arguing that his party needs moderate red-state whisperers.</description>
+      <dc:creator>Jess Bidgood</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 23:21:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Six</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buttigieg, Pete (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Axelrod, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beshear, Andrew G (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colom, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spain, Christale</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16pol-onpolitics-newsletter-01-wtmp/16pol-onpolitics-newsletter-01-wtmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Makela/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors</title>
+      <link>https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html" rel="standout"></atom:link>
+      <description>A new analysis underscores the severe consequences of a measles infection during pregnancy, including hospitalization and pregnancy loss.</description>
+      <dc:creator>Teddy Rosenbluth</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 21:35:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1664" medium="image" url="https://static01.nyt.com/images/2026/11/13/well/WELL-PREGNANCY-MEASLES3/WELL-PREGNANCY-MEASLES3-mediumSquareAt3X.jpg" width="1664"></media:content>
+      <media:credit>Deidre Schoo for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Tucked in a Closet, Hidden by a Coat, a Lost Work by Georgia O’Keeffe</title>
+      <link>https://www.nytimes.com/2026/11/16/nyregion/found-georgia-okeeffe-painting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/nyregion/found-georgia-okeeffe-painting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/nyregion/found-georgia-okeeffe-painting.html" rel="standout"></atom:link>
+      <description>A piece by the famed painter had been squirreled away for decades. Now it’s been found — and may sell for millions.</description>
+      <dc:creator>Dionne Searcey</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 23:04:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appraisals and Valuation (Property)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christie&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Keeffe, Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ramirez-Montagut, Monica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Village (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
+      <media:content height="1575" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16met-okeeffe-vwjh/16met-okeeffe-vwjh-mediumSquareAt3X.jpg" width="1575"></media:content>
+      <media:credit>Joseph B. Frederick/Associated Press</media:credit>
+      <media:description>A Georgia O’Keeffe painting, “Near Abiquiu, New Mexico I,” had been stashed in a Manhattan closet for years. Christie’s plans to auction it off on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Doubts Loom Over a van Gogh as Auctions Aim for a $2.8 Billion Week</title>
+      <link>https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/arts/design/auctions-new-york-fall-christies-sothebys-van-gogh.html" rel="standout"></atom:link>
+      <description>Major paintings by Cézanne, Picasso and Klimt are positioned to entice collectors as Sotheby’s seeks resolution for the auction’s most coveted painting. Five bellwether works to watch.</description>
+      <dc:creator>Tim F. Schneider, Zachary Small and Julia Halperin</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 12:48:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christie&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phillips Auctioneers LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sotheby&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cezanne, Paul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klimt, Gustav</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koons, Jeff</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kusama, Yayoi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">van Gogh, Vincent</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
+    </item>
+    <item>
+      <title>Challenging Consensus, Scientist Says Epstein Autopsy Photos Show Homicide</title>
+      <link>https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html" rel="standout"></atom:link>
+      <description>Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.</description>
+      <dc:creator>Shaila Dewan and Leo Sands</dc:creator>
+      <pubDate>Mon, 16 Nov 2026 20:08:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autopsies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Chief Medical Examiner of the City of New York</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16nat-epstein-autopsy-jvkm/16nat-epstein-autopsy-jvkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sam Bush for The New York Times</media:credit>
+      <media:description>Dr. Michael Freeman spent a year analyzing photos and other evidence around Jeffrey Epstein’s death.</media:description>
+    </item>
+    <item>
+      <title>The Big Questions About Jeffrey Epstein: What The Times Has Learned</title>
+      <link>https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html</guid>
+      <atom:link href="https://www.nytimes.com/article/jeffrey-epstein-sex-abuse-times-investigations.html" rel="standout"></atom:link>
+      <description>Here is what we know about the sexual predator whose secrets spurred an international reckoning over money, power and complicity. Check back for updates.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 15 Nov 2026 12:51:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostitution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maxwell, Ghislaine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palm Beach (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bear Stearns Cos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wexner, Leslie H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apollo Global Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Black, Leon D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JPMorgan Chase &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Deutsche Bank AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clinton, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giuffre, Virginia Roberts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Correctional Center (Manhattan, NY)</category>
     </item>
     <item>
       <title>This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.</title>
@@ -175,268 +436,27 @@
       <media:credit>Lexi Parra/The New York Times</media:credit>
     </item>
     <item>
-      <title>Robert Pattinson Named as the Next James Bond</title>
-      <link>https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html" rel="standout"></atom:link>
-      <description>The announcement ends years of speculation over who would take over the role after Daniel Craig’s five-film run.</description>
-      <dc:creator>Brooks Barnes</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 16:01:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bond, James (Fictional Character)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Craig, Daniel</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/16/world/16cul-james-bond-hfo-bbb/16cul-james-bond-hfo-bbb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dia Dipasupil/FilmMagic</media:credit>
-      <media:description>Robert Pattinson at the Vanity Fair Oscar Party in Los Angeles in March.</media:description>
-    </item>
-    <item>
-      <title>There’s a New James Bond, Again. How Did the Last Ones Fare?</title>
-      <link>https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html" rel="standout"></atom:link>
-      <description>The casting of 007 inevitably stokes debate, and the immediate reaction doesn’t necessarily match the eventual reviews.</description>
-      <dc:creator>Calum Marsh</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 15:07:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bond, James (Fictional Character)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brosnan, Pierce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Connery, Sean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Craig, Daniel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dalton, Timothy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lazenby, George</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Roger</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/08/22/arts/00cul-bond-predecessors/00cul-bond-predecessors-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael Ochs Archives/Getty Images</media:credit>
-      <media:description>Sean Connery as James Bond, with the spy’s characteristic Aston Martin DB5, in “Goldfinger.”</media:description>
-    </item>
-    <item>
-      <title>The Best Thanksgiving Menu Is a Southern Buffet</title>
-      <link>https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu</link>
-      <guid isPermaLink="true">https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu</guid>
-      <atom:link href="https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu" rel="standout"></atom:link>
-      <description>Seconds are encouraged at Eric Kim’s Korean American dinner and love letter to the South.</description>
-      <dc:creator>Eric Kim</dc:creator>
-      <pubDate>Mon, 09 Nov 2026 18:47:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="">Thanksgiving 2026</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/09/multimedia/09FD-BIG-MENU-promo-pclj/09FD-BIG-MENU-promo-pclj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Armando Rafael for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Paige Hicks.</media:credit>
-    </item>
-    <item>
-      <title>Permitting Bill Would Charge Data Centers Billions for Power</title>
-      <link>https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html" rel="standout"></atom:link>
-      <description>The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power.</description>
-      <dc:creator>Brad Plumer</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 17:00:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <title>The Nvidia Scandal Reveals an Administration Willing to Sell America Out</title>
+      <link>https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html" rel="standout"></atom:link>
+      <description>It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 01:18:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Shelby Tauber/Reuters</media:credit>
-      <media:description>A data center under construction in Abilene, Texas, which is one of the largest data center hubs.</media:description>
-    </item>
-    <item>
-      <title>Elon Musk Wants to Merge Tesla and SpaceX. Their Businesses Already Overlap.</title>
-      <link>https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html" rel="standout"></atom:link>
-      <description>For years, engineers have shuffled between Tesla and SpaceX, and the companies have worked on major projects together.</description>
-      <dc:creator>Grace Kay</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 17:45:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/13/multimedia/00biz-tesla-spacex-tesla-jmzp/00biz-tesla-spacex-tesla-jmzp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mikayla Whitmore for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy</title>
-      <link>https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex-conglomerate.html" rel="standout"></atom:link>
-      <description>The history of the sprawling corporate combinations is rich, colorful and mostly disappointing. Could a SpaceX-Tesla merger be a success story?</description>
-      <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 17:34:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/business/16biz-digital-conglomerates/16biz-digital-conglomerates-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Richard Borge</media:credit>
-    </item>
-    <item>
-      <title>The Blue Wave Lifted Democrats. But Not All Progressives Rose as High.</title>
-      <link>https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/upshot/progressives-moderates-democrats-elections.html" rel="standout"></atom:link>
-      <description>The performance gap with moderates narrowed, but progressive candidates underperformed by enough to keep the “electability” debate alive.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 16:44:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/15/upshot/15up-tilt-left-sub/15up-tilt-left-sub-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Photo Illustration by Rachel Buigas-Lopez/The New York Times; Photographs by Haiyun Jiang/The New York Times, Eric Lee, Saul Martinez, Mel Musto, Jenn Ackerman, for the New York Times</media:credit>
-    </item>
-    <item>
-      <title>Democrats Will Wield Enormous Power in Statehouses. What Will They Do?</title>
-      <link>https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/us/politics/democrats-state-government-control-priorities.html" rel="standout"></atom:link>
-      <description>While attention has focused on the incoming Democratic Congress, the real change could happen in state capitals where Democrats will control a dozen new statehouse chambers.</description>
-      <dc:creator>David W. Chen, Julie Bosman, Reis Thebault and Campbell Robertson</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 15:16:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro, Josh (1973- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hobbs, Kathleen M</category>
-      <media:content height="1579" medium="image" url="https://static01.nyt.com/images/2026/11/16/us/16nat-trifectas-democrats-top-option-1/16nat-trifectas-democrats-top-option-1-mediumSquareAt3X.jpg" width="1579"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>In all, 22 states will have Democratic control of the governor’s office and state legislature.</media:description>
-    </item>
-    <item>
-      <title>Raye, Rosalía and Ella Langley Top a Women-Led 2027 Grammys Field</title>
-      <link>https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-ella-langley-raye-rosalia.html" rel="standout"></atom:link>
-      <description>Langley is the first straight-up country artist to contend for the top album prize in eight years, and Raye’s 11 nods lead all nominees.</description>
-      <dc:creator>Ben Sisario</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 16:16:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Latin Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">K-Pop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Angine de Poitrine (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BTS (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foo Fighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Geese (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Langley, Ella (1999- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tame Impala (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rolling Stones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bridgers, Phoebe (1994- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Busta Rhymes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cardi B (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dean, Olivia (Singer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lambert, Miranda</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mars, Bruno</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tinashe (1993- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slayyyter (1996- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosalia (Singer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Madonna</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Choosin&#39; Texas (Song)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/17/multimedia/16cul-grammy-noms-ella2-cfvl/16cul-grammy-noms-ella2-cfvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Kempin/Getty Images</media:credit>
-      <media:description>The chart-topping country star Ella Langley is up for seven Grammy Awards.</media:description>
-    </item>
-    <item>
-      <title>Grammy Nominations 2027: See the Full List</title>
-      <link>https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/arts/music/grammy-nominee-list-2027.html" rel="standout"></atom:link>
-      <description>The artists, albums and songs up for honors at the 69th annual ceremony were announced Monday. The show will be held on Feb. 7 in Los Angeles and air on ABC and Disney+ after decades on CBS.</description>
-      <pubDate>Mon, 16 Nov 2026 16:14:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Latin Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grammy Awards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Recording Academy</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16cul-grammy-list-1-wvfz/16cul-grammy-list-1-wvfz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Charles Sykes/Invision, via Associated Press</media:credit>
-      <media:description>Raye is the top nominee for the 2027 Grammy Awards, with 11 nods.</media:description>
-    </item>
-    <item>
-      <title>2027 Grammy Snubs and Surprises: Madonna, Noah Kahan, Audrey Hobert and More</title>
-      <link>https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-snubs-surprises-madonna-noah-kahan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-snubs-surprises-madonna-noah-kahan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/arts/music/grammy-nominations-snubs-surprises-madonna-noah-kahan.html" rel="standout"></atom:link>
-      <description>Madonna and Kahan were locked out of nominations in the top categories, the Womack Sisters were recognized and country’s gender divide showed up in an unexpected way.</description>
-      <dc:creator>Jon Pareles, Ben Sisario and Joe Coscarelli</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 16:17:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grammy Awards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Latin Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Angine de Poitrine (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Geese (Music Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Busta Rhymes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hobert, Audrey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">J Dilla (1974-2006)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kahan, Noah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Langley, Ella (1999- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Madonna</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosalia (Singer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slayyyter (1996- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Womack Sisters, The (Music Group)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16CUL-GRAMMY-SNUBS-ROSALIA-mwpg/16CUL-GRAMMY-SNUBS-ROSALIA-mwpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>The New York Times</media:credit>
-      <media:description>Rosalía’s operatic track “Berghain” is a surprising entry in the song and record of the year categories.</media:description>
-    </item>
-    <item>
-      <title>Gérard Depardieu Withdraws Sexual Assault Appeal, Apologizing to Victims</title>
-      <link>https://www.nytimes.com/2026/11/16/movies/gerard-depardieu-apology-appeal-withdrawal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/movies/gerard-depardieu-apology-appeal-withdrawal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/movies/gerard-depardieu-apology-appeal-withdrawal.html" rel="standout"></atom:link>
-      <description>The French actor admitted guilt on the morning his appeal trial was to begin in Paris, accepting his conviction for groping two women on a film set.</description>
-      <dc:creator>Catherine Porter and Giulia Imbert</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 12:17:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Depardieu, Gerard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/world/16cul-depardieu-apology-aaa/16cul-depardieu-apology-aaa-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dimitar Dilkoff/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Gérard Depardieu at the Tribunal de Paris courthouse last year.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16goldberg-zplt/16goldberg-zplt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jonathan Ernst/Reuters</media:credit>
     </item>
     <item>
       <title>The Financial Bubble Cycles Are Getting Worse</title>
@@ -445,7 +465,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html" rel="standout"></atom:link>
       <description>The financialization of our economy, now penetrating Silicon Valley, is generating storms that are both more frequent and more destructive.</description>
       <dc:creator>Zachary D. Carter</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 15:43:53 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 18:45:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
@@ -469,57 +489,20 @@
       <category domain="">financial bubbles</category>
     </item>
     <item>
-      <title>One Overlooked Reason the Democrats May Have Won the Midterms</title>
-      <link>https://www.nytimes.com/2026/11/16/opinion/talarico-humility.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/opinion/talarico-humility.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/opinion/talarico-humility.html" rel="standout"></atom:link>
-      <description>Is humility poised for a political comeback?</description>
-      <dc:creator>Frank Bruni</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 13:21:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hinojosa, Gina (1973- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-    </item>
-    <item>
-      <title>Taking Credit</title>
-      <link>https://www.nytimes.com/2026/11/16/briefing/taking-credit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/briefing/taking-credit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/briefing/taking-credit.html" rel="standout"></atom:link>
-      <description>My colleagues look at the debate inside the Democratic Party about which faction can take credit for the midterm romp.</description>
-      <dc:creator>Sam Sifton</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 11:38:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16themorning-nl-democrats-01-mgzw/16themorning-nl-democrats-01-mgzw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Newly elected Democrats. </media:description>
-    </item>
-    <item>
-      <title>Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly</title>
-      <link>https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html" rel="standout"></atom:link>
-      <description>Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter.</description>
-      <dc:creator>Marc Santora and Liubov Sholudko</dc:creator>
-      <pubDate>Mon, 16 Nov 2026 12:50:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/16int-ukraine-winter-01-cjfl/16int-ukraine-winter-01-cjfl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergei Supinsky/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Ukrainian capital, Kyiv, during a power outage on Saturday.</media:description>
+      <title>El Niño Draws Sea Turtles to California’s Coast for the First Time</title>
+      <link>https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html" rel="standout"></atom:link>
+      <description>The California coast has seen an influx of olive ridley sea turtles, which are the smallest such reptiles and are normally found in tropical waters.</description>
+      <dc:creator>Soumya Karlamangla</dc:creator>
+      <pubDate>Tue, 17 Nov 2026 01:36:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turtles and Tortoises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fish and Wildlife Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Marine Fisheries Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
     </item>
   </channel>
 </rss>

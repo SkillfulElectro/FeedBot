@@ -3,87 +3,54 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1795383121314" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 15:30:05 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 15:04:54 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:32:01 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 21:26:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal</title>
-      <link>https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html" rel="standout"></atom:link>
-      <description>China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.</description>
-      <dc:creator>Chris Buckley and Julian E. Barnes</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 11:03:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Politburo Standing Committee of the Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen Yixin (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mao Zedong</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Singapore</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Florence Lo/Reuters</media:credit>
-      <media:description>The campaign, details of which have not been previously reported, has been underway for at least two years.</media:description>
+      <title>Democrats Clinch 258 House Seats, an Election-Year Record This Century</title>
+      <link>https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html" rel="standout"></atom:link>
+      <description>After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.</description>
+      <dc:creator>Tim Balk</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 18:23:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
     </item>
     <item>
-      <title>Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man</title>
-      <link>https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html" rel="standout"></atom:link>
-      <description>U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.</description>
-      <dc:creator>Steve Fisher, Paulina Villegas and Alan Feuer</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 01:56:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meza Flores, Fausto Isidro</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Martin Urista/Associated Press</media:credit>
-      <media:description>Mexican soldiers on Saturday driving past a burned cargo truck on the highway between the cities of Guasave and Guamúchil in the Sinaloa State, Mexico.</media:description>
-    </item>
-    <item>
-      <title>Looking for the Formula to Stop an Apocalypse</title>
-      <link>https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html" rel="standout"></atom:link>
-      <description>Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.</description>
-      <dc:creator>Eli Saslow and Erin Schaff</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 12:27:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alignment Research Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christiano, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <title>Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina</title>
+      <link>https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html" rel="standout"></atom:link>
+      <description>Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 18:37:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hubbard, Chuck (Journalist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foxx, Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greensboro (NC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Elizabeth Frantz/Reuters</media:credit>
+      <media:description>Representative-elect Chuck Hubbard of North Carolina speaking to reporters on Nov. 8, at the beginning of several days of new lawmaker orientation in Washington.</media:description>
     </item>
     <item>
       <title>Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame</title>
@@ -94,12 +61,14 @@
       <dc:creator>Bayliss Wagner</dc:creator>
       <pubDate>Sun, 22 Nov 2026 12:30:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22pol-gop-reflection-SWAP-mblz/22pol-gop-reflection-SWAP-mblz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>With President Trump heading into the final two years of his second term, Republicans are entering an uncertain transition period. </media:description>
@@ -111,56 +80,135 @@
       <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html" rel="standout"></atom:link>
       <description>The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.</description>
       <dc:creator>Emily Davies</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 15:04:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <pubDate>Sun, 22 Nov 2026 16:56:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrews, Annie (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sean Rayford for The New York Times</media:credit>
       <media:description>Senator-elect Annie Andrews, a Democrat, stunned even some of her most devoted supporters in conservative South Carolina.</media:description>
     </item>
     <item>
-      <title>U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels</title>
+      <title>COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</title>
       <link>https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html" rel="standout"></atom:link>
       <description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
       <dc:creator>Chico Harlan and Lisa Friedman</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 14:59:36 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 18:20:39 +0000</pubDate>
+      <category domain="">COP31</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antalya (Turkey)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="">COP31</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop-final2-bpvk/22cli-cop-final2-bpvk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khalil Hamra/Associated Press</media:credit>
-      <media:description>Darragh O’Brien, Ireland’s climate, environment and energy minister, speaking at COP31 in Antalya, Turkey, on Sunday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Chris McGrath/Getty Images</media:credit>
+      <media:description>Saudi delegates onscreen at COP31 on Sunday.</media:description>
     </item>
     <item>
-      <title>Jennifer Lopez Feels Like She’s Getting Better at Everything</title>
-      <link>https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html" rel="standout"></atom:link>
-      <description>After a vulnerable and tumultuous run, the performer is back with a new TV spectacular and hard-earned boundaries.</description>
-      <dc:creator>Joe Coscarelli, Jon Caramanica and Caroline Tompkins</dc:creator>
-      <pubDate>Fri, 20 Nov 2026 20:12:35 +0000</pubDate>
+      <title>How Melania Trump Found a Diplomatic Opening in the War in Ukraine</title>
+      <link>https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html" rel="standout"></atom:link>
+      <description>The first lady, who has little experience in international affairs, developed back channels to key figures on both sides of the conflict through her longtime agent.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 18:12:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Melania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Ladies (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oleshky (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kherson (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dmitriev, Kirill A (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22dc-melania-ukraine-topart-fkgj/22dc-melania-ukraine-topart-fkgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Melania Trump, the first lady, hosted a White House event this month celebrating a partial cease-fire between Ukraine and Russia she helped negotiate.</media:description>
+    </item>
+    <item>
+      <title>Fact-Checking Stephen Miller, the New White House Chief of Staff</title>
+      <link>https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html" rel="standout"></atom:link>
+      <description>Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition.</description>
+      <dc:creator>Linda Qiu</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 10:02:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/20/multimedia/dc-factcheck-jzfv/dc-factcheck-jzfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Stephen Miller in the Oval Office in August.</media:description>
+    </item>
+    <item>
+      <title>Looking for the Formula to Stop an Apocalypse</title>
+      <link>https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html" rel="standout"></atom:link>
+      <description>Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.</description>
+      <dc:creator>Eli Saslow and Erin Schaff</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 12:27:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winer, Mike (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christiano, Paul (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alignment Research Center (Nonprofit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Easy Thanksgiving Recipes That Take Up Absolutely No Oven Space</title>
+      <link>https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space</link>
+      <guid isPermaLink="true">https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space</guid>
+      <atom:link href="https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space" rel="standout"></atom:link>
+      <description>Dishes for the stovetop, the slow-cooker, the air fryer, the Instant Pot and more.</description>
+      <dc:creator>Sharon Attia</dc:creator>
+      <pubDate>Fri, 20 Nov 2026 16:20:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recipes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/28/multimedia/19FD-OVEN-SPACE-THANKSGIVING-ROUNDUP-slow-cooker-turkey/SD-Slow-Cooker-Turkey-Meatballs-2-vlkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Malosh for The New York Times. Food Stylist: Barrett Washburne.</media:credit>
+    </item>
+    <item>
+      <title>Andrew Scott on the Shattering Feat of Playing Ian Charleson in ‘Elsinore’</title>
+      <link>https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html" rel="standout"></atom:link>
+      <description>Scott is the subject of Oscar chatter for his performance recreating the last months of Ian Charleson for the biopic “Elsinore.”</description>
+      <dc:creator>Alexis Soloski and Sela Shiloni</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 10:00:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Andrew (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lopez, Jennifer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The J. Lo Show (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Plus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/popcast-jlo-promo-cjgk/popcast-jlo-promo-cjgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Caroline Tompkins for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charleson, Ian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Elsinore (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hamlet (Play)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/29/multimedia/29cul-andrew-scott-02-whmk/29cul-andrew-scott-02-whmk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:description>“My job is to try and reflect what it’s like to be a human being,” Scott said.</media:description>
     </item>
     <item>
       <title>What Does It Actually Mean to Write ‘Like a Human’?</title>
@@ -169,7 +217,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html" rel="standout"></atom:link>
       <description>The hunt for A.I. writing has turned many of us into detectives. A Kenyan writer asks what we’re really looking for.</description>
       <dc:creator>Marcus Olang’, Amanda Su and Emma Kumer</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 11:00:04 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 17:25:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
@@ -183,57 +231,48 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
     </item>
     <item>
-      <title>Would You Buy a Used Civilization From This Man?</title>
+      <title>Why Are We at the Mercy of the World’s Weirdest Men?</title>
       <link>https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html</guid>
       <atom:link href="https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html" rel="standout"></atom:link>
-      <description>We are at the mercy of the world’s weirdest men.</description>
+      <description>No kings isn’t just about Trump.</description>
       <dc:creator>David French</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 11:00:23 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 17:40:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22french-gmvh/22french-gmvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aleksey Kondratyev for The New York Times</media:credit>
     </item>
     <item>
-      <title>What Machines Love</title>
-      <link>https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/briefing/does-ai-have-taste.html" rel="standout"></atom:link>
-      <description>The ability of humans to apply aesthetic judgment separates us from the bots — at least for now.</description>
-      <dc:creator>Adam B. Kushner</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 12:15:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taste</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="1760" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22themorning-nl-lead-02/22themorning-nl-lead-02-mediumSquareAt3X.jpg" width="1760"></media:content>
-      <media:credit>Illustration by Haruko Hayakawa</media:credit>
-    </item>
-    <item>
-      <title>Patient Marks One Year Living With Pig Kidney, a Transplant Milestone</title>
-      <link>https://www.nytimes.com/2026/11/22/well/pig-kidney-transplant-milestone.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/well/pig-kidney-transplant-milestone.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/well/pig-kidney-transplant-milestone.html" rel="standout"></atom:link>
-      <description>Experts hope that genetically modified pigs could one day provide a vast supply of organs for patients in need.</description>
-      <dc:creator>Roni Caryn Rabin</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 10:00:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pigs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22WELL-PIG-KIDNEY7-gkmf/22WELL-PIG-KIDNEY7-gkmf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tony Luong for The New York Times</media:credit>
-      <media:description>Molly Falco with her husband, Paul. Ms. Falco has now lived with a kidney from a genetically modified pig for one year. </media:description>
+      <title>Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters</title>
+      <link>https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html" rel="standout"></atom:link>
+      <description>The system that faltered is used to calculate the weight and balance of departing flights. The disruptions came after a nationwide ground stop that canceled thousands of flights last weekend.</description>
+      <dc:creator>Bernard Mokam and Georgia Gee</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 21:14:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationwide Ground Stops (Aviation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hartsfield-Jackson Atlanta International Airport (Atlanta, Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22nat-delta-outage2-bzlp/22nat-delta-outage2-bzlp-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
+      <media:credit>Nicole Buchanan for The New York Times</media:credit>
+      <media:description>Delta Air Lines has delayed all flights to Atlanta, its main hub, after a system that calculates the weight and balance of planes faltered.</media:description>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 15:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:26:58 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[More on the pending oversight hearings: State of Crypto ]]></title>
+      <link>https://www.coindesk.com/</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">3840e80a-e1aa-407b-afef-c215a866c3b2</guid>
+      <pubDate>Sun, 22 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.]]></description>
+      <dc:creator>Nikhilesh De</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Newsletters]]></category>
+      <category domain="tag"><![CDATA[State of Crypto]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins]]></title>
       <link>https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins</link>
@@ -59,6 +74,20 @@
       <dc:description/>
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[Crypto News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/1bd48a3fe18062fee7cb925250ccc088b0e73dc9-2312x1264.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">14442cf6-808e-4d9c-9187-00ae578105f5</guid>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control. ]]></description>
+      <dc:creator>Olivier Acuna</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
@@ -351,32 +380,6 @@
       <pubDate>Fri, 20 Nov 2026 06:12:15 +0000</pubDate>
       <description><![CDATA[Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.]]></description>
       <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Anthropic shares may fall 5% at Friday’s open, crypto futures suggest]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">b0fd0cb4-8a11-4f6e-9318-76be81fd9595</guid>
-      <pubDate>Fri, 20 Nov 2026 06:08:28 +0000</pubDate>
-      <description><![CDATA[About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">d78b2dc1-adbc-4112-8e46-8f73940bbfdc</guid>
-      <pubDate>Fri, 20 Nov 2026 05:32:25 +0000</pubDate>
-      <description><![CDATA[PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
       <content:encoded/>
       <dc:description/>
       <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>

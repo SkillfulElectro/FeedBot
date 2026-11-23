@@ -3,17 +3,49 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1795383121314" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 21:32:01 +0000</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 21:26:05 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 02:17:59 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 02:17:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair</title>
+      <link>https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html" rel="standout"></atom:link>
+      <description>U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.</description>
+      <dc:creator>Jonathan Swan, Julian E. Barnes and Maggie Haberman</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 02:17:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of Public Security of the People&#39;s Republic of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of State Security of the People&#39;s Republic of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clayton, Walter J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22dc-spy-chip-fpvj/22dc-spy-chip-fpvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ann Wang/Reuters</media:credit>
+      <media:description>Jensen Huang and Alice Huang in Taiwan in 2024.</media:description>
+    </item>
     <item>
       <title>Democrats Clinch 258 House Seats, an Election-Year Record This Century</title>
       <link>https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html</link>
@@ -21,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html" rel="standout"></atom:link>
       <description>After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.</description>
       <dc:creator>Tim Balk</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 18:23:08 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 23:30:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
@@ -37,7 +69,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html" rel="standout"></atom:link>
       <description>Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.</description>
       <dc:creator>John Yoon</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 18:37:10 +0000</pubDate>
+      <pubDate>Sun, 22 Nov 2026 23:28:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
@@ -53,68 +85,41 @@
       <media:description>Representative-elect Chuck Hubbard of North Carolina speaking to reporters on Nov. 8, at the beginning of several days of new lawmaker orientation in Washington.</media:description>
     </item>
     <item>
-      <title>Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame</title>
-      <link>https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html" rel="standout"></atom:link>
-      <description>A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028.</description>
+      <title>Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’</title>
+      <link>https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html" rel="standout"></atom:link>
+      <description>Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president.</description>
       <dc:creator>Bayliss Wagner</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 12:30:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <pubDate>Mon, 23 Nov 2026 00:27:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22pol-gop-reflection-SWAP-mblz/22pol-gop-reflection-SWAP-mblz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>With President Trump heading into the final two years of his second term, Republicans are entering an uncertain transition period. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22pol-el-sayed-trump-flpb/22pol-el-sayed-trump-flpb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Abdul El-Sayed at the Capitol earlier this month.</media:description>
     </item>
     <item>
-      <title>Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.</title>
-      <link>https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html" rel="standout"></atom:link>
-      <description>The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.</description>
-      <dc:creator>Emily Davies</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 16:56:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrews, Annie (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sean Rayford for The New York Times</media:credit>
-      <media:description>Senator-elect Annie Andrews, a Democrat, stunned even some of her most devoted supporters in conservative South Carolina.</media:description>
-    </item>
-    <item>
-      <title>COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels</title>
-      <link>https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html" rel="standout"></atom:link>
-      <description>European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.</description>
-      <dc:creator>Chico Harlan and Lisa Friedman</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 18:20:39 +0000</pubDate>
-      <category domain="">COP31</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Chris McGrath/Getty Images</media:credit>
-      <media:description>Saudi delegates onscreen at COP31 on Sunday.</media:description>
+      <title>Is Mexico Stepping Up in the War on Drugs?</title>
+      <link>https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html" rel="standout"></atom:link>
+      <description>With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.</description>
+      <dc:creator>Maria Abi-Habib</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 01:26:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jose Betanzos/Reuters</media:credit>
+      <media:description>Mexican soldiers in Sinaloa state on Saturday, a day after the capture of Fausto Isidro Meza Flores.</media:description>
     </item>
     <item>
       <title>How Melania Trump Found a Diplomatic Opening in the War in Ukraine</title>
@@ -159,26 +164,6 @@
       <media:description>Stephen Miller in the Oval Office in August.</media:description>
     </item>
     <item>
-      <title>Looking for the Formula to Stop an Apocalypse</title>
-      <link>https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html" rel="standout"></atom:link>
-      <description>Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.</description>
-      <dc:creator>Eli Saslow and Erin Schaff</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 12:27:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Winer, Mike (1996- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Christiano, Paul (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alignment Research Center (Nonprofit)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-    </item>
-    <item>
       <title>Easy Thanksgiving Recipes That Take Up Absolutely No Oven Space</title>
       <link>https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space</link>
       <guid isPermaLink="true">https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space</guid>
@@ -192,43 +177,144 @@
       <media:credit>David Malosh for The New York Times. Food Stylist: Barrett Washburne.</media:credit>
     </item>
     <item>
-      <title>Andrew Scott on the Shattering Feat of Playing Ian Charleson in ‘Elsinore’</title>
-      <link>https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html" rel="standout"></atom:link>
-      <description>Scott is the subject of Oscar chatter for his performance recreating the last months of Ian Charleson for the biopic “Elsinore.”</description>
-      <dc:creator>Alexis Soloski and Sela Shiloni</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 10:00:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Andrew (1976- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charleson, Ian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Elsinore (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hamlet (Play)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/29/multimedia/29cul-andrew-scott-02-whmk/29cul-andrew-scott-02-whmk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:description>“My job is to try and reflect what it’s like to be a human being,” Scott said.</media:description>
+      <title>Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks</title>
+      <link>https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html" rel="standout"></atom:link>
+      <description>Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 01:32:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eisenkot, Gadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Palestinians inspecting destroyed vehicles near Ramallah in the West Bank on Sunday.</media:description>
     </item>
     <item>
-      <title>What Does It Actually Mean to Write ‘Like a Human’?</title>
-      <link>https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html" rel="standout"></atom:link>
-      <description>The hunt for A.I. writing has turned many of us into detectives. A Kenyan writer asks what we’re really looking for.</description>
-      <dc:creator>Marcus Olang’, Amanda Su and Emma Kumer</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 17:25:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-opinionvideo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nairobi (Kenya)</category>
+      <title>The District Attorney Who Declined to Charge the Men Accused of Sexually Assaulting Jane Doe</title>
+      <link>https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html" rel="standout"></atom:link>
+      <description>Matthew Van Houten, a district attorney in upstate New York, faced backlash over how he handled a woman’s rape allegation. He says he followed the law.</description>
+      <dc:creator>Hurubie Meko</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 08:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cornell University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Van Houten, Matthew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finger Lakes Region (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tompkins County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ithaca (NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/03/multimedia/00met-da-cornell1-bhgk/00met-da-cornell1-bhgk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Heather Ainsworth for The New York Times</media:credit>
+      <media:description>Matthew Van Houten, the district attorney in Tompkins County, N.Y., decided not to bring charges after a woman who was a student at Cornell University said she had been raped at a fraternity party.</media:description>
+    </item>
+    <item>
+      <title>Rather Than Sell Their House, They Became Landlords Instead</title>
+      <link>https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html" rel="standout"></atom:link>
+      <description>Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.</description>
+      <dc:creator>Gregory Schmidt</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 18:05:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landlords</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Brian Kaiser for The New York Times</media:credit>
+      <media:description>Stephanie Malone and her husband decided to hire a property manager to find a tenant for a house they initially intended to sell, allowing them to hold onto a 3 percent mortgage rate.</media:description>
+    </item>
+    <item>
+      <title>How Six Americans Under 40 Are Saving for Retirement</title>
+      <link>https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html" rel="standout"></atom:link>
+      <description>Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges.</description>
+      <dc:creator>Lisa Rabasca Roepe</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 14:35:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">401(k), 403(b) and 457 Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Individual Retirement Accounts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Savings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/17/multimedia/00bizsun-retiring-save-01-v2-kqfw/00bizsun-retiring-save-01-v2-kqfw-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
+      <media:credit>Taylor Ballek for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’</title>
+      <link>https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html" rel="standout"></atom:link>
+      <description>When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.</description>
+      <dc:creator>Rebecca Chao and Ishani Desai</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 16:32:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Orleans (La)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi River</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sophia Germer/The Times-Picayune, via The New Orleans Advocate, via Associated Press</media:credit>
+      <media:description>The American Heritage riverboat on Monday, days after a tanker crashed into and sank it.</media:description>
+    </item>
+    <item>
+      <title>A Riverboat Captain Recalls a Crash on the Mississippi</title>
+      <link>https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html" rel="standout"></atom:link>
+      <description>Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board.</description>
+      <dc:creator>Ishani Desai</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 14:02:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Orleans (La)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gerald Herbert/Associated Press</media:credit>
+      <media:description>A tugboat holds in place the American Heritage riverboat after it was struck by the tanker Atlantic Asphalt in the Mississippi River on Nov. 13.</media:description>
+    </item>
+    <item>
+      <title>A Punk Rocker’s Painful Wait for Wheelchair Repairs</title>
+      <link>https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html" rel="standout"></atom:link>
+      <description>Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating.</description>
+      <dc:creator>Maia Spoto and Lucy Lu</dc:creator>
+      <pubDate>Sat, 21 Nov 2026 13:57:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheelchairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cinven Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/10/21/multimedia/00nat-wheelchair-repairs-mcft/00nat-wheelchair-repairs-mcft-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:description>Will Good, center, performing with his folk punk band, the Old Edison, in Malden, Mass.</media:description>
     </item>
     <item>
       <title>Why Are We at the Mercy of the World’s Weirdest Men?</title>
@@ -253,26 +339,46 @@
       <media:credit>Aleksey Kondratyev for The New York Times</media:credit>
     </item>
     <item>
-      <title>Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters</title>
-      <link>https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html" rel="standout"></atom:link>
-      <description>The system that faltered is used to calculate the weight and balance of departing flights. The disruptions came after a nationwide ground stop that canceled thousands of flights last weekend.</description>
-      <dc:creator>Bernard Mokam and Georgia Gee</dc:creator>
-      <pubDate>Sun, 22 Nov 2026 21:14:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationwide Ground Stops (Aviation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hartsfield-Jackson Atlanta International Airport (Atlanta, Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/multimedia/22nat-delta-outage2-bzlp/22nat-delta-outage2-bzlp-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
-      <media:credit>Nicole Buchanan for The New York Times</media:credit>
-      <media:description>Delta Air Lines has delayed all flights to Atlanta, its main hub, after a system that calculates the weight and balance of planes faltered.</media:description>
+      <title>Europe Needs to Save Itself</title>
+      <link>https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html" rel="standout"></atom:link>
+      <description>It’s easy to hope that our good old post-1945 Uncle Sam, holding his security umbrella over European and Asian allies, is back again. He isn’t.</description>
+      <dc:creator>Timothy Garton Ash</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 07:23:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/22/opinion/22gartonash/23belluz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Baptiste Virot</media:credit>
+    </item>
+    <item>
+      <title>Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died</title>
+      <link>https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html" rel="standout"></atom:link>
+      <description>After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76.</description>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <pubDate>Sun, 22 Nov 2026 19:10:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hooton, Donald Sr (1950-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hooton, Taylor (d 2003)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doping (Sports)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steroids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
+      <media:content height="1396" medium="image" url="https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg" width="1396"></media:content>
+      <media:credit>Gerald Herbert/Associated Press</media:credit>
+      <media:description>Donald Hooton Sr. testifying on Capitol Hill in 2005. </media:description>
     </item>
   </channel>
 </rss>

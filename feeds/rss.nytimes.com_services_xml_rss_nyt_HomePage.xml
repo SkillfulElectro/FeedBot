@@ -3,36 +3,17 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?_cb=1795473991036" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 22:46:31 +0000</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 22:37:41 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:47:13 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 06:36:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
-    <item>
-      <title>Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang</title>
-      <link>https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html" rel="standout"></atom:link>
-      <description>President Trump decided he wanted to do whatever he could to help Jensen Huang get his old job back, two people familiar with the matter said.</description>
-      <dc:creator>Maggie Haberman and Jonathan Swan</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:55:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-Trump-interview-gwmt/23nvidia-Trump-interview-gwmt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Trump at the White House on Friday.</media:description>
-    </item>
     <item>
       <title>Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI</title>
       <link>https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html</link>
@@ -62,68 +43,59 @@
       <media:description>Jensen Huang was reinstated Monday as Nvidia’s chief executive. On social media, President Trump said Nvidia needed Mr. Huang, and the United States needed Nvidia.</media:description>
     </item>
     <item>
-      <title>Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal</title>
-      <link>https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html" rel="standout"></atom:link>
-      <description>The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.</description>
-      <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 22:18:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacklisting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Megaspeed International Pte Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <title>Jensen Huang Returns to Nvidia After President Trump Intervenes</title>
+      <link>https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html" rel="standout"></atom:link>
+      <description>Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company’s board that the longtime chief executive did not present a national security risk.</description>
+      <dc:creator>Tripp Mickle, Maggie Haberman, Jonathan Swan and Kalley Huang</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 00:13:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Taryn Ng/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Megaspeed’s addition to the list will prevent companies from shipping U.S. technology to the firm without first obtaining a government license.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-huang-stocks-tqlk/23biz-nvidia-huang-stocks-tqlk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angela Weiss/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Video monitors display news of the reinstatement of Jensen Huang, seen outside the Nasdaq MarketSite in New York on Monday.</media:description>
     </item>
     <item>
-      <title>Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates</title>
-      <link>https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html" rel="standout"></atom:link>
-      <description>Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.</description>
-      <dc:creator>Paul Sonne</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:19:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mediazona (Web Site)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nanna Heitmann for The New York Times</media:credit>
-      <media:description>A billboard in Moscow in September from the ministry of defense reads, “Thank you, soldier.”</media:description>
+      <title>Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia</title>
+      <link>https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html" rel="standout"></atom:link>
+      <description>It was a rare instance of the G.O.P. pushing back on the president and threatening to use its oversight and legislative power to challenge his administration’s approach.</description>
+      <dc:creator>Robert Jimison</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 23:18:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-republicans-lfqm/23nvidia-republicans-lfqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Allison Robbert for The New York Times</media:credit>
+      <media:description>Senator John Curtis, Republican of Utah, questioned why the board had reversed course just 11 days after Jensen Huang’s departure.</media:description>
     </item>
     <item>
-      <title>Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones</title>
-      <link>https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.</description>
-      <dc:creator>Maria Varenikova and Carlotta Gall</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 18:09:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Libya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vantor</media:credit>
-      <media:description>A satellite image shows a capsized Russian corvette off Benghazi, Libya, on Sunday.</media:description>
+      <title>Court Clears the Way for Iowa Ammunition Detonation; Trump Addresses the Crisis</title>
+      <link>https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html" rel="standout"></atom:link>
+      <description>The announcement late Monday capped a day of uncertainty in which President Trump spoke out on a crisis that threatens to launch a cloud of toxic lead dust across homes and farmland.</description>
+      <dc:creator>Quinn Glabicki and Hiroko Tabuchi</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 04:25:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iowa Army Ammunition Plant (Middletown, Iowa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lead</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-IOWA-BLAST-PREP-top3-jzgm/23CLI-IOWA-BLAST-PREP-top3-jzgm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rachel Mummey for The New York Times</media:credit>
+      <media:description>Tape covering windows and a front door at a home near the Iowa Army Ammunition Plant to help prevent shattering, on Monday.</media:description>
     </item>
     <item>
       <title>Measles Is a Growing Risk for Adults in the United States</title>
@@ -144,126 +116,69 @@
       <media:description>Rita, who asked to be identified by her first name to protect her privacy, was treated for measles in March, despite having been vaccinated when she was a child.</media:description>
     </item>
     <item>
-      <title>In Iowa, Confusion Over Ammunition Explosion as Trump Calls for Delay</title>
-      <link>https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/climate/iowa-army-ammunition-explosion.html" rel="standout"></atom:link>
-      <description>President Trump said on Monday that the Army should wait to detonate a cache of dangerous explosives until a legal challenge is decided. His comments added to a confusing situation.</description>
-      <dc:creator>Quinn Glabicki and Hiroko Tabuchi</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 21:40:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iowa Army Ammunition Plant (Middletown, Iowa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lead</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-IOWA-BLAST-PREP-top3-jzgm/23CLI-IOWA-BLAST-PREP-top3-jzgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rachel Mummey for The New York Times</media:credit>
-      <media:description>Tape covering windows and a front door at a home near the Iowa Army Ammunition Plant to help prevent shattering, on Monday.</media:description>
-    </item>
-    <item>
-      <title>Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.</title>
-      <link>https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html" rel="standout"></atom:link>
-      <description>Amy Nelson, a champion of women in the “girlboss” era, found her family in Amazon’s cross hairs and found herself in a new role as anti-corporate crusader.</description>
-      <dc:creator>Amanda Hess</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:33:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nelson, Amy (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/ST-RIVETER-FOUNDER-01-kzpj/ST-RIVETER-FOUNDER-01-kzpj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Madeleine Hordinski for The New York Times</media:credit>
-      <media:description>Amy Nelson founded the Riveter in 2017, and in three years she raised $30 million in venture capital, hired more than 100 employees and opened 10 co-working spaces. Now the company is just her.</media:description>
-    </item>
-    <item>
-      <title>SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images</title>
-      <link>https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html" rel="standout"></atom:link>
-      <description>The states accused Elon Musk’s company of violating consumer protection laws with its Grok Imagine artificial intelligence tool, which created the images.</description>
-      <dc:creator>Kate Conger and Grace Kay</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 13:40:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23BIZ-GROK-LAWSUIT-qtmp/23BIZ-GROK-LAWSUIT-qtmp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
-      <media:description>The headquarters of SpaceX’s A.I. unit, which is owned by Elon Musk, in Palo Alto, Calif.</media:description>
-    </item>
-    <item>
-      <title>Elon Musk Faces an A.I. Dilemma at SpaceX</title>
-      <link>https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html" rel="standout"></atom:link>
-      <description>Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.</description>
-      <dc:creator>Grace Kay and Ryan Mac</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 16:13:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24biz-musk-anthropic-xai-hzpg/24biz-musk-anthropic-xai-hzpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kevin Wurm/Reuters</media:credit>
-      <media:description>A data center in Southaven, Miss. Elon Musk has spent billions building data centers to catch up with rivals.</media:description>
-    </item>
-    <item>
-      <title>Colombia Marks 10 Years Since FARC Peace Deal: In Photos</title>
-      <link>https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/americas/colombia-farc-peace-deal.html" rel="standout"></atom:link>
-      <description>The conflict between Colombia’s government and a leftist rebel group ended in a historic 2016 accord. But Colombia is still waiting for true peace.</description>
-      <dc:creator>Federico Rios and Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 10:02:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santos, Juan Manuel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/11/12/world/00Int-Colombia-FARC-Scrolly/00Int-Colombia-FARC-Scrolly-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A decade ago, the largest guerrilla group in Latin America laid down its arms, ending the longest-running war in the hemisphere.</media:description>
-    </item>
-    <item>
-      <title>Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict</title>
-      <link>https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html" rel="standout"></atom:link>
-      <description>At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.</description>
-      <dc:creator>Julie Turkewitz</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 18:05:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Liberation Army (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revolutionary Armed Forces of Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
+      <title>No. 2 Official at F.B.I. Is Said to Be Retiring Before End of Year</title>
+      <link>https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html" rel="standout"></atom:link>
+      <description>The departure of Christopher G. Raia, a veteran agent, comes a few months after another deputy left the F.B.I.</description>
+      <dc:creator>Devlin Barrett</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 04:38:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patel, Kashyap</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raia, Christopher G</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cucuta (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>Drones dropped explosives that destroyed a house and damaged more than 60 buildings during an attack on a police station on Monday in Cúcuta, Colombia.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23dc-fbi-mlwc/23dc-fbi-mlwc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Adam Gray for The New York Times</media:credit>
+      <media:description>Christopher G. Raia would be the third deputy director of the F.B.I. to leave after a year or less in the position.</media:description>
+    </item>
+    <item>
+      <title>Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender</title>
+      <link>https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html" rel="standout"></atom:link>
+      <description>What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.</description>
+      <dc:creator>Oleksandr Chubko and Cassandra Vinograd</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 05:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgorod (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Donetsk (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izium (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kharkiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baez, Joan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dylan, Bob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Seeger, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aquarium (Music Group)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-psyops-radio-mhzl/19int-ukraine-psyops-radio-mhzl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicole Tung for The New York Times</media:credit>
+      <media:description>Driving in the Kharkiv region of Ukraine in May.</media:description>
+    </item>
+    <item>
+      <title>Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates</title>
+      <link>https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html" rel="standout"></atom:link>
+      <description>Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.</description>
+      <dc:creator>Paul Sonne</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 19:19:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mediazona (Web Site)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nanna Heitmann for The New York Times</media:credit>
+      <media:description>A billboard in Moscow in September from the ministry of defense reads, “Thank you, soldier.”</media:description>
     </item>
     <item>
       <title>Rain Storms Overwhelm San Francisco’s Sewers, Sending Wastewater Into the Streets</title>
@@ -295,7 +210,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html" rel="standout"></atom:link>
       <description>High tides reaching two or more feet above normal may cause flooding this week, forecasters warned.</description>
       <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 21:09:53 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 03:57:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
@@ -313,23 +228,80 @@
       <media:description>Flooding in Mill Valley, Calif., on Monday.</media:description>
     </item>
     <item>
-      <title>Turning the Lens Around: Bob Woodward Takes On Bob Woodward</title>
-      <link>https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html" rel="standout"></atom:link>
-      <description>In a new memoir, the most celebrated journalist of his era finally tells his own story. It was “liberating,” he said in an interview. “Nothing is hidden here.”</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 20:46:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woodward, Bob</category>
+      <title>Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide</title>
+      <link>https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html" rel="standout"></atom:link>
+      <description>Representative Jimmy Gomez of California disputed the allegations from the Ethics Committee but said they left him with “no other alternative than to resign, effective Dec. 1.”</description>
+      <dc:creator>Michael Gold</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 22:54:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gomez, Jimmy (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23dc-gomez-wpkc/23dc-gomez-wpkc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Representative Jimmy Gomez, Democrat of California, said he recognized the “seriousness” of the House Ethics Committee’s report and would resign from Congress next week.</media:description>
+    </item>
+    <item>
+      <title>Who Controls the Miss Universe Pageant? It’s Surprisingly Hard to Tell.</title>
+      <link>https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html" rel="standout"></atom:link>
+      <description>A new Miss Universe is set to be crowned today in Puerto Rico. But the organization has been hobbled by the chaos at last year’s pageant and a messy struggle for control.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 05:48:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty Contests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miss Universe Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/11/multimedia/00xp-missuniverse-03-tckz/00xp-missuniverse-03-tckz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chalinee Thirasupa/Reuters</media:credit>
+      <media:description>Fátima Bosch of Mexico was crowned Miss Universe in Bangkok on Nov. 21, 2025.</media:description>
+    </item>
+    <item>
+      <title>Pope Francis Diary Excerpts Published in New Book</title>
+      <link>https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html" rel="standout"></atom:link>
+      <description>Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 06:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fernandez, Victor Manuel (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bernstein, Carl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Richard Milhous</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Watergate Affair</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23WOODWARD-PROMO-ghvq/23WOODWARD-PROMO-ghvq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jared Soares for The New York Times</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-pope-diary01-photo-vhtj/24int-pope-diary01-photo-vhtj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Buda Mendes/Getty Images</media:credit>
+      <media:description>Pope Francis in Rio de Janeiro in 2013.</media:description>
+    </item>
+    <item>
+      <title>When You’re a Star They Let You Compromise National Security</title>
+      <link>https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/opinion/jensen-huang-trump-reinstated.html" rel="standout"></atom:link>
+      <description>Huang’s firing damaged something Donald Trump values even more than national security: the stock market.</description>
+      <dc:creator>Michelle Goldberg</dc:creator>
+      <pubDate>Tue, 24 Nov 2026 00:48:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Alice (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/23goldberg-vlph/23goldberg-vlph-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Kevin Dietsch/Getty Images</media:credit>
     </item>
     <item>
       <title>Why I’m Not Surprised Jensen Huang Is Back</title>
@@ -338,7 +310,7 @@
       <atom:link href="https://www.nytimes.com/2026/11/23/opinion/jensen-huang-nvidia-economy-ai.html" rel="standout"></atom:link>
       <description>The Opinion contributing writer Natasha Sarin explains why the Nvidia chief is so important to the A.I. industry as a whole.</description>
       <dc:creator>Natasha Sarin</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 22:24:59 +0000</pubDate>
+      <pubDate>Tue, 24 Nov 2026 00:19:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -348,52 +320,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
     </item>
     <item>
-      <title>The National Popular Vote and the End of the Electoral College as We Know It</title>
-      <link>https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html" rel="standout"></atom:link>
-      <description>A presidential election in which the winner is decided by who gets the most votes is almost a reality.</description>
-      <dc:creator>Jesse Wegman</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 19:40:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electoral College</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, George W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gore, Al</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/opinion/23wegman-image/23wegman-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emmanuel Polanco</media:credit>
-    </item>
-    <item>
-      <title>Rep. Jimmy Gomez Resigns After Panel Alleges Unwanted Sexual Contact With Aide</title>
-      <link>https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html" rel="standout"></atom:link>
-      <description>Representative Jimmy Gomez of California disputed the allegations from the Ethics Committee but said they left him with “no other alternative than to resign, effective Dec. 1.”</description>
-      <dc:creator>Michael Gold</dc:creator>
-      <pubDate>Mon, 23 Nov 2026 21:00:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gomez, Jimmy (1974- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/23/multimedia/23dc-gomez-wpkc/23dc-gomez-wpkc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-      <media:description>Representative Jimmy Gomez, Democrat of California, said he recognized the “seriousness” of the House Ethics Committee’s report and would resign from Congress next week.</media:description>
+      <title>In Vietnam, an Electric Vehicle Revolution Without Cars</title>
+      <link>https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html" rel="standout"></atom:link>
+      <description>An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.</description>
+      <dc:creator>Alexandra Stevenson, Tung Ngo and Chang W. Lee</dc:creator>
+      <pubDate>Mon, 23 Nov 2026 13:18:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vietnam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Motorcycles, Motor Bikes and Motorscooters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>Rush hour in Hanoi. Vietnam has more than 84 million registered motorbikes.</media:description>
     </item>
   </channel>
 </rss>

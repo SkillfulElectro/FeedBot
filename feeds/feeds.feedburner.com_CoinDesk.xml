@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 22:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:37:11 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,21 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[U.S. CFTC sets policies on event contract data, using crypto to check financial boxes]]></title>
+      <link>https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">2219975b-3614-4ee4-afd4-032830aa7d8c</guid>
+      <pubDate>Tue, 24 Nov 2026 00:25:04 +0000</pubDate>
+      <description><![CDATA[The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.]]></description>
+      <dc:creator>Jesse Hamilton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
+      <category domain="tag"><![CDATA[Prediction Markets]]></category>
+      <category domain="tag"><![CDATA[CFTC]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[New York judge declines to block Kalshi from operating in the state for now]]></title>
       <link>https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now</link>
@@ -364,21 +379,6 @@
       <category domain="https://www.coindesk.com/policy"><![CDATA[Policy]]></category>
       <category domain="tag"><![CDATA[Newsletters]]></category>
       <category domain="tag"><![CDATA[State of Crypto]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins]]></title>
-      <link>https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">f761552b-7843-4b58-b5f4-cffcc515beeb</guid>
-      <pubDate>Sun, 22 Nov 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.]]></description>
-      <dc:creator>Olivier Acuna</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="tag"><![CDATA[quantum computing]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

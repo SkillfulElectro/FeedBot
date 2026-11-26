@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 26 Nov 2026 13:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 22:42:12 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,61 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[A tiny payment can expose the IP address behind a bitcoin wallet, developer finds]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">7a54453c-ebbb-4367-8465-635a7dc576ba</guid>
+      <pubDate>Thu, 26 Nov 2026 17:30:00 +0000</pubDate>
+      <description><![CDATA[A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases]]></title>
+      <link>https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/a06055bd9377c15d8939aba2ce6d312e788a923c-3200x1800.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">98ac12d5-32b1-4658-bd9b-53b07afae198</guid>
+      <pubDate>Thu, 26 Nov 2026 16:50:23 +0000</pubDate>
+      <description><![CDATA[More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,]]></description>
+      <dc:creator>James Van Straten</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
+      <category domain="tag"><![CDATA[Bitcoin News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Crypto for Advisors: Four questions to ask before trusting a crypto exchange]]></title>
+      <link>https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/05d5ef9229d2c55c6d1b5287d9ef9c3175c3093d-1500x785.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">5704a0a6-fe1f-4050-b15b-322b99956850</guid>
+      <pubDate>Thu, 26 Nov 2026 15:42:43 +0000</pubDate>
+      <description/>
+      <dc:creator>Sarah Morton</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/coindesk-indices"><![CDATA[CoinDesk Indices]]></category>
+      <category domain="tag"><![CDATA[Crypto for Advisors]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
+    <item>
+      <title><![CDATA[Spain gives anti-laundering unit power to freeze crypto accounts without a judge]]></title>
+      <link>https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/323210c28533ae279cbc3e36b349743bedce4346-1920x1080.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">fa2b2b72-22f4-4ae8-9e4b-7cbe3c5cf828</guid>
+      <pubDate>Thu, 26 Nov 2026 14:05:58 +0000</pubDate>
+      <description><![CDATA[Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.]]></description>
+      <dc:creator>Francisco Rodrigues</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
+      <category domain="tag"><![CDATA[Crypto News]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[Standard Chartered's Zodia Custody suffers data breach, exposing client information]]></title>
       <link>https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information</link>
@@ -121,7 +176,7 @@
       <category domain="https://www.coindesk.com/">News</category>
     </item>
     <item>
-      <title><![CDATA[Zcash developers want users to move $300 million out of an older privacy system]]></title>
+      <title><![CDATA[Zcash developers want to phase out older privacy system as a precaution against future attacks]]></title>
       <link>https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system</link>
       <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
       <guid isPermaLink="false">bfdf2d36-d2ba-4924-bcc4-dde8d13a0f52</guid>
@@ -324,63 +379,6 @@
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
       <category domain="tag"><![CDATA[Markets]]></category>
       <category domain="tag"><![CDATA[Exclusive]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push]]></title>
-      <link>https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/93b4a24ab8cd182d2a26f8854f31074af465939c-3956x2220.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">6457fbe0-1046-43a5-b799-ab19a2bb49dc</guid>
-      <pubDate>Wed, 25 Nov 2026 11:00:27 +0000</pubDate>
-      <description><![CDATA[Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found.]]></description>
-      <dc:creator>Francisco Rodrigues</dc:creator>
-      <dc:creator>AI Boost</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Artificial Intelligence]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Live updates: Bitcoin climbs from lows as markets bounce from big early declines]]></title>
-      <link>https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower</link>
-      <guid isPermaLink="false">d2e96157-15c3-4e0f-9e84-ac78b5510198</guid>
-      <pubDate>Wed, 25 Nov 2026 08:35:47 +0000</pubDate>
-      <description><![CDATA[The Nasdaq narrowed an early 4.5% plunge to just a modest loss, with Michael Burry announcing he's closed all tech shorts and gone long.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <dc:creator>James Van Straten</dc:creator>
-      <dc:creator>Stephen Alpher</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
-      <category domain="tag"><![CDATA[Live News]]></category>
-      <category domain="https://www.coindesk.com/">live_news</category>
-    </item>
-    <item>
-      <title><![CDATA[Solana developers move to stop validators finishing work on blocks that already lost]]></title>
-      <link>https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">091c783d-1817-4116-82f0-09ff4fdca431</guid>
-      <pubDate>Wed, 25 Nov 2026 06:33:10 +0000</pubDate>
-      <description><![CDATA[The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Just 10 accounts drove all of the XRP Ledger's trading growth last quarter]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/2422f4cb8addf51ff9749bd06180d8af713edf6b-3000x2001.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">5932dc1f-46b4-4185-9413-9275fba74f4f</guid>
-      <pubDate>Wed, 25 Nov 2026 06:15:08 +0000</pubDate>
-      <description><![CDATA[Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.]]></description>
-      <dc:creator>Shaurya Malwa</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>

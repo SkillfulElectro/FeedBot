@@ -3,17 +3,39 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml?ts=1795756314460" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 23:08:10 +0000</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 22:14:54 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:11:54 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 05:00:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>New Yorkers and Tourists Try to Salvage a Parade Day Postponed by Rain</title>
+      <link>https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html" rel="standout"></atom:link>
+      <description>Wind and rain grounded the beloved balloons that typically dominate the Thanksgiving skies, leaving the streets along the parade route mostly deserted on Thursday.</description>
+      <dc:creator>Miles G. Cohen</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 20:53:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bryant Park (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Macy&#39;s Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Macys Thanksgiving Day Parade</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26met-parade-empty1-vzwf/26met-parade-empty1-vzwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Graham Dickie for The New York Times</media:credit>
+      <media:description>Officials announced on Wednesday that they were postponing the Macy’s Thanksgiving Day Parade because of an incoming storm, disappointing many tourists.</media:description>
+    </item>
     <item>
       <title>Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands</title>
       <link>https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html</link>
@@ -51,6 +73,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26xp-Thanksgiving-Parade-Balloons-02-kvzp/26xp-Thanksgiving-Parade-Balloons-02-kvzp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The Mario balloon from the Macy’s Thanksgiving Day Parade being deflated in Manhattan on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving</title>
+      <link>https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html" rel="standout"></atom:link>
+      <description>A family came together at a farmhouse in southeast Iowa the day after the explosion at an ammunition plant. It felt as if a storm had passed.</description>
+      <dc:creator>Maia Spoto</dc:creator>
+      <pubDate>Fri, 27 Nov 2026 00:33:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Army</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Iowa Army Ammunition Plant (Middletown, Iowa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lead</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middletown (Iowa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/us/26nat-iowa-blast-dinner--02/26nat-iowa-blast-dinner--02-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maia Spoto/The New York Times</media:credit>
+      <media:description>From left: Janice Johnston-Jones, Holly Jones, Lily Gesling, Laura Mincer, Vivian Stogdill and Kaitlin Stogdill celebrated Thanksgiving together in Crawfordsville, Iowa.</media:description>
     </item>
     <item>
       <title>The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests</title>
@@ -111,62 +155,62 @@
       <media:description>Last year’s sweeping domestic policy bill pushed an estimated two million children off food stamps, and even more may stop receiving free school lunch next year as parts of the tax cut law take effect.</media:description>
     </item>
     <item>
-      <title>Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia</title>
-      <link>https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html" rel="standout"></atom:link>
-      <description>Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.</description>
-      <dc:creator>Ana Ionova, Leonardo Coelho and Lis Moriconi</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 14:01:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing in Action</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Military Volunteers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Victor Moriyama for The New York Times</media:credit>
-      <media:description>“They were scammed and sent out there to die,” said Hélade de Oliveira Madeiros. whose son disappeared in Russia’s war.</media:description>
+      <title>The Threat to a Sanctuary for Children of North Korean Defectors</title>
+      <link>https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html" rel="standout"></atom:link>
+      <description>A school in Seoul caters to students whose parents fled North Korea. Neighbors want it gone, and students say it is just one example of the prejudice they face in the South.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Fri, 27 Nov 2026 05:00:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/27/multimedia/27int-korea-defector-school-01-bgjf/27int-korea-defector-school-01-bgjf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Woohae Cho for The New York Times</media:credit>
+      <media:description>Students running laps with teachers before lunch at Yeomyung School in Seoul in November.</media:description>
     </item>
     <item>
-      <title>Brazilian Duped Into Fighting for Russia: ‘War Is Hell’</title>
-      <link>https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html" rel="standout"></atom:link>
-      <description>Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.</description>
-      <dc:creator>Ana Ionova</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 15:27:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Draft and Recruitment (Military)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing in Action</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Military Volunteers</category>
+      <title>Why the Georgia Tech Couple Became Another Viral TV Moment</title>
+      <link>https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html" rel="standout"></atom:link>
+      <description>A young couple’s argument captured by an ESPN college football broadcast was the latest social media frenzy set off by a roving camera during a live event.</description>
+      <dc:creator>Sopan Deb</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 16:43:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ESPN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Georgia Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26xp-georgia-tech-couple-03-lgzq/26xp-georgia-tech-couple-03-lgzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jerome Miron/Imagn Images, via Reuters</media:credit>
+      <media:description>A camera at the Cotton Bowl in Dallas last month.</media:description>
     </item>
     <item>
-      <title>U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein</title>
-      <link>https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html" rel="standout"></atom:link>
-      <description>Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 21:40:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandelson, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/world/26int-uk-mandelson-apabut/26int-uk-mandelson-apabut-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Carl Court</media:credit>
-      <media:description>Peter Mandelson, then the British ambassador to the United States, at his official residence in Washington last year.</media:description>
+      <title>Thanksgiving Is Back on the Menu for Francesca Hong, the Failed Wisconsin Governor Candidate</title>
+      <link>https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html" rel="standout"></atom:link>
+      <description>Francesca Hong, who took heat over a social media post condemning the holiday during her run for the Democratic nomination, now has regrets — and is laughing it all off.</description>
+      <dc:creator>Theodore Schleifer</dc:creator>
+      <pubDate>Thu, 26 Nov 2026 21:15:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26pol-hong-thanksgiving-jwtl/26pol-hong-thanksgiving-jwtl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Francesca Hong, who ran for the Democratic nomination for Wisconsin governor this year, faced criticism for a six-year-old social media post that called for Thanksgiving to be canceled.</media:description>
     </item>
     <item>
       <title>Dan Carney Has Died. He Co-Founded Pizza Hut and Then Made It Ubiquitous.</title>
@@ -184,72 +228,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Franchises</category>
     </item>
     <item>
-      <title>Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.</title>
-      <link>https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html" rel="standout"></atom:link>
-      <description>The facilities that power A.I. and other big data needs are in high demand but widely despised. Some developers are trying to build them up instead of out.</description>
-      <dc:creator>Tiffany Hsu</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 15:12:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revitalization Unlimited LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas City (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Skidmore, Owings &amp; Merrill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Steve</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowlin, Brooke</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/17/business/17-vertical-data-center-handouts-04/17-vertical-data-center-handouts-04-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>rendering by SOM</media:credit>
-      <media:description>An architect’s rendering of the 20-story data center proposed for downtown Kansas City, Mo. This month, the City Council unanimously rejected it.</media:description>
-    </item>
-    <item>
-      <title>Who Picked This Gift? My A.I. Holiday Shopper.</title>
-      <link>https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html" rel="standout"></atom:link>
-      <description>From virtual agents on A.I. platforms to store helpers like Walmart’s Sparky, consumers are using the technology to save money and time.</description>
-      <dc:creator>Kim Bhasin and Aruni Soni</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 15:13:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Target Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walmart Stores Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fiddelke, Michael</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/26/business/00holiday-agents-sub/00holiday-agents-sub-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nick Little</media:credit>
-    </item>
-    <item>
-      <title>Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation</title>
-      <link>https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html" rel="standout"></atom:link>
-      <description>The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.</description>
-      <dc:creator>Catherine Porter</dc:creator>
-      <pubDate>Thu, 26 Nov 2026 14:17:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Depardieu, Gerard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26france-depardieu-02-blqg/26france-depardieu-02-blqg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aurelien Morissard/Associated Press</media:credit>
-      <media:description>Gérard Depardieu in Paris in 2025. He has faced a series of accusations of sexual abuse in recent years, tarnishing a legacy as one of France’s most renowned actors.</media:description>
+      <title>A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea</title>
+      <link>https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html" rel="standout"></atom:link>
+      <description>The famed pier in Pacifica, Calif., had long been crumbling. This week, a portion of it succumbed to fierce waves and toppled into the sea.</description>
+      <dc:creator>Shaila Dewan and Breena Kerr</dc:creator>
+      <pubDate>Fri, 27 Nov 2026 00:46:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacifica Pier (Pacifica, Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacifica (Calif)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/11/26/multimedia/26nat-ca-pacifica-1-fqgw/26nat-ca-pacifica-1-fqgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Noah Berger/Associated Press</media:credit>
+      <media:description>Waves pounded the pier in Pacifica, Calif., after a portion of it collapsed during high surf and tides on Wednesday.</media:description>
     </item>
     <item>
       <title>Trump Lost My Brother!</title>
@@ -302,10 +293,13 @@
       <pubDate>Thu, 26 Nov 2026 10:04:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">British Columbia (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Courtney McCowan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Port Hardy (British Columbia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <media:content height="1191" medium="image" url="https://static01.nyt.com/images/2026/11/25/multimedia/25xp-bc-er-03/25xp-bc-er-03-mediumSquareAt3X.jpg" width="1191"></media:content>
       <media:credit>Hailey Schubert</media:credit>
       <media:description>Courtney McCowan died after arriving at an emergency room in Port Hardy, British Columbia, minutes after it closed.</media:description>

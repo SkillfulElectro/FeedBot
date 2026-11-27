@@ -6,7 +6,7 @@
     <atom:link rel="self" type="application/rss+xml" href="https://www.coindesk.com/arc/outboundfeeds/rss"/>
     <atom:link rel="hub" href="true"/>
     <description>Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.</description>
-    <lastBuildDate>Thu, 26 Nov 2026 22:42:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:31:24 +0000</lastBuildDate>
     <language>en-US</language>
     <copyright>© 2026 CoinDesk, Inc.</copyright>
     <generator>CoinDesk</generator>
@@ -18,6 +18,19 @@
       <title>CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data</title>
       <link>https://www.coindesk.com/</link>
     </image>
+    <item>
+      <title><![CDATA[Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know]]></title>
+      <link>https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know</link>
+      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
+      <guid isPermaLink="false">2e246cef-2618-4eea-9dc3-a01ecd675ef5</guid>
+      <pubDate>Fri, 27 Nov 2026 04:29:47 +0000</pubDate>
+      <description><![CDATA[Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.]]></description>
+      <dc:creator>Shaurya Malwa</dc:creator>
+      <content:encoded/>
+      <dc:description/>
+      <category domain="https://www.coindesk.com/tech"><![CDATA[Tech]]></category>
+      <category domain="https://www.coindesk.com/">News</category>
+    </item>
     <item>
       <title><![CDATA[A tiny payment can expose the IP address behind a bitcoin wallet, developer finds]]></title>
       <link>https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds</link>
@@ -363,22 +376,6 @@
       <category domain="https://www.coindesk.com/business"><![CDATA[Finance]]></category>
       <category domain="tag"><![CDATA[banks]]></category>
       <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="https://www.coindesk.com/">News</category>
-    </item>
-    <item>
-      <title><![CDATA[Gold's haven status has lost its edge over bitcoin, and the Fed's to blame]]></title>
-      <link>https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same</link>
-      <media:content url="https://cdn.sanity.io/images/s3y3vcno/production/65916bf10d18a7e70d226b05b88e12ef92aa478c-1600x900.jpg?fm=jpg&amp;w=800&amp;h=450&amp;crop=focalpoint&amp;fit=clip" type="image/*" medium="image"/>
-      <guid isPermaLink="false">5a0868ad-1bd1-43b8-aafb-41ae00af61be</guid>
-      <pubDate>Wed, 25 Nov 2026 11:30:32 +0000</pubDate>
-      <description><![CDATA[Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat.]]></description>
-      <dc:creator>Omkar Godbole</dc:creator>
-      <content:encoded/>
-      <dc:description/>
-      <category domain="https://www.coindesk.com/markets"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Bitcoin News]]></category>
-      <category domain="tag"><![CDATA[Markets]]></category>
-      <category domain="tag"><![CDATA[Exclusive]]></category>
       <category domain="https://www.coindesk.com/">News</category>
     </item>
   </channel>
